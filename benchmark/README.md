@@ -1,4 +1,4 @@
-## MHERCL v0.1 - Dataset Composition
+## MHERCL v0.1 - Benchmark
 
 ### Sampling
 
