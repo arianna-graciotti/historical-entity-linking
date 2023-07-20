@@ -6,7 +6,7 @@ MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polif
 1. Language (English)
 2. Source (the [_Periodicals_](https://doi.org/10.5281/zenodo.6671912) module of the [Polifonia Textual Corpus](https://github.com/polifonia-project/Polifonia-Corpus))
 3. Being part of the [Filtered AMR Graphs Bank](https://zenodo.org/record/7025779#.ZDls8OxBy3I) (filtered output of the [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework)
-4. Containing at least one _Named Entity_ recognised by the Polifonia Knowledge Extractor framework
+4. Containing at least one _Named Entity_ recognised by the [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework
 
 ### Annotation Guidelines
 
@@ -20,7 +20,7 @@ As summarised in the tables above, the annotators scrutinised 2181 sentences, ex
 
 ### Release
 
-MHERCL v0.1 is [released](https://github.com/arianna-graciotti/MHERCL/blob/main/benchmark/v0.1/tsv/conll_100723.zip) in tab-separated values (TSV) files (UTF-8 encoded). Its format has been designed to comply with HIPE-2022 data (which is based on IOB and CoNLL-U), facilitating future integration.
+MHERCL v0.1 is released in tab-separated values (TSV) files (UTF-8 encoded). Its format has been designed to comply with HIPE-2022 data (which is based on IOB and CoNLL-U), facilitating future integration.
 
 ## Experiments
 
