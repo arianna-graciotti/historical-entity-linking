@@ -13,27 +13,27 @@ The [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifon
 
 | #sentences impacted | Correct substitutions | Wrong substitutions |
 | --- | --- | --- |
-| 164 | 111 (52%) | 53 (48%) |
+| 162 | 102 (64%) | 60 (36%) |
 
-Given the quality of coreference resolution output, we decided to discard those annotations related to a named entity resulting from the substitution of a pronoun by the application of the coreference resolution.
+Given the quality of the coreference resolution output, we decided to discard those annotations related to a named entity resulting from the substitution of a pronoun by the application of the coreference resolution.
 
 #### Is the sentence enough to infer the QID?
-We asked the annotators to do a second-round of checks to make sure that the input sentence alone was enough to infer the QID. For those sentence which did not provide enough context to infer the QID, the annotators provided some more sentences from the original document. These are the statistics:
+We asked the annotators to do a second round of checks to make sure that the input sentence alone was enough to infer the QID. For those sentences which did not provide enough context to infer the QID, the annotators provided some more sentences from the original document. These are the statistics (# of unique sentences):
 
 | Is the sentence enough to infer the QID? ||
 | --- | --- | 
-| yes | TBD |
-| no | TBD |
+| yes | 1964 |
+| no | 158 |
 
-We filter out those sentences from the filtered MHERCL v0.1 release. They are released separately as they can serve for further experiments.
+We filter out those sentences from the filtered MHERCL v0.1 release. They will be released separately as they can serve for further experiments.
 
 ### Advanced filtering
 
-We would like to remove low quality sentences from our benchmark. We computed 3 measures:
+We would like to remove low-quality sentences from our benchmark. We computed 3 measures:
 
-1. We measured the sentences length (token numbers), by using
-2. We measured the annotated named entity length (token numbers), by using
-3. We calculated the % of the tokens represented by the named entity over the total number of tokens of the sentence
-4. We computed perplexity per each sentence.
+1. We measured the length of the sentence (token numbers) by using SpaCy's `en_core_web_trf`
+2. We measured the annotated named entity length (token numbers) by using SpaCy's `en_core_web_trf`
+3. We calculated the % of the tokens represented by the named entity over the total number of tokens in the sentence
+4. We computed perplexity per sentence by using `pyplexity` library and `bigrams-bnc`
 
-We want to leverage the 4 measurements described above to define a threshold to filter out low quality sentences.
+We want to leverage the 4 measurements described above to define a threshold to filter out low-quality sentences.
