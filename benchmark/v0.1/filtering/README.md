@@ -37,3 +37,6 @@ We would like to remove low-quality sentences from our benchmark. We computed 3 
 4. We computed perplexity per sentence by using `pyplexity` library and `bigrams-bnc`
 
 We want to leverage the 4 measurements described above to define a threshold to filter out low-quality sentences.
+
+#### Filter n.1
+At a first instance, we should take care of those sentences in our dataset in which the annotators did not find any named entities. We want to remove the noisiest ones. The idea is to remove all the sentences of the kind that have < 15 tokens. With regard to the remaining ones, we want to set a threshold based on perplexity's quartile values. We want to set a threshold at the 50% mark (608.44). 
