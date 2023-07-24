@@ -18,6 +18,21 @@ As summarised in the tables above, the annotators scrutinised 2181 sentences, ex
 
 1851 out of the 2757 named entities could be linked to a QID (67%), while 906 (33%) could not. Therefore, the percentage of "not linked" entities (entities that could not be linked to a QID) in MHERCL v0.1 is 30%. 502 named entities mentions contain errors due to OCR. Therefore, the percentage of noisy entities is 18%. Quantifying the noisy entities is important to facilitate downstream qualitative error analysis of NERC and EL systems and for comparison with other historical datasets.
 
+#### Perplexity
+
+We calculated the perplexity of the sentences by using `pyplexity` library and `bigrams-bnc`.
+
+| Statistic | Perplexity         |
+|-----------|--------------------|
+| Count     | 3054.000000        |
+| Mean      | 19935.047878       |
+| Std       | 101720.284950      |
+| Min       | 18.431019          |
+| 25%       | 246.313702         |
+| 50%       | 608.439903         |
+| 75%       | 2466.794106        |
+| Max       | 998751.789474      |
+
 ### Release
 
 MHERCL v0.1 is released in tab-separated values (TSV) files (UTF-8 encoded). Its format has been designed to comply with HIPE-2022 data (which is based on IOB and CoNLL-U), facilitating future integration.
