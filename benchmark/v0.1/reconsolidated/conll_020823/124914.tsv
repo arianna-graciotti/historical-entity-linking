@@ -1,0 +1,9 @@
+#document_id:TheHarmonicon__1833-005.txt_180
+#document_date:1833
+#sent_text:MAELZEL’'S NEW METRONOME.
+MAELZEL	B-person	Q60927	MAELZEL	PROPN
+’	O	_	’	PROPN
+'S	O	_	'S	PROPN
+NEW	O	_	new	ADJ
+METRONOME	O	_	metronome	NOUN
+.	O	_	.	PUNCT

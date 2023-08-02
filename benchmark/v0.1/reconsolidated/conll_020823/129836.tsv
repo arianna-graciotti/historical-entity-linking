@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1832-012.txt_1791
+#document_date:1832
+#sent_text:Huber, a lady with a tenor voice.
+Huber	B-person	NIL	Huber	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+lady	O	_	lady	NOUN
+with	O	_	with	ADP
+a	O	_	a	DET
+tenor	O	_	tenor	NOUN
+voice	O	_	voice	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,33 @@
+#document_id:TheMusicalTimes__1876-402.txt_931
+#document_date:1876
+#sent_text:As we by no means expected that any musical benefit would accrue from the establishment of the Westminster Aquarium, we confess to feeling no astonishment at the result.
+As	O	_	as	SCONJ
+we	O	_	we	PRON
+by	O	_	by	ADP
+no	O	_	no	DET
+means	O	_	means	NOUN
+expected	O	_	expect	VERB
+that	O	_	that	SCONJ
+any	O	_	any	DET
+musical	O	_	musical	ADJ
+benefit	O	_	benefit	NOUN
+would	O	_	would	AUX
+accrue	O	_	accrue	VERB
+from	O	_	from	ADP
+the	O	_	the	DET
+establishment	O	_	establishment	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Westminster	B-facility	Q7373667	Westminster	PROPN
+Aquarium	I-facility	Q7373667	Aquarium	PROPN
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+confess	O	_	confess	VERB
+to	O	_	to	ADP
+feeling	O	_	feel	VERB
+no	O	_	no	DET
+astonishment	O	_	astonishment	NOUN
+at	O	_	at	ADP
+the	O	_	the	DET
+result	O	_	result	NOUN
+.	O	_	.	PUNCT

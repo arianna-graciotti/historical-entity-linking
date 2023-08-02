@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1388
+#document_date:1824
+#sent_text:(Translated from La Vie de Rossini.)
+(	O	_	(	PUNCT
+Translated	O	_	translate	VERB
+from	O	_	from	ADP
+La	B-book	NIL	La	PROPN
+Vie	I-book	NIL	Vie	PROPN
+de	I-book	NIL	de	X
+Rossini	I-book	NIL	Rossini	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

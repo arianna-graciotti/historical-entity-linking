@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1876-397.txt_1920
+#document_date:1876
+#sent_text:Possibly Haydn was holding himself in reserve for his finale ; for No. 7, the chorus
+Possibly	O	_	possibly	ADV
+Haydn	B-person	Q7349	Haydn	PROPN
+was	O	_	be	AUX
+holding	O	_	hold	VERB
+himself	O	_	himself	PRON
+in	O	_	in	ADP
+reserve	O	_	reserve	NOUN
+for	O	_	for	ADP
+his	O	_	his	PRON
+finale	O	_	finale	NOUN
+;	O	_	;	PUNCT
+for	O	_	for	ADP
+No	B-music	Q1219505	no	NOUN
+.	I-music	Q1219505	.	NOUN
+7	I-music	Q1219505	7	NUM
+,	O	_	,	PUNCT
+the	O	_	the	DET
+chorus	O	_	chorus	NOUN

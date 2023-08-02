@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1524
+#document_date:1828
+#sent_text:Dilettantism has risen to a much higher pitch in Naples than F2
+Dilettantism	O	_	dilettantism	NOUN
+has	O	_	have	AUX
+risen	O	_	rise	VERB
+to	O	_	to	ADP
+a	O	_	a	DET
+much	O	_	much	ADV
+higher	O	_	high	ADJ
+pitch	O	_	pitch	NOUN
+in	O	_	in	ADP
+Naples	B-city	Q2634	Naples	PROPN
+than	O	_	than	ADP
+F2	O	_	F2	PROPN

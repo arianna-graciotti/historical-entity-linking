@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2166
+#document_date:1826
+#sent_text:(nel Crociato,)- Fantasie pour la Flute and Accompagnement de Piano.
+(	O	_	(	PUNCT
+nel	O	_	nel	X
+Crociato,	O	_	Crociato,	PROPN
+)	O	_	)	PUNCT
+-	O	_	-	PUNCT
+Fantasie	B-publication	NIL	Fantasie	PROPN
+pour	I-publication	NIL	pour	X
+la	I-publication	NIL	la	PROPN
+Flute	I-publication	NIL	Flute	PROPN
+and	I-publication	NIL	and	CCONJ
+Accompagnement	I-publication	NIL	Accompagnement	PROPN
+de	I-publication	NIL	de	ADP
+Piano	I-publication	NIL	Piano	PROPN
+.	I-publication	NIL	.	PUNCT

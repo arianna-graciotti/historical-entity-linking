@@ -1,0 +1,27 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3707
+#document_date:1828
+#sent_text:Seven Years of the King’s Theatre, by J ohn Ebers, late Manager of the King’s Theatre in the Haymarket.
+Seven	B-publication	NIL	seven	NUM
+Years	I-publication	NIL	Years	PROPN
+of	I-publication	NIL	of	ADP
+the	I-publication	NIL	the	DET
+King	I-publication	NIL	King	PROPN
+’s	I-publication	NIL	’s	PART
+Theatre	I-publication	NIL	Theatre	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+J	B-person	Q6231101	J	PROPN
+ohn	I-person	Q6231101	ohn	PROPN
+Ebers	I-person	Q6231101	Ebers	PROPN
+,	O	_	,	PUNCT
+late	O	_	late	ADJ
+Manager	O	_	Manager	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+King	O	_	King	PROPN
+’s	O	_	’s	PART
+Theatre	O	_	Theatre	PROPN
+in	O	_	in	ADP
+the	O	_	the	DET
+Haymarket	B-road	Q893034	Haymarket	PROPN
+.	O	_	.	PUNCT

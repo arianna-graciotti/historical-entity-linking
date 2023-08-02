@@ -1,0 +1,38 @@
+#document_id:TheMusicalTimes__1876-402.txt_2192
+#document_date:1876
+#sent_text:EASTBOURNE.—The opening Concert at the elegant New Hall erected by the Devonshire Park and Baths Company, in connection with the Park and Skating Rink, was given on Saturday evening the 8th ult.
+EASTBOURNE.—The	O	_	EASTBOURNE.—The	PROPN
+opening	O	_	opening	NOUN
+Concert	O	_	Concert	PROPN
+at	O	_	at	ADP
+the	O	_	the	DET
+elegant	O	_	elegant	ADJ
+New	B-building	NIL	New	PROPN
+Hall	I-building	NIL	Hall	PROPN
+erected	O	_	erect	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+Devonshire	B-company	NIL	Devonshire	PROPN
+Park	I-company	NIL	Park	PROPN
+and	I-company	NIL	and	CCONJ
+Baths	I-company	NIL	Baths	PROPN
+Company	I-company	NIL	Company	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+connection	O	_	connection	NOUN
+with	O	_	with	ADP
+the	O	_	the	DET
+Park	O	_	Park	PROPN
+and	O	_	and	CCONJ
+Skating	B-facility	NIL	Skating	PROPN
+Rink	I-facility	NIL	Rink	PROPN
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+given	O	_	give	VERB
+on	O	_	on	ADP
+Saturday	O	_	Saturday	PROPN
+evening	O	_	evening	NOUN
+the	O	_	the	DET
+8th	O	_	8th	ADJ
+ult	O	_	ult	NOUN
+.	O	_	.	PUNCT

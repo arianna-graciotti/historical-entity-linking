@@ -1,0 +1,23 @@
+#document_id:TheMusicalTimes__1876-402.txt_1145
+#document_date:NaN
+#sent_text:Institution was given at St. James’s Hall, on the 5th ult., before a large audience.
+Institution	O	_	institution	NOUN
+was	O	_	be	AUX
+given	O	_	give	VERB
+at	O	_	at	ADP
+St.	B-building	Q4416300	St.	PROPN
+James	I-building	Q4416300	James	PROPN
+’s	I-building	Q4416300	’s	PART
+Hall	I-building	Q4416300	Hall	PROPN
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+the	O	_	the	DET
+5th	O	_	5th	ADJ
+ult	O	_	ult	NOUN
+.	O	_	.	PUNCT
+,	O	_	,	PUNCT
+before	O	_	before	ADP
+a	O	_	a	DET
+large	O	_	large	ADJ
+audience	O	_	audience	NOUN
+.	O	_	.	PUNCT

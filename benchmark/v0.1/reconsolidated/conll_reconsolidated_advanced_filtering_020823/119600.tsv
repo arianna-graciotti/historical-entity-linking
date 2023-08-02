@@ -1,0 +1,32 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1189
+#document_date:1828
+#sent_text:The church of Santa Maria Maggiore, the third in rank, had as chapel master the Maestro del Fante, who has now been dead some years.
+The	O	_	the	DET
+church	O	_	church	NOUN
+of	O	_	of	ADP
+Santa	O	_	Santa	PROPN
+Maria	O	_	Maria	PROPN
+Maggiore	O	_	Maggiore	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+third	O	_	third	ADJ
+in	O	_	in	ADP
+rank	O	_	rank	NOUN
+,	O	_	,	PUNCT
+had	O	_	have	VERB
+as	O	_	as	ADP
+chapel	O	_	chapel	NOUN
+master	O	_	master	NOUN
+the	O	_	the	DET
+Maestro	B-person	Q18416097	Maestro	PROPN
+del	I-person	Q18416097	del	PROPN
+Fante	I-person	Q18416097	Fante	PROPN
+,	O	_	,	PUNCT
+who	O	_	who	PRON
+has	O	_	have	AUX
+now	O	_	now	ADV
+been	O	_	be	AUX
+dead	O	_	dead	ADJ
+some	O	_	some	DET
+years	O	_	year	NOUN
+.	O	_	.	PUNCT

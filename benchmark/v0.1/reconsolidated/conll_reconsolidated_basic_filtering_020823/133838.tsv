@@ -1,0 +1,15 @@
+#document_id:TheHarmonicon__1828-001.txt_1966
+#document_date:1828
+#sent_text:The Concerts of the Royal Academy of Music are discontinued, .
+The	O	_	the	DET
+Concerts	O	_	Concerts	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+Royal	B-organization	Q1144673	Royal	PROPN
+Academy	I-organization	Q1144673	Academy	PROPN
+of	I-organization	Q1144673	of	ADP
+Music	I-organization	Q1144673	Music	PROPN
+are	O	_	be	AUX
+discontinued	O	_	discontinue	VERB
+,	O	_	,	PUNCT
+.	O	_	.	PUNCT

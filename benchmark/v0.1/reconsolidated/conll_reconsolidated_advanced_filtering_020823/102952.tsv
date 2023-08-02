@@ -1,0 +1,22 @@
+#document_id:TheMusicalTimes__1875-388.txt_2206
+#document_date:1875
+#sent_text:The band (ably led by Mr. Seymour, of Manchester) and chorus numbered about 100 performers.
+The	O	_	the	DET
+band	O	_	band	NOUN
+(	O	_	(	PUNCT
+ably	O	_	ably	ADV
+led	O	_	lead	VERB
+by	O	_	by	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Seymour	I-person	NIL	Seymour	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Manchester	B-city	Q18125	Manchester	PROPN
+)	O	_	)	PUNCT
+and	O	_	and	CCONJ
+chorus	O	_	chorus	NOUN
+numbered	O	_	number	VERB
+about	O	_	about	ADV
+100	O	_	100	NUM
+performers	O	_	performer	NOUN
+.	O	_	.	PUNCT

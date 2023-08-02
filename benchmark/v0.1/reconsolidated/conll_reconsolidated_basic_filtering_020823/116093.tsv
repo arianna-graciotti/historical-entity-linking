@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_527
+#document_date:1824
+#sent_text:It was produced at San-Mosé.
+It	O	_	it	PRON
+was	O	_	be	AUX
+produced	O	_	produce	VERB
+at	O	_	at	ADP
+San	B-building	Q2575251	San	PROPN
+-	I-building	Q2575251	-	PUNCT
+Mosé	I-building	Q2575251	Mosé	PROPN
+.	O	_	.	PUNCT

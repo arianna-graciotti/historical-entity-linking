@@ -1,0 +1,67 @@
+{
+    "id": "685333",
+    "text": "War else provide human.",
+    "page_id": "Many apply agree.",
+    "namedEntities": [
+        {
+            "variable": "50xc66",
+            "type": "Yes black per address.",
+            "entityName": "Deal north bar us claim.",
+            "wikis": [
+                {
+                    "wiki": "Republican law they cut.",
+                    "link": "http://brooks-johnston.com/",
+                    "qid": "41qi92",
+                    "assessments": {
+                        "36136": {
+                            "user": "95528",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://lam.org/",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "40Hm62",
+                            "sentenceEnough": "Adult bed hit think.",
+                            "contextString": "Within tell lead every.",
+                            "contextBroader": "Cost his thank.",
+                            "comments": "Land firm customer."
+                        },
+                        "23628": {
+                            "user": "64935",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://dennis.biz/",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "31iE88",
+                            "sentenceEnough": "Food room six fight go.",
+                            "contextString": "Direction smile per.",
+                            "contextBroader": "Head hotel occur.",
+                            "comments": "Read soldier mission."
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "18924",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "14487",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "35442",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "51404",
+            "missingNamedEntities": []
+        }
+    }
+}

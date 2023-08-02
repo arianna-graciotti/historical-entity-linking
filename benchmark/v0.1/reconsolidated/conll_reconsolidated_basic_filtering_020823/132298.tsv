@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1828-001.txt_28
+#document_date:1828
+#sent_text:18 Concerts at the Two Universities 18 On the Major and Minor Semitones, and on the Rev. Mr. Liston’s Organ .
+18	O	_	18	NUM
+Concerts	O	_	concert	NOUN
+at	O	_	at	ADP
+the	O	_	the	DET
+Two	O	_	two	NUM
+Universities	O	_	university	NOUN
+18	O	_	18	NUM
+On	O	_	on	ADP
+the	O	_	the	DET
+Major	O	_	major	ADJ
+and	O	_	and	CCONJ
+Minor	O	_	minor	ADJ
+Semitones	O	_	Semitones	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+on	O	_	on	ADP
+the	O	_	the	DET
+Rev.	B-person	Q5724966	Rev.	PROPN
+Mr.	I-person	Q5724966	Mr.	PROPN
+Liston	I-person	Q5724966	Liston	PROPN
+’s	O	_	’s	PART
+Organ	O	_	Organ	PROPN
+.	O	_	.	PUNCT

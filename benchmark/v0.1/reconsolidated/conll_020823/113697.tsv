@@ -1,0 +1,27 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1414
+#document_date:1825
+#sent_text:The following is a list of his operas, the words of which were written by the first Italian dramatists of the day.
+The	O	_	the	DET
+following	O	_	follow	VERB
+is	O	_	be	AUX
+a	O	_	a	DET
+list	O	_	list	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+operas	O	_	opera	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+words	O	_	word	NOUN
+of	O	_	of	ADP
+which	O	_	which	PRON
+were	O	_	be	AUX
+written	O	_	write	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+Italian	O	_	italian	ADJ
+dramatists	O	_	dramatist	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+day	O	_	day	NOUN
+.	O	_	.	PUNCT

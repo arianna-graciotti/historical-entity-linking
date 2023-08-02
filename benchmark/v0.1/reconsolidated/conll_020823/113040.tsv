@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_567
+#document_date:1825
+#sent_text:The Sun on the Lake shines serene, composed by John Davy ' 3.
+The	B-work-of-art	NIL	the	DET
+Sun	I-work-of-art	NIL	Sun	PROPN
+on	I-work-of-art	NIL	on	ADP
+the	I-work-of-art	NIL	the	DET
+Lake	I-work-of-art	NIL	Lake	PROPN
+shines	I-work-of-art	NIL	shine	VERB
+serene	I-work-of-art	NIL	serene	ADJ
+,	O	_	,	PUNCT
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+John	B-person	Q11928224	John	PROPN
+Davy	I-person	Q11928224	Davy	PROPN
+'	O	_	'	PART
+3	O	_	3	NUM
+.	O	_	.	PUNCT

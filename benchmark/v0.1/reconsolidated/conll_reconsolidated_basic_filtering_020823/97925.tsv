@@ -1,0 +1,15 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_635
+#document_date:1873
+#sent_text:“Allegri di Bravura, and ‘G minor Concerto’.
+“	O	_	"	PUNCT
+Allegri	B-music	NIL	Allegri	PROPN
+di	I-music	NIL	di	X
+Bravura	I-music	NIL	Bravura	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+‘	O	_	'	PUNCT
+G	B-music	NIL	G	PROPN
+minor	I-music	NIL	minor	PROPN
+Concerto	I-music	NIL	Concerto	PROPN
+’	O	_	'	PUNCT
+.	O	_	.	PUNCT

@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-397.txt_1439
+#document_date:1876
+#sent_text:Miss Julia Elton, Mr. Pearson, and Mr. QO.
+Miss	B-person	NIL	Miss	PROPN
+Julia	I-person	NIL	Julia	PROPN
+Elton	I-person	NIL	Elton	PROPN
+,	O	_	,	PUNCT
+Mr.	B-person	NIL	Mr.	PROPN
+Pearson	I-person	NIL	Pearson	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	O	_	Mr.	PROPN
+QO	O	_	QO	PROPN
+.	O	_	.	PUNCT

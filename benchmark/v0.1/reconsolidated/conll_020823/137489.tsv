@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1824-016.txt_1682
+#document_date:1824
+#sent_text:(The Leopard and the Hound,) the music by Riotte.
+(	O	_	(	PUNCT
+The	B-work-of-art	NIL	the	DET
+Leopard	I-work-of-art	NIL	Leopard	PROPN
+and	I-work-of-art	NIL	and	CCONJ
+the	I-work-of-art	NIL	the	DET
+Hound	I-work-of-art	NIL	hound	NOUN
+,	O	_	,	PUNCT
+)	O	_	)	PUNCT
+the	O	_	the	DET
+music	O	_	music	NOUN
+by	O	_	by	ADP
+Riotte	B-person	Q181812	Riotte	PROPN
+.	O	_	.	PUNCT

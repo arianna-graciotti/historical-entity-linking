@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-402.txt_444
+#document_date:1876
+#sent_text:S.W. THE MUSICAL TIMES.—Aucusr 1, 1876.
+S.W.	O	_	S.W.	PROPN
+THE	O	_	the	DET
+MUSICAL	O	_	MUSICAL	PROPN
+TIMES.—Aucusr	O	_	TIMES.—Aucusr	PROPN
+1	O	_	1	NUM
+,	O	_	,	PUNCT
+1876	O	_	1876	NUM
+.	O	_	.	PUNCT

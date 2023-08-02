@@ -1,0 +1,29 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1614
+#document_date:1828
+#sent_text:The union of the conservatories of St. Onofrio and La Pieta, under the name of Licéo Filarmonico, was the origin of this college.
+The	O	_	the	DET
+union	O	_	union	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+conservatories	O	_	conservatory	NOUN
+of	O	_	of	ADP
+St.	B-school	Q3687243	St.	PROPN
+Onofrio	I-school	Q3687243	Onofrio	PROPN
+and	O	_	and	CCONJ
+La	B-school	Q3687237	La	PROPN
+Pieta	I-school	Q3687237	Pieta	PROPN
+,	O	_	,	PUNCT
+under	O	_	under	ADP
+the	O	_	the	DET
+name	O	_	name	NOUN
+of	O	_	of	ADP
+Licéo	B-school	Q368820	Licéo	PROPN
+Filarmonico	I-school	Q368820	Filarmonico	PROPN
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+the	O	_	the	DET
+origin	O	_	origin	NOUN
+of	O	_	of	ADP
+this	O	_	this	DET
+college	O	_	college	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,18 @@
+#document_id:TheHarmonicon__1824-016.txt_112
+#document_date:1824
+#sent_text:This gentleman is well known as the joint author of the Dictionnaire des Musiciens.
+This	O	_	this	DET
+gentleman	O	_	gentleman	NOUN
+is	O	_	be	AUX
+well	O	_	well	ADV
+known	O	_	known	ADJ
+as	O	_	as	ADP
+the	O	_	the	DET
+joint	O	_	joint	ADJ
+author	O	_	author	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Dictionnaire	B-book	NIL	Dictionnaire	PROPN
+des	I-book	NIL	des	PROPN
+Musiciens	I-book	NIL	Musiciens	PROPN
+.	O	_	.	PUNCT

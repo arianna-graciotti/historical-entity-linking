@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1570
+#document_date:1825
+#sent_text:Il Talismano,” “ La Dama Pastorella.
+Il	B-opera	Q16565257	Il	PROPN
+Talismano	I-opera	Q16565257	Talismano	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+“	O	_	"	PUNCT
+La	B-opera	Q16570406	La	PROPN
+Dama	I-opera	Q16570406	Dama	PROPN
+Pastorella	I-opera	Q16570406	Pastorella	PROPN
+.	O	_	.	PUNCT

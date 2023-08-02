@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1875-388.txt_618
+#document_date:NaN
+#sent_text:: below the line | to Eee Ivish Times.
+:	O	_	:	PUNCT
+below	O	_	below	ADP
+the	O	_	the	DET
+line	O	_	line	NOUN
+|	O	_	|	PUNCT
+to	O	_	to	ADP
+Eee	B-newspaper	Q1134208	Eee	PROPN
+Ivish	I-newspaper	Q1134208	Ivish	PROPN
+Times	I-newspaper	Q1134208	Times	PROPN
+.	O	_	.	PUNCT

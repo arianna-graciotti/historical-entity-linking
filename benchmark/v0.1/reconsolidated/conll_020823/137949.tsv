@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1824-016.txt_2344
+#document_date:1824
+#sent_text:Concerto in C minor, (never performed in this country, )
+Concerto	O	_	Concerto	PROPN
+in	O	_	in	ADP
+C	O	_	c	NOUN
+minor	O	_	minor	NOUN
+,	O	_	,	PUNCT
+(	O	_	(	PUNCT
+never	O	_	never	ADV
+performed	O	_	perform	VERB
+in	O	_	in	ADP
+this	O	_	this	DET
+country	O	_	country	NOUN
+,	O	_	,	PUNCT
+)	O	_	)	PUNCT

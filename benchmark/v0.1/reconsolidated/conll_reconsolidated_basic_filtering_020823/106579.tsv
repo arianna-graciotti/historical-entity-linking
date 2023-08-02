@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1876-397.txt_3728
+#document_date:1876
+#sent_text:Poultry(E.C.) Sold also by Kenr and Co., Paternoster-row.
+Poultry(E.C.	O	_	Poultry(E.C.	PROPN
+)	O	_	)	PUNCT
+Sold	O	_	sell	VERB
+also	O	_	also	ADV
+by	O	_	by	ADP
+Kenr	B-company	Q105444093	Kenr	PROPN
+and	I-company	Q105444093	and	CCONJ
+Co.	I-company	Q105444093	Co.	PROPN
+,	O	_	,	PUNCT
+Paternoster	B-road	Q11698324	Paternoster	PROPN
+-	I-road	Q11698324	-	PUNCT
+row	I-road	Q11698324	row	PROPN
+.	O	_	.	PUNCT

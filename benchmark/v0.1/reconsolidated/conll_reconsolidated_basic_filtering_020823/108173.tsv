@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1873-366.txt_2146
+#document_date:1873
+#sent_text:St. Mary’s, Castlegate, York, Normanton and Market Weighton.
+St.	B-city	NIL	St.	PROPN
+Mary	I-city	NIL	Mary	PROPN
+’s	I-city	NIL	’s	PART
+,	O	_	,	PUNCT
+Castlegate	B-city	NIL	Castlegate	PROPN
+,	O	_	,	PUNCT
+York	B-city	Q42462	York	PROPN
+,	O	_	,	PUNCT
+Normanton	B-city	Q1027131	Normanton	PROPN
+and	O	_	and	CCONJ
+Market	B-city	Q1631680	Market	PROPN
+Weighton	I-city	Q1631680	Weighton	PROPN
+.	O	_	.	PUNCT

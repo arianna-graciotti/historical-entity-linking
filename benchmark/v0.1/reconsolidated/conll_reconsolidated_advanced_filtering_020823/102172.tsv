@@ -1,0 +1,19 @@
+#document_id:TheMusicalTimes__1875-388.txt_1160
+#document_date:1875
+#sent_text:the programme consisted entirely of a selection from*the works of the late Sir Sterndale Bennett.
+the	O	_	the	DET
+programme	O	_	programme	NOUN
+consisted	O	_	consist	VERB
+entirely	O	_	entirely	ADV
+of	O	_	of	ADP
+a	O	_	a	DET
+selection	O	_	selection	NOUN
+from*the	O	_	from*the	PRON
+works	O	_	work	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+late	O	_	late	ADJ
+Sir	B-person	Q201164	Sir	PROPN
+Sterndale	I-person	Q201164	Sterndale	PROPN
+Bennett	I-person	Q201164	Bennett	PROPN
+.	I-person	Q201164	.	PUNCT

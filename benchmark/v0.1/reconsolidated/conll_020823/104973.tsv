@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1876-397.txt_1430
+#document_date:1876
+#sent_text:“ Reformation Symphony,” the execution of which reflected the highest credit upon band and conductor.
+“	O	_	"	PUNCT
+Reformation	B-symphony	Q240223	Reformation	PROPN
+Symphony	I-symphony	Q240223	Symphony	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+the	O	_	the	DET
+execution	O	_	execution	NOUN
+of	O	_	of	ADP
+which	O	_	which	PRON
+reflected	O	_	reflect	VERB
+the	O	_	the	DET
+highest	O	_	high	ADJ
+credit	O	_	credit	NOUN
+upon	O	_	upon	SCONJ
+band	O	_	band	NOUN
+and	O	_	and	CCONJ
+conductor	O	_	conductor	NOUN
+.	O	_	.	PUNCT

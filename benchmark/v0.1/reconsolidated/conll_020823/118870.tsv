@@ -1,0 +1,29 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_250
+#document_date:1828
+#sent_text:Quoniam tu sanctus solus,” from his last Mass for Eight Voices, arranged from the full score, by Vincent Novello, Re.
+Quoniam	B-music	NIL	quoniam	X
+tu	I-music	NIL	tu	X
+sanctus	I-music	NIL	sanctus	X
+solus	I-music	NIL	solus	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+from	O	_	from	ADP
+his	O	_	his	PRON
+last	O	_	last	ADJ
+Mass	B-music	Q723790	mass	NOUN
+for	I-music	Q723790	for	ADP
+Eight	I-music	Q723790	eight	NUM
+Voices	I-music	Q723790	voice	NOUN
+,	O	_	,	PUNCT
+arranged	O	_	arrange	VERB
+from	O	_	from	ADP
+the	O	_	the	DET
+full	O	_	full	ADJ
+score	O	_	score	NOUN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Vincent	B-person	Q2526705	Vincent	PROPN
+Novello	I-person	Q2526705	Novello	PROPN
+,	O	_	,	PUNCT
+Re	O	_	Re	PROPN
+.	O	_	.	PUNCT

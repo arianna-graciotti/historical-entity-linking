@@ -1,0 +1,19 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_1285
+#document_date:1870
+#sent_text:Piano Forte Concerto, No. 5, in E dlat, op. 3.
+Piano	B-music	NIL	Piano	PROPN
+Forte	I-music	NIL	Forte	PROPN
+Concerto	I-music	NIL	Concerto	PROPN
+,	I-music	NIL	,	PUNCT
+No	I-music	NIL	no	NOUN
+.	I-music	NIL	.	NOUN
+5	I-music	NIL	5	NUM
+,	I-music	NIL	,	PUNCT
+in	I-music	NIL	in	ADP
+E	I-music	NIL	e	NOUN
+dlat	I-music	NIL	dlat	X
+,	I-music	NIL	,	PUNCT
+op	I-music	NIL	op	NOUN
+.	I-music	NIL	.	NOUN
+3	I-music	NIL	3	NUM
+.	I-music	NIL	.	PUNCT

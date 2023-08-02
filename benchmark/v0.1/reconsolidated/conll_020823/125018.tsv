@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1833-005.txt_318
+#document_date:1833
+#sent_text:* Horse Guards, Dec. 9, 1783.
+*	O	_	*	PUNCT
+Horse	B-building	Q492350	Horse	PROPN
+Guards	I-building	Q492350	Guards	PROPN
+,	O	_	,	PUNCT
+Dec.	O	_	Dec.	PROPN
+9	O	_	9	NUM
+,	O	_	,	PUNCT
+1783	O	_	1783	NUM
+.	O	_	.	PUNCT

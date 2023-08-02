@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3239
+#document_date:1828
+#sent_text:Scena, “Per pieta,” Madame Klinger (Cosi fan tutte) .
+Scena	O	_	Scena	PROPN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+Per	O	_	per	X
+pieta	O	_	pieta	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+Madame	B-person	NIL	Madame	PROPN
+Klinger	I-person	NIL	Klinger	PROPN
+(	O	_	(	PUNCT
+Cosi	O	_	cosi	X
+fan	O	_	fan	X
+tutte	O	_	tutte	X
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

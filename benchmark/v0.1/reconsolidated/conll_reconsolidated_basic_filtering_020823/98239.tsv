@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_1047
+#document_date:1873
+#sent_text:well sung in Marth, as it was sung
+well	O	_	well	INTJ
+sung	O	_	sing	VERB
+in	O	_	in	ADP
+Marth	O	_	Marth	PROPN
+,	O	_	,	PUNCT
+as	O	_	as	SCONJ
+it	O	_	it	PRON
+was	O	_	be	AUX
+sung	O	_	sing	VERB

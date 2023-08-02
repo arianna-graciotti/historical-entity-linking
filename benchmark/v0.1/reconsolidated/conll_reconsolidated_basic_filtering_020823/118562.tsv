@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3836
+#document_date:1824
+#sent_text:» STATE OF MUSIC IN ENGLAND.
+»	O	_	»	PUNCT
+STATE	O	_	state	NOUN
+OF	O	_	of	ADP
+MUSIC	O	_	music	NOUN
+IN	O	_	in	ADP
+ENGLAND	B-country	Q21	ENGLAND	PROPN
+.	O	_	.	PUNCT

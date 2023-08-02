@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1875-388.txt_1922
+#document_date:1875
+#sent_text:Composed by A, Ergmann.
+Composed	O	_	compose	VERB
+by	O	_	by	ADP
+A	B-person	NIL	A	PROPN
+,	I-person	NIL	,	PUNCT
+Ergmann	I-person	NIL	Ergmann	PROPN
+.	I-person	NIL	.	PUNCT

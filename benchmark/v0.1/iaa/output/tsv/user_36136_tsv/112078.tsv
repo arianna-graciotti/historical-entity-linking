@@ -1,0 +1,7 @@
+#document_id:TheMusicalWorld__1844-006.txt_266
+#document_date:NaN
+#sent_text:Una Fatale Immagine’’
+Una	B-music	NIL	Una	PROPN
+Fatale	I-music	NIL	Fatale	PROPN
+Immagine	I-music	NIL	Immagine	PROPN
+’’	O	_	’’	PART

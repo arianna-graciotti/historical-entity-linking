@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_787
+#document_date:1826
+#sent_text:I shall cite two which Dr. Burney has given in proof of the tact I state. ; a .
+I	O	_	I	PRON
+shall	O	_	shall	AUX
+cite	O	_	cite	VERB
+two	O	_	two	NUM
+which	O	_	which	PRON
+Dr.	B-person	Q547002	Dr.	PROPN
+Burney	I-person	Q547002	Burney	PROPN
+has	O	_	have	AUX
+given	O	_	give	VERB
+in	O	_	in	ADP
+proof	O	_	proof	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+tact	O	_	tact	NOUN
+I	O	_	I	PRON
+state	O	_	state	VERB
+.	O	_	.	PUNCT
+;	O	_	;	PUNCT
+a	O	_	a	PRON
+.	O	_	.	PUNCT

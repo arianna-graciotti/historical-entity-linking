@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1873-366.txt_166
+#document_date:1873
+#sent_text:bills."—Civil Service Gazette.
+bills	O	_	bill	NOUN
+.	O	_	.	PUNCT
+"	O	_	"	PUNCT
+—Civil	O	_	—Civil	PROPN
+Service	O	_	Service	PROPN
+Gazette	O	_	Gazette	PROPN
+.	O	_	.	PUNCT

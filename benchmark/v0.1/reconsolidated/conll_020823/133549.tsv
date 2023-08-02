@@ -1,0 +1,8 @@
+#document_id:TheHarmonicon__1828-001.txt_1623
+#document_date:1828
+#sent_text:Mozart’s beautiful duet,
+Mozart	B-person	Q254	Mozart	PROPN
+’s	O	_	’s	PART
+beautiful	O	_	beautiful	ADJ
+duet	O	_	duet	NOUN
+,	O	_	,	PUNCT

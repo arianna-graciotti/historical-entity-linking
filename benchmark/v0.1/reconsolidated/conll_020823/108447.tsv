@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1873-366.txt_2529
+#document_date:1873
+#sent_text:Fellow of the College of Organists, London.
+Fellow	O	_	fellow	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+College	B-organization	Q3305373	College	PROPN
+of	I-organization	Q3305373	of	ADP
+Organists	I-organization	Q3305373	Organists	PROPN
+,	O	_	,	PUNCT
+London	B-city	Q84	London	PROPN
+.	O	_	.	PUNCT

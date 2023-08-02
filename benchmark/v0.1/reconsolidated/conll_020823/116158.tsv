@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_644
+#document_date:1824
+#sent_text:‘Tamerlane et Bajazet, (Ballet of Action)
+‘	O	_	'	PUNCT
+Tamerlane	B-work-of-art	NIL	Tamerlane	PROPN
+et	I-work-of-art	NIL	et	X
+Bajazet	I-work-of-art	NIL	Bajazet	PROPN
+,	O	_	,	PUNCT
+(	O	_	(	PUNCT
+Ballet	O	_	Ballet	PROPN
+of	O	_	of	ADP
+Action	O	_	Action	PROPN
+)	O	_	)	PUNCT

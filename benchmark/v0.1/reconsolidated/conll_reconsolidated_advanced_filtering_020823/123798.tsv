@@ -1,0 +1,41 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2534
+#document_date:1826
+#sent_text:to reach Missolonghi, where, after having collected more troops, he took upa position at Platea, and the memorable battle fought on that spot again testified his extraordinary skill, valour, and devotion.
+to	O	_	to	PART
+reach	O	_	reach	VERB
+Missolonghi	B-city	Q642810	Missolonghi	PROPN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+,	O	_	,	PUNCT
+after	O	_	after	ADP
+having	O	_	having	AUX
+collected	O	_	collect	VERB
+more	O	_	more	ADJ
+troops	O	_	troop	NOUN
+,	O	_	,	PUNCT
+he	O	_	he	PRON
+took	O	_	take	VERB
+upa	O	_	upa	PRON
+position	O	_	position	NOUN
+at	O	_	at	ADP
+Platea	O	_	Platea	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+memorable	O	_	memorable	ADJ
+battle	O	_	battle	NOUN
+fought	O	_	fight	VERB
+on	O	_	on	ADP
+that	O	_	that	DET
+spot	O	_	spot	NOUN
+again	O	_	again	ADV
+testified	O	_	testify	VERB
+his	O	_	his	PRON
+extraordinary	O	_	extraordinary	ADJ
+skill	O	_	skill	NOUN
+,	O	_	,	PUNCT
+valour	O	_	valour	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+devotion	O	_	devotion	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1832-012.txt_421
+#document_date:1832
+#sent_text:In the reign of Edward I., it again rose to eminence.
+In	O	_	in	ADP
+the	O	_	the	DET
+reign	O	_	reign	NOUN
+of	O	_	of	ADP
+Edward	O	_	Edward	PROPN
+I.	O	_	I.	PROPN
+,	O	_	,	PUNCT
+it	O	_	it	PRON
+again	O	_	again	ADV
+rose	O	_	rise	VERB
+to	O	_	to	ADP
+eminence	O	_	eminence	NOUN
+.	O	_	.	PUNCT

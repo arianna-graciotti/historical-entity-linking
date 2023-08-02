@@ -1,0 +1,7 @@
+#document_id:TheMusicalWorld__1844-006.txt_1016
+#document_date:1844
+#sent_text:Hanover Square Booms.
+Hanover	B-square	Q3783111	Hanover	PROPN
+Square	I-square	Q3783111	Square	PROPN
+Booms	O	_	boom	VERB
+.	O	_	.	PUNCT

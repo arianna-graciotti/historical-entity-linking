@@ -1,0 +1,23 @@
+#document_id:TheHarmonicon__1824-016.txt_1690
+#document_date:1824
+#sent_text:_ Salieri, the composer, is so seriously indisposed, that great doubts are entertained of his recovery.
+_	O	_	_	PUNCT
+Salieri	B-person	Q51088	Salieri	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+composer	O	_	composer	NOUN
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+so	O	_	so	ADV
+seriously	O	_	seriously	ADV
+indisposed	O	_	indisposed	ADJ
+,	O	_	,	PUNCT
+that	O	_	that	SCONJ
+great	O	_	great	ADJ
+doubts	O	_	doubt	NOUN
+are	O	_	be	AUX
+entertained	O	_	entertain	VERB
+of	O	_	of	ADP
+his	O	_	his	PRON
+recovery	O	_	recovery	NOUN
+.	O	_	.	PUNCT

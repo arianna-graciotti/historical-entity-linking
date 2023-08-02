@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_92
+#document_date:1824
+#sent_text:When I'speak in these terms, T allude of course to the.
+When	O	_	when	SCONJ
+I'speak	O	_	i'speak	X
+in	O	_	in	ADP
+these	O	_	these	DET
+terms	O	_	term	NOUN
+,	O	_	,	PUNCT
+T	B-person	NIL	t	PRON
+allude	O	_	allude	VERB
+of	O	_	of	ADP
+course	O	_	course	NOUN
+to	O	_	to	ADP
+the	O	_	the	PRON
+.	O	_	.	PUNCT

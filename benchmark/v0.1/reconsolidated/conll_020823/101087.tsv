@@ -1,0 +1,17 @@
+#document_id:TheMusicalTimes__1876-402.txt_3700
+#document_date:1876
+#sent_text:“ June 29, at St. George’s Hall, with enormous success.
+“	O	_	"	PUNCT
+June	O	_	June	PROPN
+29	O	_	29	NUM
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+St.	B-theatre	Q3527559	St.	PROPN
+George	I-theatre	Q3527559	George	PROPN
+’s	I-theatre	Q3527559	’s	PART
+Hall	I-theatre	Q3527559	Hall	PROPN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+enormous	O	_	enormous	ADJ
+success	O	_	success	NOUN
+.	O	_	.	PUNCT

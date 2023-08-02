@@ -1,0 +1,71 @@
+{
+    "id": "101091",
+    "text": "The music is dramatic, tuneful, and spirited, showing not only a fine appreciation of the wit of the story, but also a capability of giving musical expression to Music by Gzorcz Fox.",
+    "page_id": "TheMusicalTimes__1876-402.txt_3710",
+    "namedEntities": [
+        {
+            "variable": "z15",
+            "type": "person",
+            "entityName": "Gzorcz Fox",
+            "wikis": [
+                {
+                    "wiki": "Gy\u00f6rgy_Cziffra",
+                    "link": "https://en.wikipedia.org/wiki/Gy\u00f6rgy_Cziffra",
+                    "qid": "Q254333",
+                    "assessments": {
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in Wikidata"
+                        },
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in wikidata or wikipedia"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "George Fox",
+                    "ocrEntityMention": "Gzorcz Fox",
+                    "assessment": "correct"
+                },
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "George Fox",
+                    "ocrEntityMention": " Gzorcz Fox",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        },
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        }
+    }
+}

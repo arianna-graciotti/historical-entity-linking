@@ -1,0 +1,22 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1465
+#document_date:1825
+#sent_text:He excelled greatly as a performer on the organ, which instrument he had studied much in Italy.
+He	O	_	he	PRON
+excelled	O	_	excel	VERB
+greatly	O	_	greatly	ADV
+as	O	_	as	ADP
+a	O	_	a	DET
+performer	O	_	performer	NOUN
+on	O	_	on	ADP
+the	O	_	the	DET
+organ	O	_	organ	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	DET
+instrument	O	_	instrument	NOUN
+he	O	_	he	PRON
+had	O	_	have	AUX
+studied	O	_	study	VERB
+much	O	_	much	ADV
+in	O	_	in	ADP
+Italy	B-country	Q38	Italy	PROPN
+.	O	_	.	PUNCT

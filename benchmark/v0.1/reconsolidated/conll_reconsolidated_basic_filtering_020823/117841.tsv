@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2859
+#document_date:1824
+#sent_text:‘ Sing ye to the Lord.
+‘	O	_	'	PUNCT
+Sing	B-music	NIL	sing	VERB
+ye	I-music	NIL	ye	PRON
+to	I-music	NIL	to	ADP
+the	I-music	NIL	the	DET
+Lord	I-music	NIL	Lord	PROPN
+.	I-music	NIL	.	PUNCT

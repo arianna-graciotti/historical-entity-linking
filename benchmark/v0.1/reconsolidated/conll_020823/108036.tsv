@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1873-366.txt_1978
+#document_date:1873
+#sent_text:Composed by H. Hugo Pierson.
+Composed	O	_	compose	VERB
+by	O	_	by	ADP
+H.	B-person	Q97011	H.	PROPN
+Hugo	I-person	Q97011	Hugo	PROPN
+Pierson	I-person	Q97011	Pierson	PROPN
+.	O	_	.	PUNCT

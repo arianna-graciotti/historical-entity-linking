@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1415
+#document_date:1825
+#sent_text:“ Orasio e Curiazio,” 1746; “La V. edova _accorta,”’
+“	O	_	"	PUNCT
+Orasio	B-opera	NIL	Orasio	PROPN
+e	I-opera	NIL	e	X
+Curiazio	I-opera	NIL	Curiazio	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1746	O	_	1746	NUM
+;	O	_	;	PUNCT
+“	O	_	"	PUNCT
+La	B-opera	NIL	La	PROPN
+V.	I-opera	NIL	v.	X
+edova	I-opera	NIL	edova	X
+_	I-opera	NIL	_	X
+accorta	I-opera	NIL	accorta	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+’	O	_	'	PUNCT

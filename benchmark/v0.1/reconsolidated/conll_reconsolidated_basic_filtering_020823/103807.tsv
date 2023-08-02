@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1875-388.txt_3520
+#document_date:1875
+#sent_text:From Yonder Vale and Hill (D'immenso giubilo) ese ‘
+From	O	_	from	ADP
+Yonder	O	_	Yonder	PROPN
+Vale	O	_	Vale	PROPN
+and	O	_	and	CCONJ
+Hill	O	_	Hill	PROPN
+(	O	_	(	PUNCT
+D'immenso	O	_	D'immenso	PROPN
+giubilo	O	_	giubilo	X
+)	O	_	)	PUNCT
+ese	O	_	ese	PROPN
+‘	O	_	'	PUNCT

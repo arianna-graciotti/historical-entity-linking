@@ -1,0 +1,19 @@
+#document_id:TheHarmonicon__1833-005.txt_1306
+#document_date:1833
+#sent_text:Under the Direction of the Earl of Cawdor, Wednesday, April 24, 1833.
+Under	O	_	under	ADP
+the	O	_	the	DET
+Direction	O	_	direction	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Earl	B-person	Q6224952	Earl	PROPN
+of	I-person	Q6224952	of	ADP
+Cawdor	I-person	Q6224952	Cawdor	PROPN
+,	O	_	,	PUNCT
+Wednesday	O	_	Wednesday	PROPN
+,	O	_	,	PUNCT
+April	O	_	April	PROPN
+24	O	_	24	NUM
+,	O	_	,	PUNCT
+1833	O	_	1833	NUM
+.	O	_	.	PUNCT

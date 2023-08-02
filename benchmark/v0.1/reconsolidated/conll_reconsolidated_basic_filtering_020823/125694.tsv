@@ -1,0 +1,8 @@
+#document_id:TheHarmonicon__1833-005.txt_1251
+#document_date:1833
+#sent_text:Mozart, Concerto 12th.
+Mozart	B-person	Q254	Mozart	PROPN
+,	O	_	,	PUNCT
+Concerto	B-music	Q171920	Concerto	PROPN
+12th	I-music	Q171920	12th	ADJ
+.	I-music	Q171920	.	PUNCT

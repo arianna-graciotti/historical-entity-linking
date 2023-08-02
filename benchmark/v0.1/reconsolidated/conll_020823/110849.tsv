@@ -1,0 +1,10 @@
+#document_id:TheMusicalWorld__1843-038.txt_517
+#document_date:1843
+#sent_text:Brompton, Sept. 16th, 1843.
+Brompton	B-city-district	Q2926028	Brompton	PROPN
+,	O	_	,	PUNCT
+Sept.	O	_	Sept.	PROPN
+16th	O	_	16th	NUM
+,	O	_	,	PUNCT
+1843	O	_	1843	NUM
+.	O	_	.	PUNCT

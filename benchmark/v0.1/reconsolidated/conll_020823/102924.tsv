@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1875-388.txt_2171
+#document_date:1875
+#sent_text:Mr. Richmond, of Dundee, presided at the harmonium.
+Mr.	B-person	NIL	Mr.	PROPN
+Richmond	I-person	NIL	Richmond	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Dundee	B-city	Q123709	Dundee	PROPN
+,	O	_	,	PUNCT
+presided	O	_	preside	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+harmonium	O	_	harmonium	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1107
+#document_date:1828
+#sent_text:same fate as it does throughout Italy.
+same	O	_	same	ADJ
+fate	O	_	fate	NOUN
+as	O	_	as	SCONJ
+it	O	_	it	PRON
+does	O	_	do	AUX
+throughout	O	_	throughout	ADP
+Italy	B-country	Q38	Italy	PROPN
+.	O	_	.	PUNCT

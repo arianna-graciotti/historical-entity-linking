@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1875-388.txt_2216
+#document_date:1875
+#sent_text:Tuesday evening, March 30th, the second Easter festival took place at St. jon’s Church.
+Tuesday	O	_	Tuesday	PROPN
+evening	O	_	evening	NOUN
+,	O	_	,	PUNCT
+March	O	_	March	PROPN
+30th	O	_	30th	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+second	O	_	second	ADJ
+Easter	O	_	Easter	PROPN
+festival	O	_	festival	NOUN
+took	O	_	take	VERB
+place	O	_	place	NOUN
+at	O	_	at	ADP
+St.	B-worship-place	NIL	St.	PROPN
+jon	I-worship-place	NIL	jon	PROPN
+’s	I-worship-place	NIL	’s	PART
+Church	I-worship-place	NIL	Church	PROPN
+.	I-worship-place	NIL	.	PUNCT

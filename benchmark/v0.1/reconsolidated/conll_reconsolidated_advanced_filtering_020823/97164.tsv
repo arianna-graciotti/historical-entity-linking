@@ -1,0 +1,20 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_1083
+#document_date:1868
+#sent_text:Young Pope enjoyed the confidence and “high esteem of his employcrs and associates. . .
+Young	O	_	Young	PROPN
+Pope	B-person	NIL	Pope	PROPN
+enjoyed	O	_	enjoy	VERB
+the	O	_	the	DET
+confidence	O	_	confidence	NOUN
+and	O	_	and	CCONJ
+“	O	_	"	PUNCT
+high	O	_	high	ADJ
+esteem	O	_	esteem	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+employcrs	O	_	employcr	NOUN
+and	O	_	and	CCONJ
+associates	O	_	associate	NOUN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

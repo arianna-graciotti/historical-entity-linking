@@ -1,0 +1,22 @@
+#document_id:TheHarmonicon__1828-001.txt_33
+#document_date:1828
+#sent_text:, Le Colporteur 34 Description of the Plectroeuphon, a new Instrument, invented by M. Gama . .
+,	O	_	,	PUNCT
+Le	B-opera	NIL	Le	PROPN
+Colporteur	I-opera	NIL	Colporteur	PROPN
+34	O	_	34	NUM
+Description	O	_	description	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Plectroeuphon	O	_	Plectroeuphon	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+new	O	_	new	ADJ
+Instrument	O	_	Instrument	PROPN
+,	O	_	,	PUNCT
+invented	O	_	invent	VERB
+by	O	_	by	ADP
+M.	B-person 	NIL	M.	PROPN
+Gama	I-person 	NIL	Gama	PROPN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

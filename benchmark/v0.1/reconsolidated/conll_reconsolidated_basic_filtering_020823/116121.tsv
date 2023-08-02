@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_580
+#document_date:1824
+#sent_text:“ La Gazzetta,” 1816, Estate.
+“	O	_	"	PUNCT
+La	B-music	Q509761	La	PROPN
+Gazzetta	I-music	Q509761	Gazzetta	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1816	O	_	1816	NUM
+,	O	_	,	PUNCT
+Estate	O	_	estate	NOUN
+.	O	_	.	PUNCT

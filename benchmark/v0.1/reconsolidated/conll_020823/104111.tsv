@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1876-397.txt_336
+#document_date:1876
+#sent_text:PELTON CO., NEW YORK.
+PELTON	B-company	NIL	PELTON	PROPN
+CO	I-company	NIL	CO	PROPN
+.	I-company	NIL	.	PUNCT
+,	O	_	,	PUNCT
+NEW	B-city	Q60	NEW	PROPN
+YORK	I-city	Q60	YORK	PROPN
+.	O	_	.	PUNCT

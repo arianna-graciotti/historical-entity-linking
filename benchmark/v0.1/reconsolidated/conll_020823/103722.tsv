@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1875-388.txt_3371
+#document_date:1875
+#sent_text:Merry May (with Tenor Solo} ~~ 51 Thuringian Volkaslied ...
+Merry	O	_	Merry	PROPN
+May	O	_	May	PROPN
+(	O	_	(	PUNCT
+with	O	_	with	ADP
+Tenor	O	_	Tenor	PROPN
+Solo	O	_	Solo	PROPN
+}	O	_	}	PUNCT
+~~	O	_	~~	PUNCT
+51	O	_	51	NUM
+Thuringian	O	_	thuringian	ADJ
+Volkaslied	O	_	Volkaslied	PROPN
+...	O	_	...	PUNCT

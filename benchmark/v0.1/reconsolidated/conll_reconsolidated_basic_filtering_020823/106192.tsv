@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-397.txt_3093
+#document_date:1876
+#sent_text:W. Macintosh, 24, Paternoster-row.
+W.	B-company	NIL	W.	PROPN
+Macintosh	I-company	NIL	Macintosh	PROPN
+,	O	_	,	PUNCT
+24	O	_	24	NUM
+,	O	_	,	PUNCT
+Paternoster	B-road	Q11698324	Paternoster	PROPN
+-	I-road	Q11698324	-	PUNCT
+row	I-road	Q11698324	row	PROPN
+.	I-road	Q11698324	.	PUNCT

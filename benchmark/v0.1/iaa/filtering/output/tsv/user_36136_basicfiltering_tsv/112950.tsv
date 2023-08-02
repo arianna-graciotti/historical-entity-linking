@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_444
+#document_date:NaN
+#sent_text:Song; the Music composed by F. J. Klose 5.
+Song	O	_	song	NOUN
+;	O	_	;	PUNCT
+the	O	_	the	DET
+Music	O	_	music	NOUN
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+F.	O	_	F.	PROPN
+J.	O	_	J.	PROPN
+Klose	O	_	Klose	PROPN
+5	O	_	5	NUM
+.	O	_	.	PUNCT

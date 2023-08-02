@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1824-016.txt_374
+#document_date:1824
+#sent_text:Variations Rhenish Song, Piano-Forte, to I. B. Cramer.
+Variations	B-publication	NIL	variation	NOUN
+Rhenish	I-publication	NIL	Rhenish	PROPN
+Song	I-publication	NIL	Song	PROPN
+,	I-publication	NIL	,	PUNCT
+Piano	I-publication	NIL	Piano	PROPN
+-	I-publication	NIL	-	PUNCT
+Forte	I-publication	NIL	Forte	PROPN
+,	I-publication	NIL	,	PUNCT
+to	I-publication	NIL	to	ADP
+I.	I-publication	NIL	i.	NOUN
+B.	I-publication	NIL	b.	NOUN
+Cramer	I-publication	NIL	Cramer	PROPN
+.	I-publication	NIL	.	PUNCT

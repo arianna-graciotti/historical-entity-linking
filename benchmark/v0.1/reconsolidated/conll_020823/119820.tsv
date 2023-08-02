@@ -1,0 +1,34 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1436
+#document_date:1828
+#sent_text:It is in this point of view that we ought to regard the revolution effected by Rossini in the music of Naples, as well as: its novel results.
+It	O	_	it	PRON
+is	O	_	be	AUX
+in	O	_	in	ADP
+this	O	_	this	DET
+point	O	_	point	NOUN
+of	O	_	of	ADP
+view	O	_	view	NOUN
+that	O	_	that	SCONJ
+we	O	_	we	PRON
+ought	O	_	ought	AUX
+to	O	_	to	PART
+regard	O	_	regard	VERB
+the	O	_	the	DET
+revolution	O	_	revolution	NOUN
+effected	O	_	effect	VERB
+by	O	_	by	ADP
+Rossini	B-person	Q9726	Rossini	PROPN
+in	O	_	in	ADP
+the	O	_	the	DET
+music	O	_	music	NOUN
+of	O	_	of	ADP
+Naples	B-city	Q2634	Naples	PROPN
+,	O	_	,	PUNCT
+as	O	_	as	ADV
+well	O	_	well	ADV
+as	O	_	as	ADP
+:	O	_	:	PUNCT
+its	O	_	its	PRON
+novel	O	_	novel	ADJ
+results	O	_	result	NOUN
+.	O	_	.	PUNCT

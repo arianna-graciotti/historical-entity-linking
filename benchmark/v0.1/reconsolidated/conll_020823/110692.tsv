@@ -1,0 +1,18 @@
+#document_id:TheMusicalWorld__1843-038.txt_304
+#document_date:1843
+#sent_text:Miss Rainforth, Mrs. A. Shaw, Mr. Bennett, and Mr. Phillips. ...
+Miss	B-person	Q17355767	Miss	PROPN
+Rainforth	I-person	Q17355767	Rainforth	PROPN
+,	O	_	,	PUNCT
+Mrs.	B-person	NIL	Mrs.	PROPN
+A.	I-person	NIL	A.	PROPN
+Shaw	I-person	NIL	Shaw	PROPN
+,	O	_	,	PUNCT
+Mr.	B-person	Q201164	Mr.	PROPN
+Bennett	I-person	Q201164	Bennett	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+Phillips	I-person	NIL	Phillips	PROPN
+.	O	_	.	PUNCT
+...	O	_	...	PUNCT

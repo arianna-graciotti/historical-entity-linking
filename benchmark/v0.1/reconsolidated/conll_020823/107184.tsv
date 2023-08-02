@@ -1,0 +1,19 @@
+#document_id:TheMusicalTimes__1873-366.txt_841
+#document_date:1873
+#sent_text:25, Cave's-terrace, Shepherd’s-bush, Notting-hill, London.
+25	O	_	25	NUM
+,	O	_	,	PUNCT
+Cave's	O	_	Cave's	PROPN
+-	O	_	-	PUNCT
+terrace	O	_	terrace	NOUN
+,	O	_	,	PUNCT
+Shepherd’s	B-city-district	Q1026182	shepherd’s	PART
+-	I-city-district	Q1026182	-	PUNCT
+bush	I-city-district	Q1026182	bush	NOUN
+,	O	_	,	PUNCT
+Notting	B-city-district	Q215354	Notting	PROPN
+-	I-city-district	Q215354	-	PUNCT
+hill	I-city-district	Q215354	hill	PROPN
+,	O	_	,	PUNCT
+London	B-city	Q84	London	PROPN
+.	O	_	.	PUNCT

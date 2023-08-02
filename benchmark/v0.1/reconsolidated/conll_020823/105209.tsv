@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-397.txt_1878
+#document_date:1876
+#sent_text:(The Seven Words of our Saviour on the Cross.)
+(	O	_	(	PUNCT
+The	B-music	Q1219505	the	DET
+Seven	I-music	Q1219505	seven	NUM
+Words	I-music	Q1219505	word	NOUN
+of	I-music	Q1219505	of	ADP
+our	I-music	Q1219505	our	PRON
+Saviour	I-music	Q1219505	Saviour	PROPN
+on	I-music	Q1219505	on	ADP
+the	I-music	Q1219505	the	DET
+Cross	I-music	Q1219505	Cross	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

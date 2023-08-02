@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1526
+#document_date:1825
+#sent_text:Mestrino published twelve concertos for his instrument, which contain extremely beautiful solos..
+Mestrino	B-person	Q1984708	Mestrino	PROPN
+published	O	_	publish	VERB
+twelve	O	_	twelve	NUM
+concertos	O	_	concerto	NOUN
+for	O	_	for	ADP
+his	O	_	his	PRON
+instrument	O	_	instrument	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+contain	O	_	contain	VERB
+extremely	O	_	extremely	ADV
+beautiful	O	_	beautiful	ADJ
+solos	O	_	solo	NOUN
+..	O	_	..	PUNCT

@@ -1,0 +1,66 @@
+{
+    "id": "99376",
+    "text": "Institution was given at St. James\u2019s Hall, on the 5th ult., before a large audience.",
+    "page_id": "TheMusicalTimes__1876-402.txt_1145",
+    "namedEntities": [
+        {
+            "variable": "z2",
+            "type": "building",
+            "entityName": "St. James Hall",
+            "wikis": [
+                {
+                    "wiki": "St._James_Hall,_Hong_Kong",
+                    "link": "https://en.wikipedia.org/wiki/St._James_Hall,_Hong_Kong",
+                    "assessments": {
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/St_James%27s_Hall",
+                            "wikiQid": "Q4416300",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        },
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/St_James%27s_Hall",
+                            "wikiQid": "Q4416300",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "St. James\u2019s Hall",
+                    "ocrEntityMention": "St. James\u2019s Hall",
+                    "assessment": "correct"
+                },
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        },
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        }
+    }
+}

@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1876-397.txt_480
+#document_date:1876
+#sent_text:A Sol-fa edition will shortly be issued.
+A	O	_	a	DET
+Sol	O	_	Sol	PROPN
+-	O	_	-	PUNCT
+fa	O	_	fa	PROPN
+edition	O	_	edition	NOUN
+will	O	_	will	AUX
+shortly	O	_	shortly	ADV
+be	O	_	be	AUX
+issued	O	_	issue	VERB
+.	O	_	.	PUNCT

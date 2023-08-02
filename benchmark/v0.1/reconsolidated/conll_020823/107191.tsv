@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1873-366.txt_850
+#document_date:1873
+#sent_text:For particulars, apply to Rey.
+For	O	_	for	ADP
+particulars	O	_	particular	NOUN
+,	O	_	,	PUNCT
+apply	O	_	apply	VERB
+to	O	_	to	ADP
+Rey	B-person	NIL	Rey	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1828-001.txt_1878
+#document_date:NaN
+#sent_text:Yes” he says to Eugéne Verneuil, “
+Yes	O	_	yes	INTJ
+”	O	_	"	PUNCT
+he	O	_	he	PRON
+says	O	_	say	VERB
+to	O	_	to	ADP
+Eugéne	B-person	NIL	Eugéne	PROPN
+Verneuil	I-person	NIL	Verneuil	PROPN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT

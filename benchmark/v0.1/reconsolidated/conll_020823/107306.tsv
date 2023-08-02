@@ -1,0 +1,17 @@
+#document_id:TheMusicalTimes__1873-366.txt_993
+#document_date:1873
+#sent_text:Both artists were together in Berliz 1835, and in one of his letters
+Both	O	_	both	DET
+artists	O	_	artist	NOUN
+were	O	_	be	AUX
+together	O	_	together	ADV
+in	O	_	in	ADP
+Berliz	B-city	Q64	Berliz	PROPN
+1835	O	_	1835	NUM
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+in	O	_	in	ADP
+one	O	_	one	NUM
+of	O	_	of	ADP
+his	O	_	his	PRON
+letters	O	_	letter	NOUN

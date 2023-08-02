@@ -1,0 +1,9 @@
+#document_id:TheHarmonicon__1832-012.txt_1438
+#document_date:1832
+#sent_text:(Paine and Hopkins.)
+(	O	_	(	PUNCT
+Paine	B-company	not in Wikidata	Paine	PROPN
+and	I-company	not in Wikidata	and	CCONJ
+Hopkins	I-company	not in Wikidata	Hopkins	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

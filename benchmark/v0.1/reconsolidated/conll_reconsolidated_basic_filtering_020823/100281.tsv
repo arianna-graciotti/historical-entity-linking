@@ -1,0 +1,20 @@
+#document_id:TheMusicalTimes__1876-402.txt_2435
+#document_date:1876
+#sent_text:Address H. Seaton, Florence House, Prince of Wales-road, Kentish-town.
+Address	O	_	address	NOUN
+H.	B-person	NIL	H.	PROPN
+Seaton	I-person	NIL	Seaton	PROPN
+,	O	_	,	PUNCT
+Florence	B-building	NIL	Florence	PROPN
+House	I-building	NIL	House	PROPN
+,	O	_	,	PUNCT
+Prince	B-road	NIL	Prince	PROPN
+of	I-road	NIL	of	ADP
+Wales	I-road	NIL	Wales	PROPN
+-	I-road	NIL	-	PUNCT
+road	I-road	NIL	road	NOUN
+,	O	_	,	PUNCT
+Kentish	B-city-district	Q149782	Kentish	PROPN
+-	I-city-district	Q149782	-	PUNCT
+town	I-city-district	Q149782	town	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_313
+#document_date:1828
+#sent_text:Three Easy Duets for Two Violoncellos, by F. W. Crouch -.... 254 XV.
+Three	B-music	NIL	three	NUM
+Easy	I-music	NIL	easy	ADJ
+Duets	I-music	NIL	duet	NOUN
+for	I-music	NIL	for	ADP
+Two	I-music	NIL	two	NUM
+Violoncellos	I-music	NIL	violoncello	NOUN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+F.	B-person	Q5497599	F.	PROPN
+W.	I-person	Q5497599	W.	PROPN
+Crouch	I-person	Q5497599	Crouch	PROPN
+-	O	_	-	PUNCT
+....	O	_	....	PUNCT
+254	O	_	254	NUM
+XV	O	_	xv	NOUN
+.	O	_	.	PUNCT

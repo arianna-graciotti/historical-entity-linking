@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1360
+#document_date:1825
+#sent_text:style, that Giovanni Battista Pescerti scarcely ever sung any other music.
+style	O	_	style	NOUN
+,	O	_	,	PUNCT
+that	O	_	that	SCONJ
+Giovanni	B-person	Q1526310	Giovanni	PROPN
+Battista	I-person	Q1526310	Battista	PROPN
+Pescerti	I-person	Q1526310	Pescerti	PROPN
+scarcely	O	_	scarcely	ADV
+ever	O	_	ever	ADV
+sung	O	_	sing	VERB
+any	O	_	any	DET
+other	O	_	other	ADJ
+music	O	_	music	NOUN
+.	O	_	.	PUNCT

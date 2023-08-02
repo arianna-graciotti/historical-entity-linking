@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1873-366.txt_763
+#document_date:1873
+#sent_text:Address the Rev. the Precentor, All Saints’ Church, Clifton.
+Address	O	_	address	VERB
+the	O	_	the	DET
+Rev.	O	_	Rev.	PROPN
+the	O	_	the	DET
+Precentor	O	_	Precentor	PROPN
+,	O	_	,	PUNCT
+All	B-worship-place	Q26503775	All	PROPN
+Saints	I-worship-place	Q26503775	Saints	PROPN
+’	I-worship-place	Q26503775	’	PART
+Church	I-worship-place	Q26503775	Church	PROPN
+,	O	_	,	PUNCT
+Clifton	B-city-district	Q2376216	Clifton	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1833-005.txt_93
+#document_date:1833
+#sent_text:Both operas were set by Caldara, the state composer.
+Both	O	_	both	DET
+operas	O	_	opera	NOUN
+were	O	_	be	AUX
+set	O	_	set	VERB
+by	O	_	by	ADP
+Caldara	B-person	Q311571	Caldara	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+state	O	_	state	NOUN
+composer	O	_	composer	NOUN
+.	O	_	.	PUNCT

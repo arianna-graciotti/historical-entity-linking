@@ -1,0 +1,24 @@
+#document_id:TheMusicalTimes__1876-402.txt_1166
+#document_date:1876
+#sent_text:, Arthur Sullivan, Mus. D., Cantab., the Conductor, and the Principal—Eaton Faning.
+,	O	_	,	PUNCT
+Arthur	B-person	Q212692	Arthur	PROPN
+Sullivan	I-person	Q212692	Sullivan	PROPN
+,	O	_	,	PUNCT
+Mus	O	_	Mus	PROPN
+.	O	_	.	PROPN
+D.	O	_	D.	PROPN
+,	O	_	,	PUNCT
+Cantab	O	_	Cantab	PROPN
+.	O	_	.	PROPN
+,	O	_	,	PROPN
+the	O	_	the	DET
+Conductor	O	_	conductor	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+Principal	O	_	Principal	PROPN
+—	O	_	—	PUNCT
+Eaton	B-person	Q5331349	Eaton	PROPN
+Faning	I-person	Q5331349	Faning	PROPN
+.	O	_	.	PUNCT

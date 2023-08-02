@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1876-397.txt_193
+#document_date:1876
+#sent_text:W. A. HOWELLS (Tenor).
+W.	B-person	NIL	W.	PROPN
+A.	I-person	NIL	A.	PROPN
+HOWELLS	I-person	NIL	HOWELLS	PROPN
+(	O	_	(	PUNCT
+Tenor	O	_	tenor	NOUN
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

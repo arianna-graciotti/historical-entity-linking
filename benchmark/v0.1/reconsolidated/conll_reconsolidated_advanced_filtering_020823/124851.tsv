@@ -1,0 +1,20 @@
+#document_id:TheHarmonicon__1833-005.txt_111
+#document_date:1833
+#sent_text:The three last operas written by Metastasio were, Il Trionfo di Clelia, in 1762;
+The	O	_	the	DET
+three	O	_	three	NUM
+last	O	_	last	ADJ
+operas	O	_	opera	NOUN
+written	O	_	write	VERB
+by	O	_	by	ADP
+Metastasio	B-person	Q29473	Metastasio	PROPN
+were	O	_	be	AUX
+,	O	_	,	PUNCT
+Il	B-opera	Q18748077	Il	PROPN
+Trionfo	I-opera	Q18748077	Trionfo	PROPN
+di	I-opera	Q18748077	di	PROPN
+Clelia	I-opera	Q18748077	Clelia	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+1762	O	_	1762	NUM
+;	O	_	;	PUNCT

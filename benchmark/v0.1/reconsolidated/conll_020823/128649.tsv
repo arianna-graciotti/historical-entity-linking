@@ -1,0 +1,8 @@
+#document_id:TheHarmonicon__1832-012.txt_293
+#document_date:1832
+#sent_text:Mr. Linley, fie!
+Mr.	B-person	Q5541748	Mr.	PROPN
+Linley	I-person	Q5541748	Linley	PROPN
+,	O	_	,	PUNCT
+fie	O	_	fie	X
+!	O	_	!	PUNCT

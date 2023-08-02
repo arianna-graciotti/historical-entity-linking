@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3234
+#document_date:1824
+#sent_text:The Italian serenade is very elegant.
+The	O	_	the	DET
+Italian	O	_	italian	ADJ
+serenade	O	_	serenade	NOUN
+is	O	_	be	AUX
+very	O	_	very	ADV
+elegant	O	_	elegant	ADJ
+.	O	_	.	PUNCT

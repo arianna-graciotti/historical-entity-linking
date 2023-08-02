@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-397.txt_3143
+#document_date:1876
+#sent_text:(THE 23RD PSALM.)
+(	O	_	(	PUNCT
+THE	O	_	the	DET
+23RD	B-music	Q96030850	23rd	ADJ
+PSALM	I-music	Q96030850	psalm	NOUN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

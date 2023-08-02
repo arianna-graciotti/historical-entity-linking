@@ -1,0 +1,10 @@
+#document_id:TheHarmonicon__1824-016.txt_440
+#document_date:1824
+#sent_text:Fourth Symphony, to L. Sphor.
+Fourth	O	_	fourth	ADJ
+Symphony	O	_	Symphony	PROPN
+,	O	_	,	PUNCT
+to	O	_	to	ADP
+L.	B-person	Q57226	L.	PROPN
+Sphor	I-person	Q57226	Sphor	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1873-366.txt_897
+#document_date:1873
+#sent_text:Apply to J. B., 4, Well.street, Hackney. .
+Apply	O	_	apply	VERB
+to	O	_	to	ADP
+J.	O	_	J.	PROPN
+B.	O	_	B.	PROPN
+,	O	_	,	PUNCT
+4	O	_	4	NUM
+,	O	_	,	PUNCT
+Well.street	B-street	NIL	Well.street	PROPN
+,	O	_	,	PUNCT
+Hackney	B-city-district	Q58888182	Hackney	PROPN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

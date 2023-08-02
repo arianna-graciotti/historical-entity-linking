@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1876-402.txt_596
+#document_date:1876
+#sent_text:It is expected to be completed in a year or a year LONDON: and a half.
+It	O	_	it	PRON
+is	O	_	be	AUX
+expected	O	_	expect	VERB
+to	O	_	to	PART
+be	O	_	be	AUX
+completed	O	_	complete	VERB
+in	O	_	in	ADP
+a	O	_	a	DET
+year	O	_	year	NOUN
+or	O	_	or	CCONJ
+a	O	_	a	DET
+year	O	_	year	NOUN
+LONDON	B-city	Q84	LONDON	PROPN
+:	O	_	:	PUNCT
+and	O	_	and	CCONJ
+a	O	_	a	DET
+half	O	_	half	NOUN
+.	O	_	.	PUNCT

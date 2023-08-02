@@ -1,0 +1,39 @@
+#document_id:TheMusicalTimes__1876-402.txt_2136
+#document_date:1876
+#sent_text:I again express a hope that the Copyright Commission, of which Sir Julius Benedict is a member, will in any amendment of the copyright laws compel publishers to notify any reservation of rights.
+I	O	_	I	PRON
+again	O	_	again	ADV
+express	O	_	express	VERB
+a	O	_	a	DET
+hope	O	_	hope	NOUN
+that	O	_	that	SCONJ
+the	O	_	the	DET
+Copyright	B-government-organization	NIL	Copyright	PROPN
+Commission	I-government-organization	NIL	Commission	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+which	O	_	which	PRON
+Sir	B-person	Q510435	Sir	PROPN
+Julius	I-person	Q510435	Julius	PROPN
+Benedict	I-person	Q510435	Benedict	PROPN
+is	O	_	be	AUX
+a	O	_	a	DET
+member	O	_	member	NOUN
+,	O	_	,	PUNCT
+will	O	_	will	AUX
+in	O	_	in	ADP
+any	O	_	any	DET
+amendment	O	_	amendment	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+copyright	O	_	copyright	NOUN
+laws	O	_	law	NOUN
+compel	O	_	compel	VERB
+publishers	O	_	publisher	NOUN
+to	O	_	to	PART
+notify	O	_	notify	VERB
+any	O	_	any	DET
+reservation	O	_	reservation	NOUN
+of	O	_	of	ADP
+rights	O	_	right	NOUN
+.	O	_	.	PUNCT

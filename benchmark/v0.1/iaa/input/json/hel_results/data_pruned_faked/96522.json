@@ -1,0 +1,72 @@
+{
+    "id": "81429",
+    "text": "Difference author plant.",
+    "page_id": "Shoulder style here.",
+    "namedEntities": [
+        {
+            "variable": "01lY66",
+            "type": "Eight no fly.",
+            "entityName": "Most choose too prepare.",
+            "wikis": [
+                {
+                    "wiki": "Imagine challenge trip.",
+                    "link": "https://williams.com/",
+                    "qid": "12Tb96",
+                    "assessments": {
+                        "36136": {
+                            "user": "57286",
+                            "assessment": "wrong",
+                            "wikiUrl": "On hope pick.",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Prove check call.",
+                            "sentenceEnough": "Shoulder contain I.",
+                            "contextString": "Side suddenly follow.",
+                            "contextBroader": "There war power thought.",
+                            "comments": "Reach one budget claim."
+                        },
+                        "23628": {
+                            "user": "28715",
+                            "assessment": "wrong",
+                            "wikiUrl": "http://carter-cox.com/",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "36bP71",
+                            "sentenceEnough": "Share two read.",
+                            "contextString": "There new unit rule.",
+                            "contextBroader": "One line wide general.",
+                            "comments": "Plant present eight."
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "Mean whom exactly race.",
+                    "pageUrl": "https://www.ramirez.com/"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "72571",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "49698",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "55378",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "85711",
+            "missingNamedEntities": []
+        }
+    }
+}

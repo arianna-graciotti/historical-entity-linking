@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_541
+#document_date:1824
+#sent_text:La Scala di Seta,”’ farza, 1812, Primavera.
+La	B-opera	Q471330	La	PROPN
+Scala	I-opera	Q471330	Scala	PROPN
+di	I-opera	Q471330	di	X
+Seta	I-opera	Q471330	Seta	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+’	O	_	’	X
+farza	O	_	farza	X
+,	O	_	,	PUNCT
+1812	O	_	1812	NUM
+,	O	_	,	PUNCT
+Primavera	O	_	Primavera	PROPN
+.	O	_	.	PUNCT

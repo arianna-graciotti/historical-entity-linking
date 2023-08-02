@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_401
+#document_date:1828
+#sent_text:for the Piano Forte, by Wm.
+for	O	_	for	ADP
+the	O	_	the	DET
+Piano	O	_	Piano	PROPN
+Forte	O	_	Forte	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Wm	B-person	Q8012523	Wm	PROPN
+.	I-person	Q8012523	.	PUNCT

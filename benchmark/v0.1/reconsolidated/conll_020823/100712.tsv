@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-402.txt_3114
+#document_date:1876
+#sent_text:Co. New York: J. L. Peters.
+Co.	O	_	Co.	PROPN
+New	B-city	Q60	New	PROPN
+York	I-city	Q60	York	PROPN
+:	O	_	:	PUNCT
+J.	B-person	NIL	J.	PROPN
+L.	I-person	NIL	L.	PROPN
+Peters	I-person	NIL	Peters	PROPN
+.	O	_	.	PUNCT

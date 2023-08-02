@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1387
+#document_date:1824
+#sent_text:AS IT AFFECTS THE INHABITANTS OF NORTHERN EUROPE.
+AS	O	_	as	SCONJ
+IT	O	_	it	PRON
+AFFECTS	O	_	affect	VERB
+THE	O	_	the	DET
+INHABITANTS	O	_	inhabitant	NOUN
+OF	O	_	of	ADP
+NORTHERN	B-world-region	Q27479	NORTHERN	PROPN
+EUROPE	I-world-region	Q27479	EUROPE	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1873-366.txt_2062
+#document_date:1873
+#sent_text:The vocalists were Mrs. Barry, Miss Little and Mr. Thomas Acland.
+The	O	_	the	DET
+vocalists	O	_	vocalist	NOUN
+were	O	_	be	AUX
+Mrs.	O	_	Mrs.	PROPN
+Barry	O	_	Barry	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Little	I-person	NIL	Little	PROPN
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+Thomas	I-person	NIL	Thomas	PROPN
+Acland	I-person	NIL	Acland	PROPN
+.	O	_	.	PUNCT

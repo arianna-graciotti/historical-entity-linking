@@ -1,0 +1,25 @@
+#document_id:TheMusicalTimes__1876-402.txt_1917
+#document_date:NaN
+#sent_text:For example, the English text fitted (?) to the first verse of the hymn “ Stabat mater dolorosa”
+For	O	_	for	ADP
+example	O	_	example	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+English	O	_	english	ADJ
+text	O	_	text	NOUN
+fitted	O	_	fit	VERB
+(	O	_	(	PUNCT
+?	O	_	?	PUNCT
+)	O	_	)	PUNCT
+to	O	_	to	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+verse	O	_	verse	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+hymn	O	_	hymn	NOUN
+“	O	_	"	PUNCT
+Stabat	B-music	NIL	Stabat	PROPN
+mater	I-music	NIL	mater	PROPN
+dolorosa	I-music	NIL	dolorosa	PROPN
+”	O	_	"	PUNCT

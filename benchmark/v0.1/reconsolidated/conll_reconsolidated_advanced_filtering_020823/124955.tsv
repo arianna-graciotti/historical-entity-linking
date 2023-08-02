@@ -1,0 +1,23 @@
+#document_id:TheHarmonicon__1833-005.txt_229
+#document_date:1833
+#sent_text:We had heard this before, at the Hanover Square Rooms, and hope frequently to meet with it.
+We	O	_	we	PRON
+had	O	_	have	AUX
+heard	O	_	hear	VERB
+this	O	_	this	PRON
+before	O	_	before	ADV
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+the	O	_	the	DET
+Hanover	B-building	Q10951144	Hanover	PROPN
+Square	I-building	Q10951144	Square	PROPN
+Rooms	I-building	Q10951144	Rooms	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+hope	O	_	hope	VERB
+frequently	O	_	frequently	ADV
+to	O	_	to	PART
+meet	O	_	meet	VERB
+with	O	_	with	ADP
+it	O	_	it	PRON
+.	O	_	.	PUNCT

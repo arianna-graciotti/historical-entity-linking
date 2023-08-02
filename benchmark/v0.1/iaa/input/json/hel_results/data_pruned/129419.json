@@ -1,0 +1,73 @@
+{
+    "id": "129419",
+    "text": "\u2018 Unser Pater.",
+    "page_id": "TheHarmonicon__1832-012.txt_1258",
+    "namedEntities": [
+        {
+            "variable": "z0",
+            "type": "person",
+            "entityName": "Unser Pater",
+            "wikis": [
+                {
+                    "wiki": "Walter_Pater",
+                    "link": "https://en.wikipedia.org/wiki/Walter_Pater",
+                    "qid": "Q352528",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

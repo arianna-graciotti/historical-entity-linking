@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1876-402.txt_1165
+#document_date:1876
+#sent_text:H.C. Banister, H.C. Lunn, C. Steggall, Mus. D., Cantab.
+H.C.	B-person	Q28708196	H.C.	PROPN
+Banister	I-person	Q28708196	Banister	PROPN
+,	O	_	,	PUNCT
+H.C.	B-person	NIL	H.C.	PROPN
+Lunn	I-person	NIL	Lunn	PROPN
+,	O	_	,	PUNCT
+C.	B-person	Q5082654	C.	PROPN
+Steggall	I-person	Q5082654	Steggall	PROPN
+,	O	_	,	PUNCT
+Mus	O	_	Mus	PROPN
+.	O	_	.	PROPN
+D.	O	_	D.	PROPN
+,	O	_	,	PUNCT
+Cantab	O	_	Cantab	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,35 @@
+#document_id:TheMusicalWorld__1843-038.txt_53
+#document_date:1843
+#sent_text:The choruses would have done credit to Exeter Hall, which is saying a great deal for the choir, and a great deal for Sir Henry Bishop, the director.
+The	O	_	the	DET
+choruses	O	_	chorus	NOUN
+would	O	_	would	AUX
+have	O	_	have	AUX
+done	O	_	do	VERB
+credit	O	_	credit	NOUN
+to	O	_	to	ADP
+Exeter	B-university	Q81173	Exeter	PROPN
+Hall	I-university	Q81173	Hall	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+is	O	_	be	AUX
+saying	O	_	say	VERB
+a	O	_	a	DET
+great	O	_	great	ADJ
+deal	O	_	deal	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+choir	O	_	choir	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+a	O	_	a	DET
+great	O	_	great	ADJ
+deal	O	_	deal	NOUN
+for	O	_	for	ADP
+Sir	B-person	Q1200639	Sir	PROPN
+Henry	I-person	Q1200639	Henry	PROPN
+Bishop	I-person	Q1200639	Bishop	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+director	O	_	director	NOUN
+.	O	_	.	PUNCT

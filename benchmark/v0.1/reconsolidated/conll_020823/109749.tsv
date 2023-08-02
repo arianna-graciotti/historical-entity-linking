@@ -1,0 +1,18 @@
+#document_id:TheMusicalWorld__1843-029.txt_47
+#document_date:1843
+#sent_text:part with his never-failing ability, and M. Tolbeeque led the band.
+part	O	_	part	NOUN
+with	O	_	with	ADP
+his	O	_	his	PRON
+never	O	_	never	ADV
+-	O	_	-	PUNCT
+failing	O	_	fail	VERB
+ability	O	_	ability	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+M.	B-person	Q2871419	M.	PROPN
+Tolbeeque	I-person	Q2871419	Tolbeeque	PROPN
+led	O	_	lead	VERB
+the	O	_	the	DET
+band	O	_	band	NOUN
+.	O	_	.	PUNCT

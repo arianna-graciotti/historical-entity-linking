@@ -1,0 +1,8 @@
+#document_id:TheMusicalTimes__1876-397.txt_89
+#document_date:1876
+#sent_text:" —Torquay Directory.
+"	O	_	"	PUNCT
+—	O	_	—	PUNCT
+Torquay	B-newspaper	not in Wikidata	Torquay	PROPN
+Directory	I-newspaper	not in Wikidata	Directory	PROPN
+.	O	_	.	PUNCT

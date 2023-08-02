@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4204
+#document_date:1828
+#sent_text:Mr. G.’s ideas of tuition are however very correct, and his book will prove useful to masters.
+Mr.	B-person	NIL	Mr.	PROPN
+G.	I-person	NIL	G.	PROPN
+’s	O	_	’s	PART
+ideas	O	_	idea	NOUN
+of	O	_	of	ADP
+tuition	O	_	tuition	NOUN
+are	O	_	be	AUX
+however	O	_	however	ADV
+very	O	_	very	ADV
+correct	O	_	correct	ADJ
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+his	O	_	his	PRON
+book	O	_	book	NOUN
+will	O	_	will	AUX
+prove	O	_	prove	VERB
+useful	O	_	useful	ADJ
+to	O	_	to	ADP
+masters	O	_	master	NOUN
+.	O	_	.	PUNCT

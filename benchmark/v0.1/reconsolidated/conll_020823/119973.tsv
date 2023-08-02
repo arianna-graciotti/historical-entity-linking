@@ -1,0 +1,31 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1626
+#document_date:1828
+#sent_text:Zingarelli contents himself with leading an easy and tranquil life, employing his time in reading holy books, and even appearing inclined to become a priest.
+Zingarelli	B-person	Q505202	Zingarelli	PROPN
+contents	O	_	content	VERB
+himself	O	_	himself	PRON
+with	O	_	with	ADP
+leading	O	_	lead	VERB
+an	O	_	an	DET
+easy	O	_	easy	ADJ
+and	O	_	and	CCONJ
+tranquil	O	_	tranquil	ADJ
+life	O	_	life	NOUN
+,	O	_	,	PUNCT
+employing	O	_	employ	VERB
+his	O	_	his	PRON
+time	O	_	time	NOUN
+in	O	_	in	ADP
+reading	O	_	read	VERB
+holy	O	_	holy	ADJ
+books	O	_	book	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+even	O	_	even	ADV
+appearing	O	_	appear	VERB
+inclined	O	_	inclined	ADJ
+to	O	_	to	PART
+become	O	_	become	VERB
+a	O	_	a	DET
+priest	O	_	priest	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1875-388.txt_1077
+#document_date:1875
+#sent_text:The story of “‘ Lohengrin ” is exceedingly well adapted for musical treatment.
+The	O	_	the	DET
+story	O	_	story	NOUN
+of	O	_	of	ADP
+“	O	_	"	PUNCT
+‘	O	_	'	PUNCT
+Lohengrin	O	_	Lohengrin	PROPN
+”	O	_	"	PUNCT
+is	O	_	be	AUX
+exceedingly	O	_	exceedingly	ADV
+well	O	_	well	ADV
+adapted	O	_	adapt	VERB
+for	O	_	for	ADP
+musical	O	_	musical	ADJ
+treatment	O	_	treatment	NOUN
+.	O	_	.	PUNCT

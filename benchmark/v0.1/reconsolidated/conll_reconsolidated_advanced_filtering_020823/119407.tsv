@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_950
+#document_date:1828
+#sent_text:The direction is committed to Sgatelli, the most celebrated of the Roman musici.
+The	O	_	the	DET
+direction	O	_	direction	NOUN
+is	O	_	be	AUX
+committed	O	_	commit	VERB
+to	O	_	to	ADP
+Sgatelli	B-person	NIL	Sgatelli	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+most	O	_	most	ADV
+celebrated	O	_	celebrated	ADJ
+of	O	_	of	ADP
+the	O	_	the	DET
+Roman	O	_	roman	ADJ
+musici	O	_	musici	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,20 @@
+#document_id:TheMusicalTimes__1875-388.txt_1745
+#document_date:1875
+#sent_text:Anthem written for the Consecration of Trinity Chapel, New York, April 17, 1855.
+Anthem	O	_	Anthem	PROPN
+written	O	_	write	VERB
+for	O	_	for	ADP
+the	O	_	the	DET
+Consecration	O	_	Consecration	PROPN
+of	O	_	of	ADP
+Trinity	B-worship-place	Q7842633	Trinity	PROPN
+Chapel	I-worship-place	Q7842633	Chapel	PROPN
+,	O	_	,	PUNCT
+New	B-city	Q60	New	PROPN
+York	I-city	Q60	York	PROPN
+,	O	_	,	PUNCT
+April	O	_	April	PROPN
+17	O	_	17	NUM
+,	O	_	,	PUNCT
+1855	O	_	1855	NUM
+.	O	_	.	PUNCT

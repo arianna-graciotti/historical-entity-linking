@@ -1,0 +1,33 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1349
+#document_date:1824
+#sent_text:In 1763 he composed a grand cantata for the chapel of Sonderhausen, which was performed at a féte on the birth-day of the Prince of Swartzburg.
+In	O	_	in	ADP
+1763	O	_	1763	NUM
+he	O	_	he	PRON
+composed	O	_	compose	VERB
+a	O	_	a	DET
+grand	O	_	grand	ADJ
+cantata	O	_	cantata	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+chapel	O	_	chapel	NOUN
+of	O	_	of	ADP
+Sonderhausen	B-city-district	Q517407	Sonderhausen	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+was	O	_	be	AUX
+performed	O	_	perform	VERB
+at	O	_	at	ADP
+a	O	_	a	DET
+féte	O	_	féte	X
+on	O	_	on	ADP
+the	O	_	the	DET
+birth	O	_	birth	NOUN
+-	O	_	-	PUNCT
+day	O	_	day	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Prince	B-person	Q832878	Prince	PROPN
+of	I-person	Q832878	of	ADP
+Swartzburg	I-person	Q832878	Swartzburg	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_526
+#document_date:1824
+#sent_text:This was the first of Rossini’s operas performed on anystage.
+This	O	_	this	PRON
+was	O	_	be	AUX
+the	O	_	the	DET
+first	O	_	first	ADJ
+of	O	_	of	ADP
+Rossini	B-person	Q9726	Rossini	PROPN
+’s	O	_	’s	PART
+operas	O	_	opera	NOUN
+performed	O	_	perform	VERB
+on	O	_	on	ADP
+anystage	O	_	anystage	NOUN
+.	O	_	.	PUNCT

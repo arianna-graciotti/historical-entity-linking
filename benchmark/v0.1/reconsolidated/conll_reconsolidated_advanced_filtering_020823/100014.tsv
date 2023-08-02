@@ -1,0 +1,22 @@
+#document_id:TheMusicalTimes__1876-402.txt_2065
+#document_date:1876
+#sent_text:I presume this is the same man who composed “ Sally in our Alley.”—I am,
+I	O	_	I	PRON
+presume	O	_	presume	VERB
+this	O	_	this	PRON
+is	O	_	be	AUX
+the	O	_	the	DET
+same	O	_	same	ADJ
+man	O	_	man	NOUN
+who	O	_	who	PRON
+composed	O	_	compose	VERB
+“	O	_	"	PUNCT
+Sally	B-music	Q104835875	Sally	PROPN
+in	I-music	Q104835875	in	ADP
+our	I-music	Q104835875	our	PRON
+Alley	I-music	Q104835875	Alley	PROPN
+.	O	_	.	PUNCT
+”	O	_	"	PUNCT
+—I	O	_	—i	PRON
+am	O	_	be	AUX
+,	O	_	,	PUNCT

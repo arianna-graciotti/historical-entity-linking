@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-397.txt_2472
+#document_date:NaN
+#sent_text:The Poem by Vincent Amcotts.
+The	O	_	the	DET
+Poem	O	_	Poem	PROPN
+by	O	_	by	ADP
+Vincent	B-person	NIL	Vincent	PROPN
+Amcotts	I-person	NIL	Amcotts	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-402.txt_1948
+#document_date:1876
+#sent_text:Composed by H. B. Ellwanger.
+Composed	O	_	compose	VERB
+by	O	_	by	ADP
+H.	B-person	NIL	H.	PROPN
+B.	I-person	NIL	B.	PROPN
+Ellwanger	I-person	NIL	Ellwanger	PROPN
+.	O	_	.	PUNCT

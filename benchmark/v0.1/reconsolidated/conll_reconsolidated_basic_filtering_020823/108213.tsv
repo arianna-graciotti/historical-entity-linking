@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1873-366.txt_2193
+#document_date:1873
+#sent_text:The reception accorded to Mr. Brooke and the Choir'was very hearty.
+The	O	_	the	DET
+reception	O	_	reception	NOUN
+accorded	O	_	accord	VERB
+to	O	_	to	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Brooke	I-person	NIL	Brooke	PROPN
+and	O	_	and	CCONJ
+the	O	_	the	DET
+Choir'was	O	_	Choir'was	PROPN
+very	O	_	very	ADV
+hearty	O	_	hearty	ADJ
+.	O	_	.	PUNCT

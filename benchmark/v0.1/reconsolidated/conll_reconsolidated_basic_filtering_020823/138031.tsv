@@ -1,0 +1,23 @@
+#document_id:TheHarmonicon__1824-016.txt_2451
+#document_date:1824
+#sent_text:The orchestra is erected on the stage, as at the Oratorivs-; the performance is divided into two.
+The	O	_	the	DET
+orchestra	O	_	orchestra	NOUN
+is	O	_	be	AUX
+erected	O	_	erect	VERB
+on	O	_	on	ADP
+the	O	_	the	DET
+stage	O	_	stage	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	ADP
+at	O	_	at	ADP
+the	O	_	the	DET
+Oratorivs-	O	_	Oratorivs-	PROPN
+;	O	_	;	PUNCT
+the	O	_	the	DET
+performance	O	_	performance	NOUN
+is	O	_	be	AUX
+divided	O	_	divide	VERB
+into	O	_	into	ADP
+two	O	_	two	NUM
+.	O	_	.	PUNCT

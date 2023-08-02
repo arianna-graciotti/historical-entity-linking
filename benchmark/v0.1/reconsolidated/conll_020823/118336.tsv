@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3510
+#document_date:1824
+#sent_text:An easy Duet for two Performers on the Piano Forte, composed C. M. De Weber.
+An	B-publication	NIL	an	DET
+easy	I-publication	NIL	easy	ADJ
+Duet	I-publication	NIL	duet	NOUN
+for	I-publication	NIL	for	ADP
+two	I-publication	NIL	two	NUM
+Performers	I-publication	NIL	performer	NOUN
+on	I-publication	NIL	on	ADP
+the	I-publication	NIL	the	DET
+Piano	I-publication	NIL	Piano	PROPN
+Forte	I-publication	NIL	Forte	PROPN
+,	O	_	,	PUNCT
+composed	O	_	compose	VERB
+C.	B-person	Q154812	C.	PROPN
+M.	I-person	Q154812	M.	PROPN
+De	I-person	Q154812	De	PROPN
+Weber	I-person	Q154812	Weber	PROPN
+.	O	_	.	PUNCT

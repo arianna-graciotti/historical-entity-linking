@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1824-016.txt_1826
+#document_date:1824
+#sent_text:So thought the good people of Lueca, for it was received with a coulness that was perhaps worse than a failure.
+So	O	_	so	ADV
+thought	O	_	think	VERB
+the	O	_	the	DET
+good	O	_	good	ADJ
+people	O	_	people	NOUN
+of	O	_	of	ADP
+Lueca	B-city	Q13373	Lueca	PROPN
+,	O	_	,	PUNCT
+for	O	_	for	SCONJ
+it	O	_	it	PRON
+was	O	_	be	AUX
+received	O	_	receive	VERB
+with	O	_	with	ADP
+a	O	_	a	DET
+coulness	O	_	coulness	NOUN
+that	O	_	that	PRON
+was	O	_	be	AUX
+perhaps	O	_	perhaps	ADV
+worse	O	_	bad	ADJ
+than	O	_	than	ADP
+a	O	_	a	DET
+failure	O	_	failure	NOUN
+.	O	_	.	PUNCT

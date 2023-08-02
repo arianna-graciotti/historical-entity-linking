@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-397.txt_1047
+#document_date:1876
+#sent_text:Handel’s habit of borrowing from himself is well known.
+Handel	B-person	Q7302	Handel	PROPN
+’s	O	_	’s	PART
+habit	O	_	habit	NOUN
+of	O	_	of	ADP
+borrowing	O	_	borrow	VERB
+from	O	_	from	ADP
+himself	O	_	himself	PRON
+is	O	_	be	AUX
+well	O	_	well	ADV
+known	O	_	know	VERB
+.	O	_	.	PUNCT

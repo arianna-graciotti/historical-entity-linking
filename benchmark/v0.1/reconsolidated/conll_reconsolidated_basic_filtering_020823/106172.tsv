@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-397.txt_3068
+#document_date:1876
+#sent_text:THE BENEDICITE, set to appropriate Chants; three different Settings.
+THE	B-music	NIL	the	DET
+BENEDICITE	I-music	NIL	benedicite	NOUN
+,	O	_	,	PUNCT
+set	O	_	set	VERB
+to	O	_	to	PART
+appropriate	O	_	appropriate	VERB
+Chants	O	_	chant	NOUN
+;	O	_	;	PUNCT
+three	O	_	three	NUM
+different	O	_	different	ADJ
+Settings	O	_	setting	NOUN
+.	O	_	.	PUNCT

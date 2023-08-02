@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3680
+#document_date:1828
+#sent_text:rejected the belief that an English singer can possess the Italian gusto, or
+rejected	O	_	reject	VERB
+the	O	_	the	DET
+belief	O	_	belief	NOUN
+that	O	_	that	SCONJ
+an	O	_	an	DET
+English	O	_	english	ADJ
+singer	O	_	singer	NOUN
+can	O	_	can	AUX
+possess	O	_	possess	VERB
+the	O	_	the	DET
+Italian	O	_	italian	ADJ
+gusto	O	_	gusto	NOUN
+,	O	_	,	PUNCT
+or	O	_	or	CCONJ

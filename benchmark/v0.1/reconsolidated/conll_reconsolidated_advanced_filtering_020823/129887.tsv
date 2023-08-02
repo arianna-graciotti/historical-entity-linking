@@ -1,0 +1,32 @@
+#document_id:TheHarmonicon__1832-012.txt_1860
+#document_date:1832
+#sent_text:Among the pieces were Beethoven’s grand symphony in bp, and the overtures to Don Juan and Reissiger’s Felsenmithle, all of which were exquisitely played.
+Among	O	_	among	ADP
+the	O	_	the	DET
+pieces	O	_	piece	NOUN
+were	O	_	be	AUX
+Beethoven	B-person	Q255	Beethoven	PROPN
+’s	O	_	’s	PART
+grand	O	_	grand	ADJ
+symphony	O	_	symphony	NOUN
+in	O	_	in	ADP
+bp	O	_	bp	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+overtures	O	_	overture	NOUN
+to	O	_	to	ADP
+Don	B-opera	Q192039	Don	PROPN
+Juan	I-opera	Q192039	Juan	PROPN
+and	O	_	and	CCONJ
+Reissiger	B-person	Q213894	Reissiger	PROPN
+’s	O	_	’s	PART
+Felsenmithle	B-music	NIL	Felsenmithle	PROPN
+,	O	_	,	PUNCT
+all	O	_	all	PRON
+of	O	_	of	ADP
+which	O	_	which	PRON
+were	O	_	be	AUX
+exquisitely	O	_	exquisitely	ADV
+played	O	_	play	VERB
+.	O	_	.	PUNCT

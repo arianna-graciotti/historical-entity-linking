@@ -1,0 +1,18 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_732
+#document_date:1868
+#sent_text:the bride recently went through a similar ceremony as Giultetta in Gounod’s opera.
+the	O	_	the	DET
+bride	O	_	bride	NOUN
+recently	O	_	recently	ADV
+went	O	_	go	VERB
+through	O	_	through	ADP
+a	O	_	a	DET
+similar	O	_	similar	ADJ
+ceremony	O	_	ceremony	NOUN
+as	O	_	as	ADP
+Giultetta	O	_	Giultetta	PROPN
+in	O	_	in	ADP
+Gounod	B-person	Q180278	Gounod	PROPN
+’s	O	_	’s	PART
+opera	O	_	opera	NOUN
+.	O	_	.	PUNCT

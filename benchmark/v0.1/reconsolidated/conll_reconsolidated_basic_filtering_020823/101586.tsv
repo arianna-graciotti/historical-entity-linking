@@ -1,0 +1,23 @@
+#document_id:TheMusicalTimes__1875-388.txt_456
+#document_date:1875
+#sent_text:Bailliere, Tindal and Cox, King William-street, Strand, London; and all Booksellers. .
+Bailliere	B-company	NIL	Bailliere	PROPN
+,	I-company	NIL	,	PUNCT
+Tindal	I-company	NIL	Tindal	PROPN
+and	I-company	NIL	and	CCONJ
+Cox	I-company	NIL	Cox	PROPN
+,	O	_	,	PUNCT
+King	B-road	Q3197044	King	PROPN
+William	I-road	Q3197044	William	PROPN
+-	I-road	Q3197044	-	PROPN
+street	I-road	Q3197044	street	PROPN
+,	O	_	,	PUNCT
+Strand	B-road	Q756819	Strand	PROPN
+,	O	_	,	PUNCT
+London	B-city	Q84	London	PROPN
+;	O	_	;	PUNCT
+and	O	_	and	CCONJ
+all	O	_	all	DET
+Booksellers	O	_	bookseller	NOUN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

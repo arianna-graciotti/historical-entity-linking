@@ -1,0 +1,28 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2537
+#document_date:1824
+#sent_text:* Sento oh Dio” —Madame Ronzi de Begnis, Miss Stephens, Signor Garcia, Signor de Begnis, and Mr. oo Phillips
+*	O	_	*	PUNCT
+Sento	O	_	sento	X
+oh	O	_	oh	INTJ
+Dio	O	_	Dio	PROPN
+”	O	_	"	PUNCT
+—	O	_	—	PUNCT
+Madame	O	_	Madame	PROPN
+Ronzi	O	_	Ronzi	PROPN
+de	O	_	de	PROPN
+Begnis	O	_	Begnis	PROPN
+,	O	_	,	PUNCT
+Miss	O	_	Miss	PROPN
+Stephens	O	_	Stephens	PROPN
+,	O	_	,	PUNCT
+Signor	B-person	NIL	Signor	PROPN
+Garcia	I-person	NIL	Garcia	PROPN
+,	O	_	,	PUNCT
+Signor	B-person	Q3266332	Signor	PROPN
+de	I-person	Q3266332	de	PROPN
+Begnis	I-person	Q3266332	Begnis	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	O	_	Mr.	PROPN
+oo	O	_	oo	PROPN
+Phillips	O	_	Phillips	PROPN

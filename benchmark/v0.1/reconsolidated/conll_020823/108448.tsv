@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1873-366.txt_2531
+#document_date:1873
+#sent_text:In writing these Chants for the Te Deum I have divided the TE DEUM intoits doctrinal parts.
+In	O	_	in	ADP
+writing	O	_	write	VERB
+these	O	_	these	DET
+Chants	O	_	chant	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+Te	B-music	Q743376	Te	PROPN
+Deum	I-music	Q743376	Deum	PROPN
+I	O	_	I	PRON
+have	O	_	have	AUX
+divided	O	_	divide	VERB
+the	O	_	the	DET
+TE	B-music	Q743376	TE	PROPN
+DEUM	I-music	Q743376	DEUM	PROPN
+intoits	O	_	intoits	ADP
+doctrinal	O	_	doctrinal	ADJ
+parts	O	_	part	NOUN
+.	O	_	.	PUNCT

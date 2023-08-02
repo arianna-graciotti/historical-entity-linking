@@ -1,0 +1,15 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_1129
+#document_date:1868
+#sent_text:Piano Concerto, No. 2, B flat, Beethoven.
+Piano	B-music	Q210203	Piano	PROPN
+Concerto	I-music	Q210203	Concerto	PROPN
+,	I-music	Q210203	,	PUNCT
+No	I-music	Q210203	no	NOUN
+.	I-music	Q210203	.	NOUN
+2	I-music	Q210203	2	NUM
+,	I-music	Q210203	,	PUNCT
+B	I-music	Q210203	b	NOUN
+flat	I-music	Q210203	flat	ADJ
+,	I-music	Q210203	,	PUNCT
+Beethoven	I-music	Q210203	Beethoven	PROPN
+.	I-music	Q210203	.	PUNCT

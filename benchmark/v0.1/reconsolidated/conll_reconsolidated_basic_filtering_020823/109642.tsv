@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1873-366.txt_4526
+#document_date:1873
+#sent_text:From Yerdi's “Tn TRovaTore.
+From	O	_	from	ADP
+Yerdi	B-person	Q7317	Yerdi	PROPN
+'s	O	_	's	PART
+“	O	_	"	PUNCT
+Tn	B-work-of-art	Q203470	Tn	PROPN
+TRovaTore	I-work-of-art	Q203470	TRovaTore	PROPN
+.	O	_	.	PUNCT

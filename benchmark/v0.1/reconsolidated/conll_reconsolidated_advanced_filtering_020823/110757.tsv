@@ -1,0 +1,25 @@
+#document_id:TheMusicalWorld__1843-038.txt_411
+#document_date:1843
+#sent_text:The finale to Fidelio was the concluding piece of the first part, the principal singers taking part in the performance.
+The	O	_	the	DET
+finale	O	_	finale	NOUN
+to	O	_	to	ADP
+Fidelio	B-music	Q193778	Fidelio	PROPN
+was	O	_	be	AUX
+the	O	_	the	DET
+concluding	O	_	conclude	VERB
+piece	O	_	piece	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+part	O	_	part	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+principal	O	_	principal	ADJ
+singers	O	_	singer	NOUN
+taking	O	_	take	VERB
+part	O	_	part	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+performance	O	_	performance	NOUN
+.	O	_	.	PUNCT

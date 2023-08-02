@@ -1,0 +1,12 @@
+#document_id:TheMusicalWorld__1844-006.txt_482
+#document_date:1844
+#sent_text:Mr. John Parry sings at Bath on Saturday.
+Mr.	B-person	Q6251304	Mr.	PROPN
+John	I-person	Q6251304	John	PROPN
+Parry	I-person	Q6251304	Parry	PROPN
+sings	O	_	sing	VERB
+at	O	_	at	ADP
+Bath	B-city	Q22889	Bath	PROPN
+on	O	_	on	ADP
+Saturday	O	_	Saturday	PROPN
+.	O	_	.	PUNCT

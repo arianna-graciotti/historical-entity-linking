@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_243
+#document_date:1826
+#sent_text:Sketch of the State of Music i in London —August, 1826 ..... 13)
+Sketch	O	_	Sketch	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+State	O	_	State	PROPN
+of	O	_	of	ADP
+Music	O	_	Music	PROPN
+i	O	_	i	PROPN
+in	O	_	in	ADP
+London	B-city	Q84	London	PROPN
+—	O	_	—	PUNCT
+August	O	_	August	PROPN
+,	O	_	,	PUNCT
+1826	O	_	1826	NUM
+.....	O	_	.....	PUNCT
+13	O	_	13	NUM
+)	O	_	)	PUNCT

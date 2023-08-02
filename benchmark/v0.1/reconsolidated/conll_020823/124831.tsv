@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1833-005.txt_90
+#document_date:1833
+#sent_text:This dramatic entertainment was called ‘ Le Grazie vendicate.’
+This	O	_	this	DET
+dramatic	O	_	dramatic	ADJ
+entertainment	O	_	entertainment	NOUN
+was	O	_	be	AUX
+called	O	_	call	VERB
+‘	O	_	'	PUNCT
+Le	B-opera	NIL	Le	PROPN
+Grazie	I-opera	NIL	Grazie	PROPN
+vendicate	I-opera	NIL	vendicate	PROPN
+.	O	_	.	PUNCT
+’	O	_	'	PUNCT

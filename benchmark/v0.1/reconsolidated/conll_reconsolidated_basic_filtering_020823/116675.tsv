@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1267
+#document_date:1824
+#sent_text:Eichner died at the beginning a of the year 1777.
+Eichner	B-person	Q473837	Eichner	PROPN
+died	O	_	die	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+beginning	O	_	beginning	NOUN
+a	O	_	a	PRON
+of	O	_	of	ADP
+the	O	_	the	DET
+year	O	_	year	NOUN
+1777	O	_	1777	NUM
+.	O	_	.	PUNCT

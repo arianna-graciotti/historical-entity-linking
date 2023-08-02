@@ -1,0 +1,14 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_1105
+#document_date:1873
+#sent_text:who would insist upon the mountain's coming to Mahomet.
+who	O	_	who	PRON
+would	O	_	would	AUX
+insist	O	_	insist	VERB
+upon	O	_	upon	SCONJ
+the	O	_	the	DET
+mountain	O	_	mountain	NOUN
+'s	O	_	's	PART
+coming	O	_	come	VERB
+to	O	_	to	ADP
+Mahomet	B-person	Q9458	Mahomet	PROPN
+.	O	_	.	PUNCT

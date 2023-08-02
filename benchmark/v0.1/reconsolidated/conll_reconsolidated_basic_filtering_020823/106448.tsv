@@ -1,0 +1,42 @@
+#document_id:TheMusicalTimes__1876-397.txt_3506
+#document_date:1876
+#sent_text:2 viclins, viola, cello, basso, 2 piccolos, 2 oboes, 2 clarinets, 2 bassoons, 2 horns, 3 trombones, 2 ophicleides, tympani, cymbals, 2trumpets, big drum.
+2	O	_	2	NUM
+viclins	O	_	viclin	NOUN
+,	O	_	,	PUNCT
+viola	O	_	viola	NOUN
+,	O	_	,	PUNCT
+cello	O	_	cello	NOUN
+,	O	_	,	PUNCT
+basso	O	_	basso	NOUN
+,	O	_	,	PUNCT
+2	O	_	2	NUM
+piccolos	O	_	piccolo	NOUN
+,	O	_	,	PUNCT
+2	O	_	2	NUM
+oboes	O	_	oboe	NOUN
+,	O	_	,	PUNCT
+2	O	_	2	NUM
+clarinets	O	_	clarinet	NOUN
+,	O	_	,	PUNCT
+2	O	_	2	NUM
+bassoons	O	_	bassoon	NOUN
+,	O	_	,	PUNCT
+2	O	_	2	NUM
+horns	O	_	horn	NOUN
+,	O	_	,	PUNCT
+3	O	_	3	NUM
+trombones	O	_	trombone	NOUN
+,	O	_	,	PUNCT
+2	O	_	2	NUM
+ophicleides	O	_	ophicleide	NOUN
+,	O	_	,	PUNCT
+tympani	O	_	tympani	NOUN
+,	O	_	,	PUNCT
+cymbals	O	_	cymbal	NOUN
+,	O	_	,	PUNCT
+2trumpets	O	_	2trumpet	NOUN
+,	O	_	,	PUNCT
+big	O	_	big	ADJ
+drum	O	_	drum	NOUN
+.	O	_	.	PUNCT

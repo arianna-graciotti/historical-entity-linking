@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_727
+#document_date:1870
+#sent_text:Edinburgh is crowded, Edinburgh cannot be doubt.
+Edinburgh	B-city	Q23436	Edinburgh	PROPN
+is	O	_	be	AUX
+crowded	O	_	crowded	ADJ
+,	O	_	,	PUNCT
+Edinburgh	B-city	Q23436	Edinburgh	PROPN
+can	O	_	can	AUX
+not	O	_	not	AUX
+be	O	_	be	AUX
+doubt	O	_	doubt	ADJ
+.	O	_	.	PUNCT

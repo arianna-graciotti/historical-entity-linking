@@ -1,0 +1,78 @@
+{
+    "id": "122799",
+    "text": "next essay will contain observations on the music of the Persians.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1178",
+    "namedEntities": [
+        {
+            "variable": "z6",
+            "type": "country",
+            "entityName": "Persia",
+            "wikis": [
+                {
+                    "wiki": "Iran",
+                    "link": "https://en.wikipedia.org/wiki/Iran",
+                    "qid": "Q794",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "mod",
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:mod"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "Persians",
+                    "assessment": "wrong",
+                    "entityType": ""
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

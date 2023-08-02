@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_542
+#document_date:1824
+#sent_text:Performed in the San Mosé, at Venice.
+Performed	O	_	perform	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+San	B-theatre	Q2575251	San	PROPN
+Mosé	I-theatre	Q2575251	Mosé	PROPN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+Venice	B-city	Q641	Venice	PROPN
+.	O	_	.	PUNCT

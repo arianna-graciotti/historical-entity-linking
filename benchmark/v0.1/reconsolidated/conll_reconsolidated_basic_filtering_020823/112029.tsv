@@ -1,0 +1,13 @@
+#document_id:TheMusicalWorld__1844-006.txt_210
+#document_date:1844
+#sent_text:We are happy to announce The annual report CORRESPONDENCE.
+We	O	_	we	PRON
+are	O	_	be	AUX
+happy	O	_	happy	ADJ
+to	O	_	to	PART
+announce	O	_	announce	VERB
+The	O	_	the	DET
+annual	O	_	annual	ADJ
+report	O	_	report	NOUN
+CORRESPONDENCE	O	_	CORRESPONDENCE	PROPN
+.	O	_	.	PUNCT

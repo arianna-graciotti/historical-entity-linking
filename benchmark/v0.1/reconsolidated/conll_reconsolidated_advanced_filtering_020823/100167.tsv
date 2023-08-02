@@ -1,0 +1,23 @@
+#document_id:TheMusicalTimes__1876-402.txt_2272
+#document_date:1876
+#sent_text:Compiled by John Dobson, and for the most part revised ot rearranged by H. J. Gauntlett, Mus.
+Compiled	O	_	compile	VERB
+by	O	_	by	ADP
+John	B-person	NIL	John	PROPN
+Dobson	I-person	NIL	Dobson	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+for	O	_	for	ADP
+the	O	_	the	DET
+most	O	_	most	ADJ
+part	O	_	part	NOUN
+revised	O	_	revise	VERB
+ot	O	_	ot	X
+rearranged	O	_	rearrange	VERB
+by	O	_	by	ADP
+H.	B-person	Q11925412	H.	PROPN
+J.	I-person	Q11925412	J.	PROPN
+Gauntlett	I-person	Q11925412	Gauntlett	PROPN
+,	O	_	,	PUNCT
+Mus	O	_	Mus	PROPN
+.	O	_	.	PUNCT

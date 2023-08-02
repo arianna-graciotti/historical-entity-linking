@@ -1,0 +1,23 @@
+#document_id:TheMusicalWorld__1844-006.txt_526
+#document_date:1844
+#sent_text:Rachel would proceed to London in the month of June, and play at the St. James’s Theatre.
+Rachel	B-person	NIL	Rachel	PROPN
+would	O	_	would	AUX
+proceed	O	_	proceed	VERB
+to	O	_	to	ADP
+London	B-city	Q84	London	PROPN
+in	O	_	in	ADP
+the	O	_	the	DET
+month	O	_	month	NOUN
+of	O	_	of	ADP
+June	O	_	June	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+play	O	_	play	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+St.	B-theatre	Q7593475	St.	PROPN
+James	I-theatre	Q7593475	James	PROPN
+’s	I-theatre	Q7593475	’s	PART
+Theatre	I-theatre	Q7593475	Theatre	PROPN
+.	O	_	.	PUNCT

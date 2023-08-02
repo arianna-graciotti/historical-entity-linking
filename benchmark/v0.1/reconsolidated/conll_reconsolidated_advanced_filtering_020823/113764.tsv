@@ -1,0 +1,25 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1493
+#document_date:1825
+#sent_text:A work, under the title of La vera idea delle Musicale Numeriche segnature, was published at Venice in 1799.
+A	O	_	a	DET
+work	O	_	work	NOUN
+,	O	_	,	PUNCT
+under	O	_	under	ADP
+the	O	_	the	DET
+title	O	_	title	NOUN
+of	O	_	of	ADP
+La	B-book	NIL	La	PROPN
+vera	I-book	NIL	vera	X
+idea	I-book	NIL	idea	X
+delle	I-book	NIL	delle	X
+Musicale	I-book	NIL	Musicale	PROPN
+Numeriche	I-book	NIL	Numeriche	PROPN
+segnature	I-book	NIL	segnature	PROPN
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+published	O	_	publish	VERB
+at	O	_	at	ADP
+Venice	B-city	Q641	Venice	PROPN
+in	O	_	in	ADP
+1799	O	_	1799	NUM
+.	O	_	.	PUNCT

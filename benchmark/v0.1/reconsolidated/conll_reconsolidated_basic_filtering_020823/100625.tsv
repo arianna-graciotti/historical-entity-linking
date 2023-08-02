@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-402.txt_2972
+#document_date:1876
+#sent_text:” COMPOSED BY HENRY SMART,
+”	O	_	"	PUNCT
+COMPOSED	O	_	compose	VERB
+BY	O	_	by	ADP
+HENRY	B-person	Q466189	HENRY	PROPN
+SMART	I-person	Q466189	SMART	PROPN
+,	O	_	,	PUNCT

@@ -1,0 +1,24 @@
+#document_id:TheHarmonicon__1833-005.txt_1936
+#document_date:1833
+#sent_text:Concerning the march and its author, we beg to refer the reader to our Review for the present month,
+Concerning	O	_	concern	VERB
+the	O	_	the	DET
+march	O	_	march	PROPN
+and	O	_	and	CCONJ
+its	O	_	its	PRON
+author	O	_	author	NOUN
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+beg	O	_	beg	VERB
+to	O	_	to	PART
+refer	O	_	refer	VERB
+the	O	_	the	DET
+reader	O	_	reader	NOUN
+to	O	_	to	ADP
+our	O	_	our	PRON
+Review	O	_	Review	PROPN
+for	O	_	for	ADP
+the	O	_	the	DET
+present	O	_	present	ADJ
+month	O	_	month	NOUN
+,	O	_	,	PUNCT

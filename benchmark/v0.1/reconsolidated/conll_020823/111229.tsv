@@ -1,0 +1,9 @@
+#document_id:TheMusicalWorld__1843-036.txt_149
+#document_date:1843
+#sent_text:M. Blanchard is too modest.
+M.	B-person	Q20240960	M.	PROPN
+Blanchard	I-person	Q20240960	Blanchard	PROPN
+is	O	_	be	AUX
+too	O	_	too	ADV
+modest	O	_	modest	ADJ
+.	O	_	.	PUNCT

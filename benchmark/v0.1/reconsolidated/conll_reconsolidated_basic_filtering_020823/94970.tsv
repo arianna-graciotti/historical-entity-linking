@@ -1,0 +1,26 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_1399
+#document_date:1875
+#sent_text:(1 Movement, with Cadenza by Moscheles, ) Quintet and 2d Piano Accompaniment, ..” Miss Jennie H. Baxter.
+(	O	_	(	PUNCT
+1	O	_	1	NUM
+Movement	O	_	movement	NOUN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+Cadenza	O	_	Cadenza	PROPN
+by	O	_	by	ADP
+Moscheles	O	_	Moscheles	PROPN
+,	O	_	,	PUNCT
+)	O	_	)	PUNCT
+Quintet	O	_	quintet	NOUN
+and	O	_	and	CCONJ
+2d	O	_	2d	NUM
+Piano	O	_	Piano	PROPN
+Accompaniment	O	_	accompaniment	NOUN
+,	O	_	,	PUNCT
+..	O	_	..	PUNCT
+”	O	_	"	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Jennie	I-person	NIL	Jennie	PROPN
+H.	I-person	NIL	H.	PROPN
+Baxter	I-person	NIL	Baxter	PROPN
+.	O	_	.	PUNCT

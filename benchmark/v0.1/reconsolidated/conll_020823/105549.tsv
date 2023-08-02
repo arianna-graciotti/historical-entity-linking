@@ -1,0 +1,30 @@
+#document_id:TheMusicalTimes__1876-397.txt_2270
+#document_date:1876
+#sent_text:The musical arrangements were under the direction of the organist and choirmaster of the parish church, Mr. J. V, Roberts, Mus, Bac.
+The	O	_	the	DET
+musical	O	_	musical	ADJ
+arrangements	O	_	arrangement	NOUN
+were	O	_	be	AUX
+under	O	_	under	ADP
+the	O	_	the	DET
+direction	O	_	direction	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+organist	O	_	organist	NOUN
+and	O	_	and	CCONJ
+choirmaster	O	_	choirmaster	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+parish	O	_	parish	NOUN
+church	O	_	church	NOUN
+,	O	_	,	PUNCT
+Mr.	B-person	Q56183619	Mr.	PROPN
+J.	I-person	Q56183619	J.	PROPN
+V	I-person	Q56183619	V	PROPN
+,	I-person	Q56183619	,	PUNCT
+Roberts	I-person	Q56183619	Roberts	PROPN
+,	O	_	,	PUNCT
+Mus	O	_	Mus	PROPN
+,	O	_	,	PUNCT
+Bac	O	_	Bac	PROPN
+.	O	_	.	PUNCT

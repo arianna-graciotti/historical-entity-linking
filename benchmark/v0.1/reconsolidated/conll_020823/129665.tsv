@@ -1,0 +1,13 @@
+#document_id:TheHarmonicon__1832-012.txt_1576
+#document_date:1832
+#sent_text:(Collard, Collard, and Co.) 5.
+(	O	_	(	PUNCT
+Collard	B-person	NIL	Collard	PROPN
+,	O	_	,	PUNCT
+Collard	B-person	NIL	Collard	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Co.	O	_	Co.	PROPN
+)	O	_	)	PUNCT
+5	O	_	5	NUM
+.	O	_	.	PUNCT

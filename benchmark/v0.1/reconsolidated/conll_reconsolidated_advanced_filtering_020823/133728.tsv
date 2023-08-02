@@ -1,0 +1,20 @@
+#document_id:TheHarmonicon__1828-001.txt_1842
+#document_date:1828
+#sent_text:the Bacchanalian Song from Spontini’s Danaides, and several other pieces too numerous to particularize.
+the	O	_	the	DET
+Bacchanalian	B-music	NIL	bacchanalian	ADJ
+Song	I-music	NIL	Song	PROPN
+from	O	_	from	ADP
+Spontini	B-person	Q168485	Spontini	PROPN
+’s	O	_	’s	PART
+Danaides	B-opera	Q1751750	danaide	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+several	O	_	several	ADJ
+other	O	_	other	ADJ
+pieces	O	_	piece	NOUN
+too	O	_	too	ADV
+numerous	O	_	numerous	ADJ
+to	O	_	to	PART
+particularize	O	_	particularize	VERB
+.	O	_	.	PUNCT

@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1465
+#document_date:1825
+#sent_text:Andrea Lucchesi excelled greatly as a performer on the organ, which instrument Andrea Lucchesi had studied much in Italy.
+Andrea	B-person	Q299510	Andrea	PROPN
+Lucchesi	I-person	Q299510	Lucchesi	PROPN
+excelled	O	_	excel	VERB
+greatly	O	_	greatly	ADV
+as	O	_	as	ADP
+a	O	_	a	DET
+performer	O	_	performer	NOUN
+on	O	_	on	ADP
+the	O	_	the	DET
+organ	O	_	organ	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	DET
+instrument	O	_	instrument	NOUN
+Andrea	B-person	Q299510	Andrea	PROPN
+Lucchesi	I-person	Q299510	Lucchesi	PROPN
+had	O	_	have	AUX
+studied	O	_	study	VERB
+much	O	_	much	ADV
+in	O	_	in	ADP
+Italy	B-country	Q38	Italy	PROPN
+.	O	_	.	PUNCT

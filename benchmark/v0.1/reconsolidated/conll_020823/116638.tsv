@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1224
+#document_date:1824
+#sent_text:Blaise, bassoon at the Theatre Italien at Paris.
+Blaise	B-person	Q2824775	Blaise	PROPN
+,	O	_	,	PUNCT
+bassoon	O	_	bassoon	NOUN
+at	O	_	at	ADP
+the	O	_	the	DET
+Theatre	B-theatre	NIL	Theatre	PROPN
+Italien	I-theatre	NIL	Italien	PROPN
+at	O	_	at	ADP
+Paris	B-city	Q90	Paris	PROPN
+.	O	_	.	PUNCT

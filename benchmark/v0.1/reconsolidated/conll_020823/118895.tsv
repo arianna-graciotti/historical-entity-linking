@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_287
+#document_date:1828
+#sent_text:State of Music in Vienna...
+State	O	_	State	PROPN
+of	O	_	of	ADP
+Music	O	_	Music	PROPN
+in	O	_	in	ADP
+Vienna	B-city	Q1741	Vienna	PROPN
+...	O	_	...	PUNCT

@@ -1,0 +1,26 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2640
+#document_date:NaN
+#sent_text:Both these pieces improve on repetition, “ Say, have you loved,” isa duet for soprano: and tenor.
+Both	O	_	both	DET
+these	O	_	these	DET
+pieces	O	_	piece	NOUN
+improve	O	_	improve	VERB
+on	O	_	on	ADP
+repetition	O	_	repetition	NOUN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+Say	B-nan	NIL	say	VERB
+,	I-nan	NIL	,	PUNCT
+have	I-nan	NIL	have	AUX
+you	I-nan	NIL	you	PRON
+loved	I-nan	NIL	love	VERB
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+isa	O	_	isa	DET
+duet	O	_	duet	NOUN
+for	O	_	for	ADP
+soprano	O	_	soprano	NOUN
+:	O	_	:	PUNCT
+and	O	_	and	CCONJ
+tenor	O	_	tenor	NOUN
+.	O	_	.	PUNCT

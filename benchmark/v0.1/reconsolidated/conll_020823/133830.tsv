@@ -1,0 +1,23 @@
+#document_id:TheHarmonicon__1828-001.txt_1956
+#document_date:1828
+#sent_text:Tus pretty, reasonably-sized theatre is fitting up for the reception of a company of French performers.
+Tus	O	_	tus	ADJ
+pretty	O	_	pretty	ADJ
+,	O	_	,	PUNCT
+reasonably	O	_	reasonably	ADV
+-	O	_	-	PUNCT
+sized	O	_	sized	ADJ
+theatre	O	_	theatre	NOUN
+is	O	_	be	AUX
+fitting	O	_	fit	VERB
+up	O	_	up	ADP
+for	O	_	for	ADP
+the	O	_	the	DET
+reception	O	_	reception	NOUN
+of	O	_	of	ADP
+a	O	_	a	DET
+company	O	_	company	NOUN
+of	O	_	of	ADP
+French	O	_	french	ADJ
+performers	O	_	performer	NOUN
+.	O	_	.	PUNCT

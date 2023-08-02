@@ -1,0 +1,19 @@
+#document_id:TheMusicalWorld__1843-038.txt_278
+#document_date:1843
+#sent_text:Miss C. Novello, Miss Rainforth, Mr. Braham, Dolce ne guai ristoro”..
+Miss	O	_	Miss	PROPN
+C.	O	_	C.	PROPN
+Novello	O	_	Novello	PROPN
+,	O	_	,	PUNCT
+Miss	O	_	Miss	PROPN
+Rainforth	O	_	Rainforth	PROPN
+,	O	_	,	PUNCT
+Mr.	B-person	NIL	Mr.	PROPN
+Braham	I-person	NIL	Braham	PROPN
+,	O	_	,	PUNCT
+Dolce	O	_	dolce	X
+ne	O	_	ne	X
+guai	O	_	guai	X
+ristoro	O	_	ristoro	X
+”	O	_	"	PUNCT
+..	O	_	..	PUNCT

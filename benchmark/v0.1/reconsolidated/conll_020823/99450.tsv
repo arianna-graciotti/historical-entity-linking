@@ -1,0 +1,29 @@
+#document_id:TheMusicalTimes__1876-402.txt_1237
+#document_date:1876
+#sent_text:F. J. Amor, H. Lazarus, Walter Pettit, F. Ralph, P. Sainton, J. Thomas, A. White, and the Principal.
+F.	O	_	F.	PROPN
+J.	O	_	J.	PROPN
+Amor	O	_	Amor	PROPN
+,	O	_	,	PUNCT
+H.	B-person	Q5724751	H.	PROPN
+Lazarus	I-person	Q5724751	Lazarus	PROPN
+,	O	_	,	PUNCT
+Walter	O	_	Walter	PROPN
+Pettit	O	_	Pettit	PROPN
+,	O	_	,	PUNCT
+F.	O	_	F.	PROPN
+Ralph	O	_	Ralph	PROPN
+,	O	_	,	PUNCT
+P.	O	_	P.	PROPN
+Sainton	O	_	Sainton	PROPN
+,	O	_	,	PUNCT
+J.	B-person	Q1701921	J.	PROPN
+Thomas	I-person	Q1701921	Thomas	PROPN
+,	O	_	,	PUNCT
+A.	O	_	A.	PROPN
+White	O	_	White	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+Principal	O	_	Principal	PROPN
+.	O	_	.	PUNCT

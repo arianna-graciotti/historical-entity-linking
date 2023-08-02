@@ -1,0 +1,33 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_326
+#document_date:1868
+#sent_text:Mr. H. F. Chorley, “who in spite ‘of his prejudices and his predilections stands forth a shrewd, broad-seeing, and thoroughly honest critic.
+Mr.	B-person	Q5719397	Mr.	PROPN
+H.	I-person	Q5719397	H.	PROPN
+F.	I-person	Q5719397	F.	PROPN
+Chorley	I-person	Q5719397	Chorley	PROPN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+who	O	_	who	PRON
+in	O	_	in	ADP
+spite	O	_	spite	NOUN
+‘	O	_	'	PUNCT
+of	O	_	of	ADP
+his	O	_	his	PRON
+prejudices	O	_	prejudice	NOUN
+and	O	_	and	CCONJ
+his	O	_	his	PRON
+predilections	O	_	predilection	NOUN
+stands	O	_	stand	VERB
+forth	O	_	forth	ADV
+a	O	_	a	DET
+shrewd	O	_	shrewd	ADJ
+,	O	_	,	PUNCT
+broad	O	_	broad	ADV
+-	O	_	-	PUNCT
+seeing	O	_	see	VERB
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+thoroughly	O	_	thoroughly	ADV
+honest	O	_	honest	ADJ
+critic	O	_	critic	NOUN
+.	O	_	.	PUNCT

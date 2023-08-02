@@ -1,0 +1,14 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_1322
+#document_date:1875
+#sent_text:; Schumann's and Liszt's Fugues con Be ALCL:
+;	O	_	;	PUNCT
+Schumann	B-person	Q7351	Schumann	PROPN
+'s	O	_	's	PART
+and	O	_	and	CCONJ
+Liszt	B-person	Q41309	Liszt	PROPN
+'s	O	_	's	PART
+Fugues	O	_	fugue	NOUN
+con	O	_	con	AUX
+Be	O	_	be	AUX
+ALCL	O	_	alcl	X
+:	O	_	:	PUNCT

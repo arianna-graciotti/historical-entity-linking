@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1467
+#document_date:1825
+#sent_text:In his church music Andrea Lucchesi.
+In	O	_	in	ADP
+his	O	_	his	PRON
+church	O	_	church	NOUN
+music	O	_	music	NOUN
+Andrea	B-person	Q299510	Andrea	PROPN
+Lucchesi	I-person	Q299510	Lucchesi	PROPN
+.	O	_	.	PUNCT

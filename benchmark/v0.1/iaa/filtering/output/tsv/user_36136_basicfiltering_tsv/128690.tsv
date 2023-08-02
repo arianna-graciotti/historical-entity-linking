@@ -1,0 +1,9 @@
+#document_id:TheHarmonicon__1832-012.txt_349
+#document_date:NaN
+#sent_text:The testimony of Mr. Pelzer.
+The	O	_	the	DET
+testimony	O	_	testimony	NOUN
+of	O	_	of	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Pelzer	I-person	NIL	Pelzer	PROPN
+.	O	_	.	PUNCT

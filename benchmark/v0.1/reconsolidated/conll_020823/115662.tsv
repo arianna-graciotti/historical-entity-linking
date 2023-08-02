@@ -1,0 +1,32 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_4028
+#document_date:1825
+#sent_text:Dr. Harington was greatly overcome by the scene, and could only exclaim, ‘Dr. Harington is an angel,’ as Dr. Harington left the room.
+Dr.	B-person	Q18671401	Dr.	PROPN
+Harington	I-person	Q18671401	Harington	PROPN
+was	O	_	be	AUX
+greatly	O	_	greatly	ADV
+overcome	O	_	overcome	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+scene	O	_	scene	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+could	O	_	could	AUX
+only	O	_	only	ADV
+exclaim	O	_	exclaim	VERB
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+Dr.	B-person	Q18671401	Dr.	PROPN
+Harington	I-person	Q18671401	Harington	PROPN
+is	O	_	be	AUX
+an	O	_	an	DET
+angel	O	_	angel	NOUN
+,	O	_	,	PUNCT
+’	O	_	'	PUNCT
+as	O	_	as	SCONJ
+Dr.	B-person	Q18671401	Dr.	PROPN
+Harington	I-person	Q18671401	Harington	PROPN
+left	O	_	leave	VERB
+the	O	_	the	DET
+room	O	_	room	NOUN
+.	O	_	.	PUNCT

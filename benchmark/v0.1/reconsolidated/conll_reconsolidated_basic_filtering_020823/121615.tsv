@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4289
+#document_date:1828
+#sent_text:vastly inferior to the musicians of Italy and:
+vastly	O	_	vastly	ADV
+inferior	O	_	inferior	ADJ
+to	O	_	to	ADP
+the	O	_	the	DET
+musicians	O	_	musician	NOUN
+of	O	_	of	ADP
+Italy	B-country	Q38	Italy	PROPN
+and	O	_	and	CCONJ
+:	O	_	:	PUNCT

@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1246
+#document_date:1828
+#sent_text:This enthusiastic composer, rich in talent, of the school of Bartolomeo Felici, wrote in the purest style.
+This	O	_	this	DET
+enthusiastic	O	_	enthusiastic	ADJ
+composer	O	_	composer	NOUN
+,	O	_	,	PUNCT
+rich	O	_	rich	ADJ
+in	O	_	in	ADP
+talent	O	_	talent	NOUN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+the	O	_	the	DET
+school	O	_	school	NOUN
+of	O	_	of	ADP
+Bartolomeo	B-person	Q20757883	Bartolomeo	PROPN
+Felici	I-person	Q20757883	Felici	PROPN
+,	O	_	,	PUNCT
+wrote	O	_	write	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+purest	O	_	pure	ADJ
+style	O	_	style	NOUN
+.	O	_	.	PUNCT

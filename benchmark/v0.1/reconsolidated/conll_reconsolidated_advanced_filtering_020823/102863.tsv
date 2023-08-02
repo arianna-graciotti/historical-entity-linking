@@ -1,0 +1,22 @@
+#document_id:TheMusicalTimes__1875-388.txt_2102
+#document_date:1875
+#sent_text:Mr. Waite, of Clifton, ably led the band, and Mr. Millington presided at the harmonium.
+Mr.	B-person	NIL	Mr.	PROPN
+Waite	I-person	NIL	Waite	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Clifton	B-city-district	Q2376216	Clifton	PROPN
+,	O	_	,	PUNCT
+ably	O	_	ably	ADV
+led	O	_	lead	VERB
+the	O	_	the	DET
+band	O	_	band	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+Millington	I-person	NIL	Millington	PROPN
+presided	O	_	preside	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+harmonium	O	_	harmonium	NOUN
+.	O	_	.	PUNCT

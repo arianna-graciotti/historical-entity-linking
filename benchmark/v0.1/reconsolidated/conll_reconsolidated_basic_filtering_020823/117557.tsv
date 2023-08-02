@@ -1,0 +1,36 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2459
+#document_date:1824
+#sent_text:While we are upon this ‘theme, we cannot avoid to notice a grand concert, given at the King’s Theatre, on Whitsun Eve, by Mr. Wm.
+While	O	_	while	SCONJ
+we	O	_	we	PRON
+are	O	_	be	AUX
+upon	O	_	upon	SCONJ
+this	O	_	this	DET
+‘	O	_	'	PUNCT
+theme	O	_	theme	NOUN
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+can	O	_	can	AUX
+not	O	_	not	AUX
+avoid	O	_	avoid	VERB
+to	O	_	to	PART
+notice	O	_	notice	VERB
+a	O	_	a	DET
+grand	O	_	grand	ADJ
+concert	O	_	concert	NOUN
+,	O	_	,	PUNCT
+given	O	_	give	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+King	B-theater	Q1155331	King	PROPN
+’s	I-theater	Q1155331	’s	PART
+Theatre	I-theater	Q1155331	Theatre	PROPN
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+Whitsun	O	_	Whitsun	PROPN
+Eve	O	_	Eve	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Wm	I-person	NIL	Wm	PROPN
+.	I-person	NIL	.	PUNCT

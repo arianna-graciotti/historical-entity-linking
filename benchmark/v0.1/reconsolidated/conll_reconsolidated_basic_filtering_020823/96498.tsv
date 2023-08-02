@@ -1,0 +1,9 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_275
+#document_date:1868
+#sent_text:Taylor - were , ever,
+Taylor	O	_	Taylor	PROPN
+-	O	_	-	PUNCT
+were	O	_	be	AUX
+,	O	_	,	PUNCT
+ever	O	_	ever	ADV
+,	O	_	,	PUNCT

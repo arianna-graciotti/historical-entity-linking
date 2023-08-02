@@ -1,0 +1,19 @@
+#document_id:TheHarmonicon__1832-012.txt_1878
+#document_date:1832
+#sent_text:The Societa Filodramatica is about to produce Bellini’s opera, I Montecchi e Capuleti.
+The	B-organization	NIL	the	DET
+Societa	I-organization	NIL	Societa	PROPN
+Filodramatica	I-organization	NIL	Filodramatica	PROPN
+is	O	_	be	AUX
+about	O	_	about	ADP
+to	O	_	to	PART
+produce	O	_	produce	VERB
+Bellini	B-person	Q170209	Bellini	PROPN
+’s	O	_	’s	PART
+opera	O	_	opera	NOUN
+,	O	_	,	PUNCT
+I	B-opera	Q1071307	I	PROPN
+Montecchi	I-opera	Q1071307	Montecchi	PROPN
+e	I-opera	Q1071307	e	X
+Capuleti	I-opera	Q1071307	Capuleti	PROPN
+.	O	_	.	PUNCT

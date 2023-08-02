@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3647
+#document_date:1828
+#sent_text:and an extra sum of (we believe) ten guineas for the aid of Mr. Pixis, her accompanist.
+and	O	_	and	CCONJ
+an	O	_	an	DET
+extra	O	_	extra	ADJ
+sum	O	_	sum	NOUN
+of	O	_	of	ADP
+(	O	_	(	PUNCT
+we	O	_	we	PRON
+believe	O	_	believe	VERB
+)	O	_	)	PUNCT
+ten	O	_	ten	NUM
+guineas	O	_	guinea	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+aid	O	_	aid	NOUN
+of	O	_	of	ADP
+Mr.	B-person	Q571716	Mr.	PROPN
+Pixis	I-person	Q571716	Pixis	PROPN
+,	O	_	,	PUNCT
+her	O	_	her	PRON
+accompanist	O	_	accompanist	NOUN
+.	O	_	.	PUNCT

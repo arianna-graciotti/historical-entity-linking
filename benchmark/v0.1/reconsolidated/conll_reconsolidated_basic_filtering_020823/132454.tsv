@@ -1,0 +1,19 @@
+#document_id:TheHarmonicon__1828-001.txt_234
+#document_date:1828
+#sent_text:the Déuce for the Haymarket Theatre; and in 1796,-My Gragdniother, for Drury Lane.
+the	B-work-of-art	NIL	the	DET
+Déuce	I-work-of-art	NIL	Déuce	PROPN
+for	O	_	for	ADP
+the	O	_	the	DET
+Haymarket	B-theatre	Q540426	Haymarket	PROPN
+Theatre	I-theatre	Q540426	Theatre	PROPN
+;	O	_	;	PUNCT
+and	O	_	and	CCONJ
+in	O	_	in	ADP
+1796,-My	O	_	1796,-my	NUM
+Gragdniother	O	_	Gragdniother	PROPN
+,	O	_	,	PUNCT
+for	O	_	for	ADP
+Drury	B-theatre	Q1756626	Drury	PROPN
+Lane	I-theatre	Q1756626	Lane	PROPN
+.	O	_	.	PUNCT

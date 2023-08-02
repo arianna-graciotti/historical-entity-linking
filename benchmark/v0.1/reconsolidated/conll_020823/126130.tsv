@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1833-005.txt_1861
+#document_date:1833
+#sent_text:It is also introduced in Elise e Claudio.
+It	O	_	it	PRON
+is	O	_	be	AUX
+also	O	_	also	ADV
+introduced	O	_	introduce	VERB
+in	O	_	in	ADP
+Elise	B-work-of-art	Q3723168	Elise	PROPN
+e	I-work-of-art	Q3723168	e	PROPN
+Claudio	I-work-of-art	Q3723168	Claudio	PROPN
+.	O	_	.	PUNCT

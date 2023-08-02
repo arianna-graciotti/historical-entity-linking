@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1458
+#document_date:1825
+#sent_text:: “ Donna stravagante and Schiava riconosciuta,” 1766.
+:	O	_	:	PUNCT
+“	O	_	"	PUNCT
+Donna	B-work-of-art	NIL	Donna	PROPN
+stravagante	I-work-of-art	NIL	stravagante	PROPN
+and	O	_	and	CCONJ
+Schiava	B-work-of-art	NIL	Schiava	PROPN
+riconosciuta	I-work-of-art	NIL	riconosciuta	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1766	O	_	1766	NUM
+.	O	_	.	PUNCT

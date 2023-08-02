@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1824-016.txt_1358
+#document_date:1824
+#sent_text:But concerning the Duke, there must be an error.
+But	O	_	but	CCONJ
+concerning	O	_	concern	VERB
+the	O	_	the	DET
+Duke	B-person	Q128336	Duke	PROPN
+,	O	_	,	PUNCT
+there	O	_	there	PRON
+must	O	_	must	AUX
+be	O	_	be	AUX
+an	O	_	an	DET
+error	O	_	error	NOUN
+.	O	_	.	PUNCT

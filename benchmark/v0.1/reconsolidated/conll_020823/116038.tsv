@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_459
+#document_date:1824
+#sent_text:Galuppi died in 1785, leaving a numerous and epulent family.
+Galuppi	B-person	Q208338	Galuppi	PROPN
+died	O	_	die	VERB
+in	O	_	in	ADP
+1785	O	_	1785	NUM
+,	O	_	,	PUNCT
+leaving	O	_	leave	VERB
+a	O	_	a	DET
+numerous	O	_	numerous	ADJ
+and	O	_	and	CCONJ
+epulent	O	_	epulent	ADJ
+family	O	_	family	NOUN
+.	O	_	.	PUNCT

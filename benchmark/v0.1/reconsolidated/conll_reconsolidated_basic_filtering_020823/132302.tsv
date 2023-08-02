@@ -1,0 +1,11 @@
+#document_id:TheHarmonicon__1828-001.txt_32
+#document_date:1828
+#sent_text:33 Account of Mr. Onslow’s new Opera
+33	O	_	33	NUM
+Account	O	_	account	NOUN
+of	O	_	of	ADP
+Mr.	B-person	Q380935	Mr.	PROPN
+Onslow	I-person	Q380935	Onslow	PROPN
+’s	O	_	’s	PART
+new	O	_	new	ADJ
+Opera	O	_	opera	NOUN

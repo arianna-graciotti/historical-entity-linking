@@ -1,0 +1,35 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2112
+#document_date:1825
+#sent_text:Luigi Rossi, Arcangelo Corelli,t with other great Italian compesers and imitators of Lulli at Paris, returned to their country with clearer and more distinct ideas of harmony.
+Luigi	B-person	Q472714	Luigi	PROPN
+Rossi	I-person	Q472714	Rossi	PROPN
+,	O	_	,	PUNCT
+Arcangelo	B-person	Q164475	Arcangelo	PROPN
+Corelli	I-person	Q164475	Corelli	PROPN
+,	O	_	,	PUNCT
+t	O	_	t	X
+with	O	_	with	ADP
+other	O	_	other	ADJ
+great	O	_	great	ADJ
+Italian	O	_	italian	ADJ
+compesers	O	_	compeser	NOUN
+and	O	_	and	CCONJ
+imitators	O	_	imitator	NOUN
+of	O	_	of	ADP
+Lulli	B-person	Q1192	Lulli	PROPN
+at	O	_	at	ADP
+Paris	B-city	Q90	Paris	PROPN
+,	O	_	,	PUNCT
+returned	O	_	return	VERB
+to	O	_	to	ADP
+their	O	_	their	PRON
+country	O	_	country	NOUN
+with	O	_	with	ADP
+clearer	O	_	clear	ADJ
+and	O	_	and	CCONJ
+more	O	_	more	ADV
+distinct	O	_	distinct	ADJ
+ideas	O	_	idea	NOUN
+of	O	_	of	ADP
+harmony	O	_	harmony	NOUN
+.	O	_	.	PUNCT

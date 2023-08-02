@@ -1,0 +1,8 @@
+#document_id:TheMusicalWorld__1843-029.txt_525
+#document_date:1843
+#sent_text:Mr. Burns issincerely thanked.
+Mr.	B-person	NIL	Mr.	PROPN
+Burns	I-person	NIL	Burns	PROPN
+issincerely	O	_	issincerely	ADV
+thanked	O	_	thank	VERB
+.	O	_	.	PUNCT

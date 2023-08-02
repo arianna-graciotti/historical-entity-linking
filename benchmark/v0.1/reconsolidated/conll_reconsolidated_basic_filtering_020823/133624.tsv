@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1828-001.txt_1715
+#document_date:1828
+#sent_text:The impression produced by this lady, is thus described in an article printed in the Journal of Professor Voss :— “
+The	O	_	the	DET
+impression	O	_	impression	NOUN
+produced	O	_	produce	VERB
+by	O	_	by	ADP
+this	O	_	this	DET
+lady	O	_	lady	NOUN
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+thus	O	_	thus	ADV
+described	O	_	describe	VERB
+in	O	_	in	ADP
+an	O	_	an	DET
+article	O	_	article	NOUN
+printed	O	_	print	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+Journal	B-journal	NIL	Journal	PROPN
+of	I-journal	NIL	of	ADP
+Professor	I-journal	NIL	Professor	PROPN
+Voss	I-journal	NIL	Voss	PROPN
+:	O	_	:	PUNCT
+—	O	_	—	PUNCT
+“	O	_	"	PUNCT

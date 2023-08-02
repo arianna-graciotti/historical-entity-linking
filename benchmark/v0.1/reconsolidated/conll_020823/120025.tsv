@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1714
+#document_date:1828
+#sent_text:Louis Capotorti—who passes for a harmonist of Durante’ Ss.
+Louis	B-person	Q17992489	Louis	PROPN
+Capotorti	I-person	Q17992489	Capotorti	PROPN
+—	O	_	—	PUNCT
+who	O	_	who	PRON
+passes	O	_	pass	VERB
+for	O	_	for	ADP
+a	O	_	a	DET
+harmonist	O	_	harmonist	NOUN
+of	O	_	of	ADP
+Durante	O	_	Durante	PROPN
+’	O	_	’	PART
+Ss	O	_	Ss	PROPN
+.	O	_	.	PUNCT

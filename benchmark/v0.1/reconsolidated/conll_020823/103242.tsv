@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1875-388.txt_2600
+#document_date:1875
+#sent_text:Duet and Chorus, 14d.
+Duet	O	_	duet	NOUN
+and	O	_	and	CCONJ
+Chorus	O	_	Chorus	PROPN
+,	O	_	,	PUNCT
+14d	O	_	14d	NUM
+.	O	_	.	PUNCT

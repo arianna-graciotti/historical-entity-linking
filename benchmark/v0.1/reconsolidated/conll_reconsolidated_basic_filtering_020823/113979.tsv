@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1759
+#document_date:1825
+#sent_text:He published six sonatas, in 1748, at Paris. .
+He	O	_	he	PRON
+published	O	_	publish	VERB
+six	O	_	six	NUM
+sonatas	O	_	sonata	NOUN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+1748	O	_	1748	NUM
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+Paris	B-city	Q90	Paris	PROPN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

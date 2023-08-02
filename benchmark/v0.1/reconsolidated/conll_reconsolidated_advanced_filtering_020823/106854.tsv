@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1873-366.txt_350
+#document_date:1873
+#sent_text:This pointing of the Canticles is authorised by His Grace the Archbishop of York.
+This	O	_	this	DET
+pointing	O	_	pointing	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Canticles	O	_	Canticles	PROPN
+is	O	_	be	AUX
+authorised	O	_	authorise	VERB
+by	O	_	by	ADP
+His	O	_	his	PRON
+Grace	O	_	Grace	PROPN
+the	O	_	the	DET
+Archbishop	O	_	Archbishop	PROPN
+of	O	_	of	ADP
+York	B-city	Q42462	York	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,32 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3675
+#document_date:1828
+#sent_text:Our academy will be useless, unless the patronage of the country is turned towards the establishment of an English Opera—an English School of dramatic expression.
+Our	O	_	our	PRON
+academy	O	_	academy	NOUN
+will	O	_	will	AUX
+be	O	_	be	AUX
+useless	O	_	useless	ADJ
+,	O	_	,	PUNCT
+unless	O	_	unless	SCONJ
+the	O	_	the	DET
+patronage	O	_	patronage	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+country	O	_	country	NOUN
+is	O	_	be	AUX
+turned	O	_	turn	VERB
+towards	O	_	towards	ADP
+the	O	_	the	DET
+establishment	O	_	establishment	NOUN
+of	O	_	of	ADP
+an	O	_	an	DET
+English	O	_	English	PROPN
+Opera	O	_	Opera	PROPN
+—	O	_	—	PUNCT
+an	O	_	an	DET
+English	O	_	English	PROPN
+School	O	_	School	PROPN
+of	O	_	of	ADP
+dramatic	O	_	dramatic	ADJ
+expression	O	_	expression	NOUN
+.	O	_	.	PUNCT

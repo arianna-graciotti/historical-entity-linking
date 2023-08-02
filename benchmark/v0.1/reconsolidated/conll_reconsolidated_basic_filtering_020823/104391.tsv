@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-397.txt_691
+#document_date:1876
+#sent_text:Walter Spinney, Esq., Tower-street, Dudley.
+Walter	B-person	Q98961786	Walter	PROPN
+Spinney	I-person	Q98961786	Spinney	PROPN
+,	O	_	,	PUNCT
+Esq	O	_	Esq	PROPN
+.	O	_	.	PROPN
+,	O	_	,	PROPN
+Tower	B-road	NIL	Tower	PROPN
+-	I-road	NIL	-	PUNCT
+street	I-road	NIL	street	NOUN
+,	O	_	,	PUNCT
+Dudley	B-city	Q213832	Dudley	PROPN
+.	O	_	.	PUNCT

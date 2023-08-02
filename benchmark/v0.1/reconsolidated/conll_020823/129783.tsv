@@ -1,0 +1,24 @@
+#document_id:TheHarmonicon__1832-012.txt_1724
+#document_date:1832
+#sent_text:An old Chinese Encyclopedia is extant, consisting of 6,000 volumes, of which 68 alone are devoted to music.
+An	O	_	an	DET
+old	O	_	old	ADJ
+Chinese	O	_	Chinese	PROPN
+Encyclopedia	O	_	Encyclopedia	PROPN
+is	O	_	be	AUX
+extant	O	_	extant	ADJ
+,	O	_	,	PUNCT
+consisting	O	_	consist	VERB
+of	O	_	of	ADP
+6,000	O	_	6,000	NUM
+volumes	O	_	volume	NOUN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+which	O	_	which	PRON
+68	O	_	68	NUM
+alone	O	_	alone	ADV
+are	O	_	be	AUX
+devoted	O	_	devote	VERB
+to	O	_	to	ADP
+music	O	_	music	NOUN
+.	O	_	.	PUNCT

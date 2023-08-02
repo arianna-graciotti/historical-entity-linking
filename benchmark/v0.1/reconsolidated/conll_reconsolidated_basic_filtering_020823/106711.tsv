@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1873-366.txt_152
+#document_date:1873
+#sent_text:Apply to Thomas Smith, Angel Hill, Bury St. Edmunds.
+Apply	O	_	apply	VERB
+to	O	_	to	ADP
+Thomas	B-person	NIL	Thomas	PROPN
+Smith	I-person	NIL	Smith	PROPN
+,	O	_	,	PUNCT
+Angel	B-road	NIL	Angel	PROPN
+Hill	I-road	NIL	Hill	PROPN
+,	O	_	,	PUNCT
+Bury	B-city	Q764754	Bury	PROPN
+St.	I-city	Q764754	St.	PROPN
+Edmunds	I-city	Q764754	Edmunds	PROPN
+.	O	_	.	PUNCT

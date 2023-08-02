@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1361
+#document_date:1825
+#sent_text:Pescetti died in the year 1758.
+Pescetti	B-person	Q1526310	Pescetti	PROPN
+died	O	_	die	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+year	O	_	year	NOUN
+1758	O	_	1758	NUM
+.	O	_	.	PUNCT

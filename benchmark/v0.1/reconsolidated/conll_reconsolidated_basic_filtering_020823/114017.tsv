@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1806
+#document_date:1825
+#sent_text:He quitted Parma, and returned to Tartini, with whom he studied ull the year 1769.
+He	O	_	he	PRON
+quitted	O	_	quit	VERB
+Parma	B-city	Q2683	Parma	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+returned	O	_	return	VERB
+to	O	_	to	ADP
+Tartini	B-person	Q108555	Tartini	PROPN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+whom	O	_	whom	PRON
+he	O	_	he	PRON
+studied	O	_	study	VERB
+ull	O	_	ull	X
+the	O	_	the	DET
+year	O	_	year	NOUN
+1769	O	_	1769	NUM
+.	O	_	.	PUNCT

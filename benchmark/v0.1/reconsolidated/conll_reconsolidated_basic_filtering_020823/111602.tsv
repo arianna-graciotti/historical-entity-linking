@@ -1,0 +1,35 @@
+#document_id:TheMusicalWorld__1843-036.txt_609
+#document_date:1843
+#sent_text:A new organ of 13 stops has recently been built for Charleston Presbyterian Church, so that the use of this noble instrument appears to be spreading among our transatlantic brethren.
+A	O	_	a	DET
+new	O	_	new	ADJ
+organ	O	_	organ	NOUN
+of	O	_	of	ADP
+13	O	_	13	NUM
+stops	O	_	stop	NOUN
+has	O	_	have	AUX
+recently	O	_	recently	ADV
+been	O	_	be	AUX
+built	O	_	build	VERB
+for	O	_	for	ADP
+Charleston	B-worship-place	NIL	Charleston	PROPN
+Presbyterian	I-worship-place	NIL	Presbyterian	PROPN
+Church	I-worship-place	NIL	Church	PROPN
+,	O	_	,	PUNCT
+so	O	_	so	SCONJ
+that	O	_	that	SCONJ
+the	O	_	the	DET
+use	O	_	use	NOUN
+of	O	_	of	ADP
+this	O	_	this	DET
+noble	O	_	noble	ADJ
+instrument	O	_	instrument	NOUN
+appears	O	_	appear	VERB
+to	O	_	to	PART
+be	O	_	be	AUX
+spreading	O	_	spread	VERB
+among	O	_	among	ADP
+our	O	_	our	PRON
+transatlantic	O	_	transatlantic	ADJ
+brethren	O	_	brother	NOUN
+.	O	_	.	PUNCT

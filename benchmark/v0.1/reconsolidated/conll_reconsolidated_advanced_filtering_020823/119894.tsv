@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1532
+#document_date:1828
+#sent_text:In the soirees of the Princess Belmonte Spinelli, which take place.
+In	O	_	in	ADP
+the	O	_	the	DET
+soirees	O	_	soiree	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Princess	B-person	Q23010905	Princess	PROPN
+Belmonte	I-person	Q23010905	Belmonte	PROPN
+Spinelli	I-person	Q23010905	Spinelli	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+take	O	_	take	VERB
+place	O	_	place	NOUN
+.	O	_	.	PUNCT

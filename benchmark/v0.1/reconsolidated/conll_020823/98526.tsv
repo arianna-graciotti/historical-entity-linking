@@ -1,0 +1,19 @@
+#document_id:TheMusicalTimes__1876-402.txt_49
+#document_date:1876
+#sent_text:It is part of his duty to preach, when required, in the Cathedral.
+It	O	_	it	PRON
+is	O	_	be	AUX
+part	O	_	part	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+duty	O	_	duty	NOUN
+to	O	_	to	PART
+preach	O	_	preach	VERB
+,	O	_	,	PUNCT
+when	O	_	when	SCONJ
+required	O	_	require	VERB
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+Cathedral	B-woship-place	Q262500	Cathedral	PROPN
+.	O	_	.	PUNCT

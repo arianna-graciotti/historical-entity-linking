@@ -1,0 +1,33 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2068
+#document_date:1828
+#sent_text:The principal difference is thatin the temple, to soften the rugged hearts of the people to divine worship, and to overawe them by pomp, instruments were.
+The	O	_	the	DET
+principal	O	_	principal	ADJ
+difference	O	_	difference	NOUN
+is	O	_	be	AUX
+thatin	O	_	thatin	ADP
+the	O	_	the	DET
+temple	O	_	temple	PROPN
+,	O	_	,	PUNCT
+to	O	_	to	PART
+soften	O	_	soften	VERB
+the	O	_	the	DET
+rugged	O	_	rugged	ADJ
+hearts	O	_	heart	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+people	O	_	people	NOUN
+to	O	_	to	PART
+divine	O	_	divine	ADJ
+worship	O	_	worship	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+to	O	_	to	PART
+overawe	O	_	overawe	VERB
+them	O	_	they	PRON
+by	O	_	by	ADP
+pomp	O	_	pomp	NOUN
+,	O	_	,	PUNCT
+instruments	O	_	instrument	NOUN
+were	O	_	be	AUX
+.	O	_	.	PUNCT

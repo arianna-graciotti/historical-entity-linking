@@ -1,0 +1,37 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_1216
+#document_date:1875
+#sent_text:There were aymptoms of weariness, to be sute, in some of the high tenors in the last piece, that noble double chorus from Mendelssohn's ‘“ Oedipus,’ and
+There	O	_	there	PRON
+were	O	_	be	VERB
+aymptoms	O	_	aymptom	NOUN
+of	O	_	of	ADP
+weariness	O	_	weariness	NOUN
+,	O	_	,	PUNCT
+to	O	_	to	PART
+be	O	_	be	AUX
+sute	O	_	sute	ADJ
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+some	O	_	some	PRON
+of	O	_	of	ADP
+the	O	_	the	DET
+high	O	_	high	ADJ
+tenors	O	_	tenor	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+last	O	_	last	ADJ
+piece	O	_	piece	NOUN
+,	O	_	,	PUNCT
+that	O	_	that	DET
+noble	O	_	noble	ADJ
+double	O	_	double	ADJ
+chorus	O	_	chorus	NOUN
+from	O	_	from	ADP
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+'s	O	_	's	PART
+‘	O	_	'	PUNCT
+“	O	_	"	PUNCT
+Oedipus	B-music	NIL	Oedipus	PROPN
+,	O	_	,	PUNCT
+’	O	_	'	PUNCT
+and	O	_	and	CCONJ

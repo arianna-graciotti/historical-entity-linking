@@ -1,0 +1,22 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_341
+#document_date:1875
+#sent_text:At Prague, while writing his Don Gioranni, he was fond of playing at-skittles in -his
+At	O	_	at	ADP
+Prague	B-city	Q1085	Prague	PROPN
+,	O	_	,	PUNCT
+while	O	_	while	SCONJ
+writing	O	_	write	VERB
+his	O	_	his	PRON
+Don	B-opera	Q192039	Don	PROPN
+Gioranni	I-opera	Q192039	Gioranni	PROPN
+,	O	_	,	PUNCT
+he	O	_	he	PRON
+was	O	_	be	AUX
+fond	O	_	fond	ADJ
+of	O	_	of	ADP
+playing	O	_	play	VERB
+at	O	_	at	ADP
+-	O	_	-	PUNCT
+skittles	O	_	skittle	NOUN
+in	O	_	in	ADP
+-his	O	_	-his	PRON

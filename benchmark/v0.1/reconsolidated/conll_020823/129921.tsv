@@ -1,0 +1,20 @@
+#document_id:TheHarmonicon__1832-012.txt_1906
+#document_date:1832
+#sent_text:to her talent, the diploma of Honorary Member of the Academia Filarmonica was presented to her
+to	O	_	to	ADP
+her	O	_	her	PRON
+talent	O	_	talent	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+diploma	O	_	diploma	NOUN
+of	O	_	of	ADP
+Honorary	O	_	Honorary	PROPN
+Member	O	_	Member	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+Academia	B-academy	Q338339	Academia	PROPN
+Filarmonica	I-academy	Q338339	Filarmonica	PROPN
+was	O	_	be	AUX
+presented	O	_	present	VERB
+to	O	_	to	ADP
+her	O	_	she	PRON

@@ -1,0 +1,30 @@
+#document_id:TheMusicalTimes__1875-388.txt_1126
+#document_date:1875
+#sent_text:’s performance of the first Allegro and Andante of Rubinstein’s Violin Concerto in G, at the third concert, was in every respect admirable.
+’s	O	_	’s	PART
+performance	O	_	performance	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+Allegro	O	_	Allegro	PROPN
+and	O	_	and	CCONJ
+Andante	O	_	Andante	PROPN
+of	O	_	of	ADP
+Rubinstein	B-person	Q87567	Rubinstein	PROPN
+’s	O	_	’s	PART
+Violin	B-music	Q7933346	Violin	PROPN
+Concerto	I-music	Q7933346	Concerto	PROPN
+in	I-music	Q7933346	in	ADP
+G	I-music	Q7933346	G	PROPN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+the	O	_	the	DET
+third	O	_	third	ADJ
+concert	O	_	concert	NOUN
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+in	O	_	in	ADP
+every	O	_	every	DET
+respect	O	_	respect	NOUN
+admirable	O	_	admirable	ADJ
+.	O	_	.	PUNCT

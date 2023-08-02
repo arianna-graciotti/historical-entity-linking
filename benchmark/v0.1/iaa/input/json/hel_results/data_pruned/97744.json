@@ -1,0 +1,69 @@
+{
+    "id": "97744",
+    "text": "From the Philadelphia Age, June 10.",
+    "page_id": "DwightSJournalOfMusic__1873-016.txt_407",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "publication",
+            "entityName": "Philadelphia Age",
+            "wikis": [
+                {
+                    "wiki": "Philadelphia_(magazine)",
+                    "link": "https://en.wikipedia.org/wiki/Philadelphia_(magazine)",
+                    "qid": "Q7182609",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "materials do not give enough informations"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in Wikidata; https://www.lincolnandthecivilwar.com/SubLevelPages/CampaignAge.asp"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "publication"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "newspaper"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

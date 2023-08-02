@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3531
+#document_date:1828
+#sent_text:the Philharmonic and the Antient being the only institutions that can
+the	O	_	the	DET
+Philharmonic	B-organization	NIL	Philharmonic	PROPN
+and	O	_	and	CCONJ
+the	O	_	the	DET
+Antient	B-event	Q17510840	Antient	PROPN
+being	O	_	be	AUX
+the	O	_	the	DET
+only	O	_	only	ADJ
+institutions	O	_	institution	NOUN
+that	O	_	that	PRON
+can	O	_	can	AUX

@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1875-388.txt_1935
+#document_date:1875
+#sent_text:Church Anthems, edited by Henry Allon, D.D.
+Church	B-publication	NIL	Church	PROPN
+Anthems	I-publication	NIL	Anthems	PROPN
+,	O	_	,	PUNCT
+edited	O	_	edit	VERB
+by	O	_	by	ADP
+Henry	B-person	Q5717284	Henry	PROPN
+Allon	I-person	Q5717284	Allon	PROPN
+,	O	_	,	PUNCT
+D.D.	O	_	D.D.	PROPN

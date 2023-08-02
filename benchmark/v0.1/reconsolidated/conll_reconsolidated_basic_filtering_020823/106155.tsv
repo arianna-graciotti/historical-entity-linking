@@ -1,0 +1,24 @@
+#document_id:TheMusicalTimes__1876-397.txt_3042
+#document_date:1876
+#sent_text:For some of the Harmonies to this see Accompanying Harmonies to Psalter Noted, Appendix 2 (above mentioned).
+For	O	_	for	ADP
+some	O	_	some	PRON
+of	O	_	of	ADP
+the	O	_	the	DET
+Harmonies	O	_	harmony	NOUN
+to	O	_	to	ADP
+this	O	_	this	PRON
+see	O	_	see	VERB
+Accompanying	B-publication	NIL	accompany	VERB
+Harmonies	I-publication	NIL	harmony	NOUN
+to	I-publication	NIL	to	ADP
+Psalter	I-publication	NIL	Psalter	PROPN
+Noted	I-publication	NIL	Noted	PROPN
+,	O	_	,	PUNCT
+Appendix	O	_	appendix	NOUN
+2	O	_	2	NUM
+(	O	_	(	PUNCT
+above	O	_	above	ADV
+mentioned	O	_	mention	VERB
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

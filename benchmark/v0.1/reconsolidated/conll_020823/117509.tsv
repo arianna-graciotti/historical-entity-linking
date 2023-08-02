@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2402
+#document_date:1824
+#sent_text:Largo al fuctotum dellu citta is one of his favourites.
+Largo	O	_	Largo	PROPN
+al	O	_	al	PROPN
+fuctotum	O	_	fuctotum	X
+dellu	O	_	dellu	PROPN
+citta	O	_	citta	PROPN
+is	O	_	be	AUX
+one	O	_	one	NUM
+of	O	_	of	ADP
+his	O	_	his	PRON
+favourites	O	_	favourite	NOUN
+.	O	_	.	PUNCT

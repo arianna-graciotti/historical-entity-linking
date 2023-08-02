@@ -1,0 +1,10 @@
+#document_id:TheHarmonicon__1824-016.txt_269
+#document_date:1824
+#sent_text:Two Sonatas, Piano-Forte.
+Two	B-music	not in Wikidata	two	NUM
+Sonatas	I-music	not in Wikidata	sonata	NOUN
+,	I-music	not in Wikidata	,	PUNCT
+Piano	I-music	not in Wikidata	Piano	PROPN
+-	I-music	not in Wikidata	-	PUNCT
+Forte	I-music	not in Wikidata	Forte	PROPN
+.	I-music	not in Wikidata	.	PUNCT

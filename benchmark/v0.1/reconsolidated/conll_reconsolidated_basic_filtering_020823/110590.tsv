@@ -1,0 +1,15 @@
+#document_id:TheMusicalWorld__1843-038.txt_166
+#document_date:1843
+#sent_text:Ce Dieu nous laisse Sans cesse, Le souvenir Du plaisir.
+Ce	O	_	Ce	PROPN
+Dieu	O	_	dieu	X
+nous	O	_	nous	X
+laisse	O	_	laisse	X
+Sans	O	_	sans	X
+cesse	O	_	cesse	X
+,	O	_	,	PUNCT
+Le	O	_	le	X
+souvenir	O	_	souvenir	NOUN
+Du	O	_	Du	PROPN
+plaisir	O	_	plaisir	PROPN
+.	O	_	.	PUNCT

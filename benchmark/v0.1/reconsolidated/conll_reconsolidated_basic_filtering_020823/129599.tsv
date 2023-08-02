@@ -1,0 +1,13 @@
+#document_id:TheHarmonicon__1832-012.txt_1486
+#document_date:1832
+#sent_text:Guee, ‘Oh! balm of nature!’
+Guee	O	_	Guee	PROPN
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+Oh	O	_	oh	INTJ
+!	O	_	!	PUNCT
+balm	O	_	balm	NOUN
+of	O	_	of	ADP
+nature	O	_	nature	NOUN
+!	O	_	!	PUNCT
+’	O	_	'	PUNCT

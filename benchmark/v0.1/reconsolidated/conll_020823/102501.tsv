@@ -1,0 +1,24 @@
+#document_id:TheMusicalTimes__1875-388.txt_1689
+#document_date:1875
+#sent_text:This will be the eighth season of this Society, whick is under the conductorship of Mr. F. N. Lohr.
+This	O	_	this	PRON
+will	O	_	will	AUX
+be	O	_	be	AUX
+the	O	_	the	DET
+eighth	O	_	eighth	ADJ
+season	O	_	season	NOUN
+of	O	_	of	ADP
+this	O	_	this	DET
+Society	O	_	Society	PROPN
+,	O	_	,	PUNCT
+whick	O	_	whick	PRON
+is	O	_	be	AUX
+under	O	_	under	ADP
+the	O	_	the	DET
+conductorship	O	_	conductorship	NOUN
+of	O	_	of	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+F.	I-person	NIL	F.	PROPN
+N.	I-person	NIL	N.	PROPN
+Lohr	I-person	NIL	Lohr	PROPN
+.	O	_	.	PUNCT

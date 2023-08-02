@@ -1,0 +1,20 @@
+#document_id:TheHarmonicon__1824-016.txt_1821
+#document_date:1824
+#sent_text:A new opera has been produced here, entitled Temistocle, from the pen of Paccini.
+A	O	_	a	DET
+new	O	_	new	ADJ
+opera	O	_	opera	NOUN
+has	O	_	have	AUX
+been	O	_	be	AUX
+produced	O	_	produce	VERB
+here	O	_	here	ADV
+,	O	_	,	PUNCT
+entitled	O	_	entitle	VERB
+Temistocle	O	_	Temistocle	PROPN
+,	O	_	,	PUNCT
+from	O	_	from	ADP
+the	O	_	the	DET
+pen	O	_	pen	NOUN
+of	O	_	of	ADP
+Paccini	B-person	Q357022	Paccini	PROPN
+.	O	_	.	PUNCT

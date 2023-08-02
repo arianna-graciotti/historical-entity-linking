@@ -1,0 +1,17 @@
+#document_id:TheMusicalTimes__1876-402.txt_2190
+#document_date:1876
+#sent_text:Organ Recital was recently given in S. Peter’s Church by Dr. Spark.
+Organ	O	_	Organ	PROPN
+Recital	O	_	recital	NOUN
+was	O	_	be	AUX
+recently	O	_	recently	ADV
+given	O	_	give	VERB
+in	O	_	in	ADP
+S.	B-worship-place	NIL	S.	PROPN
+Peter	I-worship-place	NIL	Peter	PROPN
+’s	I-worship-place	NIL	’s	PART
+Church	I-worship-place	NIL	Church	PROPN
+by	O	_	by	ADP
+Dr.	B-person	NIL	Dr.	PROPN
+Spark	I-person	NIL	Spark	PROPN
+.	O	_	.	PUNCT

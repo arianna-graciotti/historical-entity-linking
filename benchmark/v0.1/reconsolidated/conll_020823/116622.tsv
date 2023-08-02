@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1206
+#document_date:1824
+#sent_text:He li lived in London ‘in 1784 and in 1786.
+He	O	_	he	PRON
+li	O	_	li	X
+lived	O	_	live	VERB
+in	O	_	in	ADP
+London	B-city	Q84	London	PROPN
+‘	O	_	'	PUNCT
+in	O	_	in	ADP
+1784	O	_	1784	NUM
+and	O	_	and	CCONJ
+in	O	_	in	ADP
+1786	O	_	1786	NUM
+.	O	_	.	PUNCT

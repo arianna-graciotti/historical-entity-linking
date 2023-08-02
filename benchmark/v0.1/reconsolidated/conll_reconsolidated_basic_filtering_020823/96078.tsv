@@ -1,0 +1,10 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_1343
+#document_date:1870
+#sent_text:The LisreMANN Quartet Matinées are finished...
+The	B-event	NIL	the	DET
+LisreMANN	I-event	NIL	LisreMANN	PROPN
+Quartet	I-event	NIL	Quartet	PROPN
+Matinées	I-event	NIL	Matinées	PROPN
+are	O	_	be	AUX
+finished	O	_	finish	VERB
+...	O	_	...	PUNCT

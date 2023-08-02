@@ -1,0 +1,10 @@
+#document_id:TheHarmonicon__1824-016.txt_2362
+#document_date:1824
+#sent_text:" (La Donnadel Lago) .
+"	O	_	"	PUNCT
+(	O	_	(	PUNCT
+La	B-music	Q220699	La	PROPN
+Donnadel	I-music	Q220699	Donnadel	PROPN
+Lago	I-music	Q220699	Lago	PROPN
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

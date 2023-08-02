@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3748
+#document_date:1824
+#sent_text:Mr. Mocre is the adaptor of words to this composition, which is a tirana, arranged by Mr. Bishop.
+Mr.	B-person	Q315346	Mr.	PROPN
+Mocre	I-person	Q315346	Mocre	PROPN
+is	O	_	be	AUX
+the	O	_	the	DET
+adaptor	O	_	adaptor	NOUN
+of	O	_	of	ADP
+words	O	_	word	NOUN
+to	O	_	to	ADP
+this	O	_	this	DET
+composition	O	_	composition	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+is	O	_	be	AUX
+a	O	_	a	DET
+tirana	O	_	tirana	NOUN
+,	O	_	,	PUNCT
+arranged	O	_	arrange	VERB
+by	O	_	by	ADP
+Mr.	B-person	Q1200639	Mr.	PROPN
+Bishop	I-person	Q1200639	Bishop	PROPN
+.	O	_	.	PUNCT

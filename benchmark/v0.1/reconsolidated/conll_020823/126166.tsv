@@ -1,0 +1,18 @@
+#document_id:TheHarmonicon__1833-005.txt_1899
+#document_date:1833
+#sent_text:Mr. and Mrs. Wood, it seems, are preparing to depart for America.
+Mr.	O	_	Mr.	PROPN
+and	O	_	and	CCONJ
+Mrs.	O	_	Mrs.	PROPN
+Wood	O	_	Wood	PROPN
+,	O	_	,	PUNCT
+it	O	_	it	PRON
+seems	O	_	seem	VERB
+,	O	_	,	PUNCT
+are	O	_	be	AUX
+preparing	O	_	prepare	VERB
+to	O	_	to	PART
+depart	O	_	depart	VERB
+for	O	_	for	ADP
+America	B-country	Q30	America	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3025
+#document_date:NaN
+#sent_text:The next is a solo for an alto, anda quartet from Naumann.
+The	O	_	the	DET
+next	O	_	next	ADJ
+is	O	_	be	AUX
+a	O	_	a	DET
+solo	O	_	solo	NOUN
+for	O	_	for	ADP
+an	O	_	an	DET
+alto	O	_	alto	NOUN
+,	O	_	,	PUNCT
+anda	O	_	anda	DET
+quartet	O	_	quartet	NOUN
+from	O	_	from	ADP
+Naumann	B-person	Q213927	Naumann	PROPN
+.	O	_	.	PUNCT

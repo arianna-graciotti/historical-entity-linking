@@ -1,0 +1,26 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1884
+#document_date:1825
+#sent_text:In 1800 he gave two concerts, for the benefit of his master, Gavinies, who presented him with his portrait.
+In	O	_	in	ADP
+1800	O	_	1800	NUM
+he	O	_	he	PRON
+gave	O	_	give	VERB
+two	O	_	two	NUM
+concerts	O	_	concert	NOUN
+,	O	_	,	PUNCT
+for	O	_	for	ADP
+the	O	_	the	DET
+benefit	O	_	benefit	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+master	O	_	master	NOUN
+,	O	_	,	PUNCT
+Gavinies	B-person	Q490205	Gavinies	PROPN
+,	O	_	,	PUNCT
+who	O	_	who	PRON
+presented	O	_	present	VERB
+him	O	_	he	PRON
+with	O	_	with	ADP
+his	O	_	his	PRON
+portrait	O	_	portrait	NOUN
+.	O	_	.	PUNCT

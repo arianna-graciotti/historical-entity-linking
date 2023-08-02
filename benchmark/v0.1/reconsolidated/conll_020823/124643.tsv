@@ -1,0 +1,26 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3687
+#document_date:1826
+#sent_text:The remainder of those who joined the procession assembled at the Portland Hotel, which is situated ‘in the immediate vicinity.
+The	O	_	the	DET
+remainder	O	_	remainder	NOUN
+of	O	_	of	ADP
+those	O	_	those	PRON
+who	O	_	who	PRON
+joined	O	_	join	VERB
+the	O	_	the	DET
+procession	O	_	procession	NOUN
+assembled	O	_	assemble	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+Portland	B-hotel	NIL	Portland	PROPN
+Hotel	I-hotel	NIL	Hotel	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+is	O	_	be	AUX
+situated	O	_	situate	VERB
+‘	O	_	'	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+immediate	O	_	immediate	ADJ
+vicinity	O	_	vicinity	NOUN
+.	O	_	.	PUNCT

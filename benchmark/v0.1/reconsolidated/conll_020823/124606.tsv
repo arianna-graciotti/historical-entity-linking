@@ -1,0 +1,36 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3632
+#document_date:1826
+#sent_text:, We can easily imagine that the Catholic Clergy would feel themselves placed in an awkward dilemma between the rights of the subscribers to the chapel and the request of the committee.
+,	O	_	,	PUNCT
+We	O	_	we	PRON
+can	O	_	can	AUX
+easily	O	_	easily	ADV
+imagine	O	_	imagine	VERB
+that	O	_	that	SCONJ
+the	O	_	the	DET
+Catholic	B-organization	Q1195138	Catholic	PROPN
+Clergy	I-organization	Q1195138	Clergy	PROPN
+would	O	_	would	AUX
+feel	O	_	feel	VERB
+themselves	O	_	themselves	PRON
+placed	O	_	place	VERB
+in	O	_	in	ADP
+an	O	_	an	DET
+awkward	O	_	awkward	ADJ
+dilemma	O	_	dilemma	NOUN
+between	O	_	between	ADP
+the	O	_	the	DET
+rights	O	_	right	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+subscribers	O	_	subscriber	NOUN
+to	O	_	to	ADP
+the	O	_	the	DET
+chapel	O	_	chapel	NOUN
+and	O	_	and	CCONJ
+the	O	_	the	DET
+request	O	_	request	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+committee	O	_	committee	NOUN
+.	O	_	.	PUNCT

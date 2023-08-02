@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2063
+#document_date:1824
+#sent_text:another concert, conducted by Sir George Smart, and arranged by him and the lady
+another	O	_	another	DET
+concert	O	_	concert	NOUN
+,	O	_	,	PUNCT
+conducted	O	_	conduct	VERB
+by	O	_	by	ADP
+Sir	B-person	Q1344101	Sir	PROPN
+George	I-person	Q1344101	George	PROPN
+Smart	I-person	Q1344101	Smart	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+arranged	O	_	arrange	VERB
+by	O	_	by	ADP
+him	O	_	he	PRON
+and	O	_	and	CCONJ
+the	O	_	the	DET
+lady	O	_	lady	NOUN

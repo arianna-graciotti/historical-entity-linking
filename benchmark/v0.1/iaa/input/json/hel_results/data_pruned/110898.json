@@ -1,0 +1,67 @@
+{
+    "id": "110898",
+    "text": "Nevertheless Mr. Phillips has contrived to tell a very different story in the music, which is dramatic and effective.",
+    "page_id": "TheMusicalWorld__1843-038.txt_574",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "person",
+            "entityName": "Mr. Phillips",
+            "wikis": [
+                {
+                    "wiki": "Sam_Phillips",
+                    "link": "https://en.wikipedia.org/wiki/Sam_Phillips",
+                    "qid": "Q321354",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Phillips_(singer)",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q18671452",
+                            "sentenceEnough": "no",
+                            "contextString": "Aria....Mr. H. Phillips.... \u201c Quisdegno\u201d.... \\Zauberflote)\r\n",
+                            "contextBroader": "Aria....Mr. H. Phillips.... \u201c Quisdegno\u201d.... \\Zauberflote)\r\n",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "Not enough context to determine the entity. Maybe author of \u201cThe Swedish Ferryman.\""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

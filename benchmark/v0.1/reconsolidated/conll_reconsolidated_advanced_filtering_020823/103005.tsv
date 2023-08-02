@@ -1,0 +1,26 @@
+#document_id:TheMusicalTimes__1875-388.txt_2263
+#document_date:1875
+#sent_text:‘WissEAcH.—The second concert for the season of the District Musical Society took place in the Public Hall on the 13th ult.
+‘	O	_	'	PUNCT
+WissEAcH.—The	O	_	WissEAcH.—The	PROPN
+second	O	_	second	ADJ
+concert	O	_	concert	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+season	O	_	season	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+District	B-organization	NIL	District	PROPN
+Musical	I-organization	NIL	Musical	PROPN
+Society	I-organization	NIL	Society	PROPN
+took	O	_	take	VERB
+place	O	_	place	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+Public	B-building	NIL	Public	PROPN
+Hall	I-building	NIL	Hall	PROPN
+on	O	_	on	ADP
+the	O	_	the	DET
+13th	O	_	13th	ADJ
+ult	O	_	ult	NOUN
+.	O	_	.	PUNCT

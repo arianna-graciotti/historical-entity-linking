@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1687
+#document_date:1826
+#sent_text:No Englishman has ever equalled him.
+No	O	_	no	DET
+Englishman	O	_	Englishman	PROPN
+has	O	_	have	AUX
+ever	O	_	ever	ADV
+equalled	O	_	equal	VERB
+him	O	_	he	PRON
+.	O	_	.	PUNCT

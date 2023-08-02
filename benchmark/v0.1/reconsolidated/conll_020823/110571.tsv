@@ -1,0 +1,18 @@
+#document_id:TheMusicalWorld__1843-038.txt_147
+#document_date:1843
+#sent_text:of Rameau was represented in 1735, it was a balletopera Les Indes galantes.
+of	O	_	of	ADP
+Rameau	B-person	Q1145	Rameau	PROPN
+was	O	_	be	AUX
+represented	O	_	represent	VERB
+in	O	_	in	ADP
+1735	O	_	1735	NUM
+,	O	_	,	PUNCT
+it	O	_	it	PRON
+was	O	_	be	AUX
+a	O	_	a	DET
+balletopera	O	_	balletopera	NOUN
+Les	B-opera	Q583297	Les	PROPN
+Indes	I-opera	Q583297	Indes	PROPN
+galantes	I-opera	Q583297	galantes	PROPN
+.	O	_	.	PUNCT

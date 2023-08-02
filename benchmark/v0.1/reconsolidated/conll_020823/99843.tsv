@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1876-402.txt_1839
+#document_date:1876
+#sent_text:‘' In Memoriam” is a commonplace melody, with a commonplace accompaniment; yet there.
+‘	O	_	'	PUNCT
+'	O	_	'	PUNCT
+In	B-music	NIL	in	ADP
+Memoriam	I-music	NIL	memoriam	NOUN
+”	O	_	"	PUNCT
+is	O	_	be	AUX
+a	O	_	a	DET
+commonplace	O	_	commonplace	ADJ
+melody	O	_	melody	NOUN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+a	O	_	a	DET
+commonplace	O	_	commonplace	ADJ
+accompaniment	O	_	accompaniment	NOUN
+;	O	_	;	PUNCT
+yet	O	_	yet	ADV
+there	O	_	there	ADV
+.	O	_	.	PUNCT

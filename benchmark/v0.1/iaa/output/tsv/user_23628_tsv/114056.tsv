@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1853
+#document_date:NaN
+#sent_text:Simon Leduc published two books of.
+Simon	B-person	Q2287672	Simon	PROPN
+Leduc	I-person	Q2287672	Leduc	PROPN
+published	O	_	publish	VERB
+two	O	_	two	NUM
+books	O	_	book	NOUN
+of	O	_	of	ADP
+.	O	_	.	PUNCT

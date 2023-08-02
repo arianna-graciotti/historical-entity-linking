@@ -1,0 +1,12 @@
+#document_id:TheMusicalWorld__1843-036.txt_385
+#document_date:1843
+#sent_text:Why should we dwell on Lablache and Persiani?
+Why	O	_	why	SCONJ
+should	O	_	should	AUX
+we	O	_	we	PRON
+dwell	O	_	dwell	VERB
+on	O	_	on	ADP
+Lablache	B-person	Q477681	Lablache	PROPN
+and	O	_	and	CCONJ
+Persiani	O	_	Persiani	PROPN
+?	O	_	?	PUNCT

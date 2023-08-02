@@ -1,0 +1,23 @@
+#document_id:TheMusicalWorld__1843-038.txt_94
+#document_date:1843
+#sent_text:; Rameau had the rare and perhaps unique privilege of being a great theoretician and also a great composer.
+;	O	_	;	PUNCT
+Rameau	B-person	Q1145	Rameau	PROPN
+had	O	_	have	VERB
+the	O	_	the	DET
+rare	O	_	rare	ADJ
+and	O	_	and	CCONJ
+perhaps	O	_	perhaps	ADV
+unique	O	_	unique	ADJ
+privilege	O	_	privilege	NOUN
+of	O	_	of	ADP
+being	O	_	be	AUX
+a	O	_	a	DET
+great	O	_	great	ADJ
+theoretician	O	_	theoretician	NOUN
+and	O	_	and	CCONJ
+also	O	_	also	ADV
+a	O	_	a	DET
+great	O	_	great	ADJ
+composer	O	_	composer	NOUN
+.	O	_	.	PUNCT

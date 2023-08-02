@@ -1,0 +1,80 @@
+{
+    "id": "95863",
+    "text": "evening \u2018the ; Brooklyn Society.",
+    "page_id": "DwightSJournalOfMusic__1870-021.txt_1038",
+    "namedEntities": [
+        {
+            "variable": "z0",
+            "type": "event",
+            "entityName": "Brooklyn Society",
+            "wikis": [
+                {
+                    "wiki": "Caf\u00e9_Society",
+                    "link": "https://en.wikipedia.org/wiki/Caf\u00e9_Society",
+                    "qid": "Q747360",
+                    "assessments": {
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Brooklyn_Academy_of_Music",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q72912",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        },
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "time",
+                    "target": {
+                        "variable": "z2",
+                        "concept": "date-entity"
+                    },
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:time"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "organization"
+                },
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        },
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        }
+    }
+}

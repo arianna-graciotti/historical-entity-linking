@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1442
+#document_date:1824
+#sent_text:Here we return to the forced leisure of poor Italy.
+Here	O	_	here	ADV
+we	O	_	we	PRON
+return	O	_	return	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+forced	O	_	force	VERB
+leisure	O	_	leisure	NOUN
+of	O	_	of	ADP
+poor	O	_	poor	ADJ
+Italy	B-country	Q38	Italy	PROPN
+.	O	_	.	PUNCT

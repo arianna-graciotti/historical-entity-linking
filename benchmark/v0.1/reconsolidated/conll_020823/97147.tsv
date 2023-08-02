@@ -1,0 +1,15 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_1064
+#document_date:1868
+#sent_text:all the friends of music and of generous culture in Baltimore.
+all	O	_	all	DET
+the	O	_	the	DET
+friends	O	_	friend	NOUN
+of	O	_	of	ADP
+music	O	_	music	NOUN
+and	O	_	and	CCONJ
+of	O	_	of	ADP
+generous	O	_	generous	ADJ
+culture	O	_	culture	NOUN
+in	O	_	in	ADP
+Baltimore	B-city	Q5092	Baltimore	PROPN
+.	O	_	.	PUNCT

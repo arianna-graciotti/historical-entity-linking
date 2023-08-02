@@ -1,0 +1,66 @@
+{
+    "id": "133119",
+    "text": "We had been long \u2018accustomed, indeed, to hear a few of the most pleasing of _them sung in The Beggar\u2019s Opera, a circumstance owing to",
+    "page_id": "TheHarmonicon__1828-001.txt_1079",
+    "namedEntities": [
+        {
+            "variable": "z7",
+            "type": "opera",
+            "entityName": "The Beggar Opera",
+            "wikis": [
+                {
+                    "wiki": "The_Beggar_(s3000 / song)",
+                    "link": "https://en.wikipedia.org/wiki/The_Beggar_(s3000 / song)",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/The_Beggar%27s_Opera",
+                            "wikiQid": "Q1472110",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/The_Beggar%27s_Opera",
+                            "wikiQid": "Q1472110",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "The Beggar\u2019s Opera",
+                    "ocrEntityMention": "The Beggar\u2019s Opera",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

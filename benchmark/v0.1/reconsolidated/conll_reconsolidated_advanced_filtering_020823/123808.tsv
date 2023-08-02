@@ -1,0 +1,26 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2544
+#document_date:1826
+#sent_text:The Greek Committee sitting in Paris have determined to educate the son of this distinguished Patriot and “Warrior i in France.
+The	O	_	the	DET
+Greek	B-organization	Q2985590	Greek	PROPN
+Committee	I-organization	Q2985590	Committee	PROPN
+sitting	O	_	sit	VERB
+in	O	_	in	ADP
+Paris	B-city	Q90	Paris	PROPN
+have	O	_	have	AUX
+determined	O	_	determine	VERB
+to	O	_	to	PART
+educate	O	_	educate	VERB
+the	O	_	the	DET
+son	O	_	son	NOUN
+of	O	_	of	ADP
+this	O	_	this	DET
+distinguished	O	_	distinguished	ADJ
+Patriot	O	_	Patriot	PROPN
+and	O	_	and	CCONJ
+“	O	_	"	PUNCT
+Warrior	O	_	Warrior	PROPN
+i	O	_	i	PROPN
+in	O	_	in	ADP
+France	B-country	Q142	France	PROPN
+.	O	_	.	PUNCT

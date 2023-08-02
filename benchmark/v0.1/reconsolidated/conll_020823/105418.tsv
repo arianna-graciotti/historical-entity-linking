@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-397.txt_2123
+#document_date:1876
+#sent_text:You should address the Secretary, Crystal Palace.
+You	O	_	you	PRON
+should	O	_	should	AUX
+address	O	_	address	VERB
+the	O	_	the	DET
+Secretary	O	_	Secretary	PROPN
+,	O	_	,	PUNCT
+Crystal	B-building	Q202902	Crystal	PROPN
+Palace	I-building	Q202902	Palace	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1832-012.txt_1005
+#document_date:1832
+#sent_text:Can you at all estimate what the loss is to your theatre by giving up the right of acting the Italian opera ?
+Can	O	_	can	AUX
+you	O	_	you	PRON
+at	O	_	at	ADV
+all	O	_	all	ADV
+estimate	O	_	estimate	VERB
+what	O	_	what	PRON
+the	O	_	the	DET
+loss	O	_	loss	NOUN
+is	O	_	be	AUX
+to	O	_	to	ADP
+your	O	_	your	PRON
+theatre	O	_	theatre	NOUN
+by	O	_	by	ADP
+giving	O	_	give	VERB
+up	O	_	up	ADP
+the	O	_	the	DET
+right	O	_	right	NOUN
+of	O	_	of	ADP
+acting	O	_	act	VERB
+the	O	_	the	DET
+Italian	O	_	italian	ADJ
+opera	O	_	opera	NOUN
+?	O	_	?	PUNCT

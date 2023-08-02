@@ -1,0 +1,28 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2925
+#document_date:1824
+#sent_text:We beg to be understood that we do not allude to Dr. Clarke Whitfield, whose respectability forbids the possibility of any such imputation.
+We	O	_	we	PRON
+beg	O	_	beg	VERB
+to	O	_	to	PART
+be	O	_	be	AUX
+understood	O	_	understand	VERB
+that	O	_	that	SCONJ
+we	O	_	we	PRON
+do	O	_	do	AUX
+not	O	_	not	PART
+allude	O	_	allude	VERB
+to	O	_	to	ADP
+Dr.	B-person	Q6226247	Dr.	PROPN
+Clarke	I-person	Q6226247	Clarke	PROPN
+Whitfield	I-person	Q6226247	Whitfield	PROPN
+,	O	_	,	PUNCT
+whose	O	_	whose	DET
+respectability	O	_	respectability	NOUN
+forbids	O	_	forbid	VERB
+the	O	_	the	DET
+possibility	O	_	possibility	NOUN
+of	O	_	of	ADP
+any	O	_	any	DET
+such	O	_	such	ADJ
+imputation	O	_	imputation	NOUN
+.	O	_	.	PUNCT

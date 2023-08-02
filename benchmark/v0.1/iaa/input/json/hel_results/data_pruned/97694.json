@@ -1,0 +1,68 @@
+{
+    "id": "97694",
+    "text": "4 The:\u2018Overture to Summer Night's Dream,",
+    "page_id": "DwightSJournalOfMusic__1873-016.txt_346",
+    "namedEntities": [
+        {
+            "variable": "z2",
+            "type": "music",
+            "entityName": "Overture to Summer Night Dream",
+            "wikis": [
+                {
+                    "wiki": "Overture_to_Summer_Night's_Dream",
+                    "link": "https://en.wikipedia.org/wiki/Overture_to_Summer_Night's_Dream",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(Mendelssohn)",
+                            "wikiQid": "Q1305214",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(Mendelssohn)",
+                            "wikiQid": "Q1305214",
+                            "sentenceEnough": "no",
+                            "contextString": "as did-Mendelssohn by his composition of \u201cSummer Night's Dream\u201d and \u2018\u2018Fingal\u2019s Cave.\u201d",
+                            "contextBroader": "Some think they detect already in Weber's \u201cPreciosa\u201d and \u2018\u2018Oberon\u201d the beginning of this new departure; but-Weber, although an origi-, nal and tasteful composer of opera music, did not possess that thematical versatility which is attained only by the study of counterpoint and fugues. His finest \u2018musical thought seldom contains more than four measures. and is then succeeded by another thought; his compositions are replete with harmonic and instrumental efiects, and beautiful melodies appear beteacher in composition was critie misses musical conformity. Hence von Weber could never have given such an impulse to the whole art, and to all its disciples, as did-Mendelssohn by his composition of \u201cSummer Night's Dream\u201d and \u2018\u2018Fingal\u2019s Cave.\u201d Truly the last work is a master-piece in every respect. . 4 The:\u2018Overture to Summer Night's Dream,\u201d ber\u2019s \u2018Overture to Oberon.\u201d The different\u2019 themes appear as if forced together As we find in Weber's Oberon overture first_a little of the Elfs and their horn, then the Emperor's \u2018festival march, then in the allegro some of the quartets and the airs of Huon and Rezia .",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Summer Night Dream",
+                    "ocrEntityMention": "Overture to Summer Night's Dream",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "A Midsummer Night's Dream",
+                    "ocrEntityMention": "Overture to Summer Night's Dream",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

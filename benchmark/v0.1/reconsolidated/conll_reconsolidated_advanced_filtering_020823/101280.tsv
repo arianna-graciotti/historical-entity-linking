@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1875-388.txt_81
+#document_date:1875
+#sent_text:For Concerts, Pupils, &c., 7, Alma Square, St. John’s-wood.
+For	O	_	for	ADP
+Concerts	O	_	Concerts	PROPN
+,	O	_	,	PUNCT
+Pupils	O	_	Pupils	PROPN
+,	O	_	,	PUNCT
+&	O	_	&	X
+c.	O	_	c.	PROPN
+,	O	_	,	PUNCT
+7	O	_	7	NUM
+,	O	_	,	PUNCT
+Alma	B-square	NIL	Alma	PROPN
+Square	I-square	NIL	Square	PROPN
+,	O	_	,	PUNCT
+St.	B-city-district	Q2153758	St.	PROPN
+John’s	I-city-district	Q2153758	john’s	PART
+-	I-city-district	Q2153758	-	PUNCT
+wood	I-city-district	Q2153758	wood	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,9 @@
+#document_id:TheHarmonicon__1828-001.txt_63
+#document_date:1828
+#sent_text:Denbigh Eisteddvod and Musical Festival .
+Denbigh	B-festival	Q670265	Denbigh	PROPN
+Eisteddvod	I-festival	Q670265	Eisteddvod	PROPN
+and	I-festival	Q670265	and	CCONJ
+Musical	I-festival	Q670265	Musical	PROPN
+Festival	I-festival	Q670265	Festival	PROPN
+.	O	_	.	PUNCT

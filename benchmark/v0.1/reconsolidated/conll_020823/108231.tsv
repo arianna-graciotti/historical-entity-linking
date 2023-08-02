@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1873-366.txt_2215
+#document_date:1873
+#sent_text:C. tchin, Organist to Christ Church, Forest Hill.——Mr.
+C.	O	_	C.	PROPN
+tchin	O	_	tchin	PROPN
+,	O	_	,	PUNCT
+Organist	O	_	Organist	PROPN
+to	O	_	to	ADP
+Christ	B-worship-place	Q26488608	Christ	PROPN
+Church	I-worship-place	Q26488608	Church	PROPN
+,	O	_	,	PUNCT
+Forest	O	_	Forest	PROPN
+Hill.	O	_	Hill.	PROPN
+—	O	_	—	PUNCT
+—Mr	O	_	—Mr	PROPN
+.	O	_	.	PROPN

@@ -1,0 +1,16 @@
+#document_id:TheMusicalWorld__1844-006.txt_450
+#document_date:1844
+#sent_text:Miss Alleyne, (composed to Shakspere’s Midsummer Night’s Dream)
+Miss	B-person	NIL	Miss	PROPN
+Alleyne	I-person	NIL	Alleyne	PROPN
+,	O	_	,	PUNCT
+(	O	_	(	PUNCT
+composed	O	_	compose	VERB
+to	O	_	to	ADP
+Shakspere	O	_	Shakspere	PROPN
+’s	O	_	’s	PART
+Midsummer	B-work-of-art	Q104871	Midsummer	PROPN
+Night	I-work-of-art	Q104871	Night	PROPN
+’s	I-work-of-art	Q104871	’s	PART
+Dream	I-work-of-art	Q104871	Dream	PROPN
+)	O	_	)	PUNCT

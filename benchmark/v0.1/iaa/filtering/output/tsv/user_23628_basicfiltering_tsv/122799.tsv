@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1178
+#document_date:NaN
+#sent_text:next essay will contain observations on the music of the Persians.
+next	O	_	next	ADJ
+essay	O	_	essay	NOUN
+will	O	_	will	AUX
+contain	O	_	contain	VERB
+observations	O	_	observation	NOUN
+on	O	_	on	ADP
+the	O	_	the	DET
+music	O	_	music	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Persians	O	_	Persians	PROPN
+.	O	_	.	PUNCT

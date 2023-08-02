@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1875-388.txt_1159
+#document_date:1875
+#sent_text:Ar the May Concert of the St. George’s Glee Union
+Ar	O	_	ar	INTJ
+the	O	_	the	DET
+May	O	_	May	PROPN
+Concert	O	_	Concert	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+St.	B-organization	NIL	St.	PROPN
+George	I-organization	NIL	George	PROPN
+’s	I-organization	NIL	’s	PART
+Glee	I-organization	NIL	Glee	PROPN
+Union	I-organization	NIL	Union	PROPN

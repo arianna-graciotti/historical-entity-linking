@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1873-366.txt_3290
+#document_date:1873
+#sent_text:The Words by the Rev. Charles Kingsley.
+The	O	_	the	DET
+Words	O	_	word	NOUN
+by	O	_	by	ADP
+the	O	_	the	DET
+Rev.	B-person	Q353238	Rev.	PROPN
+Charles	I-person	Q353238	Charles	PROPN
+Kingsley	I-person	Q353238	Kingsley	PROPN
+.	O	_	.	PUNCT

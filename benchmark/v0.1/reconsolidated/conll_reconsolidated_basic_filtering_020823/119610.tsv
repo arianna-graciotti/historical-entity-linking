@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1200
+#document_date:1828
+#sent_text:The church ‘of Santa Maria Trastevere.
+The	O	_	the	DET
+church	O	_	church	NOUN
+‘	O	_	'	PUNCT
+of	O	_	of	ADP
+Santa	B-worship-place	Q1137391	Santa	PROPN
+Maria	I-worship-place	Q1137391	Maria	PROPN
+Trastevere	I-worship-place	Q1137391	Trastevere	PROPN
+.	O	_	.	PUNCT

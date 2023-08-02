@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_294
+#document_date:1825
+#sent_text:Variations, and an Introductory Prelude on some Passages from: the Incantation Scene, by N.C. Bochsa 4.
+Variations	O	_	variation	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+an	O	_	an	DET
+Introductory	O	_	introductory	ADJ
+Prelude	O	_	prelude	NOUN
+on	O	_	on	ADP
+some	O	_	some	DET
+Passages	O	_	passage	NOUN
+from	O	_	from	ADP
+:	O	_	:	PUNCT
+the	O	_	the	DET
+Incantation	O	_	Incantation	PROPN
+Scene	O	_	Scene	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+N.C.	B-person	Q251397	N.C.	PROPN
+Bochsa	I-person	Q251397	Bochsa	PROPN
+4	O	_	4	NUM
+.	O	_	.	PUNCT

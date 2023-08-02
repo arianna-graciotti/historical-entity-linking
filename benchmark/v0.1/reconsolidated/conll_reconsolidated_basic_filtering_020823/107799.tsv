@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1873-366.txt_1600
+#document_date:1873
+#sent_text:SIR F. A. GORE OUSELEY, Banr., M.A., Mus.
+SIR	B-person	Q1309154	SIR	PROPN
+F.	I-person	Q1309154	F.	PROPN
+A.	I-person	Q1309154	A.	PROPN
+GORE	I-person	Q1309154	GORE	PROPN
+OUSELEY	I-person	Q1309154	OUSELEY	PROPN
+,	I-person	Q1309154	,	PUNCT
+Banr	O	_	Banr	PROPN
+.	O	_	.	PUNCT
+,	O	_	,	PUNCT
+M.A.	O	_	M.A.	PROPN
+,	O	_	,	PUNCT
+Mus	O	_	Mus	PROPN
+.	O	_	.	PUNCT

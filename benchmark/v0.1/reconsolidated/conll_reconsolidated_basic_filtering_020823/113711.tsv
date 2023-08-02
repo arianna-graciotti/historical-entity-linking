@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1431
+#document_date:1825
+#sent_text:Allessandro nell Indie,” 1771;
+Allessandro	B-music	Q3610424	Allessandro	PROPN
+nell	I-music	Q3610424	nell	PROPN
+Indie	I-music	Q3610424	Indie	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1771	O	_	1771	NUM
+;	O	_	;	PUNCT

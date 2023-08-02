@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1684
+#document_date:1828
+#sent_text:Zingarelli (see the above and preceding articles.)
+Zingarelli	B-person	Q505202	Zingarelli	PROPN
+(	O	_	(	PUNCT
+see	O	_	see	VERB
+the	O	_	the	DET
+above	O	_	above	ADJ
+and	O	_	and	CCONJ
+preceding	O	_	precede	VERB
+articles	O	_	article	NOUN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

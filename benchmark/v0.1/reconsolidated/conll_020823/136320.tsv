@@ -1,0 +1,34 @@
+#document_id:TheHarmonicon__1824-016.txt_83
+#document_date:1824
+#sent_text:Though Mr. Viotti had long retired from his profession, Viotti nevertheless retained ‘all his love for the art, and contributed every thing in his power towards its ATS
+Though	O	_	though	SCONJ
+Mr.	B-person	Q313188	Mr.	PROPN
+Viotti	I-person	Q313188	Viotti	PROPN
+had	O	_	have	AUX
+long	O	_	long	ADV
+retired	O	_	retire	VERB
+from	O	_	from	ADP
+his	O	_	his	PRON
+profession	O	_	profession	NOUN
+,	O	_	,	PUNCT
+Viotti	O	_	Viotti	PROPN
+nevertheless	O	_	nevertheless	ADV
+retained	O	_	retain	VERB
+‘	O	_	'	PUNCT
+all	O	_	all	PRON
+his	O	_	his	PRON
+love	O	_	love	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+art	O	_	art	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+contributed	O	_	contribute	VERB
+every	O	_	every	DET
+thing	O	_	thing	NOUN
+in	O	_	in	ADP
+his	O	_	his	PRON
+power	O	_	power	NOUN
+towards	O	_	towards	ADP
+its	O	_	its	PRON
+ATS	O	_	ATS	PROPN

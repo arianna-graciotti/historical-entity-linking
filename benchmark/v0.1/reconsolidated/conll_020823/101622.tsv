@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1875-388.txt_502
+#document_date:1875
+#sent_text:, Life is a river (S. Nelson),
+,	O	_	,	PUNCT
+Life	O	_	life	NOUN
+is	O	_	be	AUX
+a	O	_	a	DET
+river	O	_	river	NOUN
+(	O	_	(	PUNCT
+S.	B-person	Q18528606	S.	PROPN
+Nelson	I-person	Q18528606	Nelson	PROPN
+)	O	_	)	PUNCT
+,	O	_	,	PUNCT

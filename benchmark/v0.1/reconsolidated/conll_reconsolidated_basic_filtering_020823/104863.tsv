@@ -1,0 +1,28 @@
+#document_id:TheMusicalTimes__1876-397.txt_1314
+#document_date:1876
+#sent_text:He was born in Hull, in March, 1823, and showed, from his earliest boyhood, a decided talent for music.
+He	O	_	he	PRON
+was	O	_	be	AUX
+born	O	_	bear	VERB
+in	O	_	in	ADP
+Hull	B-city	Q128147	Hull	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+March	O	_	March	PROPN
+,	O	_	,	PUNCT
+1823	O	_	1823	NUM
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+showed	O	_	show	VERB
+,	O	_	,	PUNCT
+from	O	_	from	ADP
+his	O	_	his	PRON
+earliest	O	_	early	ADJ
+boyhood	O	_	boyhood	NOUN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+decided	O	_	decide	VERB
+talent	O	_	talent	NOUN
+for	O	_	for	ADP
+music	O	_	music	NOUN
+.	O	_	.	PUNCT

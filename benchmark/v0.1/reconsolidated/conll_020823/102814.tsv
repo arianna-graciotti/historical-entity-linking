@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1875-388.txt_2045
+#document_date:1875
+#sent_text:Marimon, Madame Vilda, and Signori Pavani, Scolara and Capponi.
+Marimon	B-person	Q22939002	Marimon	PROPN
+,	O	_	,	PUNCT
+Madame	B-person	NIL	Madame	PROPN
+Vilda	I-person	NIL	Vilda	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Signori	B-person	NIL	Signori	PROPN
+Pavani	I-person	NIL	Pavani	PROPN
+,	O	_	,	PUNCT
+Scolara	B-person	NIL	Scolara	PROPN
+and	O	_	and	CCONJ
+Capponi	B-person	Q3770238	Capponi	PROPN
+.	O	_	.	PUNCT

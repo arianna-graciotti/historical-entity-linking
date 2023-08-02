@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-397.txt_210
+#document_date:1876
+#sent_text:(Of the Cathedral Choir, Lincoln.)
+(	O	_	(	PUNCT
+Of	O	_	of	ADP
+the	O	_	the	DET
+Cathedral	O	_	Cathedral	PROPN
+Choir	O	_	Choir	PROPN
+,	O	_	,	PUNCT
+Lincoln	B-city	Q180057	Lincoln	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

@@ -1,0 +1,30 @@
+#document_id:TheMusicalTimes__1873-366.txt_58
+#document_date:1873
+#sent_text:(Of the Royal Albert Hall Concerts), for Oratorios, Concerts, &c. Address 2, Hallfield-place, Bradford, Yorks.
+(	O	_	(	PUNCT
+Of	O	_	of	ADP
+the	O	_	the	DET
+Royal	B-building	Q193639	Royal	PROPN
+Albert	I-building	Q193639	Albert	PROPN
+Hall	I-building	Q193639	Hall	PROPN
+Concerts	O	_	Concerts	PROPN
+)	O	_	)	PUNCT
+,	O	_	,	PUNCT
+for	O	_	for	ADP
+Oratorios	O	_	Oratorios	PROPN
+,	O	_	,	PUNCT
+Concerts	O	_	Concerts	PROPN
+,	O	_	,	PUNCT
+&	O	_	&	X
+c.	O	_	c.	X
+Address	O	_	Address	PROPN
+2	O	_	2	NUM
+,	O	_	,	PUNCT
+Hallfield	B-road	NIL	Hallfield	PROPN
+-	I-road	NIL	-	PUNCT
+place	I-road	NIL	place	NOUN
+,	O	_	,	PUNCT
+Bradford	B-city	Q22905	Bradford	PROPN
+,	O	_	,	PUNCT
+Yorks	B-county	Q163	Yorks	PROPN
+.	O	_	.	PUNCT

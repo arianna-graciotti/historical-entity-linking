@@ -1,0 +1,24 @@
+#document_id:TheMusicalTimes__1876-402.txt_933
+#document_date:1876
+#sent_text:Meantime, we Believe that we are correct in asserting that Dr. Sullivan has resigned his post as Musical Director.
+Meantime	O	_	meantime	ADV
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+Believe	O	_	believe	VERB
+that	O	_	that	SCONJ
+we	O	_	we	PRON
+are	O	_	be	AUX
+correct	O	_	correct	ADJ
+in	O	_	in	ADP
+asserting	O	_	assert	VERB
+that	O	_	that	SCONJ
+Dr.	B-person	NIL	Dr.	PROPN
+Sullivan	I-person	NIL	Sullivan	PROPN
+has	O	_	have	AUX
+resigned	O	_	resign	VERB
+his	O	_	his	PRON
+post	O	_	post	NOUN
+as	O	_	as	ADP
+Musical	O	_	Musical	PROPN
+Director	O	_	Director	PROPN
+.	O	_	.	PUNCT

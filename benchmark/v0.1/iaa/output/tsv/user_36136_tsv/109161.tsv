@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1873-366.txt_3725
+#document_date:NaN
+#sent_text:atchman’s Song (7.1.8.5. ant Ditte.
+atchman	O	_	atchman	PROPN
+’s	O	_	’s	PART
+Song	O	_	Song	PROPN
+(	O	_	(	PUNCT
+7.1.8.5	O	_	7.1.8.5	NUM
+.	O	_	.	NUM
+ant	O	_	ant	NOUN
+Ditte	O	_	Ditte	PROPN
+.	O	_	.	PUNCT

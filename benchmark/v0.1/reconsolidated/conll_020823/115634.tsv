@@ -1,0 +1,25 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_3994
+#document_date:1825
+#sent_text:Madame Catalani, we are quite ready to admit, is majesty personified, but it is dramatic not orchestral Majesty.
+Madame	B-person	Q263405	Madame	PROPN
+Catalani	I-person	Q263405	Catalani	PROPN
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+are	O	_	be	AUX
+quite	O	_	quite	ADV
+ready	O	_	ready	ADJ
+to	O	_	to	PART
+admit	O	_	admit	VERB
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+majesty	O	_	majesty	NOUN
+personified	O	_	personified	ADJ
+,	O	_	,	PUNCT
+but	O	_	but	CCONJ
+it	O	_	it	PRON
+is	O	_	be	AUX
+dramatic	O	_	dramatic	ADJ
+not	O	_	not	PART
+orchestral	O	_	orchestral	ADJ
+Majesty	O	_	Majesty	PROPN
+.	O	_	.	PUNCT

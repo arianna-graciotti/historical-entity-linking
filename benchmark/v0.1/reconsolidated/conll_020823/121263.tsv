@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3820
+#document_date:1828
+#sent_text:Mr. Ebers here canvasses the question whether a committee is best calculated to manage a theatre?
+Mr.	B-person	Q6231101	Mr.	PROPN
+Ebers	I-person	Q6231101	Ebers	PROPN
+here	O	_	here	ADV
+canvasses	O	_	canvass	VERB
+the	O	_	the	DET
+question	O	_	question	NOUN
+whether	O	_	whether	SCONJ
+a	O	_	a	DET
+committee	O	_	committee	NOUN
+is	O	_	be	AUX
+best	O	_	well	ADV
+calculated	O	_	calculate	VERB
+to	O	_	to	PART
+manage	O	_	manage	VERB
+a	O	_	a	DET
+theatre	O	_	theatre	NOUN
+?	O	_	?	PUNCT

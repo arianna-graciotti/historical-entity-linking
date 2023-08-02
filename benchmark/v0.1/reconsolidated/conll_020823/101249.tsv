@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1875-388.txt_46
+#document_date:1875
+#sent_text:1, BERNERS STREET, W. ©
+1	O	_	1	NUM
+,	O	_	,	PUNCT
+BERNERS	B-road	Q14997139	BERNERS	PROPN
+STREET	I-road	Q14997139	STREET	PROPN
+,	O	_	,	PUNCT
+W.	O	_	W.	PROPN
+©	O	_	©	PUNCT

@@ -1,0 +1,20 @@
+#document_id:TheMusicalTimes__1875-388.txt_795
+#document_date:1875
+#sent_text:W. ANTED, an ORGANIST and CHOIRMASTER for St. Michael's Church, Helston, Cornwall.
+W.	O	_	W.	PROPN
+ANTED	O	_	ANTED	PROPN
+,	O	_	,	PUNCT
+an	O	_	an	DET
+ORGANIST	O	_	organist	NOUN
+and	O	_	and	CCONJ
+CHOIRMASTER	O	_	choirmaster	NOUN
+for	O	_	for	ADP
+St.	B-worship-place	NIL	St.	PROPN
+Michael	I-worship-place	NIL	Michael	PROPN
+'s	I-worship-place	NIL	's	PART
+Church	I-worship-place	NIL	Church	PROPN
+,	O	_	,	PUNCT
+Helston	B-city	Q1012535	Helston	PROPN
+,	O	_	,	PUNCT
+Cornwall	B-local-region	Q23148	Cornwall	PROPN
+.	O	_	.	PUNCT

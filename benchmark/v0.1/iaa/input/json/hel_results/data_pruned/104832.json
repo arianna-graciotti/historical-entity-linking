@@ -1,0 +1,66 @@
+{
+    "id": "104832",
+    "text": "\u00a34 for allowing two airs from Wallace\u2019s",
+    "page_id": "TheMusicalTimes__1876-397.txt_1277",
+    "namedEntities": [
+        {
+            "variable": "z6",
+            "type": "broadcast-program",
+            "entityName": "Wallace",
+            "wikis": [
+                {
+                    "wiki": "MZ_Wallace",
+                    "link": "https://en.wikipedia.org/wiki/MZ_Wallace",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/William_Vincent_Wallace",
+                            "wikiQid": "Q2245188",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/William_Vincent_Wallace",
+                            "wikiQid": "Q2245188",
+                            "sentenceEnough": "no",
+                            "contextString": "Wallace\u2019s Maritana",
+                            "contextBroader": "\u00a34 for allowing two airs from Wallace\u2019s Maritana to be performed. ",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "person"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "person"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

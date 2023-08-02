@@ -1,0 +1,20 @@
+#document_id:TheHarmonicon__1832-012.txt_1866
+#document_date:1832
+#sent_text:; it.was received with great applause, which it had already previously met with at Mannheim.
+;	O	_	;	PUNCT
+it.was	O	_	it.was	AUX
+received	O	_	receive	VERB
+with	O	_	with	ADP
+great	O	_	great	ADJ
+applause	O	_	applause	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+it	O	_	it	PRON
+had	O	_	have	AUX
+already	O	_	already	ADV
+previously	O	_	previously	ADV
+met	O	_	meet	VERB
+with	O	_	with	ADP
+at	O	_	at	ADP
+Mannheim	B-city	Q2119	Mannheim	PROPN
+.	O	_	.	PUNCT

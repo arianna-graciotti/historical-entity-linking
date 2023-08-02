@@ -1,0 +1,31 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_278
+#document_date:1826
+#sent_text:Six Grand Symphonies, newly adapted for ihe Piano Forte, with an Accompaniment for the Flute, Violin, and Violoncello ; by Muzio Clementi 2.
+Six	O	_	six	NUM
+Grand	O	_	Grand	PROPN
+Symphonies	O	_	symphony	NOUN
+,	O	_	,	PUNCT
+newly	O	_	newly	ADV
+adapted	O	_	adapt	VERB
+for	O	_	for	ADP
+ihe	O	_	ihe	PROPN
+Piano	O	_	Piano	PROPN
+Forte	O	_	Forte	PROPN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+an	O	_	an	DET
+Accompaniment	O	_	Accompaniment	PROPN
+for	O	_	for	ADP
+the	O	_	the	DET
+Flute	O	_	Flute	PROPN
+,	O	_	,	PUNCT
+Violin	O	_	Violin	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Violoncello	O	_	Violoncello	PROPN
+;	O	_	;	PUNCT
+by	O	_	by	ADP
+Muzio	B-person	Q193673	Muzio	PROPN
+Clementi	I-person	Q193673	Clementi	PROPN
+2	O	_	2	NUM
+.	O	_	.	PUNCT

@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1828-001.txt_1888
+#document_date:1828
+#sent_text:Sontag left Francfort for Brussels on the Ist of December.
+Sontag	B-person	Q64098	Sontag	PROPN
+left	O	_	leave	VERB
+Francfort	B-city	Q1794	Francfort	PROPN
+for	O	_	for	ADP
+Brussels	B-city	Q9005	Brussels	PROPN
+on	O	_	on	ADP
+the	O	_	the	DET
+Ist	O	_	Ist	PROPN
+of	O	_	of	ADP
+December	O	_	December	PROPN
+.	O	_	.	PUNCT

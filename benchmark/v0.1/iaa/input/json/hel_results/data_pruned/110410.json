@@ -1,0 +1,74 @@
+{
+    "id": "110410",
+    "text": "4.) doRondo and Fantasia.",
+    "page_id": "TheMusicalWorld__1843-029.txt_863",
+    "namedEntities": [
+        {
+            "variable": "z2",
+            "type": "thing",
+            "entityName": "Fantasia",
+            "wikis": [
+                {
+                    "wiki": "Guzmania_'Fantasia'",
+                    "link": "https://en.wikipedia.org/wiki/Guzmania_'Fantasia'",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not sure if it is a valid named entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "op2"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

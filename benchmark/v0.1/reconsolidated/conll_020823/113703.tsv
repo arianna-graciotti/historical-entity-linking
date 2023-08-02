@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1422
+#document_date:1825
+#sent_text:“ Le Vicende amorose,” 1760;
+“	O	_	"	PUNCT
+Le	B-music	NIL	Le	PROPN
+Vicende	I-music	NIL	Vicende	PROPN
+amorose	I-music	NIL	amorose	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1760	O	_	1760	NUM
+;	O	_	;	PUNCT

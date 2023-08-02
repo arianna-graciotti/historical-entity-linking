@@ -1,0 +1,117 @@
+{
+    "id": "119926",
+    "text": "Sommer, organist to the Court of Vienna; this is the greatest compliment which can be paid to his talents.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1570",
+    "namedEntities": [
+        {
+            "variable": "z3",
+            "type": "person",
+            "entityName": "Sommer",
+            "wikis": [
+                {
+                    "wiki": "Vladim\u00edr_Sommer",
+                    "link": "https://en.wikipedia.org/wiki/Vladim\u00edr_Sommer",
+                    "qid": "Q708909",
+                    "assessments": {
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not enough context to determine the entity"
+                        },
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "materials do not give enough informations"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "poss",
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:poss"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        },
+        {
+            "variable": "z6",
+            "type": "government-organization",
+            "entityName": "Court of Vienna",
+            "wikis": [
+                {
+                    "wiki": "Vienna_State_Opera",
+                    "link": "https://en.wikipedia.org/wiki/Vienna_State_Opera",
+                    "qid": "Q209937",
+                    "assessments": {
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in Wikidata"
+                        },
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "correct",
+                            "qidAssessment": "correct"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "building"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        },
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        }
+    }
+}

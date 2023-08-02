@@ -1,0 +1,34 @@
+#document_id:TheHarmonicon__1824-016.txt_3646
+#document_date:1824
+#sent_text:On the same occasion, a quintett and chorus from Jerusalem delivered, an oratorio by M. Eberwein, which is still in MS. was received with much applause.
+On	O	_	on	ADP
+the	O	_	the	DET
+same	O	_	same	ADJ
+occasion	O	_	occasion	NOUN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+quintett	O	_	quintett	NOUN
+and	O	_	and	CCONJ
+chorus	O	_	chorus	NOUN
+from	O	_	from	ADP
+Jerusalem	B-city	Q1218	Jerusalem	PROPN
+delivered	O	_	deliver	VERB
+,	O	_	,	PUNCT
+an	O	_	an	DET
+oratorio	O	_	oratorio	NOUN
+by	O	_	by	ADP
+M.	B-person	Q216234	M.	PROPN
+Eberwein	I-person	Q216234	Eberwein	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+is	O	_	be	AUX
+still	O	_	still	ADV
+in	O	_	in	ADP
+MS	O	_	MS	PROPN
+.	O	_	.	PUNCT
+was	O	_	be	AUX
+received	O	_	receive	VERB
+with	O	_	with	ADP
+much	O	_	much	ADJ
+applause	O	_	applause	NOUN
+.	O	_	.	PUNCT

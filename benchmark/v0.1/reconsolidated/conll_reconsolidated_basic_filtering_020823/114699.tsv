@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2645
+#document_date:1825
+#sent_text:; Ly fair,” is a short and spirited piece . of melody.
+;	O	_	;	PUNCT
+Ly	B-music	NIL	Ly	PROPN
+fair	I-music	NIL	fair	ADJ
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+is	O	_	be	AUX
+a	O	_	a	DET
+short	O	_	short	ADJ
+and	O	_	and	CCONJ
+spirited	O	_	spirited	ADJ
+piece	O	_	piece	NOUN
+.	O	_	.	PUNCT
+of	O	_	of	ADP
+melody	O	_	melody	NOUN
+.	O	_	.	PUNCT

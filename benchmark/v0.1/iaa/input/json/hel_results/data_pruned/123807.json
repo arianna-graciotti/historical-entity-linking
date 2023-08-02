@@ -1,0 +1,78 @@
+{
+    "id": "123807",
+    "text": "His arms consisted of a musquet, a sabre, a T urkish knife, and one small pistol, of extremely inferior quality.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2543",
+    "namedEntities": [
+        {
+            "variable": "z7",
+            "type": "country",
+            "entityName": "Turkey",
+            "wikis": [
+                {
+                    "wiki": "Turkey",
+                    "link": "https://en.wikipedia.org/wiki/Turkey",
+                    "qid": "Q43",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a named entity"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "mod",
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:mod"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "Turkey",
+                    "assessment": "wrong",
+                    "entityType": ""
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

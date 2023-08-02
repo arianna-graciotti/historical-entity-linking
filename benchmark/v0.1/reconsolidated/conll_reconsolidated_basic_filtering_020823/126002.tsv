@@ -1,0 +1,18 @@
+#document_id:TheHarmonicon__1833-005.txt_1715
+#document_date:1833
+#sent_text:The Philharmonic Society, founded here by M. Schénche, is going on flourishingly.
+The	O	_	the	DET
+Philharmonic	O	_	Philharmonic	PROPN
+Society	O	_	Society	PROPN
+,	O	_	,	PUNCT
+founded	O	_	found	VERB
+here	O	_	here	ADV
+by	O	_	by	ADP
+M.	B-person	NIL	M.	PROPN
+Schénche	I-person	NIL	Schénche	PROPN
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+going	O	_	go	VERB
+on	O	_	on	ADP
+flourishingly	O	_	flourishingly	ADV
+.	O	_	.	PUNCT

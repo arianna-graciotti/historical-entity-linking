@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_346
+#document_date:NaN
+#sent_text:4 The: Overture to Summer Night's Dream,
+4	O	_	4	NUM
+The	O	_	the	DET
+:	O	_	:	PUNCT
+Overture	B-music	Q1305214	Overture	PROPN
+to	I-music	Q1305214	to	ADP
+Summer	I-music	Q1305214	Summer	PROPN
+Night	I-music	Q1305214	Night	PROPN
+'s	I-music	Q1305214	's	PART
+Dream	I-music	Q1305214	Dream	PROPN
+,	O	_	,	PUNCT

@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2268
+#document_date:1828
+#sent_text:“‘ Carron side,” an opera by Signor Liverati, was produced with success.
+“	O	_	"	PUNCT
+‘	O	_	'	PUNCT
+Carron	O	_	Carron	PROPN
+side	O	_	side	NOUN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+an	O	_	an	DET
+opera	O	_	opera	NOUN
+by	O	_	by	ADP
+Signor	B-person	Q3767573	Signor	PROPN
+Liverati	I-person	Q3767573	Liverati	PROPN
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+produced	O	_	produce	VERB
+with	O	_	with	ADP
+success	O	_	success	NOUN
+.	O	_	.	PUNCT

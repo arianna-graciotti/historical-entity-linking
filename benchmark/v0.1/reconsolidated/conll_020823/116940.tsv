@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1599
+#document_date:1824
+#sent_text:They established a school together at Rome, where several future great composers received their musical education, See vol.
+They	O	_	they	PRON
+established	O	_	establish	VERB
+a	O	_	a	DET
+school	O	_	school	NOUN
+together	O	_	together	ADV
+at	O	_	at	ADP
+Rome	B-city	Q220	Rome	PROPN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+several	O	_	several	ADJ
+future	O	_	future	ADJ
+great	O	_	great	ADJ
+composers	O	_	composer	NOUN
+received	O	_	receive	VERB
+their	O	_	their	PRON
+musical	O	_	musical	ADJ
+education	O	_	education	NOUN
+,	O	_	,	PUNCT
+See	O	_	see	VERB
+vol	O	_	vol	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1403
+#document_date:1825
+#sent_text:was at first not successful in Rome, but.
+was	O	_	be	AUX
+at	O	_	at	ADP
+first	O	_	first	ADV
+not	O	_	not	PART
+successful	O	_	successful	ADJ
+in	O	_	in	ADP
+Rome	B-city	Q220	Rome	PROPN
+,	O	_	,	PUNCT
+but	O	_	but	CCONJ
+.	O	_	.	PUNCT

@@ -1,0 +1,7 @@
+#document_id:TheHarmonicon__1824-016.txt_177
+#document_date:1824
+#sent_text:T walked forward,
+T	B-person	NIL	T	PROPN
+walked	O	_	walk	VERB
+forward	O	_	forward	ADV
+,	O	_	,	PUNCT

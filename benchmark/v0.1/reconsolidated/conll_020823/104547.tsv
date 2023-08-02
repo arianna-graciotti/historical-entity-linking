@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1876-397.txt_889
+#document_date:1876
+#sent_text:A new organ, with four manuals, has been ordered from Messrs. Lewis.
+A	O	_	a	DET
+new	O	_	new	ADJ
+organ	O	_	organ	NOUN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+four	O	_	four	NUM
+manuals	O	_	manual	NOUN
+,	O	_	,	PUNCT
+has	O	_	have	AUX
+been	O	_	be	AUX
+ordered	O	_	order	VERB
+from	O	_	from	ADP
+Messrs.	B-person	NIL	Messrs.	PROPN
+Lewis	I-person	NIL	Lewis	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,11 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_257
+#document_date:1870
+#sent_text:Jose ‘phine Grassini, Edneated ina convent
+Jose	B-person	Q1154290	Jose	PROPN
+‘	I-person	Q1154290	‘	PROPN
+phine	I-person	Q1154290	phine	PROPN
+Grassini	I-person	Q1154290	Grassini	PROPN
+,	O	_	,	PUNCT
+Edneated	O	_	edneate	VERB
+ina	O	_	ina	ADP
+convent	O	_	convent	NOUN

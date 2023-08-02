@@ -1,0 +1,11 @@
+#document_id:TheHarmonicon__1828-001.txt_36
+#document_date:1828
+#sent_text:(From Le Furet de Londres. )
+(	O	_	(	PUNCT
+From	O	_	from	ADP
+Le	B-newspaper	NIL	Le	PROPN
+Furet	I-newspaper	NIL	Furet	PROPN
+de	I-newspaper	NIL	de	PROPN
+Londres	I-newspaper	NIL	Londres	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

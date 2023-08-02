@@ -1,0 +1,28 @@
+#document_id:TheMusicalTimes__1873-366.txt_1527
+#document_date:1873
+#sent_text:On the 14th ult the South Wales Choral Union visited Marlborough Honse, by express desire of His Royal Highness the Prince of Wales.
+On	O	_	on	ADP
+the	O	_	the	DET
+14th	O	_	14th	ADJ
+ult	O	_	ult	NOUN
+the	O	_	the	DET
+South	B-organization	NIL	South	PROPN
+Wales	I-organization	NIL	Wales	PROPN
+Choral	I-organization	NIL	Choral	PROPN
+Union	I-organization	NIL	Union	PROPN
+visited	O	_	visit	VERB
+Marlborough	B-building	Q565532	Marlborough	PROPN
+Honse	I-building	Q565532	Honse	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+express	O	_	express	ADJ
+desire	O	_	desire	NOUN
+of	O	_	of	ADP
+His	O	_	his	PRON
+Royal	O	_	Royal	PROPN
+Highness	O	_	Highness	PROPN
+the	O	_	the	DET
+Prince	O	_	Prince	PROPN
+of	O	_	of	ADP
+Wales	O	_	Wales	PROPN
+.	O	_	.	PUNCT

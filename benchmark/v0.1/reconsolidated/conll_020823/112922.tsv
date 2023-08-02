@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_402
+#document_date:1825
+#sent_text:Impromptu pour le Piano Forte, par J. Moscheles
+Impromptu	O	_	impromptu	X
+pour	O	_	pour	X
+le	O	_	le	PRON
+Piano	O	_	Piano	PROPN
+Forte	O	_	Forte	PROPN
+,	O	_	,	PUNCT
+par	O	_	par	ADP
+J.	B-person	Q159551	J.	PROPN
+Moscheles	I-person	Q159551	Moscheles	PROPN

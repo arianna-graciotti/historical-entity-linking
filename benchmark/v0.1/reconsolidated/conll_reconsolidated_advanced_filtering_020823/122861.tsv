@@ -1,0 +1,29 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1274
+#document_date:1826
+#sent_text:This will serve to give some idea of the extensive field entered upon by Martini, and the diffuseness of that part which is completed.
+This	O	_	this	PRON
+will	O	_	will	AUX
+serve	O	_	serve	VERB
+to	O	_	to	PART
+give	O	_	give	VERB
+some	O	_	some	DET
+idea	O	_	idea	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+extensive	O	_	extensive	ADJ
+field	O	_	field	NOUN
+entered	O	_	enter	VERB
+upon	O	_	upon	SCONJ
+by	O	_	by	ADP
+Martini	B-person	Q283651	Martini	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+diffuseness	O	_	diffuseness	NOUN
+of	O	_	of	ADP
+that	O	_	that	DET
+part	O	_	part	NOUN
+which	O	_	which	PRON
+is	O	_	be	AUX
+completed	O	_	complete	VERB
+.	O	_	.	PUNCT

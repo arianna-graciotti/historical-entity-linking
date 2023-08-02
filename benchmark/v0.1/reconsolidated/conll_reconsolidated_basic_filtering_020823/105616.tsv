@@ -1,0 +1,17 @@
+#document_id:TheMusicalTimes__1876-397.txt_2342
+#document_date:1876
+#sent_text:R. Smith lectured at the Athenzum on Thursday evening, the roth ult.
+R.	B-person	NIL	R.	PROPN
+Smith	I-person	NIL	Smith	PROPN
+lectured	O	_	lecture	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+Athenzum	O	_	Athenzum	PROPN
+on	O	_	on	ADP
+Thursday	O	_	Thursday	PROPN
+evening	O	_	evening	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+roth	O	_	roth	NOUN
+ult	O	_	ult	NOUN
+.	O	_	.	PUNCT

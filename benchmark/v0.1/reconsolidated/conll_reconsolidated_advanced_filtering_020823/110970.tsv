@@ -1,0 +1,18 @@
+#document_id:TheMusicalWorld__1843-038.txt_662
+#document_date:1843
+#sent_text:* Leader and Director of the London, Bath, and Bristol Phdharmoniec Coucerts.
+*	O	_	*	PUNCT
+Leader	O	_	Leader	PROPN
+and	O	_	and	CCONJ
+Director	O	_	Director	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+London	B-city	Q84	London	PROPN
+,	O	_	,	PUNCT
+Bath	B-city	Q22889	Bath	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Bristol	B-city	Q23154	Bristol	PROPN
+Phdharmoniec	O	_	Phdharmoniec	PROPN
+Coucerts	O	_	Coucerts	PROPN
+.	O	_	.	PUNCT

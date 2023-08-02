@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-397.txt_1253
+#document_date:1876
+#sent_text:The nations tremble,” in Foshua.
+The	O	_	the	DET
+nations	O	_	nation	NOUN
+tremble	O	_	tremble	VERB
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+in	O	_	in	ADP
+Foshua	B-music	Q380646	Foshua	PROPN
+.	O	_	.	PUNCT

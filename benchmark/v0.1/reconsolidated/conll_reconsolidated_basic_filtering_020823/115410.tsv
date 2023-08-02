@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_3672
+#document_date:1825
+#sent_text:Members for the County of York.
+Members	O	_	member	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+County	O	_	County	PROPN
+of	O	_	of	ADP
+York	B-county	Q163	York	PROPN
+.	O	_	.	PUNCT

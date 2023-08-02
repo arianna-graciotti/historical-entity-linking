@@ -1,0 +1,67 @@
+{
+    "id": "10902",
+    "text": "Class care case realize.",
+    "page_id": "Debate ahead hit level.",
+    "namedEntities": [
+        {
+            "variable": "41Qy59",
+            "type": "Western huge walk art.",
+            "entityName": "Leg tough start prove.",
+            "wikis": [
+                {
+                    "wiki": "Buy despite meeting.",
+                    "link": "https://www.braun-reid.com/",
+                    "qid": "15tp35",
+                    "assessments": {
+                        "36136": {
+                            "user": "66454",
+                            "assessment": "wrong",
+                            "wikiUrl": "http://www.lane.com/",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "08fx32",
+                            "sentenceEnough": "Stop vote decide kind.",
+                            "contextString": "Feel room meeting of.",
+                            "contextBroader": "Guy either role yeah.",
+                            "comments": "Live sit strategy win."
+                        },
+                        "23628": {
+                            "user": "87528",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://www.cisneros.com/",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "64ZQ14",
+                            "sentenceEnough": "Land sure seem vote.",
+                            "contextString": "National free Mrs main.",
+                            "contextBroader": "Law to add memory agent.",
+                            "comments": "Eye focus even rest bar."
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "49460",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "25808",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "35547",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "18569",
+            "missingNamedEntities": []
+        }
+    }
+}

@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4729
+#document_date:1828
+#sent_text:Oct. 10, 1828—Great Queen-street, Lincoln’s Inn.
+Oct.	O	_	Oct.	PROPN
+10	O	_	10	NUM
+,	O	_	,	PUNCT
+1828	O	_	1828	NUM
+—	O	_	—	PUNCT
+Great	B-road	Q5599818	great	ADJ
+Queen	I-road	Q5599818	Queen	PROPN
+-	I-road	Q5599818	-	PUNCT
+street	I-road	Q5599818	street	NOUN
+,	O	_	,	PUNCT
+Lincoln	B-square	Q2736153	Lincoln	PROPN
+’s	I-square	Q2736153	’s	PART
+Inn	I-square	Q2736153	Inn	PROPN
+.	O	_	.	PUNCT

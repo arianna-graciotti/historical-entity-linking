@@ -1,0 +1,30 @@
+#document_id:TheMusicalTimes__1875-388.txt_1200
+#document_date:1875
+#sent_text:Symphony in E flat (a very ‘clever composition) has already been heard at the Crystal Palace, where its merits were thoroughly appreciated.
+Symphony	O	_	symphony	NOUN
+in	O	_	in	ADP
+E	O	_	e	NOUN
+flat	O	_	flat	ADJ
+(	O	_	(	PUNCT
+a	O	_	a	DET
+very	O	_	very	ADV
+‘	O	_	'	PUNCT
+clever	O	_	clever	ADJ
+composition	O	_	composition	NOUN
+)	O	_	)	PUNCT
+has	O	_	have	AUX
+already	O	_	already	ADV
+been	O	_	be	AUX
+heard	O	_	hear	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+Crystal	B-building	Q202902	Crystal	PROPN
+Palace	I-building	Q202902	Palace	PROPN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+its	O	_	its	PRON
+merits	O	_	merit	NOUN
+were	O	_	be	AUX
+thoroughly	O	_	thoroughly	ADV
+appreciated	O	_	appreciate	VERB
+.	O	_	.	PUNCT

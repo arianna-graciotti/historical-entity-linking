@@ -1,0 +1,35 @@
+#document_id:TheMusicalTimes__1876-397.txt_2296
+#document_date:1876
+#sent_text:: NgwcastLe-on-TyNE.—A most successful performance of the Antigone of Sophocles, with Mendelssohn's music, took place at the Theatre Royal, on the 21st ult.
+:	O	_	:	PUNCT
+NgwcastLe	O	_	NgwcastLe	PROPN
+-	O	_	-	PROPN
+on	O	_	on	PROPN
+-	O	_	-	PUNCT
+TyNE.—A	O	_	TyNE.—A	PROPN
+most	O	_	most	ADV
+successful	O	_	successful	ADJ
+performance	O	_	performance	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Antigone	B-work-of-art	Q241077	Antigone	PROPN
+of	I-work-of-art	Q241077	of	ADP
+Sophocles	I-work-of-art	Q241077	Sophocles	PROPN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+'s	O	_	's	PART
+music	O	_	music	NOUN
+,	O	_	,	PUNCT
+took	O	_	take	VERB
+place	O	_	place	NOUN
+at	O	_	at	ADP
+the	O	_	the	DET
+Theatre	B-building	Q7777436	Theatre	PROPN
+Royal	I-building	Q7777436	Royal	PROPN
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+the	O	_	the	DET
+21st	O	_	21st	ADJ
+ult	O	_	ult	NOUN
+.	O	_	.	PUNCT

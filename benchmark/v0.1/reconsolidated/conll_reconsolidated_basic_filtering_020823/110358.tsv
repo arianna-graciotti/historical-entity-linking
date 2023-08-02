@@ -1,0 +1,10 @@
+#document_id:TheMusicalWorld__1843-029.txt_783
+#document_date:1843
+#sent_text:(Signed) ‘A. Tolbecque.
+(	O	_	(	PUNCT
+Signed	O	_	sign	VERB
+)	O	_	)	PUNCT
+‘	B-person	NIL	‘	PROPN
+A.	I-person	NIL	A.	PROPN
+Tolbecque	I-person	NIL	Tolbecque	PROPN
+.	O	_	.	PUNCT

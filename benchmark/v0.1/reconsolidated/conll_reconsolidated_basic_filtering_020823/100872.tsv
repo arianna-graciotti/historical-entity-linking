@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-402.txt_3375
+#document_date:1876
+#sent_text:In Vocal Score, with Pianoforte Accompaniment.
+In	O	_	in	ADP
+Vocal	O	_	Vocal	PROPN
+Score	O	_	Score	PROPN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+Pianoforte	O	_	Pianoforte	PROPN
+Accompaniment	O	_	Accompaniment	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1373
+#document_date:1825
+#sent_text:Sabadini also composed oratorios, the best of which was “ La Divina Sapienza.
+Sabadini	B-person	Q3638803	Sabadini	PROPN
+also	O	_	also	ADV
+composed	O	_	compose	VERB
+oratorios	O	_	oratorio	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+best	O	_	good	ADJ
+of	O	_	of	ADP
+which	O	_	which	PRON
+was	O	_	be	AUX
+“	O	_	"	PUNCT
+La	B-music	NIL	La	PROPN
+Divina	I-music	NIL	Divina	PROPN
+Sapienza	I-music	NIL	Sapienza	PROPN
+.	O	_	.	PUNCT

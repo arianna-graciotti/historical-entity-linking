@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1769
+#document_date:1825
+#sent_text:Haranc composed a good deal of instrumental music, which has never been.published.
+Haranc	B-person	NIL	Haranc	PROPN
+composed	O	_	compose	VERB
+a	O	_	a	DET
+good	O	_	good	ADJ
+deal	O	_	deal	NOUN
+of	O	_	of	ADP
+instrumental	O	_	instrumental	ADJ
+music	O	_	music	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+has	O	_	have	AUX
+never	O	_	never	ADV
+been.published	O	_	been.publishe	VERB
+.	O	_	.	PUNCT

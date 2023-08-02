@@ -1,0 +1,30 @@
+#document_id:TheMusicalTimes__1875-388.txt_550
+#document_date:1875
+#sent_text:Stanley Lucas, Weber and Co., 8&4, New Bond-street; Novello, Ewer and Co., 1, Bernera-street, W.
+Stanley	O	_	Stanley	PROPN
+Lucas	O	_	Lucas	PROPN
+,	O	_	,	PUNCT
+Weber	O	_	Weber	PROPN
+and	O	_	and	CCONJ
+Co.	O	_	Co.	PROPN
+,	O	_	,	PUNCT
+8&4	O	_	8&4	NUM
+,	O	_	,	PUNCT
+New	B-road	Q892187	New	PROPN
+Bond	I-road	Q892187	Bond	PROPN
+-	I-road	Q892187	-	PUNCT
+street	I-road	Q892187	street	NOUN
+;	O	_	;	PUNCT
+Novello	B-company	Q15919379	Novello	PROPN
+,	I-company	Q15919379	,	PUNCT
+Ewer	I-company	Q15919379	Ewer	PROPN
+and	I-company	Q15919379	and	CCONJ
+Co.	I-company	Q15919379	Co.	PROPN
+,	O	_	,	PUNCT
+1	O	_	1	NUM
+,	O	_	,	PUNCT
+Bernera	B-road	Q14997139	Bernera	PROPN
+-	I-road	Q14997139	-	PUNCT
+street	I-road	Q14997139	street	NOUN
+,	O	_	,	PUNCT
+W.	O	_	W.	PROPN

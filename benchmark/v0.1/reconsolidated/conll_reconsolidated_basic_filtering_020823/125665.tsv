@@ -1,0 +1,10 @@
+#document_id:TheHarmonicon__1833-005.txt_1180
+#document_date:1833
+#sent_text:Song, ‘Ombra che pallida.
+Song	O	_	song	NOUN
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+Ombra	B-music	NIL	Ombra	PROPN
+che	I-music	NIL	che	X
+pallida	I-music	NIL	pallida	PROPN
+.	O	_	.	PUNCT

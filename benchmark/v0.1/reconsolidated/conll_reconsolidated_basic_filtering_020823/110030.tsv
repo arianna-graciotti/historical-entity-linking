@@ -1,0 +1,16 @@
+#document_id:TheMusicalWorld__1843-029.txt_365
+#document_date:1843
+#sent_text:Mr. J. Wylde, in a harp fantasia, greatly distinguished him.
+Mr.	B-person	NIL	Mr.	PROPN
+J.	I-person	NIL	J.	PROPN
+Wylde	I-person	NIL	Wylde	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+a	O	_	a	DET
+harp	O	_	harp	NOUN
+fantasia	O	_	fantasia	NOUN
+,	O	_	,	PUNCT
+greatly	O	_	greatly	ADV
+distinguished	O	_	distinguish	VERB
+him	O	_	he	PRON
+.	O	_	.	PUNCT

@@ -1,0 +1,23 @@
+#document_id:TheMusicalTimes__1876-397.txt_2568
+#document_date:1876
+#sent_text:, Bow, E.—E. Carper is prepared to send Specifications for building Organs of very superior materials and workmanship.
+,	O	_	,	PUNCT
+Bow	B-person	NIL	Bow	PROPN
+,	O	_	,	PUNCT
+E.—E.	O	_	E.—E.	PROPN
+Carper	O	_	Carper	PROPN
+is	O	_	be	AUX
+prepared	O	_	prepare	VERB
+to	O	_	to	PART
+send	O	_	send	VERB
+Specifications	O	_	specification	NOUN
+for	O	_	for	ADP
+building	O	_	build	VERB
+Organs	O	_	organ	NOUN
+of	O	_	of	ADP
+very	O	_	very	ADV
+superior	O	_	superior	ADJ
+materials	O	_	material	NOUN
+and	O	_	and	CCONJ
+workmanship	O	_	workmanship	NOUN
+.	O	_	.	PUNCT

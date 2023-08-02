@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_3494
+#document_date:1825
+#sent_text:Six more numbers of the new edition of Cramer's works are published.
+Six	O	_	six	NUM
+more	O	_	more	ADJ
+numbers	O	_	number	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+new	O	_	new	ADJ
+edition	O	_	edition	NOUN
+of	O	_	of	ADP
+Cramer	B-person	Q455212	Cramer	PROPN
+'s	O	_	's	PART
+works	O	_	work	NOUN
+are	O	_	be	AUX
+published	O	_	publish	VERB
+.	O	_	.	PUNCT

@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1875-388.txt_805
+#document_date:1875
+#sent_text:Address Mr. King, 1, Newroad, Commercial-road, E.
+Address	O	_	address	VERB
+Mr.	B-person	NIL	Mr.	PROPN
+King	I-person	NIL	King	PROPN
+,	O	_	,	PUNCT
+1	O	_	1	NUM
+,	O	_	,	PUNCT
+Newroad	B-road	Q101580022	Newroad	PROPN
+,	O	_	,	PUNCT
+Commercial	B-road	Q5152522	Commercial	PROPN
+-	I-road	Q5152522	-	PUNCT
+road	I-road	Q5152522	road	NOUN
+,	O	_	,	PUNCT
+E.	O	_	E.	PROPN

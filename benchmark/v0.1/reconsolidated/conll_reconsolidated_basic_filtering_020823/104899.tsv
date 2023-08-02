@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-397.txt_1352
+#document_date:1876
+#sent_text:Mr. W. H.- Cummings, a most zealous musical antiquarian, as
+Mr.	O	_	Mr.	PROPN
+W.	B-person	Q3827349	W.	PROPN
+H.-	I-person	Q3827349	H.-	PROPN
+Cummings	I-person	Q3827349	Cummings	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+most	O	_	most	ADV
+zealous	O	_	zealous	ADJ
+musical	O	_	musical	ADJ
+antiquarian	O	_	antiquarian	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	ADP

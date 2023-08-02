@@ -1,0 +1,8 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2775
+#document_date:1828
+#sent_text:- Pergolesi, Choris.
+-	O	_	-	PUNCT
+Pergolesi	B-person	Q185312	Pergolesi	PROPN
+,	O	_	,	PUNCT
+Choris	O	_	Choris	PROPN
+.	O	_	.	PUNCT

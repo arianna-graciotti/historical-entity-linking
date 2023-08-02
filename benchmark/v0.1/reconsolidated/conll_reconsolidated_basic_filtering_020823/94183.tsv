@@ -1,0 +1,28 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_394
+#document_date:1875
+#sent_text:Anton Stradler, the clarinettist, for whom Mozart wrote his admirable quintet, was not ashamed to take unfair advantage of that generosity.
+Anton	B-person	Q78623	Anton	PROPN
+Stradler	I-person	Q78623	Stradler	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+clarinettist	O	_	clarinettist	NOUN
+,	O	_	,	PUNCT
+for	O	_	for	ADP
+whom	O	_	whom	PRON
+Mozart	B-person	Q254	Mozart	PROPN
+wrote	O	_	write	VERB
+his	O	_	his	PRON
+admirable	O	_	admirable	ADJ
+quintet	O	_	quintet	NOUN
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+not	O	_	not	PART
+ashamed	O	_	ashamed	ADJ
+to	O	_	to	PART
+take	O	_	take	VERB
+unfair	O	_	unfair	ADJ
+advantage	O	_	advantage	NOUN
+of	O	_	of	ADP
+that	O	_	that	DET
+generosity	O	_	generosity	NOUN
+.	O	_	.	PUNCT

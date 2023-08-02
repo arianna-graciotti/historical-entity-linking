@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1873-366.txt_1365
+#document_date:1873
+#sent_text:Sir J. Goss, Sir Julius Benedict, Mr. Barnby..
+Sir	B-person	Q345870	Sir	PROPN
+J.	I-person	Q345870	J.	PROPN
+Goss	I-person	Q345870	Goss	PROPN
+,	O	_	,	PUNCT
+Sir	B-person	Q510435	Sir	PROPN
+Julius	I-person	Q510435	Julius	PROPN
+Benedict	I-person	Q510435	Benedict	PROPN
+,	O	_	,	PUNCT
+Mr.	B-person	Q5566022	Mr.	PROPN
+Barnby	I-person	Q5566022	Barnby	PROPN
+..	O	_	..	PUNCT

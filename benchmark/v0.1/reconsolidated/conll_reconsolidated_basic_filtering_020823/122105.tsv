@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_171
+#document_date:1826
+#sent_text:Fantasia er and Variation’ on the J ager Chorus, by J.Cohan 2.
+Fantasia	B-publication	NIL	Fantasia	PROPN
+er	I-publication	NIL	er	INTJ
+and	I-publication	NIL	and	CCONJ
+Variation	I-publication	NIL	Variation	PROPN
+’	I-publication	NIL	'	PUNCT
+on	I-publication	NIL	on	ADP
+the	I-publication	NIL	the	DET
+J	I-publication	NIL	J	PROPN
+ager	I-publication	NIL	ager	PROPN
+Chorus	I-publication	NIL	Chorus	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+J.Cohan	O	_	J.Cohan	PROPN
+2	O	_	2	NUM
+.	O	_	.	PUNCT

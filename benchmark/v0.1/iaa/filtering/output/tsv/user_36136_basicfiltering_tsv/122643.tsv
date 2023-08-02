@@ -1,0 +1,30 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_957
+#document_date:NaN
+#sent_text:Inthe island of Ceylon, 1 Music appears to have been greatly cultivated, if we may judge by the number and form of their instruments.
+Inthe	O	_	inthe	DET
+island	O	_	island	NOUN
+of	O	_	of	ADP
+Ceylon	B-island	Q854	Ceylon	PROPN
+,	O	_	,	PUNCT
+1	O	_	1	NUM
+Music	O	_	music	NOUN
+appears	O	_	appear	VERB
+to	O	_	to	PART
+have	O	_	have	AUX
+been	O	_	be	AUX
+greatly	O	_	greatly	ADV
+cultivated	O	_	cultivate	VERB
+,	O	_	,	PUNCT
+if	O	_	if	SCONJ
+we	O	_	we	PRON
+may	O	_	may	AUX
+judge	O	_	judge	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+number	O	_	number	NOUN
+and	O	_	and	CCONJ
+form	O	_	form	NOUN
+of	O	_	of	ADP
+their	O	_	their	PRON
+instruments	O	_	instrument	NOUN
+.	O	_	.	PUNCT

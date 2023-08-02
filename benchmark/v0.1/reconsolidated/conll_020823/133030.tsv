@@ -1,0 +1,47 @@
+#document_id:TheHarmonicon__1828-001.txt_969
+#document_date:1828
+#sent_text:It is copied from the original, in the hand-writing of the composer, and which, if we are rightly informed, is now-in the possession- of M. Schlesinger, the wellknown music-seller, at Paris.
+It	O	_	it	PRON
+is	O	_	be	AUX
+copied	O	_	copy	VERB
+from	O	_	from	ADP
+the	O	_	the	DET
+original	O	_	original	NOUN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+hand	O	_	hand	NOUN
+-	O	_	-	PUNCT
+writing	O	_	writing	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+composer	O	_	composer	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+which	O	_	which	PRON
+,	O	_	,	PUNCT
+if	O	_	if	SCONJ
+we	O	_	we	PRON
+are	O	_	be	AUX
+rightly	O	_	rightly	ADV
+informed	O	_	inform	VERB
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+now	O	_	now	ADV
+-	O	_	-	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+possession-	O	_	possession-	NOUN
+of	O	_	of	ADP
+M.	B-person	Q70457	M.	PROPN
+Schlesinger	I-person	Q70457	Schlesinger	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+wellknown	O	_	wellknown	ADJ
+music	O	_	music	NOUN
+-	O	_	-	PUNCT
+seller	O	_	seller	NOUN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+Paris	B-city	Q90	Paris	PROPN
+.	O	_	.	PUNCT

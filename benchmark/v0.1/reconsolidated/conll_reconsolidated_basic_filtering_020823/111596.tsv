@@ -1,0 +1,14 @@
+#document_id:TheMusicalWorld__1843-036.txt_600
+#document_date:1843
+#sent_text:Uim.—The cathedral organ has 45 stops, and 3.442 pipes.
+Uim.—The	O	_	Uim.—The	PROPN
+cathedral	O	_	cathedral	NOUN
+organ	O	_	organ	NOUN
+has	O	_	have	VERB
+45	O	_	45	NUM
+stops	O	_	stop	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+3.442	O	_	3.442	NUM
+pipes	O	_	pipe	NOUN
+.	O	_	.	PUNCT

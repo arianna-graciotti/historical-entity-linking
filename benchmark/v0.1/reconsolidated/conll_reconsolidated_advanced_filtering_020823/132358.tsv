@@ -1,0 +1,21 @@
+#document_id:TheHarmonicon__1828-001.txt_106
+#document_date:1828
+#sent_text:Milan 22, 45, 66, 140, 186, 212, 235, 261,277 Modena .
+Milan	B-city	Q490	Milan	PROPN
+22	O	_	22	NUM
+,	O	_	,	PUNCT
+45	O	_	45	NUM
+,	O	_	,	PUNCT
+66	O	_	66	NUM
+,	O	_	,	PUNCT
+140	O	_	140	NUM
+,	O	_	,	PUNCT
+186	O	_	186	NUM
+,	O	_	,	PUNCT
+212	O	_	212	NUM
+,	O	_	,	PUNCT
+235	O	_	235	NUM
+,	O	_	,	PUNCT
+261,277	O	_	261,277	NUM
+Modena	B-city	Q279	Modena	PROPN
+.	O	_	.	PUNCT

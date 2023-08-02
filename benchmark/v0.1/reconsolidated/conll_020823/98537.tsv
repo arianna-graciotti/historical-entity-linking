@@ -1,0 +1,25 @@
+#document_id:TheMusicalTimes__1876-402.txt_61
+#document_date:1876
+#sent_text:-Apply at St. Mary-at-Hill Church, Eastcheap, City, on ‘Tharsday evenings, at 6.30.
+-Apply	O	_	-apply	VERB
+at	O	_	at	ADP
+St.	B-worship-place	Q7594548	St.	PROPN
+Mary	I-worship-place	Q7594548	Mary	PROPN
+-	I-worship-place	Q7594548	-	PUNCT
+at	I-worship-place	Q7594548	at	ADP
+-	I-worship-place	Q7594548	-	PUNCT
+Hill	I-worship-place	Q7594548	Hill	PROPN
+Church	I-worship-place	Q7594548	Church	PROPN
+,	O	_	,	PUNCT
+Eastcheap	B-road	Q1790942	Eastcheap	PROPN
+,	O	_	,	PUNCT
+City	O	_	City	PROPN
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+‘	O	_	'	PUNCT
+Tharsday	O	_	Tharsday	PROPN
+evenings	O	_	evening	NOUN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+6.30	O	_	6.30	NUM
+.	O	_	.	PUNCT

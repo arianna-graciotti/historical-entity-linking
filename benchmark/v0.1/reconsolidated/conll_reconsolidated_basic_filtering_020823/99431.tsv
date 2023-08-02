@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-402.txt_1212
+#document_date:1876
+#sent_text:Tobias Matthay, Edward Morton, Lindsay Deas.
+Tobias	B-person	Q607368	Tobias	PROPN
+Matthay	I-person	Q607368	Matthay	PROPN
+,	O	_	,	PUNCT
+Edward	B-person	Q5344532	Edward	PROPN
+Morton	I-person	Q5344532	Morton	PROPN
+,	O	_	,	PUNCT
+Lindsay	B-person	NIL	Lindsay	PROPN
+Deas	I-person	NIL	Deas	PROPN
+.	O	_	.	PUNCT

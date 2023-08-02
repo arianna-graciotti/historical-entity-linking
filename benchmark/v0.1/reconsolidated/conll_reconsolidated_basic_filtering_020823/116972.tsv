@@ -1,0 +1,37 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1641
+#document_date:1824
+#sent_text:But in the “ Studii of Palestrina,” -a manvscript, procured at Rome by Dr. Burney, containing chants by the great composers of his time, are some, by.
+But	O	_	but	CCONJ
+in	O	_	in	ADP
+the	O	_	the	DET
+“	O	_	"	PUNCT
+Studii	B-book	NIL	Studii	NOUN
+of	I-book	NIL	of	ADP
+Palestrina	I-book	NIL	Palestrina	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+-a	O	_	-a	PUNCT
+manvscript	O	_	manvscript	NOUN
+,	O	_	,	PUNCT
+procured	O	_	procure	VERB
+at	O	_	at	ADP
+Rome	B-city	Q220	Rome	PROPN
+by	O	_	by	ADP
+Dr.	B-person	Q547002	Dr.	PROPN
+Burney	I-person	Q547002	Burney	PROPN
+,	O	_	,	PUNCT
+containing	O	_	contain	VERB
+chants	O	_	chant	NOUN
+by	O	_	by	ADP
+the	O	_	the	DET
+great	O	_	great	ADJ
+composers	O	_	composer	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+time	O	_	time	NOUN
+,	O	_	,	PUNCT
+are	O	_	be	AUX
+some	O	_	some	PRON
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+.	O	_	.	PUNCT

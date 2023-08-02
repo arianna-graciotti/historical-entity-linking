@@ -1,0 +1,11 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_504
+#document_date:NaN
+#sent_text:Patti there is nothing new to say.
+Patti	B-person	Q234166	Patti	PROPN
+there	O	_	there	PRON
+is	O	_	be	VERB
+nothing	O	_	nothing	PRON
+new	O	_	new	ADJ
+to	O	_	to	PART
+say	O	_	say	VERB
+.	O	_	.	PUNCT

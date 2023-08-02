@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-402.txt_1755
+#document_date:1876
+#sent_text:“Agnus” there is no mistaking him.
+“	O	_	"	PUNCT
+Agnus	B-music	not in wikidata	Agnus	PROPN
+”	O	_	"	PUNCT
+there	O	_	there	PRON
+is	O	_	be	VERB
+no	O	_	no	PRON
+mistaking	O	_	mistake	VERB
+him	O	_	he	PRON
+.	O	_	.	PUNCT

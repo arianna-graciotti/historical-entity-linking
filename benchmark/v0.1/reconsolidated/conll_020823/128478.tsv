@@ -1,0 +1,29 @@
+#document_id:TheHarmonicon__1832-012.txt_82
+#document_date:1832
+#sent_text:Being at the house of a friend in the country, he found himself so miserable, that he suddenly determined to return to London.
+Being	O	_	be	AUX
+at	O	_	at	ADP
+the	O	_	the	DET
+house	O	_	house	NOUN
+of	O	_	of	ADP
+a	O	_	a	DET
+friend	O	_	friend	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+country	O	_	country	NOUN
+,	O	_	,	PUNCT
+he	O	_	he	PRON
+found	O	_	find	VERB
+himself	O	_	himself	PRON
+so	O	_	so	ADV
+miserable	O	_	miserable	ADJ
+,	O	_	,	PUNCT
+that	O	_	that	SCONJ
+he	O	_	he	PRON
+suddenly	O	_	suddenly	ADV
+determined	O	_	determine	VERB
+to	O	_	to	PART
+return	O	_	return	VERB
+to	O	_	to	ADP
+London	B-city	Q84	London	PROPN
+.	O	_	.	PUNCT

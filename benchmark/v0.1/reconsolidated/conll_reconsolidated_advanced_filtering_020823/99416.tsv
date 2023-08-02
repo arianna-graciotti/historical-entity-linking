@@ -1,0 +1,19 @@
+#document_id:TheMusicalTimes__1876-402.txt_1191
+#document_date:1876
+#sent_text:Annie Butterworth, Hannah Edouard, Marietta Phillips, Marie Duval, Mary Jane Williams.
+Annie	O	_	Annie	PROPN
+Butterworth	O	_	Butterworth	PROPN
+,	O	_	,	PUNCT
+Hannah	B-person	NIL	Hannah	PROPN
+Edouard	I-person	NIL	Edouard	PROPN
+,	O	_	,	PUNCT
+Marietta	O	_	Marietta	PROPN
+Phillips	O	_	Phillips	PROPN
+,	O	_	,	PUNCT
+Marie	B-person	NIL	Marie	PROPN
+Duval	I-person	NIL	Duval	PROPN
+,	O	_	,	PUNCT
+Mary	B-person	NIL	Mary	PROPN
+Jane	I-person	NIL	Jane	PROPN
+Williams	I-person	NIL	Williams	PROPN
+.	O	_	.	PUNCT

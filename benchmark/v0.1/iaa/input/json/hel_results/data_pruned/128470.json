@@ -1,0 +1,76 @@
+{
+    "id": "128470",
+    "text": "Cook was esteemed the best musician of his time to sing to.",
+    "page_id": "TheHarmonicon__1832-012.txt_74",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "person",
+            "entityName": "Cook",
+            "wikis": [
+                {
+                    "wiki": "E._T._Cook",
+                    "link": "https://en.wikipedia.org/wiki/E._T._Cook",
+                    "qid": "Q5322160",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Cooke_(composer)",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q2281698",
+                            "sentenceEnough": "no",
+                            "contextString": "Captain Henry Cook",
+                            "contextBroader": "kins remarks, with more liberality, that Tudway was studious in his profession, and left behind him, in a letter to his son, an account of the music and musicians of his time, containing \u2018 many very curious particulars, and some facts which, but for him, must have been buried in oblivion.\u2019 Pe.uam Humpuevs was educated in the King's Chapel, under Captain Henry Cook*, and admitted one of the gen- tlemen of that choir in 1666. He had been sent by Charles II. to Paris, to receive further instractions in music from Lulli, the favourite composer of Louis XIV., in whose court the taste, as well as the morals, of Charles had been formed. On the return of Humphrys he distinguished himself so much as a writer of anthems, that it is said his early master, Cook, died from jealousy and grief. This, however, is probably a fiction; but the pupil certainly succeeded his preceptor in the office of master of the children, in 1672, but enjoyed the appointment only about two years, for he died in 1674, in the twenty-seventh year of his age.\r\n",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Cooke_(composer)",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q2281698",
+                            "sentenceEnough": "no",
+                            "contextString": "ever after was called Captain Cook.",
+                            "contextBroader": "_ Tudway, and said, \u2018 Co , Madam! the doctor will get up May-hill et, he has swallowed some nourishment.\u2019 On which Tudway articuas well as his disease would permit, \u2018 Do not mind him, my dear, ne swallow don\u2019t make a summer.\u2019 Cook was bred up in the King\u2019s Chapel, but quitted it at the commencement of the rebellion, and went into the King\u2019s Army.\r\n. he obtained a captain\u2019s commission, and ever after was called Captain Cook.",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "poss",
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:poss"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Cooke",
+                    "ocrEntityMention": "Cook",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Cooke",
+                    "ocrEntityMention": "Cook",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

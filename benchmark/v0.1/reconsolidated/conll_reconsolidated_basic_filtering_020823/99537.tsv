@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1876-402.txt_1334
+#document_date:1876
+#sent_text:The Singing Prize was not awarded.
+The	O	_	the	DET
+Singing	O	_	Singing	PROPN
+Prize	O	_	Prize	PROPN
+was	O	_	be	AUX
+not	O	_	not	PART
+awarded	O	_	award	VERB
+.	O	_	.	PUNCT

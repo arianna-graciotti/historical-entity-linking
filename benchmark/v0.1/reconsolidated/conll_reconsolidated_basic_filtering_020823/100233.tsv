@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-402.txt_2378
+#document_date:1876
+#sent_text:For particulars apply to C. J. Tugwell, Organist, Caterham.
+For	O	_	for	ADP
+particulars	O	_	particular	NOUN
+apply	O	_	apply	VERB
+to	O	_	to	ADP
+C.	B-person	NIL	C.	PROPN
+J.	I-person	NIL	J.	PROPN
+Tugwell	I-person	NIL	Tugwell	PROPN
+,	O	_	,	PUNCT
+Organist	O	_	Organist	PROPN
+,	O	_	,	PUNCT
+Caterham	B-city	Q1996975	Caterham	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,28 @@
+#document_id:TheHarmonicon__1833-005.txt_1478
+#document_date:1833
+#sent_text:The extent to which the epidemic, the Influenza, prevails, was visible enough in the thinned benches of the room this evening.
+The	O	_	the	DET
+extent	O	_	extent	NOUN
+to	O	_	to	PART
+which	O	_	which	PRON
+the	O	_	the	DET
+epidemic	O	_	epidemic	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+Influenza	O	_	Influenza	PROPN
+,	O	_	,	PUNCT
+prevails	O	_	prevail	VERB
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+visible	O	_	visible	ADJ
+enough	O	_	enough	ADV
+in	O	_	in	ADP
+the	O	_	the	DET
+thinned	O	_	thinned	ADJ
+benches	O	_	bench	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+room	O	_	room	NOUN
+this	O	_	this	DET
+evening	O	_	evening	NOUN
+.	O	_	.	PUNCT

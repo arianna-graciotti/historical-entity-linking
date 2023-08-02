@@ -1,0 +1,28 @@
+#document_id:TheMusicalTimes__1873-366.txt_36
+#document_date:1873
+#sent_text:Oratorios, Opera, Concerts, &c. 54, Lupus-street, S.W., and 106, Renfrew-street, Glasgow.
+Oratorios	O	_	Oratorios	PROPN
+,	O	_	,	PUNCT
+Opera	O	_	Opera	PROPN
+,	O	_	,	PUNCT
+Concerts	O	_	Concerts	PROPN
+,	O	_	,	PUNCT
+&	O	_	&	X
+c.	O	_	c.	NOUN
+54	O	_	54	NUM
+,	O	_	,	PUNCT
+Lupus	B-street	NIL	Lupus	PROPN
+-	I-street	NIL	-	PUNCT
+street	I-street	NIL	street	NOUN
+,	O	_	,	PUNCT
+S.W.	O	_	S.W.	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+106	O	_	106	NUM
+,	O	_	,	PUNCT
+Renfrew	B-street	NIL	Renfrew	PROPN
+-	I-street	NIL	-	PUNCT
+street	I-street	NIL	street	NOUN
+,	O	_	,	PUNCT
+Glasgow	B-city	Q4093	Glasgow	PROPN
+.	O	_	.	PUNCT

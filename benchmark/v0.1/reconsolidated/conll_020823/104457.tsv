@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-397.txt_780
+#document_date:1876
+#sent_text:C. JEFFERYS, 67, Berners Street,
+C.	B-person	Q5079482	C.	PROPN
+JEFFERYS	I-person	Q5079482	JEFFERYS	PROPN
+,	O	_	,	PUNCT
+67	O	_	67	NUM
+,	O	_	,	PUNCT
+Berners	B-road	Q14997139	Berners	PROPN
+Street	I-road	Q14997139	Street	PROPN
+,	O	_	,	PUNCT

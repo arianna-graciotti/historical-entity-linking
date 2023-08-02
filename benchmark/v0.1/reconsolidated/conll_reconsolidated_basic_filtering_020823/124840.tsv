@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1833-005.txt_99
+#document_date:1833
+#sent_text:The drama of Ciro riconosciuto was the production also of this year.
+The	O	_	the	DET
+drama	O	_	drama	NOUN
+of	O	_	of	ADP
+Ciro	B-work-of-art	Q18325000	Ciro	PROPN
+riconosciuto	I-work-of-art	Q18325000	riconosciuto	PROPN
+was	O	_	be	AUX
+the	O	_	the	DET
+production	O	_	production	NOUN
+also	O	_	also	ADV
+of	O	_	of	ADP
+this	O	_	this	DET
+year	O	_	year	NOUN
+.	O	_	.	PUNCT

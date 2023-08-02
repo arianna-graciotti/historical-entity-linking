@@ -1,0 +1,73 @@
+{
+    "id": "122927",
+    "text": "Storia di Musica, vol.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1361",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "journal",
+            "entityName": "Storia di Musica",
+            "wikis": [
+                {
+                    "wiki": "Showa_Academia_Musicae",
+                    "link": "https://en.wikipedia.org/wiki/Showa_Academia_Musicae",
+                    "qid": "Q8189541",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "Book by Padre Martini, not in wikidata"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in Wikidata https://it.wikipedia.org/wiki/Giovanni_Battista_Martini#La_Storia_della_musica[3]"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Storia della musica",
+                    "ocrEntityMention": "Storia di Musica",
+                    "assessment": "wrong",
+                    "entityType": "book"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Storia della Musica",
+                    "ocrEntityMention": "Storia di Musica",
+                    "assessment": "wrong",
+                    "entityType": "book"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

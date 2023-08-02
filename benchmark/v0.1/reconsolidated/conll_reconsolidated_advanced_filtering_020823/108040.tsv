@@ -1,0 +1,32 @@
+#document_id:TheMusicalTimes__1873-366.txt_1983
+#document_date:1873
+#sent_text:The work is a second series of Hymn ‘Tunes, consisting of thirty-six specimens, set to popular ms that are drawn from various sources.
+The	O	_	the	DET
+work	O	_	work	NOUN
+is	O	_	be	AUX
+a	O	_	a	DET
+second	O	_	second	ADJ
+series	O	_	series	NOUN
+of	O	_	of	ADP
+Hymn	O	_	Hymn	PROPN
+‘	O	_	‘	PROPN
+Tunes	O	_	Tunes	PROPN
+,	O	_	,	PUNCT
+consisting	O	_	consist	VERB
+of	O	_	of	ADP
+thirty	O	_	thirty	NUM
+-	O	_	-	PUNCT
+six	O	_	six	NUM
+specimens	O	_	specimen	NOUN
+,	O	_	,	PUNCT
+set	O	_	set	VERB
+to	O	_	to	ADP
+popular	O	_	popular	ADJ
+ms	O	_	m	NOUN
+that	O	_	that	PRON
+are	O	_	be	AUX
+drawn	O	_	draw	VERB
+from	O	_	from	ADP
+various	O	_	various	ADJ
+sources	O	_	source	NOUN
+.	O	_	.	PUNCT

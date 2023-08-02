@@ -1,0 +1,10 @@
+#document_id:TheMusicalWorld__1844-006.txt_768
+#document_date:1844
+#sent_text:From Reade’s Poem of Italy.
+From	O	_	from	ADP
+Reade	B-person	Q247473	Reade	PROPN
+’s	O	_	’s	PART
+Poem	O	_	Poem	PROPN
+of	O	_	of	ADP
+Italy	B-work-of-art	NIL	Italy	PROPN
+.	O	_	.	PUNCT

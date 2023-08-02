@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1873-366.txt_2521
+#document_date:1873
+#sent_text:Equally adapted for Singing in Unison or in Harmony.
+Equally	O	_	equally	ADV
+adapted	O	_	adapt	VERB
+for	O	_	for	ADP
+Singing	O	_	singe	VERB
+in	O	_	in	ADP
+Unison	O	_	Unison	PROPN
+or	O	_	or	CCONJ
+in	O	_	in	ADP
+Harmony	O	_	Harmony	PROPN
+.	O	_	.	PUNCT

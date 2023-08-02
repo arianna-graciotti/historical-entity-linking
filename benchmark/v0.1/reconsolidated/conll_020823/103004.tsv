@@ -1,0 +1,26 @@
+#document_id:TheMusicalTimes__1875-388.txt_2262
+#document_date:1875
+#sent_text:Mr. Liddle officiated as leader of the band, Mr. C. Hancock presided at the harmonium, and Sir George Elvey conducted.
+Mr.	B-person	NIL	Mr.	PROPN
+Liddle	I-person	NIL	Liddle	PROPN
+officiated	O	_	officiate	VERB
+as	O	_	as	ADP
+leader	O	_	leader	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+band	O	_	band	NOUN
+,	O	_	,	PUNCT
+Mr.	B-person	NIL	Mr.	PROPN
+C.	I-person	NIL	C.	PROPN
+Hancock	I-person	NIL	Hancock	PROPN
+presided	O	_	preside	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+harmonium	O	_	harmonium	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Sir	B-person	Q5541104	Sir	PROPN
+George	I-person	Q5541104	George	PROPN
+Elvey	I-person	Q5541104	Elvey	PROPN
+conducted	O	_	conduct	VERB
+.	O	_	.	PUNCT

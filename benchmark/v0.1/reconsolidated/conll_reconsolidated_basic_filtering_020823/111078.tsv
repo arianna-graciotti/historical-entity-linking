@@ -1,0 +1,21 @@
+#document_id:TheMusicalWorld__1843-038.txt_843
+#document_date:1843
+#sent_text:Is now Open for Public Inspection from 10 IN Tas MORNING TILL 10 AT NicutAdmission, 2s.
+Is	O	_	be	AUX
+now	O	_	now	ADV
+Open	O	_	open	ADJ
+for	O	_	for	ADP
+Public	O	_	public	ADJ
+Inspection	O	_	inspection	NOUN
+from	O	_	from	ADP
+10	O	_	10	NUM
+IN	O	_	in	ADP
+Tas	O	_	Tas	PROPN
+MORNING	O	_	morning	NOUN
+TILL	O	_	till	SCONJ
+10	O	_	10	NUM
+AT	O	_	at	ADP
+NicutAdmission	O	_	NicutAdmission	PROPN
+,	O	_	,	PUNCT
+2s	O	_	2s	NUM
+.	O	_	.	PUNCT

@@ -1,0 +1,28 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_1179
+#document_date:1870
+#sent_text:The Music Wall was completely filled on Saturday evening with the devoutly attentive audience, ag usual, to the Christmas Oratorio par excellence,
+The	O	_	the	DET
+Music	O	_	Music	PROPN
+Wall	O	_	Wall	PROPN
+was	O	_	be	AUX
+completely	O	_	completely	ADV
+filled	O	_	fill	VERB
+on	O	_	on	ADP
+Saturday	O	_	Saturday	PROPN
+evening	O	_	evening	NOUN
+with	O	_	with	SCONJ
+the	O	_	the	DET
+devoutly	O	_	devoutly	ADV
+attentive	O	_	attentive	ADJ
+audience	O	_	audience	NOUN
+,	O	_	,	PUNCT
+ag	O	_	ag	X
+usual	O	_	usual	ADJ
+,	O	_	,	PUNCT
+to	O	_	to	ADP
+the	O	_	the	DET
+Christmas	O	_	Christmas	PROPN
+Oratorio	O	_	Oratorio	PROPN
+par	O	_	par	X
+excellence	O	_	excellence	X
+,	O	_	,	PUNCT

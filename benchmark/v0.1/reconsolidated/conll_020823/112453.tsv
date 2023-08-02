@@ -1,0 +1,13 @@
+#document_id:TheMusicalWorld__1844-006.txt_797
+#document_date:1844
+#sent_text:‘‘Trova sol mia bella Clori, PusrisaHkp BY
+‘	O	_	'	PUNCT
+‘	O	_	'	PUNCT
+Trova	B-music 	not in wikidata	trova	X
+sol	I-music 	not in wikidata	sol	X
+mia	I-music 	not in wikidata	mia	X
+bella	I-music 	not in wikidata	bella	X
+Clori	I-music 	not in wikidata	clori	X
+,	O	_	,	PUNCT
+PusrisaHkp	O	_	pusrisahkp	X
+BY	O	_	by	ADP

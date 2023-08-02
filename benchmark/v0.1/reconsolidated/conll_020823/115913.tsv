@@ -1,0 +1,8 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_299
+#document_date:1824
+#sent_text:Byron, or Moore.
+Byron	B-person	Q5679	Byron	PROPN
+,	O	_	,	PUNCT
+or	O	_	or	CCONJ
+Moore	B-person	Q315346	Moore	PROPN
+.	O	_	.	PUNCT

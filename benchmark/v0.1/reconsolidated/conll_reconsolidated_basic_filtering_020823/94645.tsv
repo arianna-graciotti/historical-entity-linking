@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_987
+#document_date:1875
+#sent_text:England, are slowly begin- ning to take notice.
+England	B-country	Q21	England	PROPN
+,	O	_	,	PUNCT
+are	O	_	be	AUX
+slowly	O	_	slowly	ADV
+begin-	O	_	begin-	VERB
+ning	O	_	ne	VERB
+to	O	_	to	PART
+take	O	_	take	VERB
+notice	O	_	notice	NOUN
+.	O	_	.	PUNCT

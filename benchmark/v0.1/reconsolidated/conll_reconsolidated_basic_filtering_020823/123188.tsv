@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1710
+#document_date:1826
+#sent_text:, Vaga fravolaodorosa, Per piacer alla Signora.
+,	O	_	,	PUNCT
+Vaga	O	_	vaga	X
+fravolaodorosa	O	_	fravolaodorosa	X
+,	O	_	,	PUNCT
+Per	O	_	per	X
+piacer	O	_	piacer	X
+alla	O	_	alla	X
+Signora	O	_	Signora	PROPN
+.	O	_	.	PUNCT

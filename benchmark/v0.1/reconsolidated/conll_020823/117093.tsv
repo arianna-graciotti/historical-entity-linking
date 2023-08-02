@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1793
+#document_date:1824
+#sent_text:Fabio Constantini flourished about the year 1630, and ultimately became maestro at the chapel of Loretto.
+Fabio	B-person	Q3737659	Fabio	PROPN
+Constantini	I-person	Q3737659	Constantini	PROPN
+flourished	O	_	flourish	VERB
+about	O	_	about	ADP
+the	O	_	the	DET
+year	O	_	year	NOUN
+1630	O	_	1630	NUM
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+ultimately	O	_	ultimately	ADV
+became	O	_	become	VERB
+maestro	O	_	maestro	NOUN
+at	O	_	at	ADP
+the	O	_	the	DET
+chapel	B-worship-place	Q654996	chapel	NOUN
+of	I-worship-place	Q654996	of	ADP
+Loretto	I-worship-place	Q654996	Loretto	PROPN
+.	O	_	.	PUNCT

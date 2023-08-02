@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1873-366.txt_1354
+#document_date:1873
+#sent_text:Sir Julius Benedid, Signor Arditi, Mr. Cusins.
+Sir	O	_	Sir	PROPN
+Julius	O	_	Julius	PROPN
+Benedid	O	_	Benedid	PROPN
+,	O	_	,	PUNCT
+Signor	B-person	Q918479	Signor	PROPN
+Arditi	I-person	Q918479	Arditi	PROPN
+,	O	_	,	PUNCT
+Mr.	B-person	Q4208355	Mr.	PROPN
+Cusins	I-person	Q4208355	Cusins	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2470
+#document_date:1824
+#sent_text:Salmon, Miss Goodall, Signor Garcia and Signor Placci
+Salmon	B-person	NIL	Salmon	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Goodall	I-person	NIL	Goodall	PROPN
+,	O	_	,	PUNCT
+Signor	B-person	NIL	Signor	PROPN
+Garcia	I-person	NIL	Garcia	PROPN
+and	O	_	and	CCONJ
+Signor	B-person	NIL	Signor	PROPN
+Placci	I-person	NIL	Placci	PROPN

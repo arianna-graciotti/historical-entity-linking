@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1873-366.txt_2958
+#document_date:1873
+#sent_text:None of the Narrative Songs will be included in NOW READY.
+None	O	_	none	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Narrative	O	_	Narrative	PROPN
+Songs	O	_	Songs	PROPN
+will	O	_	will	AUX
+be	O	_	be	AUX
+included	O	_	include	VERB
+in	O	_	in	ADP
+NOW	O	_	now	ADV
+READY	O	_	READY	PROPN
+.	O	_	.	PUNCT

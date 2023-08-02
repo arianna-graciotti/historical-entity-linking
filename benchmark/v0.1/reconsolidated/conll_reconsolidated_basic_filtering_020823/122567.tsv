@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_851
+#document_date:1826
+#sent_text:Court of Spain well deserve that a more complete biography of him than any .
+Court	O	_	Court	PROPN
+of	O	_	of	ADP
+Spain	O	_	Spain	PROPN
+well	O	_	well	ADV
+deserve	O	_	deserve	VERB
+that	O	_	that	PRON
+a	O	_	a	DET
+more	O	_	more	ADV
+complete	O	_	complete	ADJ
+biography	O	_	biography	NOUN
+of	O	_	of	ADP
+him	O	_	he	PRON
+than	O	_	than	ADP
+any	O	_	any	PRON
+.	O	_	.	PUNCT

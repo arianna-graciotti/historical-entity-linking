@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1288
+#document_date:1824
+#sent_text:In 1715 Geyer Jean Louis came to the Court of Meiningen.
+In	O	_	in	ADP
+1715	O	_	1715	NUM
+Geyer	B-person	NIL	Geyer	PROPN
+Jean	I-person	NIL	Jean	PROPN
+Louis	I-person	NIL	Louis	PROPN
+came	O	_	come	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+Court	O	_	Court	PROPN
+of	O	_	of	ADP
+Meiningen	B-city	Q487278	Meiningen	PROPN
+.	O	_	.	PUNCT

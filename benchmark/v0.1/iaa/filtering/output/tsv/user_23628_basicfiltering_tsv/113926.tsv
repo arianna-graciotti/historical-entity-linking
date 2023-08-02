@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1700
+#document_date:NaN
+#sent_text:His first ap ON THE RISE AND PROGRESS OF THE YIOLIN.
+His	O	_	his	PRON
+first	O	_	first	ADJ
+ap	O	_	ap	NOUN
+ 	O	_	 	SPACE
+ON	O	_	on	ADP
+THE	O	_	the	DET
+RISE	O	_	rise	NOUN
+AND	O	_	and	CCONJ
+PROGRESS	O	_	progress	NOUN
+OF	O	_	of	ADP
+THE	O	_	the	DET
+YIOLIN	O	_	YIOLIN	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,19 @@
+#document_id:TheMusicalWorld__1843-036.txt_706
+#document_date:1843
+#sent_text:Ig now Open for Public luspection from 10 IN THE MORNING TILL 10 AT NIGHT.
+Ig	O	_	Ig	PROPN
+now	O	_	now	ADV
+Open	O	_	open	ADJ
+for	O	_	for	ADP
+Public	O	_	public	ADJ
+luspection	O	_	luspection	NOUN
+from	O	_	from	ADP
+10	O	_	10	NUM
+IN	O	_	in	ADP
+THE	O	_	the	DET
+MORNING	O	_	morning	NOUN
+TILL	O	_	till	SCONJ
+10	O	_	10	NUM
+AT	O	_	at	ADP
+NIGHT	O	_	night	NOUN
+.	O	_	.	PUNCT

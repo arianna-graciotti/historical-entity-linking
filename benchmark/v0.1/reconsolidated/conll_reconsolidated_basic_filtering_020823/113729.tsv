@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1451
+#document_date:1825
+#sent_text:” 1745; “ La Fata maravigliosa,” 1746 ;
+”	O	_	"	PUNCT
+1745	O	_	1745	NUM
+;	O	_	;	PUNCT
+“	O	_	"	PUNCT
+La	B-work-of-art	NIL	La	PROPN
+Fata	I-work-of-art	NIL	Fata	PROPN
+maravigliosa	I-work-of-art	NIL	maravigliosa	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1746	O	_	1746	NUM
+;	O	_	;	PUNCT

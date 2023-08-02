@@ -1,0 +1,24 @@
+#document_id:TheMusicalWorld__1843-036.txt_211
+#document_date:1843
+#sent_text:The predominant feature of Spohr’s music is a voluptuous monotony—a luxury indeed, but a vicious one.
+The	O	_	the	DET
+predominant	O	_	predominant	ADJ
+feature	O	_	feature	NOUN
+of	O	_	of	ADP
+Spohr	B-person	Q57226	Spohr	PROPN
+’s	O	_	’s	PART
+music	O	_	music	NOUN
+is	O	_	be	AUX
+a	O	_	a	DET
+voluptuous	O	_	voluptuous	ADJ
+monotony	O	_	monotony	NOUN
+—	O	_	—	PUNCT
+a	O	_	a	DET
+luxury	O	_	luxury	NOUN
+indeed	O	_	indeed	ADV
+,	O	_	,	PUNCT
+but	O	_	but	CCONJ
+a	O	_	a	DET
+vicious	O	_	vicious	ADJ
+one	O	_	one	NUM
+.	O	_	.	PUNCT

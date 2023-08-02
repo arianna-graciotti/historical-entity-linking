@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3992
+#document_date:1828
+#sent_text:Mr. Ayrton,” says Mr. E.
+Mr.	B-person	NIL	Mr.	PROPN
+Ayrton	I-person	NIL	Ayrton	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+says	O	_	say	VERB
+Mr.	O	_	Mr.	PROPN
+E.	O	_	E.	PROPN

@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1876-402.txt_398
+#document_date:1876
+#sent_text:Apply to Messrs. T. C. Lewis and Co., Shepherd's-lane, Brixton,
+Apply	O	_	apply	VERB
+to	O	_	to	ADP
+Messrs.	B-company	Q16932574	Messrs.	PROPN
+T.	I-company	Q16932574	T.	PROPN
+C.	I-company	Q16932574	C.	PROPN
+Lewis	I-company	Q16932574	Lewis	PROPN
+and	I-company	Q16932574	and	CCONJ
+Co.	I-company	Q16932574	Co.	PROPN
+,	O	_	,	PUNCT
+Shepherd's	B-road	NIL	Shepherd's	PROPN
+-	I-road	NIL	-	PUNCT
+lane	I-road	NIL	lane	PROPN
+,	O	_	,	PUNCT
+Brixton	B-city-district	Q146690	Brixton	PROPN
+,	O	_	,	PUNCT

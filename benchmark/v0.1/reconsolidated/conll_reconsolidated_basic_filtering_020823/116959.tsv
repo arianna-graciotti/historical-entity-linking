@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1623
+#document_date:1824
+#sent_text:SCHOOLS -OF ROME AND BOLOGNA.
+SCHOOLS	O	_	school	NOUN
+-OF	O	_	-of	ADP
+ROME	B-city	Q220	ROME	PROPN
+AND	O	_	and	CCONJ
+BOLOGNA	B-city	Q1891	BOLOGNA	PROPN
+.	O	_	.	PUNCT

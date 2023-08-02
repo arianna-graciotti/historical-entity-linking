@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4271
+#document_date:1828
+#sent_text:Mr. _ P.’s lesson therefore consists of a series of ornaments
+Mr.	O	_	Mr.	PROPN
+_	O	_	_	PUNCT
+P.	O	_	P.	PROPN
+’s	O	_	’s	PART
+lesson	O	_	lesson	NOUN
+therefore	O	_	therefore	ADV
+consists	O	_	consist	VERB
+of	O	_	of	ADP
+a	O	_	a	DET
+series	O	_	series	NOUN
+of	O	_	of	ADP
+ornaments	O	_	ornament	NOUN

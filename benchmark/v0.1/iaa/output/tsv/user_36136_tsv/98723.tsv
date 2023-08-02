@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1876-402.txt_293
+#document_date:NaN
+#sent_text:Very successful results have attended its application.” — Daily News.
+Very	O	_	very	ADV
+successful	O	_	successful	ADJ
+results	O	_	result	NOUN
+have	O	_	have	AUX
+attended	O	_	attend	VERB
+its	O	_	its	PRON
+application	O	_	application	NOUN
+.	O	_	.	PUNCT
+”	O	_	"	PUNCT
+—	O	_	—	PUNCT
+Daily	B-newspaper	Q2605160	Daily	PROPN
+News	I-newspaper	Q2605160	News	PROPN
+.	O	_	.	PUNCT

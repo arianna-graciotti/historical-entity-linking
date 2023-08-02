@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3485
+#document_date:1826
+#sent_text:The Rose and the Lil ly; Trio, by Sir Fohn Stevenson, Mus.
+The	B-music	NIL	the	DET
+Rose	I-music	NIL	Rose	PROPN
+and	I-music	NIL	and	CCONJ
+the	I-music	NIL	the	DET
+Lil	I-music	NIL	Lil	PROPN
+ly	I-music	NIL	ly	PROPN
+;	O	_	;	PUNCT
+Trio	O	_	Trio	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Sir	B-person	Q4442571	Sir	PROPN
+Fohn	I-person	Q4442571	Fohn	PROPN
+Stevenson	I-person	Q4442571	Stevenson	PROPN
+,	O	_	,	PUNCT
+Mus	O	_	Mus	PROPN
+.	O	_	.	PUNCT

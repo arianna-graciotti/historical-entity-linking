@@ -1,0 +1,19 @@
+#document_id:TheMusicalWorld__1843-036.txt_362
+#document_date:1843
+#sent_text:Who ever dreamed of’ an opera season coming to a close without hearing Rubini?
+Who	O	_	who	PRON
+ever	O	_	ever	ADV
+dreamed	O	_	dream	VERB
+of	O	_	of	ADP
+’	O	_	'	PUNCT
+an	O	_	an	DET
+opera	O	_	opera	NOUN
+season	O	_	season	NOUN
+coming	O	_	come	VERB
+to	O	_	to	ADP
+a	O	_	a	DET
+close	O	_	close	NOUN
+without	O	_	without	ADP
+hearing	O	_	hear	VERB
+Rubini	B-person	Q941040	Rubini	PROPN
+?	O	_	?	PUNCT

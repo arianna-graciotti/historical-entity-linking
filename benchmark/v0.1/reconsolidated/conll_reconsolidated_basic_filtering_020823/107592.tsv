@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1873-366.txt_1351
+#document_date:1873
+#sent_text:The Dalston Chel Association was specially commended.
+The	O	_	the	DET
+Dalston	B-organization	NIL	Dalston	PROPN
+Chel	I-organization	NIL	Chel	PROPN
+Association	I-organization	NIL	Association	PROPN
+was	O	_	be	AUX
+specially	O	_	specially	ADV
+commended	O	_	commend	VERB
+.	O	_	.	PUNCT

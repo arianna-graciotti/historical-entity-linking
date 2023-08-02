@@ -1,0 +1,10 @@
+#document_id:TheHarmonicon__1832-012.txt_116
+#document_date:1832
+#sent_text:London, November 5th, 1832.
+London	B-city-district	Q84	London	PROPN
+,	O	_	,	PUNCT
+November	O	_	November	PROPN
+5th	O	_	5th	NOUN
+,	O	_	,	PUNCT
+1832	O	_	1832	NUM
+.	O	_	.	PUNCT

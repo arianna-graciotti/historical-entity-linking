@@ -1,0 +1,32 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_911
+#document_date:1870
+#sent_text:Of Handel's efforts in oratorio we had also a full account ; those gigantic. works, written after he had passed his fifty-third year.
+Of	O	_	of	ADP
+Handel	B-person	Q7302	Handel	PROPN
+'s	O	_	's	PART
+efforts	O	_	effort	NOUN
+in	O	_	in	ADP
+oratorio	O	_	oratorio	NOUN
+we	O	_	we	PRON
+had	O	_	have	VERB
+also	O	_	also	ADV
+a	O	_	a	DET
+full	O	_	full	ADJ
+account	O	_	account	NOUN
+;	O	_	;	PUNCT
+those	O	_	those	DET
+gigantic	O	_	gigantic	ADJ
+.	O	_	.	PUNCT
+works	O	_	work	NOUN
+,	O	_	,	PUNCT
+written	O	_	write	VERB
+after	O	_	after	SCONJ
+he	O	_	he	PRON
+had	O	_	have	AUX
+passed	O	_	pass	VERB
+his	O	_	his	PRON
+fifty	O	_	fifty	NUM
+-	O	_	-	PUNCT
+third	O	_	third	ADJ
+year	O	_	year	NOUN
+.	O	_	.	PUNCT

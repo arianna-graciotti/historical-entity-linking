@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1876-397.txt_817
+#document_date:1876
+#sent_text:Apply to Mr. Mallitt Jones, 136, Finboroughroad, South Kensington.
+Apply	O	_	apply	VERB
+to	O	_	to	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Mallitt	I-person	NIL	Mallitt	PROPN
+Jones	I-person	NIL	Jones	PROPN
+,	O	_	,	PUNCT
+136	O	_	136	NUM
+,	O	_	,	PUNCT
+Finboroughroad	B-road	NIL	Finboroughroad	PROPN
+,	O	_	,	PUNCT
+South	B-city-district	Q1045096	South	PROPN
+Kensington	I-city-district	Q1045096	Kensington	PROPN
+.	O	_	.	PUNCT

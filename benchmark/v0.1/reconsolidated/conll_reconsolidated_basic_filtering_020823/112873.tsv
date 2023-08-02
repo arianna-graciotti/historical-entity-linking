@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_316
+#document_date:1825
+#sent_text:‘comprising the Rudiments of Music, a Series of.
+‘	O	_	'	PUNCT
+comprising	O	_	comprise	VERB
+the	O	_	the	DET
+Rudiments	O	_	Rudiments	PROPN
+of	O	_	of	ADP
+Music	O	_	Music	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+Series	O	_	Series	PROPN
+of	O	_	of	ADP
+.	O	_	.	PUNCT

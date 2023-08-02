@@ -1,0 +1,11 @@
+#document_id:TheHarmonicon__1832-012.txt_1103
+#document_date:1832
+#sent_text:And that English ballads are less admired ?
+And	O	_	and	CCONJ
+that	O	_	that	SCONJ
+English	O	_	english	ADJ
+ballads	O	_	ballad	NOUN
+are	O	_	be	AUX
+less	O	_	less	ADV
+admired	O	_	admired	ADJ
+?	O	_	?	PUNCT

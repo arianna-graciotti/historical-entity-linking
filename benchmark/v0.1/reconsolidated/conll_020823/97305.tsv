@@ -1,0 +1,14 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_1273
+#document_date:1868
+#sent_text:trv, “distinguished by letters ‘of the alphabet ;
+trv	O	_	trv	PROPN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+distinguished	O	_	distinguish	VERB
+by	O	_	by	ADP
+letters	O	_	letter	NOUN
+‘	O	_	'	PUNCT
+of	O	_	of	ADP
+the	O	_	the	DET
+alphabet	O	_	alphabet	NOUN
+;	O	_	;	PUNCT

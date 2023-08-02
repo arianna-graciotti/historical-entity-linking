@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-402.txt_3803
+#document_date:1876
+#sent_text:War Song of the Druids (Delt aura tua profetica)
+War	O	_	war	NOUN
+Song	O	_	Song	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+Druids	O	_	Druids	PROPN
+(	O	_	(	PUNCT
+Delt	O	_	delt	X
+aura	O	_	aura	X
+tua	O	_	tua	X
+profetica	O	_	profetica	X
+)	O	_	)	PUNCT

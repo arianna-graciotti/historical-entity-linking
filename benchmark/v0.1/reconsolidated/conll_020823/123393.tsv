@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1988
+#document_date:1826
+#sent_text:Mr. Weidner’s performance on the flute, as an executionist, is truly wonderful.
+Mr.	B-person	NIL	Mr.	PROPN
+Weidner	I-person	NIL	Weidner	PROPN
+’s	O	_	’s	PART
+performance	O	_	performance	NOUN
+on	O	_	on	ADP
+the	O	_	the	DET
+flute	O	_	flute	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	ADP
+an	O	_	an	DET
+executionist	O	_	executionist	NOUN
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+truly	O	_	truly	ADV
+wonderful	O	_	wonderful	ADJ
+.	O	_	.	PUNCT

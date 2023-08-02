@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_290
+#document_date:1825
+#sent_text:Autrichienne for the Har pand Piano Forte, by N.C. Bochsa 2.
+Autrichienne	B-music	NIL	Autrichienne	PROPN
+for	I-music	NIL	for	ADP
+the	I-music	NIL	the	DET
+Har	I-music	NIL	Har	PROPN
+pand	I-music	NIL	pand	PROPN
+Piano	I-music	NIL	Piano	PROPN
+Forte	I-music	NIL	Forte	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+N.C.	B-person	Q251397	N.C.	PROPN
+Bochsa	I-person	Q251397	Bochsa	PROPN
+2	O	_	2	NUM
+.	O	_	.	PROPN

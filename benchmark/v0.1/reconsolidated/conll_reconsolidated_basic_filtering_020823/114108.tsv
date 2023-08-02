@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1910
+#document_date:1825
+#sent_text:M. Barriere has published four sets of quartets, and several Symphonies, concertos, trios, and duets.
+M.	B-person	Q726908	M.	PROPN
+Barriere	I-person	Q726908	Barriere	PROPN
+has	O	_	have	AUX
+published	O	_	publish	VERB
+four	O	_	four	NUM
+sets	O	_	set	NOUN
+of	O	_	of	ADP
+quartets	O	_	quartet	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+several	O	_	several	ADJ
+Symphonies	O	_	symphony	NOUN
+,	O	_	,	PUNCT
+concertos	O	_	concerto	NOUN
+,	O	_	,	PUNCT
+trios	O	_	trio	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+duets	O	_	duet	NOUN
+.	O	_	.	PUNCT

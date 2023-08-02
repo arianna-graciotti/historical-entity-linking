@@ -1,0 +1,29 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1791
+#document_date:1824
+#sent_text:St. Peter’s afterwards produced an opera, entitled “ La Sincerita trionphante,” which succeeded still better ‘tan the last : piece.
+St.	O	_	St.	PROPN
+Peter	O	_	Peter	PROPN
+’s	O	_	’s	PART
+afterwards	O	_	afterwards	ADV
+produced	O	_	produce	VERB
+an	O	_	an	DET
+opera	O	_	opera	NOUN
+,	O	_	,	PUNCT
+entitled	O	_	entitle	VERB
+“	O	_	"	PUNCT
+La	B-work-of-art	NIL	La	PROPN
+Sincerita	I-work-of-art	NIL	Sincerita	PROPN
+trionphante	I-work-of-art	NIL	trionphante	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+which	O	_	which	PRON
+succeeded	O	_	succeed	VERB
+still	O	_	still	ADV
+better	O	_	well	ADV
+‘	O	_	‘	PART
+tan	O	_	tan	ADP
+the	O	_	the	DET
+last	O	_	last	ADJ
+:	O	_	:	PUNCT
+piece	O	_	piece	NOUN
+.	O	_	.	PUNCT

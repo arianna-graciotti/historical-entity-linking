@@ -1,0 +1,75 @@
+{
+    "id": "122267",
+    "text": "Haggart\u2019s New Violoncello Music",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1826-029.txt_419",
+    "namedEntities": [
+        {
+            "variable": "z4",
+            "type": "person",
+            "entityName": "Haggart",
+            "wikis": [
+                {
+                    "wiki": "Bob_Haggart",
+                    "link": "https://en.wikipedia.org/wiki/Bob_Haggart",
+                    "qid": "Q709321",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in wikidata"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "not in Wikidata",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": [
+                {
+                    "name": "New Violoncello Music",
+                    "nameOcr": "New Violoncello Music",
+                    "entityType": "publication",
+                    "sentenceEnough": "missing",
+                    "comments": "not enough context to determine the entity"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,8 @@
+#document_id:TheMusicalTimes__1876-397.txt_96
+#document_date:1876
+#sent_text:Brilliant Morceau de Concert.
+Brilliant	O	_	brilliant	ADJ
+Morceau	B-publication	NIL	Morceau	PROPN
+de	I-publication	NIL	de	X
+Concert	I-publication	NIL	Concert	PROPN
+.	O	_	.	PUNCT

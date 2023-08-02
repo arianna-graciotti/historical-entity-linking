@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3086
+#document_date:1824
+#sent_text:Mr. Walmisley, in spite of these discouragements, adheres to the purer form of writing.
+Mr.	B-person	Q18917555	Mr.	PROPN
+Walmisley	I-person	Q18917555	Walmisley	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+spite	O	_	spite	NOUN
+of	O	_	of	ADP
+these	O	_	these	DET
+discouragements	O	_	discouragement	NOUN
+,	O	_	,	PUNCT
+adheres	O	_	adhere	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+purer	O	_	pure	ADJ
+form	O	_	form	NOUN
+of	O	_	of	ADP
+writing	O	_	writing	NOUN
+.	O	_	.	PUNCT

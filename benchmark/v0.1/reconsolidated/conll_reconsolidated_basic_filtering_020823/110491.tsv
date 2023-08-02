@@ -1,0 +1,16 @@
+#document_id:TheMusicalWorld__1843-038.txt_63
+#document_date:1843
+#sent_text:This will delight the people of Manchester, of whose world of music
+This	O	_	this	PRON
+will	O	_	will	AUX
+delight	O	_	delight	VERB
+the	O	_	the	DET
+people	O	_	people	NOUN
+of	O	_	of	ADP
+Manchester	B-city	Q18125	Manchester	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+whose	O	_	whose	DET
+world	O	_	world	NOUN
+of	O	_	of	ADP
+music	O	_	music	NOUN

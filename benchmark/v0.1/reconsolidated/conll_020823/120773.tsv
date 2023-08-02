@@ -1,0 +1,8 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3064
+#document_date:1828
+#sent_text:Scene from Tyrannic Love.
+Scene	O	_	scene	NOUN
+from	O	_	from	ADP
+Tyrannic	B-work-of-art	NIL	tyrannic	ADJ
+Love	I-work-of-art	NIL	Love	PROPN
+.	O	_	.	PUNCT

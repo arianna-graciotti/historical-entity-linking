@@ -1,0 +1,67 @@
+{
+    "id": "128691",
+    "text": "The testimony of Mr. Duff.",
+    "page_id": "TheHarmonicon__1832-012.txt_350",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "person",
+            "entityName": "Mr. Duff",
+            "wikis": [
+                {
+                    "wiki": "James_Duff_Duff",
+                    "link": "https://en.wikipedia.org/wiki/James_Duff_Duff",
+                    "qid": "Q6132894",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "materials do not give enough informations "
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not enough context to determine the entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

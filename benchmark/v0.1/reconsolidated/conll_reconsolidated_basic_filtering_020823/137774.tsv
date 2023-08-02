@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1824-016.txt_2085
+#document_date:1824
+#sent_text:A very fine anthem, composed by Travers, followed.
+A	O	_	a	DET
+very	O	_	very	ADV
+fine	O	_	fine	ADJ
+anthem	O	_	anthem	NOUN
+,	O	_	,	PUNCT
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+Travers	B-person	Q15492736	Travers	PROPN
+,	O	_	,	PUNCT
+followed	O	_	follow	VERB
+.	O	_	.	PUNCT

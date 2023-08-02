@@ -1,0 +1,42 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1293
+#document_date:1826
+#sent_text:It is necessary to give a more complete analysis of the first chapter, perhaps, than of the subsequent: ones, as it displays in some degree the plan which the Padre Martini intended to pursue.
+It	O	_	it	PRON
+is	O	_	be	AUX
+necessary	O	_	necessary	ADJ
+to	O	_	to	PART
+give	O	_	give	VERB
+a	O	_	a	DET
+more	O	_	more	ADV
+complete	O	_	complete	ADJ
+analysis	O	_	analysis	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+chapter	O	_	chapter	NOUN
+,	O	_	,	PUNCT
+perhaps	O	_	perhaps	ADV
+,	O	_	,	PUNCT
+than	O	_	than	ADP
+of	O	_	of	ADP
+the	O	_	the	DET
+subsequent	O	_	subsequent	ADJ
+:	O	_	:	PUNCT
+ones	O	_	one	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	SCONJ
+it	O	_	it	PRON
+displays	O	_	display	VERB
+in	O	_	in	ADP
+some	O	_	some	DET
+degree	O	_	degree	NOUN
+the	O	_	the	DET
+plan	O	_	plan	NOUN
+which	O	_	which	PRON
+the	O	_	the	DET
+Padre	B-person	Q283651	Padre	PROPN
+Martini	I-person	Q283651	Martini	PROPN
+intended	O	_	intend	VERB
+to	O	_	to	PART
+pursue	O	_	pursue	VERB
+.	O	_	.	PUNCT

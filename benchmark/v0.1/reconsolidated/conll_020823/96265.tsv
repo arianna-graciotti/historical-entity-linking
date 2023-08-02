@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_1623
+#document_date:1870
+#sent_text:(Eight pieces ; différentes, No.6).
+(	O	_	(	PUNCT
+Eight	O	_	eight	NUM
+pieces	O	_	piece	NOUN
+;	O	_	;	PUNCT
+différentes	O	_	différentes	X
+,	O	_	,	PUNCT
+No.6	O	_	no.6	NOUN
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

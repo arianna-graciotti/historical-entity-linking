@@ -1,0 +1,13 @@
+#document_id:TheHarmonicon__1824-016.txt_53
+#document_date:NaN
+#sent_text:After having finished her studies in counterpoint under Ant.
+After	O	_	after	ADP
+having	O	_	having	AUX
+finished	O	_	finish	VERB
+her	O	_	her	PRON
+studies	O	_	study	NOUN
+in	O	_	in	ADP
+counterpoint	O	_	counterpoint	NOUN
+under	O	_	under	ADP
+Ant	O	_	Ant	PROPN
+.	O	_	.	PUNCT

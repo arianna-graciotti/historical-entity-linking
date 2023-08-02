@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1875-388.txt_1894
+#document_date:1875
+#sent_text:Words by Sir Walter Scott.
+Words	O	_	word	NOUN
+by	O	_	by	ADP
+Sir	B-person	Q79025	Sir	PROPN
+Walter	I-person	Q79025	Walter	PROPN
+Scott	I-person	Q79025	Scott	PROPN
+.	O	_	.	PUNCT

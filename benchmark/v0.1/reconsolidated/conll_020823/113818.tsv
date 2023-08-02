@@ -1,0 +1,22 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1558
+#document_date:1825
+#sent_text:La Fiera di Venezia,” La Secchia rapita,” “Il Borone di Rocca antica,”
+La	B-opera	Q1798793	La	PROPN
+Fiera	I-opera	Q1798793	Fiera	PROPN
+di	I-opera	Q1798793	di	ADP
+Venezia	I-opera	Q1798793	Venezia	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+La	B-opera	Q3824096	La	PROPN
+Secchia	I-opera	Q3824096	Secchia	PROPN
+rapita	I-opera	Q3824096	rapita	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+“	O	_	"	PUNCT
+Il	B-opera	Q1658197	Il	PROPN
+Borone	I-opera	Q1658197	Borone	PROPN
+di	I-opera	Q1658197	di	ADP
+Rocca	I-opera	Q1658197	Rocca	PROPN
+antica	I-opera	Q1658197	antica	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT

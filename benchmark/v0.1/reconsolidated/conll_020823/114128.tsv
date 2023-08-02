@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1934
+#document_date:1825
+#sent_text:Antoine Barthelemi Bruni was born at Coni, in Piedmont, in 1752, and was a very distinguished violinist.
+Antoine	B-person	Q599823	Antoine	PROPN
+Barthelemi	I-person	Q599823	Barthelemi	PROPN
+Bruni	I-person	Q599823	Bruni	PROPN
+was	O	_	be	AUX
+born	O	_	bear	VERB
+at	O	_	at	ADP
+Coni	B-city	Q5968	Coni	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+Piedmont	B-local-region	Q1216	Piedmont	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+1752	O	_	1752	NUM
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+was	O	_	be	AUX
+a	O	_	a	DET
+very	O	_	very	ADV
+distinguished	O	_	distinguished	ADJ
+violinist	O	_	violinist	NOUN
+.	O	_	.	PUNCT

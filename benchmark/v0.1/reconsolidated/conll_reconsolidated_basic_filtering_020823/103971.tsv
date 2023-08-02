@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-397.txt_165
+#document_date:1876
+#sent_text:Address 7, Trinity-street, Belfast.
+Address	O	_	address	NOUN
+7	O	_	7	NUM
+,	O	_	,	PUNCT
+Trinity	B-road	NIL	Trinity	PROPN
+-	I-road	NIL	-	PUNCT
+street	I-road	NIL	street	NOUN
+,	O	_	,	PUNCT
+Belfast	B-city	Q10686	Belfast	PROPN
+.	O	_	.	PUNCT

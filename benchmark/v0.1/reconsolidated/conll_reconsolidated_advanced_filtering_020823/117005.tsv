@@ -1,0 +1,26 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1692
+#document_date:1824
+#sent_text:Nevertheless, to be the rival of Carissimi he must have possessed considerable talent, both as a musician and a composer.
+Nevertheless	O	_	nevertheless	ADV
+,	O	_	,	PUNCT
+to	O	_	to	PART
+be	O	_	be	AUX
+the	O	_	the	DET
+rival	O	_	rival	NOUN
+of	O	_	of	ADP
+Carissimi	B-person	Q312686	Carissimi	PROPN
+he	O	_	he	PRON
+must	O	_	must	AUX
+have	O	_	have	AUX
+possessed	O	_	possess	VERB
+considerable	O	_	considerable	ADJ
+talent	O	_	talent	NOUN
+,	O	_	,	PUNCT
+both	O	_	both	CCONJ
+as	O	_	as	ADP
+a	O	_	a	DET
+musician	O	_	musician	NOUN
+and	O	_	and	CCONJ
+a	O	_	a	DET
+composer	O	_	composer	NOUN
+.	O	_	.	PUNCT

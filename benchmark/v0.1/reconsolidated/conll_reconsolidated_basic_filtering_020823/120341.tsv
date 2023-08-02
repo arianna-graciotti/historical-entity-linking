@@ -1,0 +1,39 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2164
+#document_date:1828
+#sent_text:The season began with Madame Caradori and Mademoiselle Brambilla as principals, Signors Curioni, Pellegrini, and Porto.- Mr. A. Sapio also_ appeared, but only it should seem as an occasional assistant.
+The	O	_	the	DET
+season	O	_	season	NOUN
+began	O	_	begin	VERB
+with	O	_	with	ADP
+Madame	B-person	Q16065895	Madame	PROPN
+Caradori	I-person	Q16065895	Caradori	PROPN
+and	O	_	and	CCONJ
+Mademoiselle	B-person	Q3984325	Mademoiselle	PROPN
+Brambilla	I-person	Q3984325	Brambilla	PROPN
+as	O	_	as	ADP
+principals	O	_	principal	NOUN
+,	O	_	,	PUNCT
+Signors	O	_	Signors	PROPN
+Curioni	O	_	Curioni	PROPN
+,	O	_	,	PUNCT
+Pellegrini	B-person	NIL	Pellegrini	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Porto.-	O	_	Porto.-	PROPN
+Mr.	B-person	NIL	Mr.	PROPN
+A.	I-person	NIL	A.	PROPN
+Sapio	I-person	NIL	Sapio	PROPN
+also	O	_	also	ADV
+_	O	_	_	PUNCT
+appeared	O	_	appear	VERB
+,	O	_	,	PUNCT
+but	O	_	but	CCONJ
+only	O	_	only	ADV
+it	O	_	it	PRON
+should	O	_	should	AUX
+seem	O	_	seem	VERB
+as	O	_	as	ADP
+an	O	_	an	DET
+occasional	O	_	occasional	ADJ
+assistant	O	_	assistant	NOUN
+.	O	_	.	PUNCT

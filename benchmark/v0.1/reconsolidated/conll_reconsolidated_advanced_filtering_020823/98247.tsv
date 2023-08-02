@@ -1,0 +1,17 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_1056
+#document_date:1873
+#sent_text:Clara Schumann seems to have died of age, and not of sickness.
+Clara	B-person	Q132232	Clara	PROPN
+Schumann	I-person	Q132232	Schumann	PROPN
+seems	O	_	seem	VERB
+to	O	_	to	PART
+have	O	_	have	AUX
+died	O	_	die	VERB
+of	O	_	of	ADP
+age	O	_	age	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+not	O	_	not	PART
+of	O	_	of	ADP
+sickness	O	_	sickness	NOUN
+.	O	_	.	PUNCT

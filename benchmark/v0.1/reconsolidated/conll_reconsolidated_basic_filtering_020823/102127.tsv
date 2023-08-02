@@ -1,0 +1,7 @@
+#document_id:TheMusicalTimes__1875-388.txt_1113
+#document_date:1875
+#sent_text:ROYAL ALBERT HALL.
+ROYAL	B-theatre	Q193639	ROYAL	PROPN
+ALBERT	I-theatre	Q193639	ALBERT	PROPN
+HALL	I-theatre	Q193639	HALL	PROPN
+.	I-theatre	Q193639	.	PUNCT

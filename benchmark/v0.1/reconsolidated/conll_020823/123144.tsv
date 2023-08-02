@@ -1,0 +1,30 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1662
+#document_date:1826
+#sent_text:At the death of Manerus, who was said to have been the son of the first King of Egypt, this was sung as alament.
+At	O	_	at	ADP
+the	O	_	the	DET
+death	O	_	death	NOUN
+of	O	_	of	ADP
+Manerus	O	_	Manerus	PROPN
+,	O	_	,	PUNCT
+who	O	_	who	PRON
+was	O	_	be	AUX
+said	O	_	say	VERB
+to	O	_	to	PART
+have	O	_	have	AUX
+been	O	_	be	AUX
+the	O	_	the	DET
+son	O	_	son	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+King	O	_	King	PROPN
+of	O	_	of	ADP
+Egypt	B-country	Q79	Egypt	PROPN
+,	O	_	,	PUNCT
+this	O	_	this	PRON
+was	O	_	be	AUX
+sung	O	_	sing	VERB
+as	O	_	as	ADP
+alament	O	_	alament	NOUN
+.	O	_	.	PUNCT

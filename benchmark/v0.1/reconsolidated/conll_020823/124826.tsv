@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1833-005.txt_84
+#document_date:1833
+#sent_text:In 1735, a man wrote the operas L’Olimpiade and Demofoonte, the oratorio.of Giu riconosciuto, and the canzonet La Liberta.
+In	O	_	in	ADP
+1735	O	_	1735	NUM
+,	O	_	,	PUNCT
+a	O	_	a	DET
+man	O	_	man	NOUN
+wrote	O	_	write	VERB
+the	O	_	the	DET
+operas	O	_	opera	NOUN
+L’Olimpiade	B-opera	Q1225668	L’Olimpiade	PROPN
+and	O	_	and	CCONJ
+Demofoonte	B-opera	Q3022187	Demofoonte	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+oratorio.of	O	_	oratorio.of	NOUN
+Giu	B-opera	NIL	Giu	PROPN
+riconosciuto	I-opera	NIL	riconosciuto	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+canzonet	O	_	canzonet	NOUN
+La	B-music	NIL	La	PROPN
+Liberta	I-music	NIL	Liberta	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,55 @@
+{
+    "id": "122643",
+    "text": "Inthe island of Ceylon, 1 Music appears to have been greatly cultivated, if we may judge by the number and form of their instruments.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1826-029.txt_957",
+    "namedEntities": [
+        {
+            "variable": "z4",
+            "type": "island",
+            "entityName": "Ceylon",
+            "wikis": [
+                {
+                    "wiki": "Sri_Lanka",
+                    "link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+                    "qid": "Q854",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "correct",
+                            "qidAssessment": "correct"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "correct",
+                            "qidAssessment": "correct"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

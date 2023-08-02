@@ -1,0 +1,8 @@
+#document_id:TheMusicalTimes__1873-366.txt_1796
+#document_date:1873
+#sent_text:Grand Morceau de Concert.
+Grand	B-pubblication	NIL	Grand	PROPN
+Morceau	I-pubblication	NIL	Morceau	PROPN
+de	I-pubblication	NIL	de	X
+Concert	I-pubblication	NIL	Concert	PROPN
+.	O	_	.	PUNCT

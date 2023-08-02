@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_1363
+#document_date:1875
+#sent_text:Concerto—in G Minor, (ist Movement).Mendelssohn.
+Concerto	B-music	Q162898	Concerto	PROPN
+—	I-music	Q162898	—	PUNCT
+in	I-music	Q162898	in	ADP
+G	I-music	Q162898	G	PROPN
+Minor	I-music	Q162898	Minor	PROPN
+,	O	_	,	PUNCT
+(	O	_	(	PUNCT
+ist	O	_	ist	PROPN
+Movement).Mendelssohn	O	_	Movement).Mendelssohn	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,25 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_43
+#document_date:1826
+#sent_text:Second Concerto and Di Tanti, 294 Kiallmark, his Le pas de Polichinelle, 1145, Are ye'angry, 238 ;
+Second	B-music	NIL	second	ADJ
+Concerto	I-music	NIL	Concerto	PROPN
+and	O	_	and	CCONJ
+Di	O	_	Di	PROPN
+Tanti	O	_	Tanti	PROPN
+,	O	_	,	PUNCT
+294	O	_	294	NUM
+Kiallmark	B-person	Q18671297	Kiallmark	PROPN
+,	O	_	,	PUNCT
+his	O	_	his	PRON
+Le	B-music	NIL	Le	PROPN
+pas	I-music	NIL	pas	X
+de	I-music	NIL	de	X
+Polichinelle	I-music	NIL	Polichinelle	PROPN
+,	O	_	,	PUNCT
+1145	O	_	1145	NUM
+,	O	_	,	PUNCT
+Are	O	_	be	AUX
+ye'angry	O	_	ye'angry	X
+,	O	_	,	PUNCT
+238	O	_	238	NUM
+;	O	_	;	PUNCT

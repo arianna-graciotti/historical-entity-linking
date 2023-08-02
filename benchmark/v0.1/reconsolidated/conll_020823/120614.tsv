@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2677
+#document_date:1828
+#sent_text:Ritorni ormais (Julius Casur.) of Song:
+Ritorni	O	_	ritorni	X
+ormais	O	_	ormais	X
+(	O	_	(	PUNCT
+Julius	O	_	Julius	PROPN
+Casur	O	_	Casur	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT
+of	O	_	of	ADP
+Song	O	_	song	NOUN
+:	O	_	:	PUNCT

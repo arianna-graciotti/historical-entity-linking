@@ -1,0 +1,27 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_419
+#document_date:1825
+#sent_text:This Edition has been revised, and Passages for the additional Keys arranged for Piano Fortes up to C, by Mr. Moscheles .
+This	O	_	this	DET
+Edition	O	_	edition	NOUN
+has	O	_	have	AUX
+been	O	_	be	AUX
+revised	O	_	revise	VERB
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Passages	O	_	Passages	PROPN
+for	O	_	for	ADP
+the	O	_	the	DET
+additional	O	_	additional	ADJ
+Keys	O	_	key	NOUN
+arranged	O	_	arrange	VERB
+for	O	_	for	ADP
+Piano	O	_	Piano	PROPN
+Fortes	O	_	Fortes	PROPN
+up	O	_	up	ADP
+to	O	_	to	ADP
+C	O	_	c	NOUN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Mr.	B-person	Q159551	Mr.	PROPN
+Moscheles	I-person	Q159551	Moscheles	PROPN
+.	O	_	.	PUNCT

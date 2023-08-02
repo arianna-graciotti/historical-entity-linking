@@ -1,0 +1,34 @@
+#document_id:TheMusicalTimes__1876-397.txt_2327
+#document_date:1876
+#sent_text:T he programme was divided into two parts, the first being exclusively devoted to sacred music, the main feature of which was a selection from Mendelssohn’s Elijah.
+T	O	_	t	X
+he	O	_	he	DET
+programme	O	_	programme	NOUN
+was	O	_	be	AUX
+divided	O	_	divide	VERB
+into	O	_	into	ADP
+two	O	_	two	NUM
+parts	O	_	part	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+first	O	_	first	ADJ
+being	O	_	be	AUX
+exclusively	O	_	exclusively	ADV
+devoted	O	_	devote	VERB
+to	O	_	to	ADP
+sacred	O	_	sacred	ADJ
+music	O	_	music	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+main	O	_	main	ADJ
+feature	O	_	feature	NOUN
+of	O	_	of	ADP
+which	O	_	which	PRON
+was	O	_	be	AUX
+a	O	_	a	DET
+selection	O	_	selection	NOUN
+from	O	_	from	ADP
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+’s	O	_	’s	PART
+Elijah	B-music	Q1329006	Elijah	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,37 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1370
+#document_date:1825
+#sent_text:The operas which gained him the greatest credit, for taste and elegance of style, were “ Il favore degli dei,” “La Gloria degli amori,” “ Eraelea.
+The	O	_	the	DET
+operas	O	_	opera	NOUN
+which	O	_	which	PRON
+gained	O	_	gain	VERB
+him	O	_	he	PRON
+the	O	_	the	DET
+greatest	O	_	great	ADJ
+credit	O	_	credit	NOUN
+,	O	_	,	PUNCT
+for	O	_	for	ADP
+taste	O	_	taste	NOUN
+and	O	_	and	CCONJ
+elegance	O	_	elegance	NOUN
+of	O	_	of	ADP
+style	O	_	style	NOUN
+,	O	_	,	PUNCT
+were	O	_	be	AUX
+“	O	_	"	PUNCT
+Il	B-opera	NIL	Il	PROPN
+favore	I-opera	NIL	favore	X
+degli	I-opera	NIL	degli	X
+dei	I-opera	NIL	dei	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+“	O	_	"	PUNCT
+La	B-opera	NIL	La	PROPN
+Gloria	I-opera	NIL	Gloria	PROPN
+degli	I-opera	NIL	degli	X
+amori	I-opera	NIL	amori	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+“	O	_	"	PUNCT
+Eraelea	B-opera	NIL	Eraelea	PROPN
+.	O	_	.	PUNCT

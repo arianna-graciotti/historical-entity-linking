@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-402.txt_1332
+#document_date:1876
+#sent_text:Jennings, B.A., and H. Ogle Moore,
+Jennings	B-person	NIL	Jennings	PROPN
+,	O	_	,	PUNCT
+B.A.	O	_	B.A.	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+H.	B-person	NIL	H.	PROPN
+Ogle	I-person	NIL	Ogle	PROPN
+Moore	I-person	NIL	Moore	PROPN
+,	O	_	,	PUNCT

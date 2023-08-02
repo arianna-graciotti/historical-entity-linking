@@ -1,0 +1,15 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_540
+#document_date:1875
+#sent_text:O great Beethoven, we brought to thee a worthy sacrifice!
+O	O	_	o	INTJ
+great	O	_	great	ADJ
+Beethoven	B-person	Q255	Beethoven	PROPN
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+brought	O	_	bring	VERB
+to	O	_	to	ADP
+thee	O	_	thee	PRON
+a	O	_	a	DET
+worthy	O	_	worthy	ADJ
+sacrifice	O	_	sacrifice	NOUN
+!	O	_	!	PUNCT

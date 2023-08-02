@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1833-005.txt_1183
+#document_date:1833
+#sent_text:Solo and Chorus, ‘Glory to God.
+Solo	O	_	Solo	PROPN
+and	O	_	and	CCONJ
+Chorus	O	_	Chorus	PROPN
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+Glory	O	_	Glory	PROPN
+to	O	_	to	ADP
+God	O	_	God	PROPN
+.	O	_	.	PUNCT

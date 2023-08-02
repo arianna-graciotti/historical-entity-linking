@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1873-366.txt_155
+#document_date:1873
+#sent_text:Apply to J. Cookson, Wyburnbary, near Nantwich.
+Apply	O	_	apply	VERB
+to	O	_	to	ADP
+J.	B-person	NIL	J.	PROPN
+Cookson	I-person	NIL	Cookson	PROPN
+,	O	_	,	PUNCT
+Wyburnbary	B-city	Q8039544	Wyburnbary	PROPN
+,	O	_	,	PUNCT
+near	O	_	near	ADP
+Nantwich	B-city	Q1077003	Nantwich	PROPN
+.	O	_	.	PUNCT

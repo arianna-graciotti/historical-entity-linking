@@ -1,0 +1,27 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_1060
+#document_date:1868
+#sent_text:He has accepted.an invitation to preside there over the formation and growth of an Academy of Music in connection with the Peabody Institute.
+He	O	_	he	PRON
+has	O	_	have	AUX
+accepted.an	O	_	accepted.an	PRON
+invitation	O	_	invitation	NOUN
+to	O	_	to	PART
+preside	O	_	preside	VERB
+there	O	_	there	ADV
+over	O	_	over	ADP
+the	O	_	the	DET
+formation	O	_	formation	NOUN
+and	O	_	and	CCONJ
+growth	O	_	growth	NOUN
+of	O	_	of	ADP
+an	O	_	an	DET
+Academy	B-organization	Q4671497	Academy	PROPN
+of	I-organization	Q4671497	of	ADP
+Music	I-organization	Q4671497	Music	PROPN
+in	O	_	in	ADP
+connection	O	_	connection	NOUN
+with	O	_	with	ADP
+the	O	_	the	DET
+Peabody	B-organization	Q1156934	Peabody	PROPN
+Institute	I-organization	Q1156934	Institute	PROPN
+.	O	_	.	PUNCT

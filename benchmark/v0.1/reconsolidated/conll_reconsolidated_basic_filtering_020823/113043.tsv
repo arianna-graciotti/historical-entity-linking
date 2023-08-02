@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_572
+#document_date:1825
+#sent_text:+ The Wild Hyacinth, a Songs composed by J. F. Walmisley....
++	O	_	+	PUNCT
+The	B-music	NIL	the	DET
+Wild	I-music	NIL	Wild	PROPN
+Hyacinth	I-music	NIL	Hyacinth	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+Songs	O	_	Songs	PROPN
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+J.	B-person	NIL	J.	PROPN
+F.	I-person	NIL	F.	PROPN
+Walmisley	I-person	NIL	Walmisley	PROPN
+....	O	_	....	PUNCT

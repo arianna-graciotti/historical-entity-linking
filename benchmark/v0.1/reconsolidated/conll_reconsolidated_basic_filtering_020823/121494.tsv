@@ -1,0 +1,33 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4124
+#document_date:1828
+#sent_text:Thus the last seven years of this theatre are worse than the first, when fifty thousand pounds only were expended in the endeavour to plant an Italian opera.
+Thus	O	_	thus	ADV
+the	O	_	the	DET
+last	O	_	last	ADJ
+seven	O	_	seven	NUM
+years	O	_	year	NOUN
+of	O	_	of	ADP
+this	O	_	this	DET
+theatre	O	_	theatre	NOUN
+are	O	_	be	AUX
+worse	O	_	bad	ADJ
+than	O	_	than	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+,	O	_	,	PUNCT
+when	O	_	when	SCONJ
+fifty	O	_	fifty	NUM
+thousand	O	_	thousand	NUM
+pounds	O	_	pound	NOUN
+only	O	_	only	ADV
+were	O	_	be	AUX
+expended	O	_	expend	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+endeavour	O	_	endeavour	NOUN
+to	O	_	to	PART
+plant	O	_	plant	VERB
+an	O	_	an	DET
+Italian	O	_	italian	ADJ
+opera	O	_	opera	NOUN
+.	O	_	.	PUNCT

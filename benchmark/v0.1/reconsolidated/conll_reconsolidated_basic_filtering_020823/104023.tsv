@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-397.txt_229
+#document_date:1876
+#sent_text:For Oratorias and other Engagements, addressthe Cathedral, Hereford.
+For	O	_	for	ADP
+Oratorias	O	_	Oratorias	PROPN
+and	O	_	and	CCONJ
+other	O	_	other	ADJ
+Engagements	O	_	engagement	NOUN
+,	O	_	,	PUNCT
+addressthe	O	_	addressthe	PRON
+Cathedral	B-worship-place	Q429379	Cathedral	PROPN
+,	O	_	,	PUNCT
+Hereford	B-city	Q204720	Hereford	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1857
+#document_date:1825
+#sent_text:— a The melancholy history of Paisible follows next.
+—	O	_	—	PUNCT
+a	O	_	a	DET
+The	O	_	the	DET
+melancholy	O	_	melancholy	ADJ
+history	O	_	history	NOUN
+of	O	_	of	ADP
+Paisible	B-person 	Q16685264	Paisible	PROPN
+follows	O	_	follow	VERB
+next	O	_	next	ADV
+.	O	_	.	PUNCT

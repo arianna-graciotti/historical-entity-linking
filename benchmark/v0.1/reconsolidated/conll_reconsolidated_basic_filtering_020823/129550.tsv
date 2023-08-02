@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1832-012.txt_1419
+#document_date:1832
+#sent_text:Fantasia Ietanpaise, composed by J. B. Cramer.
+Fantasia	O	_	Fantasia	PROPN
+Ietanpaise	O	_	Ietanpaise	PROPN
+,	O	_	,	PUNCT
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+J.	B-person	Q455212	J.	PROPN
+B.	I-person	Q455212	B.	PROPN
+Cramer	I-person	Q455212	Cramer	PROPN
+.	O	_	.	PUNCT

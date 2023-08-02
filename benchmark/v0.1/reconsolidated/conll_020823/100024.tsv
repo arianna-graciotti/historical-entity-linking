@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1876-402.txt_2077
+#document_date:1876
+#sent_text:M. W. Balfe, has resolved henceforth (by arrangement
+M.	B-person	Q434171	M.	PROPN
+W.	I-person	Q434171	W.	PROPN
+Balfe	I-person	Q434171	Balfe	PROPN
+,	O	_	,	PUNCT
+has	O	_	have	AUX
+resolved	O	_	resolve	VERB
+henceforth	O	_	henceforth	ADV
+(	O	_	(	PUNCT
+by	O	_	by	ADP
+arrangement	O	_	arrangement	NOUN

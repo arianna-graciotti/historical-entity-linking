@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1293
+#document_date:NaN
+#sent_text:Hoog held the first rank asa bassoon.
+Hoog	B-person	NIL	Hoog	PROPN
+held	O	_	hold	VERB
+the	O	_	the	DET
+first	O	_	first	ADJ
+rank	O	_	rank	NOUN
+asa	O	_	asa	X
+bassoon	O	_	bassoon	NOUN
+.	O	_	.	PUNCT

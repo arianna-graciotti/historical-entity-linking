@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1876-397.txt_2459
+#document_date:1876
+#sent_text:Edited and the Pianoforte Accompaniment arranged by Berthold Tours.
+Edited	O	_	edit	VERB
+and	O	_	and	CCONJ
+the	O	_	the	DET
+Pianoforte	O	_	Pianoforte	PROPN
+Accompaniment	O	_	Accompaniment	PROPN
+arranged	O	_	arrange	VERB
+by	O	_	by	ADP
+Berthold	B-person	Q2793621	Berthold	PROPN
+Tours	I-person	Q2793621	Tours	PROPN
+.	O	_	.	PUNCT

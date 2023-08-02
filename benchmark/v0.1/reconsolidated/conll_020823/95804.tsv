@@ -1,0 +1,11 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_948
+#document_date:1870
+#sent_text:Parepa Rosa, and Mrs. Zelda Seguin.
+Parepa	B-person	Q442507	Parepa	PROPN
+Rosa	I-person	Q442507	Rosa	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mrs.	B-person	Q30161511	Mrs.	PROPN
+Zelda	I-person	Q30161511	Zelda	PROPN
+Seguin	I-person	Q30161511	Seguin	PROPN
+.	O	_	.	PUNCT

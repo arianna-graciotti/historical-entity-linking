@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1812
+#document_date:1824
+#sent_text:His first entrance into the musical world was as a tenor singer in the Pontifical Chapel.
+His	O	_	his	PRON
+first	O	_	first	ADJ
+entrance	O	_	entrance	NOUN
+into	O	_	into	ADP
+the	O	_	the	DET
+musical	O	_	musical	ADJ
+world	O	_	world	NOUN
+was	O	_	be	AUX
+as	O	_	as	ADP
+a	O	_	a	DET
+tenor	O	_	tenor	NOUN
+singer	O	_	singer	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+Pontifical	B-worship-place	NIL	Pontifical	PROPN
+Chapel	I-worship-place	NIL	Chapel	PROPN
+.	O	_	.	PUNCT

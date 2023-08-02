@@ -1,0 +1,33 @@
+#document_id:TheHarmonicon__1828-001.txt_1931
+#document_date:1828
+#sent_text:Of Storace’s ‘share, we can only speak in high terms of praise, regretting at the same time that more of his com‘positions are not retained.
+Of	O	_	of	ADP
+Storace	B-person	Q2369747	Storace	PROPN
+’s	O	_	’s	PART
+‘	O	_	‘	PART
+share	O	_	share	NOUN
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+can	O	_	can	AUX
+only	O	_	only	ADV
+speak	O	_	speak	VERB
+in	O	_	in	ADP
+high	O	_	high	ADJ
+terms	O	_	term	NOUN
+of	O	_	of	ADP
+praise	O	_	praise	NOUN
+,	O	_	,	PUNCT
+regretting	O	_	regret	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+same	O	_	same	ADJ
+time	O	_	time	NOUN
+that	O	_	that	SCONJ
+more	O	_	more	ADJ
+of	O	_	of	ADP
+his	O	_	his	PRON
+com‘positions	O	_	com‘position	NOUN
+are	O	_	be	AUX
+not	O	_	not	PART
+retained	O	_	retain	VERB
+.	O	_	.	PUNCT

@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4669
+#document_date:1828
+#sent_text:The Enthusiast, a Song, written and composed by F.W. Horn- castle.
+The	O	_	the	DET
+Enthusiast	O	_	Enthusiast	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+Song	O	_	Song	PROPN
+,	O	_	,	PUNCT
+written	O	_	write	VERB
+and	O	_	and	CCONJ
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+F.W.	B-person	NIL	F.W.	PROPN
+Horn-	I-person	NIL	Horn-	PROPN
+castle	I-person	NIL	castle	PROPN
+.	O	_	.	PUNCT

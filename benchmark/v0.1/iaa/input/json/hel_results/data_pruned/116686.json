@@ -1,0 +1,67 @@
+{
+    "id": "116686",
+    "text": "Gehring Jean Guillaume was considered an excel",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1281",
+    "namedEntities": [
+        {
+            "variable": "z2",
+            "type": "person",
+            "entityName": "Gehring Jean Guillaume",
+            "wikis": [
+                {
+                    "wiki": "Jean-Richard_Geurts",
+                    "link": "https://en.wikipedia.org/wiki/Jean-Richard_Geurts",
+                    "qid": "Q1654509",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in wikidata"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not in Wikidata"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

@@ -1,0 +1,14 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_366
+#document_date:1870
+#sent_text:Albertazzi, Ivanoff, Rasiai, Tamburini, and Lablache.
+Albertazzi	B-person	NIL	Albertazzi	PROPN
+,	O	_	,	PUNCT
+Ivanoff	B-person	NIL	Ivanoff	PROPN
+,	O	_	,	PUNCT
+Rasiai	B-person	NIL	Rasiai	PROPN
+,	O	_	,	PUNCT
+Tamburini	B-person	NIL	Tamburini	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Lablache	B-person	Q477681	Lablache	PROPN
+.	O	_	.	PUNCT

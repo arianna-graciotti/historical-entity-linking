@@ -1,0 +1,27 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2285
+#document_date:1824
+#sent_text:, We-were never more, if indeed so much convinced, of Mr. Braham’s. superior natural and acquired endowment.
+,	O	_	,	PUNCT
+We	O	_	we	PRON
+-	O	_	-	PUNCT
+were	O	_	be	AUX
+never	O	_	never	ADV
+more	O	_	more	ADJ
+,	O	_	,	PUNCT
+if	O	_	if	SCONJ
+indeed	O	_	indeed	ADV
+so	O	_	so	ADV
+much	O	_	much	ADV
+convinced	O	_	convinced	ADJ
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Mr.	B-person	Q1699393	Mr.	PROPN
+Braham	I-person	Q1699393	Braham	PROPN
+’s	O	_	’s	PART
+.	O	_	.	PUNCT
+superior	O	_	superior	ADJ
+natural	O	_	natural	ADJ
+and	O	_	and	CCONJ
+acquired	O	_	acquire	VERB
+endowment	O	_	endowment	NOUN
+.	O	_	.	PUNCT

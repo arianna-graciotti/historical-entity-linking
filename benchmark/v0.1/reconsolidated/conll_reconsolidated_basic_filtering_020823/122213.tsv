@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_337
+#document_date:1826
+#sent_text:Lane, and Professor of Harmony and Composition at the ; Royal Academy of Music
+Lane	O	_	Lane	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Professor	O	_	Professor	PROPN
+of	O	_	of	ADP
+Harmony	O	_	Harmony	PROPN
+and	O	_	and	CCONJ
+Composition	O	_	Composition	PROPN
+at	O	_	at	ADP
+the	O	_	the	DET
+;	O	_	;	PUNCT
+Royal	B-organization	Q1144673	Royal	PROPN
+Academy	I-organization	Q1144673	Academy	PROPN
+of	I-organization	Q1144673	of	ADP
+Music	I-organization	Q1144673	Music	PROPN

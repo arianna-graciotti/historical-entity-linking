@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1833-005.txt_1269
+#document_date:1833
+#sent_text:Song, ‘ Honour and arms” (Samsen.)
+Song	O	_	song	NOUN
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+Honour	O	_	honour	NOUN
+and	O	_	and	CCONJ
+arms	O	_	arm	NOUN
+”	O	_	"	PUNCT
+(	O	_	(	PUNCT
+Samsen	O	_	Samsen	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

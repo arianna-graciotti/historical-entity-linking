@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1588
+#document_date:1824
+#sent_text:- Published at Rome 1567.
+-	O	_	-	PUNCT
+Published	O	_	publish	VERB
+at	O	_	at	ADP
+Rome	B-city	Q220	Rome	PROPN
+1567	O	_	1567	NUM
+.	O	_	.	PUNCT

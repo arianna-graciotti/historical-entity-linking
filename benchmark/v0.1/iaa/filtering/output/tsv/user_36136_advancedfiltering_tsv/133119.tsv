@@ -1,0 +1,34 @@
+#document_id:TheHarmonicon__1828-001.txt_1079
+#document_date:NaN
+#sent_text:We had been long ‘accustomed, indeed, to hear a few of the most pleasing of _them sung in The Beggar’s Opera, a circumstance owing to
+We	O	_	we	PRON
+had	O	_	have	AUX
+been	O	_	be	AUX
+long	O	_	long	ADV
+‘	O	_	'	PUNCT
+accustomed	O	_	accustomed	ADJ
+,	O	_	,	PUNCT
+indeed	O	_	indeed	ADV
+,	O	_	,	PUNCT
+to	O	_	to	PART
+hear	O	_	hear	VERB
+a	O	_	a	DET
+few	O	_	few	ADJ
+of	O	_	of	ADP
+the	O	_	the	DET
+most	O	_	most	ADV
+pleasing	O	_	pleasing	ADJ
+of	O	_	of	ADP
+_	O	_	_	PUNCT
+them	O	_	they	PRON
+sung	O	_	sing	VERB
+in	O	_	in	ADP
+The	O	_	the	DET
+Beggar	O	_	Beggar	PROPN
+’s	O	_	’s	PART
+Opera	O	_	Opera	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+circumstance	O	_	circumstance	NOUN
+owing	O	_	owe	VERB
+to	O	_	to	ADP

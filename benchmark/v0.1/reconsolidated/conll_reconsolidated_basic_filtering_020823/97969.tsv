@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_702
+#document_date:1873
+#sent_text:There was the ‘Wild Jagd’ complete.
+There	O	_	there	PRON
+was	O	_	be	VERB
+the	O	_	the	DET
+‘	O	_	'	PUNCT
+Wild	B-music	Q2680922	Wild	PROPN
+Jagd	I-music	Q2680922	Jagd	PROPN
+’	O	_	'	PUNCT
+complete	O	_	complete	ADJ
+.	O	_	.	PUNCT

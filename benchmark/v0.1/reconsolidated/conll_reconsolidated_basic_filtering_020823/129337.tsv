@@ -1,0 +1,19 @@
+#document_id:TheHarmonicon__1832-012.txt_1146
+#document_date:1832
+#sent_text:only that the name of the author had been misprinted Caffiat, instead of Caffiaux.
+only	O	_	only	ADV
+that	O	_	that	SCONJ
+the	O	_	the	DET
+name	O	_	name	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+author	O	_	author	NOUN
+had	O	_	have	AUX
+been	O	_	be	AUX
+misprinted	O	_	misprint	VERB
+Caffiat	O	_	Caffiat	PROPN
+,	O	_	,	PUNCT
+instead	O	_	instead	ADV
+of	O	_	of	ADP
+Caffiaux	B-person	NIL	Caffiaux	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1455
+#document_date:1824
+#sent_text:Burns was more than half a musician.
+Burns	B-person	Q81960	Burns	PROPN
+was	O	_	be	AUX
+more	O	_	more	ADJ
+than	O	_	than	ADP
+half	O	_	half	DET
+a	O	_	a	DET
+musician	O	_	musician	NOUN
+.	O	_	.	PUNCT

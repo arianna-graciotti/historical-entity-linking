@@ -1,0 +1,8 @@
+#document_id:TheHarmonicon__1832-012.txt_1423
+#document_date:1832
+#sent_text:(Cramer aud Co.)
+(	O	_	(	PUNCT
+Cramer	B-person	NIL	Cramer	PROPN
+aud	O	_	aud	PROPN
+Co.	O	_	Co.	PROPN
+)	O	_	)	PUNCT

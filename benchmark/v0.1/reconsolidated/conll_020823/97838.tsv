@@ -1,0 +1,15 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_522
+#document_date:1873
+#sent_text:William - TH, Jean in “Le Prophete” and:
+William	B-person	Q2734688	William	PROPN
+-	O	_	-	PUNCT
+TH	O	_	TH	PROPN
+,	O	_	,	PUNCT
+Jean	O	_	Jean	PROPN
+in	O	_	in	ADP
+“	O	_	"	PUNCT
+Le	B-opera	Q263297	Le	PROPN
+Prophete	I-opera	Q263297	Prophete	PROPN
+”	O	_	"	PUNCT
+and	O	_	and	CCONJ
+:	O	_	:	PUNCT

@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1873-366.txt_1026
+#document_date:1873
+#sent_text:* he still found time to make and ink drawing of Birmingham for our child
+*	O	_	*	PUNCT
+he	O	_	he	PRON
+still	O	_	still	ADV
+found	O	_	find	VERB
+time	O	_	time	NOUN
+to	O	_	to	PART
+make	O	_	make	VERB
+and	O	_	and	CCONJ
+ink	O	_	ink	VERB
+drawing	O	_	drawing	NOUN
+of	O	_	of	ADP
+Birmingham	B-city	Q2256	Birmingham	PROPN
+for	O	_	for	ADP
+our	O	_	our	PRON
+child	O	_	child	NOUN

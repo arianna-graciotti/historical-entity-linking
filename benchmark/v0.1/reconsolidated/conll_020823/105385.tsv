@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-397.txt_2079
+#document_date:1876
+#sent_text:Le Feu Follet, Morceaun de Salon; for the Pianoforte.
+Le	B-music	NIL	Le	PROPN
+Feu	I-music	NIL	Feu	PROPN
+Follet	I-music	NIL	Follet	PROPN
+,	I-music	NIL	,	PUNCT
+Morceaun	I-music	NIL	Morceaun	PROPN
+de	I-music	NIL	de	X
+Salon	I-music	NIL	Salon	PROPN
+;	I-music	NIL	;	PUNCT
+for	I-music	NIL	for	ADP
+the	I-music	NIL	the	DET
+Pianoforte	I-music	NIL	Pianoforte	PROPN
+.	I-music	NIL	.	PUNCT

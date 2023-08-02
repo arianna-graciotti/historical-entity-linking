@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2177
+#document_date:1826
+#sent_text:Hungarian Rondo forthe Piano Forte, by J. N. Hummel.
+Hungarian	B-music	NIL	hungarian	ADJ
+Rondo	I-music	NIL	Rondo	PROPN
+forthe	I-music	NIL	forthe	PROPN
+Piano	I-music	NIL	Piano	PROPN
+Forte	I-music	NIL	Forte	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+J.	B-person	Q151953	J.	PROPN
+N.	I-person	Q151953	N.	PROPN
+Hummel	I-person	Q151953	Hummel	PROPN
+.	O	_	.	PUNCT

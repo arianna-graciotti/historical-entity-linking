@@ -1,0 +1,8 @@
+#document_id:TheMusicalWorld__1843-029.txt_770
+#document_date:1843
+#sent_text:John's Street Road.
+John	B-road	NIL	John	PROPN
+'s	I-road	NIL	's	PART
+Street	I-road	NIL	Street	PROPN
+Road	I-road	NIL	Road	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,19 @@
+#document_id:TheMusicalTimes__1875-388.txt_290
+#document_date:1875
+#sent_text:at Blennerhasset’s West Central Organ School and Studio, 1a, Vernon-street,
+at	O	_	at	ADP
+Blennerhasset	O	_	Blennerhasset	PROPN
+’s	O	_	’s	PART
+West	B-school	NIL	West	PROPN
+Central	I-school	NIL	Central	PROPN
+Organ	I-school	NIL	Organ	PROPN
+School	I-school	NIL	School	PROPN
+and	I-school	NIL	and	CCONJ
+Studio	I-school	NIL	Studio	PROPN
+,	O	_	,	PUNCT
+1a	O	_	1a	NUM
+,	O	_	,	PUNCT
+Vernon	B-road	NIL	Vernon	PROPN
+-	I-road	NIL	-	PUNCT
+street	I-road	NIL	street	NOUN
+,	O	_	,	PUNCT

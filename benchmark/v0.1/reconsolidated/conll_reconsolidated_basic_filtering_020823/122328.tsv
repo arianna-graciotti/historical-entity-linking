@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_514
+#document_date:1826
+#sent_text:Song, composed by Signor de Beguis ; the words by Eugenius Roche Esq.
+Song	O	_	song	NOUN
+,	O	_	,	PUNCT
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+Signor	B-person	Q3770409	Signor	PROPN
+de	I-person	Q3770409	de	PROPN
+Beguis	I-person	Q3770409	Beguis	PROPN
+;	O	_	;	PUNCT
+the	O	_	the	DET
+words	O	_	word	NOUN
+by	O	_	by	ADP
+Eugenius	B-person	Q17015704	Eugenius	PROPN
+Roche	I-person	Q17015704	Roche	PROPN
+Esq	O	_	Esq	PROPN
+.	O	_	.	PUNCT

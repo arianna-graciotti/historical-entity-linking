@@ -1,0 +1,20 @@
+#document_id:TheHarmonicon__1828-001.txt_133
+#document_date:1828
+#sent_text:Trieste 67, 171, 212 Turin 236, 277 Venice 67, 213, 236 .Verceil
+Trieste	B-city	Q546	Trieste	PROPN
+67	O	_	67	NUM
+,	O	_	,	PUNCT
+171	O	_	171	NUM
+,	O	_	,	PUNCT
+212	O	_	212	NUM
+Turin	B-city	Q495	Turin	PROPN
+236	O	_	236	NUM
+,	O	_	,	PUNCT
+277	O	_	277	NUM
+Venice	B-city	Q641	Venice	PROPN
+67	O	_	67	NUM
+,	O	_	,	PUNCT
+213	O	_	213	NUM
+,	O	_	,	PUNCT
+236	O	_	236	NUM
+.Verceil	O	_	.Verceil	PROPN

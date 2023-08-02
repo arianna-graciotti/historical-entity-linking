@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1294
+#document_date:1824
+#sent_text:player i in London, in 1783.
+player	O	_	player	PROPN
+i	O	_	i	PROPN
+in	O	_	in	ADP
+London	B-city	Q84	London	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+1783	O	_	1783	NUM
+.	O	_	.	PUNCT

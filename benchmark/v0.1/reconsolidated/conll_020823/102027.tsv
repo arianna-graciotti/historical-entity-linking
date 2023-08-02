@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1875-388.txt_1003
+#document_date:1875
+#sent_text:Tuat three pieces by an English composer, and four native.
+Tuat	O	_	Tuat	PROPN
+three	O	_	three	NUM
+pieces	O	_	piece	NOUN
+by	O	_	by	ADP
+an	O	_	an	DET
+English	O	_	english	ADJ
+composer	O	_	composer	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+four	O	_	four	NUM
+native	O	_	native	ADJ
+.	O	_	.	PUNCT

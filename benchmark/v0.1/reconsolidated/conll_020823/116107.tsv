@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_554
+#document_date:1824
+#sent_text:L’ Italiana in ‘Algieri,” 1813, Estate.
+L	B-opera	Q589932	L	PROPN
+’	I-opera	Q589932	’	X
+Italiana	I-opera	Q589932	Italiana	PROPN
+in	I-opera	Q589932	in	ADP
+‘	I-opera	Q589932	'	PUNCT
+Algieri	I-opera	Q589932	Algieri	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1813	O	_	1813	NUM
+,	O	_	,	PUNCT
+Estate	O	_	Estate	PROPN
+.	O	_	.	PUNCT

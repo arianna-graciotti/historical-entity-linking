@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1875-388.txt_1789
+#document_date:1875
+#sent_text:Composed and dedicated to George Alexander Macfarren.
+Composed	O	_	compose	VERB
+and	O	_	and	CCONJ
+dedicated	O	_	dedicate	VERB
+to	O	_	to	ADP
+George	B-person	Q1374708	George	PROPN
+Alexander	I-person	Q1374708	Alexander	PROPN
+Macfarren	I-person	Q1374708	Macfarren	PROPN
+.	O	_	.	PUNCT

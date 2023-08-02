@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1873-366.txt_355
+#document_date:1873
+#sent_text:BOOK.—A Manual of Tunes and Chants, intended as acompanion to all Hymn Books,
+BOOK.—A	O	_	BOOK.—A	PROPN
+Manual	O	_	Manual	PROPN
+of	O	_	of	ADP
+Tunes	O	_	Tunes	PROPN
+and	O	_	and	CCONJ
+Chants	O	_	Chants	PROPN
+,	O	_	,	PUNCT
+intended	O	_	intend	VERB
+as	O	_	as	ADP
+acompanion	O	_	acompanion	NOUN
+to	O	_	to	ADP
+all	O	_	all	DET
+Hymn	O	_	Hymn	PROPN
+Books	O	_	Books	PROPN
+,	O	_	,	PUNCT

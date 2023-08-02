@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_481
+#document_date:1825
+#sent_text:The Royal Academy of Music.....
+The	O	_	the	DET
+Royal	B-organization	Q1144673	Royal	PROPN
+Academy	I-organization	Q1144673	Academy	PROPN
+of	I-organization	Q1144673	of	ADP
+Music	I-organization	Q1144673	Music	PROPN
+.....	O	_	.....	PUNCT

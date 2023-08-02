@@ -1,0 +1,17 @@
+#document_id:TheMusicalTimes__1875-388.txt_1987
+#document_date:1875
+#sent_text:Of the two versions of the passage quoted from the Sonata, Op.
+Of	O	_	of	ADP
+the	O	_	the	DET
+two	O	_	two	NUM
+versions	O	_	version	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+passage	O	_	passage	NOUN
+quoted	O	_	quote	VERB
+from	O	_	from	ADP
+the	O	_	the	DET
+Sonata	B-music	Q146669	Sonata	PROPN
+,	O	_	,	PUNCT
+Op	O	_	op	NOUN
+.	O	_	.	PUNCT

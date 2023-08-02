@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1828-001.txt_1193
+#document_date:1828
+#sent_text:Sir Walter Scott appears in his usual energy and vigour.
+Sir	B-person	Q79025	Sir	PROPN
+Walter	I-person	Q79025	Walter	PROPN
+Scott	I-person	Q79025	Scott	PROPN
+appears	O	_	appear	VERB
+in	O	_	in	ADP
+his	O	_	his	PRON
+usual	O	_	usual	ADJ
+energy	O	_	energy	NOUN
+and	O	_	and	CCONJ
+vigour	O	_	vigour	NOUN
+.	O	_	.	PUNCT

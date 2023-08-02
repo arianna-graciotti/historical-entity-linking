@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3350
+#document_date:1828
+#sent_text:Fantasia, Piano Forte, Mr. Neate . .
+Fantasia	O	_	Fantasia	PROPN
+,	O	_	,	PUNCT
+Piano	O	_	Piano	PROPN
+Forte	O	_	Forte	PROPN
+,	O	_	,	PUNCT
+Mr.	O	_	Mr.	PROPN
+Neate	B-person	Q18526894	Neate	PROPN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

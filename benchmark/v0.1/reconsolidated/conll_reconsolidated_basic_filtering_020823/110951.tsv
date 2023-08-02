@@ -1,0 +1,26 @@
+#document_id:TheMusicalWorld__1843-038.txt_641
+#document_date:1843
+#sent_text:The programme will contain a new piano-forte and violoncello sonata by Mendelssohn, to be performed by Bennett and Lucas.
+The	O	_	the	DET
+programme	O	_	programme	NOUN
+will	O	_	will	AUX
+contain	O	_	contain	VERB
+a	O	_	a	DET
+new	O	_	new	ADJ
+piano	O	_	piano	NOUN
+-	O	_	-	PUNCT
+forte	O	_	forte	X
+and	O	_	and	CCONJ
+violoncello	O	_	violoncello	NOUN
+sonata	O	_	sonata	NOUN
+by	O	_	by	ADP
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+,	O	_	,	PUNCT
+to	O	_	to	PART
+be	O	_	be	AUX
+performed	O	_	perform	VERB
+by	O	_	by	ADP
+Bennett	B-person	Q201164	Bennett	PROPN
+and	O	_	and	CCONJ
+Lucas	B-person	Q5080372	Lucas	PROPN
+.	O	_	.	PUNCT

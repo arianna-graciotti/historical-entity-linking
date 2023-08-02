@@ -1,0 +1,30 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1218
+#document_date:1824
+#sent_text:With the exception. of a journey to Parma, and another to Paris, in 1730, at both which cities their’ performances met.
+With	O	_	with	ADP
+the	O	_	the	DET
+exception	O	_	exception	NOUN
+.	O	_	.	PUNCT
+of	O	_	of	ADP
+a	O	_	a	DET
+journey	O	_	journey	NOUN
+to	O	_	to	ADP
+Parma	B-city	Q2683	Parma	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+another	O	_	another	PRON
+to	O	_	to	ADP
+Paris	B-city	Q90	Paris	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+1730	O	_	1730	NUM
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+both	O	_	both	PRON
+which	O	_	which	DET
+cities	O	_	city	NOUN
+their	O	_	their	PRON
+’	O	_	’	PART
+performances	O	_	performance	NOUN
+met	O	_	meet	VERB
+.	O	_	.	PUNCT

@@ -1,0 +1,74 @@
+{
+    "id": "118939",
+    "text": "Air Suisse, varie\u00e9",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1828-037.txt_348",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "country",
+            "entityName": "Air Suisse",
+            "wikis": [
+                {
+                    "wiki": "Air_France",
+                    "link": "https://en.wikipedia.org/wiki/Air_France",
+                    "qid": "Q131005",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not able to define who wrote this variation"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not enough context to determine the entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "mod",
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:mod"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "music"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "music"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

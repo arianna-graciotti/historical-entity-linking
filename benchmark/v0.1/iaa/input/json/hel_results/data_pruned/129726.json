@@ -1,0 +1,65 @@
+{
+    "id": "129726",
+    "text": "Now let us look at an account of the. closing of the King\u2019s Theatre, last season.",
+    "page_id": "TheHarmonicon__1832-012.txt_1655",
+    "namedEntities": [
+        {
+            "variable": "z6",
+            "type": "building",
+            "entityName": "King's Theatre",
+            "wikis": [
+                {
+                    "wiki": "King's_(B3000 / Brisbane)",
+                    "link": "https://en.wikipedia.org/wiki/King's_(B3000 / Brisbane)",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/His_Majesty%27s_Theatre,_London",
+                            "wikiQid": "Q1155331",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/His_Majesty%27s_Theatre,_London",
+                            "wikiQid": "Q1155331",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "theater"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

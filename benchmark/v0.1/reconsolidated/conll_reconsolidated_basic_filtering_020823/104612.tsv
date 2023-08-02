@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-397.txt_966
+#document_date:1876
+#sent_text:O sing unto the Lord a new song.
+O	B-music	not in Wikidata	o	INTJ
+sing	I-music	not in Wikidata	sing	VERB
+unto	I-music	not in Wikidata	unto	ADP
+the	I-music	not in Wikidata	the	DET
+Lord	I-music	not in Wikidata	Lord	PROPN
+a	I-music	not in Wikidata	a	DET
+new	I-music	not in Wikidata	new	ADJ
+song	I-music	not in Wikidata	song	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,15 @@
+#document_id:TheHarmonicon__1828-001.txt_1212
+#document_date:1828
+#sent_text:The melodies of Scotland differ widely both in style and expression.
+The	O	_	the	DET
+melodies	O	_	melody	NOUN
+of	O	_	of	ADP
+Scotland	B-country	Q22	Scotland	PROPN
+differ	O	_	differ	VERB
+widely	O	_	widely	ADV
+both	O	_	both	CCONJ
+in	O	_	in	ADP
+style	O	_	style	NOUN
+and	O	_	and	CCONJ
+expression	O	_	expression	NOUN
+.	O	_	.	PUNCT

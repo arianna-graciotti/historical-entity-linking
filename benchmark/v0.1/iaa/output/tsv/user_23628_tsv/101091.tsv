@@ -1,0 +1,40 @@
+#document_id:TheMusicalTimes__1876-402.txt_3710
+#document_date:NaN
+#sent_text:The music is dramatic, tuneful, and spirited, showing not only a fine appreciation of the wit of the story, but also a capability of giving musical expression to Music by Gzorcz Fox.
+The	O	_	the	DET
+music	O	_	music	NOUN
+is	O	_	be	AUX
+dramatic	O	_	dramatic	ADJ
+,	O	_	,	PUNCT
+tuneful	O	_	tuneful	ADJ
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+spirited	O	_	spirited	ADJ
+,	O	_	,	PUNCT
+showing	O	_	show	VERB
+not	O	_	not	PART
+only	O	_	only	ADV
+a	O	_	a	DET
+fine	O	_	fine	ADJ
+appreciation	O	_	appreciation	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+wit	O	_	wit	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+story	O	_	story	NOUN
+,	O	_	,	PUNCT
+but	O	_	but	CCONJ
+also	O	_	also	ADV
+a	O	_	a	DET
+capability	O	_	capability	NOUN
+of	O	_	of	ADP
+giving	O	_	give	VERB
+musical	O	_	musical	ADJ
+expression	O	_	expression	NOUN
+to	O	_	to	ADP
+Music	O	_	Music	PROPN
+by	O	_	by	ADP
+Gzorcz	B-person	NIL	Gzorcz	PROPN
+Fox	I-person	NIL	Fox	PROPN
+.	O	_	.	PUNCT

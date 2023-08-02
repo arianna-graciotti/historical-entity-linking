@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1875-388.txt_2053
+#document_date:1875
+#sent_text:The first fart of the programme consisted of selections from the works of Mendelssohn.
+The	O	_	the	DET
+first	O	_	first	ADJ
+fart	O	_	fart	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+programme	O	_	programme	NOUN
+consisted	O	_	consist	VERB
+of	O	_	of	ADP
+selections	O	_	selection	NOUN
+from	O	_	from	ADP
+the	O	_	the	DET
+works	O	_	work	NOUN
+of	O	_	of	ADP
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+.	O	_	.	PUNCT

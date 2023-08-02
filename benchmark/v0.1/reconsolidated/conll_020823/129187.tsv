@@ -1,0 +1,15 @@
+#document_id:TheHarmonicon__1832-012.txt_979
+#document_date:1832
+#sent_text:Carlo ut Naples, too large for the performance of tragedy!
+Carlo	O	_	Carlo	PROPN
+ut	O	_	ut	X
+Naples	B-city	Q2634	Naples	PROPN
+,	O	_	,	PUNCT
+too	O	_	too	ADV
+large	O	_	large	ADJ
+for	O	_	for	ADP
+the	O	_	the	DET
+performance	O	_	performance	NOUN
+of	O	_	of	ADP
+tragedy	O	_	tragedy	NOUN
+!	O	_	!	PUNCT

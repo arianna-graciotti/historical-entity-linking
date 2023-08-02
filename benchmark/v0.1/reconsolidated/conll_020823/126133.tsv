@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1833-005.txt_1864
+#document_date:1833
+#sent_text:She had likewise a bravura, with a corno and clarinette accompaniment.
+She	O	_	she	PRON
+had	O	_	have	VERB
+likewise	O	_	likewise	ADV
+a	O	_	a	DET
+bravura	O	_	bravura	NOUN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+a	O	_	a	DET
+corno	O	_	corno	NOUN
+and	O	_	and	CCONJ
+clarinette	O	_	clarinette	NOUN
+accompaniment	O	_	accompaniment	NOUN
+.	O	_	.	PUNCT

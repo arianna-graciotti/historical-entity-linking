@@ -1,0 +1,12 @@
+#document_id:TheMusicalWorld__1843-029.txt_541
+#document_date:1843
+#sent_text:Between the Acts of the Opera, Mesdiles.
+Between	O	_	between	ADP
+the	O	_	the	DET
+Acts	O	_	Acts	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+Opera	O	_	Opera	PROPN
+,	O	_	,	PUNCT
+Mesdiles	B-person	NIL	Mesdiles	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,21 @@
+#document_id:TheHarmonicon__1832-012.txt_1126
+#document_date:1832
+#sent_text:If they are asked whether they have been at Covent Garden or Drury Lane, they say,
+If	O	_	if	SCONJ
+they	O	_	they	PRON
+are	O	_	be	AUX
+asked	O	_	ask	VERB
+whether	O	_	whether	SCONJ
+they	O	_	they	PRON
+have	O	_	have	AUX
+been	O	_	be	AUX
+at	O	_	at	ADP
+Covent	B-theatre	Q55018	Covent	PROPN
+Garden	I-theatre	Q55018	Garden	PROPN
+or	O	_	or	CCONJ
+Drury	B-theatre	Q1756626	Drury	PROPN
+Lane	I-theatre	Q1756626	Lane	PROPN
+,	O	_	,	PUNCT
+they	O	_	they	PRON
+say	O	_	say	VERB
+,	O	_	,	PUNCT

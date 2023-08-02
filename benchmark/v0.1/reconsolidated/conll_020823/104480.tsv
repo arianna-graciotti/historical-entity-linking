@@ -1,0 +1,24 @@
+#document_id:TheMusicalTimes__1876-397.txt_805
+#document_date:1876
+#sent_text:; Apply at St. Mary-at-Hiil Church, Eastcheap, City, on Thursday evenings, at6.30.
+;	O	_	;	PUNCT
+Apply	O	_	apply	VERB
+at	O	_	at	ADP
+St.	B-worship-place	Q7594548	St.	PROPN
+Mary	I-worship-place	Q7594548	Mary	PROPN
+-	I-worship-place	Q7594548	-	PUNCT
+at	I-worship-place	Q7594548	at	ADP
+-	I-worship-place	Q7594548	-	PUNCT
+Hiil	I-worship-place	Q7594548	Hiil	PROPN
+Church	I-worship-place	Q7594548	Church	PROPN
+,	O	_	,	PUNCT
+Eastcheap	B-road	Q1790942	Eastcheap	PROPN
+,	O	_	,	PUNCT
+City	B-city	Q84	City	PROPN
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+Thursday	O	_	Thursday	PROPN
+evenings	O	_	evening	NOUN
+,	O	_	,	PUNCT
+at6.30	O	_	at6.30	NUM
+.	O	_	.	PUNCT

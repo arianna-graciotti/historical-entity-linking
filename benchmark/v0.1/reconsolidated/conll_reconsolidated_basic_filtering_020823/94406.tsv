@@ -1,0 +1,20 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_694
+#document_date:1875
+#sent_text:: I met the islander during the whole of the journey that remained before reaching Vienna.
+:	O	_	:	PUNCT
+I	O	_	I	PRON
+met	O	_	meet	VERB
+the	O	_	the	DET
+islander	O	_	islander	NOUN
+during	O	_	during	ADP
+the	O	_	the	DET
+whole	O	_	whole	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+journey	O	_	journey	NOUN
+that	O	_	that	PRON
+remained	O	_	remain	VERB
+before	O	_	before	ADP
+reaching	O	_	reach	VERB
+Vienna	B-city	Q1741	Vienna	PROPN
+.	O	_	.	PUNCT

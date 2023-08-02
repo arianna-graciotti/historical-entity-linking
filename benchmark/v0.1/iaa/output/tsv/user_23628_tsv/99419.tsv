@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1876-402.txt_1195
+#document_date:NaN
+#sent_text:Annie Albu, Amy Aylward, Kate Brand, Thekla Fischer, Ellen Orridge, Hannah Roby.
+Annie	B-person	NIL	Annie	PROPN
+Albu	I-person	NIL	Albu	PROPN
+,	O	_	,	PUNCT
+Amy	B-person	NIL	Amy	PROPN
+Aylward	I-person	NIL	Aylward	PROPN
+,	O	_	,	PUNCT
+Kate	B-person	NIL	Kate	PROPN
+Brand	I-person	NIL	Brand	PROPN
+,	O	_	,	PUNCT
+Thekla	B-person	NIL	Thekla	PROPN
+Fischer	I-person	NIL	Fischer	PROPN
+,	O	_	,	PUNCT
+Ellen	B-person	NIL	Ellen	PROPN
+Orridge	I-person	NIL	Orridge	PROPN
+,	O	_	,	PUNCT
+Hannah	B-person	NIL	Hannah	PROPN
+Roby	I-person	NIL	Roby	PROPN
+.	O	_	.	PUNCT

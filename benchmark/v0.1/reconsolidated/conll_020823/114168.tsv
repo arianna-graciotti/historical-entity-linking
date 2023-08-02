@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1976
+#document_date:1825
+#sent_text:M. v acher has published several compos tions for the violin.
+M.	O	_	M.	PROPN
+v	O	_	v	PROPN
+acher	O	_	acher	PROPN
+has	O	_	have	AUX
+published	O	_	publish	VERB
+several	O	_	several	ADJ
+compos	O	_	compo	NOUN
+tions	O	_	tion	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+violin	O	_	violin	NOUN
+.	O	_	.	PUNCT

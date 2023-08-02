@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1956
+#document_date:1825
+#sent_text:He published some concertos for the violin at Lyons, in 1782.
+He	O	_	he	PRON
+published	O	_	publish	VERB
+some	O	_	some	DET
+concertos	O	_	concerto	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+violin	O	_	violin	NOUN
+at	O	_	at	ADP
+Lyons	B-city	Q456	Lyons	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+1782	O	_	1782	NUM
+.	O	_	.	PUNCT

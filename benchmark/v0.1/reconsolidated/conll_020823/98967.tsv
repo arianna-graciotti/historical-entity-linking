@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-402.txt_637
+#document_date:1876
+#sent_text:Loder (Sung by Mr. Epwarp Lioyp.)
+Loder	O	_	Loder	PROPN
+(	O	_	(	PUNCT
+Sung	O	_	sing	VERB
+by	O	_	by	ADP
+Mr.	O	_	Mr.	PROPN
+Epwarp	O	_	Epwarp	PROPN
+Lioyp	O	_	Lioyp	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

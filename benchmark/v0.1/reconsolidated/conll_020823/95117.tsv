@@ -1,0 +1,10 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_78
+#document_date:1870
+#sent_text:Bach had no need of such.
+Bach	B-person	Q1339	Bach	PROPN
+had	O	_	have	VERB
+no	O	_	no	DET
+need	O	_	need	NOUN
+of	O	_	of	ADP
+such	O	_	such	ADJ
+.	O	_	.	PUNCT

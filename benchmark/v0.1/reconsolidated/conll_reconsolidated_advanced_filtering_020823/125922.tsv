@@ -1,0 +1,17 @@
+#document_id:TheHarmonicon__1833-005.txt_1620
+#document_date:1833
+#sent_text:This was never heard of after the retreat of Mr. Waters to Calais.
+This	O	_	this	PRON
+was	O	_	be	AUX
+never	O	_	never	ADV
+heard	O	_	hear	VERB
+of	O	_	of	ADP
+after	O	_	after	ADP
+the	O	_	the	DET
+retreat	O	_	retreat	NOUN
+of	O	_	of	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Waters	I-person	NIL	Waters	PROPN
+to	O	_	to	ADP
+Calais	B-city	Q6454	Calais	PROPN
+.	O	_	.	PUNCT

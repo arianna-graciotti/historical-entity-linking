@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3302
+#document_date:1824
+#sent_text:Mr. Moore's Sacred Song.
+Mr.	B-person	Q315346	Mr.	PROPN
+Moore	I-person	Q315346	Moore	PROPN
+'s	O	_	's	PART
+Sacred	O	_	sacred	ADJ
+Song	O	_	Song	PROPN
+.	O	_	.	PUNCT

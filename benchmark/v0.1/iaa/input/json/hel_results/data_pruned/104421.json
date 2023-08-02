@@ -1,0 +1,76 @@
+{
+    "id": "104421",
+    "text": "M. Watson 38.",
+    "page_id": "TheMusicalTimes__1876-397.txt_730",
+    "namedEntities": [
+        {
+            "variable": "z0",
+            "type": "person",
+            "entityName": "M. Watson",
+            "wikis": [
+                {
+                    "wiki": "D._M._S._Watson",
+                    "link": "https://en.wikipedia.org/wiki/D._M._S._Watson",
+                    "qid": "Q1175646",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q99326638",
+                            "sentenceEnough": "no",
+                            "contextString": "Michael Watson\r\n",
+                            "contextBroader": "\u00bb 4 EASY PIANOFORTE MUSIC, by Gantier, Glover, Michael Watson, Bevani, &c. we \u00bb 5. OVERTURES, DUETS, by Auber, H\u00e9rold, and Rossini.\r\n",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q99326638",
+                            "sentenceEnough": "no",
+                            "contextString": "\u00bb 4 EASY PIANOFORTE MUSIC, by Gantier, Glover, Michael Watson",
+                            "contextBroader": "F.Schira.. 0... 38 Passing clouds... wee M. Watson 38.\r\nOnly apart ... ase eee F. Schira ... 35.\r\nThe Bird and the Maid ... wn wee Ditto... ws 38.\r\nThe Pirate Chief 2.0... eos wee Louis Diehl ... 3S.\r\nYou do not love me sees E. Reylof 4s.\r\nJEFFERYS\u2019S MUSICAL JOURNAL.\r\nEach Part, One Shilling net.\r\nPart 1. THIRTEEN POPULAR SONGS, by Glover, Dolores, Gabriel, Nelson, &c.\r\n\u00bb 2s TEN BASS SONGS, by Loder, Reyloff, Russell, Dr. Callcott, &c.\r\n\u00bb 3- SEVEN VOCAL DUETS, by Bellini, S. Glover, Macfarren, Donizetti, &c. .\r\n\u00bb 4 EASY PIANOFORTE MUSIC, by Gantier, Glover, Michael Watson, Bevani, &c. we \u00bb 5. OVERTURES, DUETS, by Auber, H\u00e9rold, and Rossini.",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "age",
+                    "target": {
+                        "variable": "z2",
+                        "concept": "temporal-quantity"
+                    },
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:age"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

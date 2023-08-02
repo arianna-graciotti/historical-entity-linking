@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-397.txt_1373
+#document_date:1876
+#sent_text:* Vouchsafe, O Lord.
+*	O	_	*	PUNCT
+Vouchsafe	B-music	Q16963986	vouchsafe	ADJ
+,	I-music	Q16963986	,	PUNCT
+O	I-music	Q16963986	o	INTJ
+Lord	I-music	Q16963986	Lord	PROPN
+.	O	_	.	PUNCT

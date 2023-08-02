@@ -1,0 +1,36 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3170
+#document_date:1826
+#sent_text:He is desirous of taking this opportunity of expressing his grateful sense of both, and adding, that in his communication with, and visits to, Cambridge (for by ? 
+He	O	_	he	PRON
+is	O	_	be	AUX
+desirous	O	_	desirous	ADJ
+of	O	_	of	ADP
+taking	O	_	take	VERB
+this	O	_	this	DET
+opportunity	O	_	opportunity	NOUN
+of	O	_	of	ADP
+expressing	O	_	express	VERB
+his	O	_	his	PRON
+grateful	O	_	grateful	ADJ
+sense	O	_	sense	NOUN
+of	O	_	of	ADP
+both	O	_	both	PRON
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+adding	O	_	add	VERB
+,	O	_	,	PUNCT
+that	O	_	that	SCONJ
+in	O	_	in	ADP
+his	O	_	his	PRON
+communication	O	_	communication	NOUN
+with	O	_	with	ADP
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+visits	O	_	visit	NOUN
+to	O	_	to	ADP
+,	O	_	,	PUNCT
+Cambridge	B-city	Q350	Cambridge	PROPN
+(	O	_	(	PUNCT
+for	O	_	for	ADP
+by	O	_	by	ADP
+?	O	_	?	PUNCT

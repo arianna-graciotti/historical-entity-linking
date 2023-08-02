@@ -1,0 +1,14 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_537
+#document_date:1870
+#sent_text:Imagine the despair of young Boston in such a plight!
+Imagine	O	_	imagine	VERB
+the	O	_	the	DET
+despair	O	_	despair	NOUN
+of	O	_	of	ADP
+young	O	_	young	ADJ
+Boston	B-city	Q100	Boston	PROPN
+in	O	_	in	ADP
+such	O	_	such	DET
+a	O	_	a	DET
+plight	O	_	plight	NOUN
+!	O	_	!	PUNCT

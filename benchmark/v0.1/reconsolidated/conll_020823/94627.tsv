@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_964
+#document_date:1875
+#sent_text:Mendelesohn, Liszt, Thalberg, Chopin, Mdme.
+Mendelesohn	B-person	Q46096	Mendelesohn	PROPN
+,	O	_	,	PUNCT
+Liszt	B-person	Q41309	Liszt	PROPN
+,	O	_	,	PUNCT
+Thalberg	B-person	Q347871	Thalberg	PROPN
+,	O	_	,	PUNCT
+Chopin	B-person	Q1268	Chopin	PROPN
+,	O	_	,	PUNCT
+Mdme	O	_	Mdme	PROPN
+.	O	_	.	PUNCT

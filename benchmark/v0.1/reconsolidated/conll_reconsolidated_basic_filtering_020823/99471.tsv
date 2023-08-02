@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1876-402.txt_1259
+#document_date:1876
+#sent_text:(Sir John Goss), concluding with Handel’s Hallelujah Chorus.
+(	O	_	(	PUNCT
+Sir	O	_	Sir	PROPN
+John	O	_	John	PROPN
+Goss	O	_	Goss	PROPN
+)	O	_	)	PUNCT
+,	O	_	,	PUNCT
+concluding	O	_	conclude	VERB
+with	O	_	with	ADP
+Handel	B-person	Q7302	Handel	PROPN
+’s	O	_	’s	PART
+Hallelujah	O	_	Hallelujah	PROPN
+Chorus	O	_	Chorus	PROPN
+.	O	_	.	PUNCT

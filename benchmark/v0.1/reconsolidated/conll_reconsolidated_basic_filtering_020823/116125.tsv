@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_587
+#document_date:1824
+#sent_text:, “ La Cenerentola,” 1817, Carnivale, "Performed in the theatre Valli, at Rome.
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+La	B-work-of-art	Q176700	La	PROPN
+Cenerentola	I-work-of-art	Q176700	Cenerentola	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1817	O	_	1817	NUM
+,	O	_	,	PUNCT
+Carnivale	O	_	Carnivale	PROPN
+,	O	_	,	PUNCT
+"	O	_	"	PUNCT
+Performed	O	_	perform	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+theatre	O	_	theatre	NOUN
+Valli	B-theatre	Q1109934	Valli	PROPN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+Rome	B-city	Q220	Rome	PROPN
+.	O	_	.	PUNCT

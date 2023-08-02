@@ -1,0 +1,27 @@
+#document_id:TheHarmonicon__1832-012.txt_1328
+#document_date:1832
+#sent_text:She has an engagement for life at Dresden, but hopes to obtain permission to travel during a small portion of every year.
+She	O	_	she	PRON
+has	O	_	have	VERB
+an	O	_	an	DET
+engagement	O	_	engagement	NOUN
+for	O	_	for	ADP
+life	O	_	life	NOUN
+at	O	_	at	ADP
+Dresden	B-city	Q1731	Dresden	PROPN
+,	O	_	,	PUNCT
+but	O	_	but	CCONJ
+hopes	O	_	hope	VERB
+to	O	_	to	PART
+obtain	O	_	obtain	VERB
+permission	O	_	permission	NOUN
+to	O	_	to	PART
+travel	O	_	travel	VERB
+during	O	_	during	ADP
+a	O	_	a	DET
+small	O	_	small	ADJ
+portion	O	_	portion	NOUN
+of	O	_	of	ADP
+every	O	_	every	DET
+year	O	_	year	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,15 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_745
+#document_date:1868
+#sent_text:Adelina Patti—for that will continue to be her professional.
+Adelina	B-person	Q234166	Adelina	PROPN
+Patti	I-person	Q234166	Patti	PROPN
+—	O	_	—	PUNCT
+for	O	_	for	ADP
+that	O	_	that	PRON
+will	O	_	will	AUX
+continue	O	_	continue	VERB
+to	O	_	to	PART
+be	O	_	be	AUX
+her	O	_	her	PRON
+professional	O	_	professional	NOUN
+.	O	_	.	PUNCT

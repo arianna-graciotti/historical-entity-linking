@@ -1,0 +1,22 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1453
+#document_date:1825
+#sent_text:“ La Cascina and Statira,” 1756 ; “ La Conversazione, Artaserse, and Alessandro nell’
+“	O	_	"	PUNCT
+La	B-opera	NIL	La	PROPN
+Cascina	I-opera	NIL	Cascina	PROPN
+and	O	_	and	CCONJ
+Statira	B-opera	NIL	Statira	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1756	O	_	1756	NUM
+;	O	_	;	PUNCT
+“	O	_	"	PUNCT
+La	B-opera	NIL	La	PROPN
+Conversazione	I-opera	NIL	Conversazione	PROPN
+,	O	_	,	PUNCT
+Artaserse	B-opera	NIL	Artaserse	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Alessandro	O	_	Alessandro	PROPN
+nell	O	_	nell	X
+’	O	_	'	PUNCT

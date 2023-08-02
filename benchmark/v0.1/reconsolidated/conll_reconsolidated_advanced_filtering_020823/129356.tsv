@@ -1,0 +1,17 @@
+#document_id:TheHarmonicon__1832-012.txt_1175
+#document_date:1832
+#sent_text:Fifth, on the Counterpoint of the ancients and moderns, 46 pages.
+Fifth	O	_	fifth	ADJ
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+the	O	_	the	DET
+Counterpoint	B-book	NIL	Counterpoint	PROPN
+of	I-book	NIL	of	ADP
+the	I-book	NIL	the	DET
+ancients	I-book	NIL	ancient	NOUN
+and	I-book	NIL	and	CCONJ
+moderns	I-book	NIL	modern	NOUN
+,	O	_	,	PUNCT
+46	O	_	46	NUM
+pages	O	_	page	NOUN
+.	O	_	.	PUNCT

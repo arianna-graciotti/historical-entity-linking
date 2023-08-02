@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1876-397.txt_834
+#document_date:1876
+#sent_text:Must be able to read the Services and Anthems in general use.
+Must	O	_	must	AUX
+be	O	_	be	AUX
+able	O	_	able	ADJ
+to	O	_	to	PART
+read	O	_	read	VERB
+the	O	_	the	DET
+Services	O	_	service	NOUN
+and	O	_	and	CCONJ
+Anthems	O	_	Anthems	PROPN
+in	O	_	in	ADP
+general	O	_	general	ADJ
+use	O	_	use	NOUN
+.	O	_	.	PUNCT

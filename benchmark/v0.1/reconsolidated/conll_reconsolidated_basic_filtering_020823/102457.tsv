@@ -1,0 +1,7 @@
+#document_id:TheMusicalTimes__1875-388.txt_1642
+#document_date:1875
+#sent_text:Mr. Galloway accompanied.
+Mr.	B-person	NIL	Mr.	PROPN
+Galloway	I-person	NIL	Galloway	PROPN
+accompanied	O	_	accompany	VERB
+.	O	_	.	PUNCT

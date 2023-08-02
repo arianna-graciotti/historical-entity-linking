@@ -1,0 +1,9 @@
+#document_id:TheMusicalWorld__1843-038.txt_353
+#document_date:1843
+#sent_text:‘The Sailor’s Journal..
+‘	O	_	'	PUNCT
+The	B-work-of-art	NIL	the	DET
+Sailor	I-work-of-art	NIL	Sailor	PROPN
+’s	I-work-of-art	NIL	’s	PART
+Journal	I-work-of-art	NIL	Journal	PROPN
+..	O	_	..	PUNCT

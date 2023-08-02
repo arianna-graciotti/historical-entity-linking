@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1824-016.txt_1866
+#document_date:1824
+#sent_text:Mozart lost his wife in the flower of her youth and beauty:
+Mozart	B-person	Q254	Mozart	PROPN
+lost	O	_	lose	VERB
+his	O	_	his	PRON
+wife	O	_	wife	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+flower	O	_	flower	NOUN
+of	O	_	of	ADP
+her	O	_	her	PRON
+youth	O	_	youth	NOUN
+and	O	_	and	CCONJ
+beauty	O	_	beauty	NOUN
+:	O	_	:	PUNCT

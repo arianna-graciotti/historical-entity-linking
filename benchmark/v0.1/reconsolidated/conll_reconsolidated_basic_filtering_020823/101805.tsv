@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1875-388.txt_764
+#document_date:1875
+#sent_text:Address E. J. P., Musieal Times Office, 35, Poultry,
+Address	O	_	address	NOUN
+E.	B-person	NIL	E.	PROPN
+J.	I-person	NIL	J.	PROPN
+P.	I-person	NIL	P.	PROPN
+,	O	_	,	PUNCT
+Musieal	B-building 	Q1757371	Musieal	PROPN
+Times	I-building 	Q1757371	Times	PROPN
+Office	I-building 	Q1757371	Office	PROPN
+,	O	_	,	PUNCT
+35	O	_	35	NUM
+,	O	_	,	PUNCT
+Poultry	B-road	Q7235592	Poultry	PROPN
+,	O	_	,	PUNCT

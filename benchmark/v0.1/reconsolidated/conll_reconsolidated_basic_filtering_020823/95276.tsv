@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_280
+#document_date:1870
+#sent_text:—the elder.as Romeo, the younger as Juliet.
+—	O	_	—	PUNCT
+the	O	_	the	DET
+elder.as	O	_	elder.as	ADP
+Romeo	O	_	Romeo	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+younger	O	_	young	ADJ
+as	O	_	as	ADP
+Juliet	O	_	Juliet	PROPN
+.	O	_	.	PUNCT

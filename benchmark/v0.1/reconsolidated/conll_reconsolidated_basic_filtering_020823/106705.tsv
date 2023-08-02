@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1873-366.txt_144
+#document_date:1873
+#sent_text:RGAN HARMONIUM, £32.
+RGAN	O	_	RGAN	PROPN
+HARMONIUM	O	_	HARMONIUM	PROPN
+,	O	_	,	PUNCT
+£	O	_	£	SYM
+32	O	_	32	NUM
+.	O	_	.	PUNCT

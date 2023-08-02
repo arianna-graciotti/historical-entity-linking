@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2481
+#document_date:1826
+#sent_text:All by J. H. Callcott, Great Marlborough-street, London.
+All	O	_	all	PRON
+by	O	_	by	ADP
+J.	O	_	J.	PROPN
+H.	O	_	H.	PROPN
+Callcott	O	_	Callcott	PROPN
+,	O	_	,	PUNCT
+Great	B-road	Q5599541	Great	PROPN
+Marlborough	I-road	Q5599541	Marlborough	PROPN
+-	I-road	Q5599541	-	PUNCT
+street	I-road	Q5599541	street	NOUN
+,	O	_	,	PUNCT
+London	B-city	Q84	London	PROPN
+.	O	_	.	PUNCT

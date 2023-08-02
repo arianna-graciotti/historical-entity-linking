@@ -1,0 +1,28 @@
+#document_id:TheMusicalTimes__1876-402.txt_442
+#document_date:1876
+#sent_text:For particulars apply | that the usual printed form may be duly forwarded. to G. Hargreaves, Knightley Grange, Eccleshall, Staffordshire.
+For	O	_	for	SCONJ
+particulars	O	_	particular	NOUN
+apply	O	_	apply	VERB
+|	O	_	|	PUNCT
+that	O	_	that	SCONJ
+the	O	_	the	DET
+usual	O	_	usual	ADJ
+printed	O	_	print	VERB
+form	O	_	form	NOUN
+may	O	_	may	AUX
+be	O	_	be	AUX
+duly	O	_	duly	ADV
+forwarded	O	_	forward	VERB
+.	O	_	.	PUNCT
+to	O	_	to	ADP
+G.	B-person	NIL	G.	PROPN
+Hargreaves	I-person	NIL	Hargreaves	PROPN
+,	O	_	,	PUNCT
+Knightley	B-building	NIL	Knightley	PROPN
+Grange	I-building	NIL	Grange	PROPN
+,	O	_	,	PUNCT
+Eccleshall	B-city	Q2123282	Eccleshall	PROPN
+,	O	_	,	PUNCT
+Staffordshire	B-county	Q23105	Staffordshire	PROPN
+.	O	_	.	PUNCT

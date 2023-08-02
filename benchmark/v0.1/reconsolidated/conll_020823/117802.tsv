@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2811
+#document_date:1824
+#sent_text:year as those of Birmingham, Liverpool, and York.
+year	O	_	year	NOUN
+as	O	_	as	ADP
+those	O	_	those	PRON
+of	O	_	of	ADP
+Birmingham	B-city	Q2256	Birmingham	PROPN
+,	O	_	,	PUNCT
+Liverpool	B-city	Q24826	Liverpool	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+York	B-city	Q42462	York	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1873-366.txt_44
+#document_date:1873
+#sent_text:Address 1, Berners-street, W. MR.
+Address	O	_	address	NOUN
+1	O	_	1	NUM
+,	O	_	,	PUNCT
+Berners	B-road	Q14997139	Berners	PROPN
+-	I-road	Q14997139	-	PUNCT
+street	I-road	Q14997139	street	NOUN
+,	O	_	,	PUNCT
+W.	O	_	W.	PROPN
+MR	O	_	MR	PROPN
+.	O	_	.	PUNCT

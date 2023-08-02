@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-402.txt_435
+#document_date:1876
+#sent_text:T. Dodds, 52, Queen’s-place, Leeds.
+T.	B-person	NIL	T.	PROPN
+Dodds	I-person	NIL	Dodds	PROPN
+,	O	_	,	PUNCT
+52	O	_	52	NUM
+,	O	_	,	PUNCT
+Queen’s	B-road	NIL	queen’s	PART
+-	I-road	NIL	-	PUNCT
+place	I-road	NIL	place	NOUN
+,	O	_	,	PUNCT
+Leeds	B-city	Q39121	Leeds	PROPN
+.	O	_	.	PUNCT

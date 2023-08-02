@@ -1,0 +1,44 @@
+#document_id:TheHarmonicon__1828-001.txt_167
+#document_date:1828
+#sent_text:Stephen, thinking his sister had been intentionally insulted, commenced personal hostilities against the officer: a great bustle ensued, which ended by dragging him to the guard-house, to which several English gentlemen followed him.
+Stephen	B-person	Q2369747	Stephen	PROPN
+,	O	_	,	PUNCT
+thinking	O	_	think	VERB
+his	O	_	his	PRON
+sister	O	_	sister	NOUN
+had	O	_	have	AUX
+been	O	_	be	AUX
+intentionally	O	_	intentionally	ADV
+insulted	O	_	insult	VERB
+,	O	_	,	PUNCT
+commenced	O	_	commence	VERB
+personal	O	_	personal	ADJ
+hostilities	O	_	hostility	NOUN
+against	O	_	against	ADP
+the	O	_	the	DET
+officer	O	_	officer	NOUN
+:	O	_	:	PUNCT
+a	O	_	a	DET
+great	O	_	great	ADJ
+bustle	O	_	bustle	NOUN
+ensued	O	_	ensue	VERB
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+ended	O	_	end	VERB
+by	O	_	by	ADP
+dragging	O	_	drag	VERB
+him	O	_	he	PRON
+to	O	_	to	ADP
+the	O	_	the	DET
+guard	O	_	guard	NOUN
+-	O	_	-	PUNCT
+house	O	_	house	NOUN
+,	O	_	,	PUNCT
+to	O	_	to	PART
+which	O	_	which	PRON
+several	O	_	several	ADJ
+English	O	_	english	ADJ
+gentlemen	O	_	gentleman	NOUN
+followed	O	_	follow	VERB
+him	O	_	he	PRON
+.	O	_	.	PUNCT

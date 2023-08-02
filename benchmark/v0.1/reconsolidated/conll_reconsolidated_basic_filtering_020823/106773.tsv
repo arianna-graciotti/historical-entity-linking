@@ -1,0 +1,17 @@
+#document_id:TheMusicalTimes__1873-366.txt_230
+#document_date:1873
+#sent_text:LESSONS (by post) by a Fellow of the College of Organists.
+LESSONS	O	_	lesson	NOUN
+(	O	_	(	PUNCT
+by	O	_	by	ADP
+post	O	_	post	NOUN
+)	O	_	)	PUNCT
+by	O	_	by	ADP
+a	O	_	a	DET
+Fellow	O	_	Fellow	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+College	B-organization	Q3305373	College	PROPN
+of	I-organization	Q3305373	of	ADP
+Organists	I-organization	Q3305373	Organists	PROPN
+.	O	_	.	PUNCT

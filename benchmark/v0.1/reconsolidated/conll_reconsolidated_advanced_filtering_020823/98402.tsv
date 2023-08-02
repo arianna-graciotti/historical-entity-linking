@@ -1,0 +1,34 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_1257
+#document_date:1873
+#sent_text:A committee of London gentlemen have issued a proposal for the representation of a series of ancient “Italian operas, to be given under the direction of “Signer -Monari
+A	O	_	a	DET
+committee	O	_	committee	NOUN
+of	O	_	of	ADP
+London	B-city	Q84	London	PROPN
+gentlemen	O	_	gentleman	NOUN
+have	O	_	have	AUX
+issued	O	_	issue	VERB
+a	O	_	a	DET
+proposal	O	_	proposal	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+representation	O	_	representation	NOUN
+of	O	_	of	ADP
+a	O	_	a	DET
+series	O	_	series	NOUN
+of	O	_	of	ADP
+ancient	O	_	ancient	ADJ
+“	O	_	"	PUNCT
+Italian	O	_	italian	ADJ
+operas	O	_	opera	NOUN
+,	O	_	,	PUNCT
+to	O	_	to	PART
+be	O	_	be	AUX
+given	O	_	give	VERB
+under	O	_	under	ADP
+the	O	_	the	DET
+direction	O	_	direction	NOUN
+of	O	_	of	ADP
+“	O	_	"	PUNCT
+Signer	B-person	Q3680460	Signer	PROPN
+-Monari	I-person	Q3680460	-Monari	PROPN

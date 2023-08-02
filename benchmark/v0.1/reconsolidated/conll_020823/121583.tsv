@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4238
+#document_date:1828
+#sent_text:Gems a la Pasta, a Dramatic Fantasia, by J. Moscheles.
+Gems	B-work-of-art	NIL	Gems	PROPN
+a	I-work-of-art	NIL	a	PROPN
+la	I-work-of-art	NIL	la	X
+Pasta	I-work-of-art	NIL	Pasta	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+Dramatic	O	_	dramatic	ADJ
+Fantasia	O	_	Fantasia	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+J.	B-person	Q159551	J.	PROPN
+Moscheles	I-person	Q159551	Moscheles	PROPN
+.	O	_	.	PUNCT

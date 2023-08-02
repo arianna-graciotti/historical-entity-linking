@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1372
+#document_date:1824
+#sent_text:Steiner was in 1738 musician of the chamber to ihe King of Denmark, at Copenhagen.
+Steiner	B-person	NIL	Steiner	PROPN
+was	O	_	be	AUX
+in	O	_	in	ADP
+1738	O	_	1738	NUM
+musician	O	_	musician	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+chamber	O	_	chamber	NOUN
+to	O	_	to	ADP
+ihe	O	_	ihe	PROPN
+King	O	_	King	PROPN
+of	O	_	of	ADP
+Denmark	B-country	Q35	Denmark	PROPN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+Copenhagen	B-city	Q1748	Copenhagen	PROPN
+.	O	_	.	PUNCT

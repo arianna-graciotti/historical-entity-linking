@@ -1,0 +1,26 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_217
+#document_date:1825
+#sent_text:“of the Rise and Progress of Musical Eestivals in Great Britain, with Biographical and Historical Notes; by John Crosse,
+“	O	_	"	PUNCT
+of	B-publication	NIL	of	ADP
+the	I-publication	NIL	the	DET
+Rise	I-publication	NIL	rise	NOUN
+and	I-publication	NIL	and	CCONJ
+Progress	I-publication	NIL	progress	NOUN
+of	I-publication	NIL	of	ADP
+Musical	I-publication	NIL	musical	ADJ
+Eestivals	I-publication	NIL	eestival	NOUN
+in	I-publication	NIL	in	ADP
+Great	I-publication	NIL	Great	PROPN
+Britain	I-publication	NIL	Britain	PROPN
+,	I-publication	NIL	,	PUNCT
+with	I-publication	NIL	with	ADP
+Biographical	I-publication	NIL	biographical	ADJ
+and	I-publication	NIL	and	CCONJ
+Historical	I-publication	NIL	historical	ADJ
+Notes	I-publication	NIL	note	NOUN
+;	O	_	;	PUNCT
+by	O	_	by	ADP
+John	B-person	Q15994384	John	PROPN
+Crosse	I-person	Q15994384	Crosse	PROPN
+,	O	_	,	PUNCT

@@ -1,0 +1,20 @@
+#document_id:TheMusicalWorld__1843-036.txt_248
+#document_date:1843
+#sent_text:Like the jewell’d cups of the King Jamstid,” le entombed in neglect and apathy.
+Like	O	_	like	ADP
+the	O	_	the	DET
+jewell’d	O	_	jewell’d	NOUN
+cups	O	_	cup	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+King	O	_	King	PROPN
+Jamstid	O	_	Jamstid	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+le	O	_	le	X
+entombed	O	_	entomb	VERB
+in	O	_	in	ADP
+neglect	O	_	neglect	NOUN
+and	O	_	and	CCONJ
+apathy	O	_	apathy	NOUN
+.	O	_	.	PUNCT

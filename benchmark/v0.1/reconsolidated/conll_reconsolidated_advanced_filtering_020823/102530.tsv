@@ -1,0 +1,22 @@
+#document_id:TheMusicalTimes__1875-388.txt_1719
+#document_date:1875
+#sent_text:No doubt Mr. Fitzgerald has been induced to undertake this task by the exigencies of his immediate surroundings.
+No	O	_	no	ADV
+doubt	O	_	doubt	ADV
+Mr.	B-person	NIL	Mr.	PROPN
+Fitzgerald	I-person	NIL	Fitzgerald	PROPN
+has	O	_	have	AUX
+been	O	_	be	AUX
+induced	O	_	induce	VERB
+to	O	_	to	PART
+undertake	O	_	undertake	VERB
+this	O	_	this	DET
+task	O	_	task	NOUN
+by	O	_	by	ADP
+the	O	_	the	DET
+exigencies	O	_	exigency	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+immediate	O	_	immediate	ADJ
+surroundings	O	_	surrounding	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1113
+#document_date:1824
+#sent_text:Tus bassoon was played by a reed managed like the ancient shepherd’s pipe.
+Tus	O	_	Tus	PROPN
+bassoon	O	_	bassoon	NOUN
+was	O	_	be	AUX
+played	O	_	play	VERB
+by	O	_	by	ADP
+a	O	_	a	DET
+reed	O	_	reed	NOUN
+managed	O	_	manage	VERB
+like	O	_	like	ADP
+the	O	_	the	DET
+ancient	O	_	ancient	ADJ
+shepherd	O	_	shepherd	NOUN
+’s	O	_	’s	PART
+pipe	O	_	pipe	NOUN
+.	O	_	.	PUNCT

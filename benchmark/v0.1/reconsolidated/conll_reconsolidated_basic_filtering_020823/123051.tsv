@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1533
+#document_date:1826
+#sent_text:This i isa short chapter, yet it discloses one curious custom amongst the Hebrews
+This	O	_	this	DET
+i	O	_	I	PRON
+isa	O	_	isa	DET
+short	O	_	short	ADJ
+chapter	O	_	chapter	NOUN
+,	O	_	,	PUNCT
+yet	O	_	yet	CCONJ
+it	O	_	it	PRON
+discloses	O	_	disclose	VERB
+one	O	_	one	NUM
+curious	O	_	curious	ADJ
+custom	O	_	custom	NOUN
+amongst	O	_	amongst	ADP
+the	O	_	the	DET
+Hebrews	O	_	Hebrews	PROPN

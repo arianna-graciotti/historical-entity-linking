@@ -1,0 +1,28 @@
+#document_id:TheMusicalWorld__1844-006.txt_352
+#document_date:1844
+#sent_text:The vocalists were Miss Leach, Miss A. Graham, Mrs. Winterbottom, Mrs. Yarndley, Miss Hellawell, and Master George Frederick Graham:
+The	O	_	the	DET
+vocalists	O	_	vocalist	NOUN
+were	O	_	be	AUX
+Miss	B-person	NIL	Miss	PROPN
+Leach	I-person	NIL	Leach	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+A.	I-person	NIL	A.	PROPN
+Graham	I-person	NIL	Graham	PROPN
+,	O	_	,	PUNCT
+Mrs.	B-person	NIL	Mrs.	PROPN
+Winterbottom	I-person	NIL	Winterbottom	PROPN
+,	O	_	,	PUNCT
+Mrs.	B-person	NIL	Mrs.	PROPN
+Yarndley	I-person	NIL	Yarndley	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Hellawell	I-person	NIL	Hellawell	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Master	B-person	NIL	Master	PROPN
+George	I-person	NIL	George	PROPN
+Frederick	I-person	NIL	Frederick	PROPN
+Graham	I-person	NIL	Graham	PROPN
+:	O	_	:	PUNCT

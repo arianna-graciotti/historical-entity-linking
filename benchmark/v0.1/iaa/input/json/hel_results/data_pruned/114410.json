@@ -1,0 +1,136 @@
+{
+    "id": "114410",
+    "text": "-Cabrera and the Horace of composers.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2288",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "person",
+            "entityName": "Cabrera",
+            "wikis": [
+                {
+                    "wiki": "Benito_Cabrera",
+                    "link": "https://en.wikipedia.org/wiki/Benito_Cabrera",
+                    "qid": "Q817344",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "op1"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                }
+            }
+        },
+        {
+            "variable": "z3",
+            "type": "person",
+            "entityName": "Horace of composers",
+            "wikis": [
+                {
+                    "wiki": "Horace_Keats",
+                    "link": "https://en.wikipedia.org/wiki/Horace_Keats",
+                    "qid": "Q24239542",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not a valid named entity"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Jommelli",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q312891",
+                            "sentenceEnough": "no",
+                            "contextString": "Neither did the immortal Jomelli* acquire less fame by his musical works, which earn for him the titles of the . -Cabrera and the Horace of composers. ",
+                            "contextBroader": "Galuppi, also called: Buranello, was not less celebrated for his ability i in this art than for the attention he gave to the costume x Vol 6, page 161.\r\n ARTEAGA ON THE OPERA. aa musicale, that is to say, to the art of adapting the quality of tone and style of singing to the nature and situation of the persons represented. Neither did the immortal Jomelli* acquire less fame by his musical works, which earn for him the titles of the . -Cabrera and the Horace of composers. ",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "op2"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": ""
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Cabrera and the Horace of composers",
+                    "ocrEntityMention": "Cabrera and the Horace of composers",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

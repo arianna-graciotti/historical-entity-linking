@@ -1,0 +1,10 @@
+#document_id:TheHarmonicon__1832-012.txt_1134
+#document_date:1832
+#sent_text:IN THE ROYAL LIBRARY, PARIS.
+IN	O	_	in	ADP
+THE	O	_	the	DET
+ROYAL	B-building	Q193563	ROYAL	PROPN
+LIBRARY	I-building	Q193563	LIBRARY	PROPN
+,	O	_	,	PUNCT
+PARIS	B-city	Q90	PARIS	PROPN
+.	O	_	.	PUNCT

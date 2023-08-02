@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1875-388.txt_2800
+#document_date:NaN
+#sent_text:Part I. contains four Songs, arranged by Mrs. Mounsey BartnoLomew.
+Part	O	_	part	NOUN
+I.	O	_	i.	NOUN
+contains	O	_	contain	VERB
+four	O	_	four	NUM
+Songs	O	_	song	NOUN
+,	O	_	,	PUNCT
+arranged	O	_	arrange	VERB
+by	O	_	by	ADP
+Mrs.	O	_	Mrs.	PROPN
+Mounsey	B-person	NIL	Mounsey	PROPN
+BartnoLomew	I-person	NIL	BartnoLomew	PROPN
+.	O	_	.	PUNCT

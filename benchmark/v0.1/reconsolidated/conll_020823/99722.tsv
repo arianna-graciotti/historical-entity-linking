@@ -1,0 +1,39 @@
+#document_id:TheMusicalTimes__1876-402.txt_1698
+#document_date:1876
+#sent_text:On the eve of going to press we have received intelligence of the death of Mr. T. M. Mudie, one of the pupils originally elected on the foundation of the Royal Academy of Music.
+On	O	_	on	ADP
+the	O	_	the	DET
+eve	O	_	eve	NOUN
+of	O	_	of	ADP
+going	O	_	go	VERB
+to	O	_	to	ADP
+press	O	_	press	NOUN
+we	O	_	we	PRON
+have	O	_	have	AUX
+received	O	_	receive	VERB
+intelligence	O	_	intelligence	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+death	O	_	death	NOUN
+of	O	_	of	ADP
+Mr.	B-person	Q18577092	Mr.	PROPN
+T.	I-person	Q18577092	T.	PROPN
+M.	I-person	Q18577092	M.	PROPN
+Mudie	I-person	Q18577092	Mudie	PROPN
+,	O	_	,	PUNCT
+one	O	_	one	NUM
+of	O	_	of	ADP
+the	O	_	the	DET
+pupils	O	_	pupil	NOUN
+originally	O	_	originally	ADV
+elected	O	_	elect	VERB
+on	O	_	on	ADP
+the	O	_	the	DET
+foundation	O	_	foundation	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Royal	B-school	Q1144673	Royal	PROPN
+Academy	I-school	Q1144673	Academy	PROPN
+of	I-school	Q1144673	of	ADP
+Music	I-school	Q1144673	Music	PROPN
+.	O	_	.	PUNCT

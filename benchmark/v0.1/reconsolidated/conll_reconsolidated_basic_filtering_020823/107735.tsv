@@ -1,0 +1,17 @@
+#document_id:TheMusicalTimes__1873-366.txt_1521
+#document_date:1873
+#sent_text:The chair was occupied en the occasion by Sir Thomas Gladstone, Bart.
+The	O	_	the	DET
+chair	O	_	chair	NOUN
+was	O	_	be	AUX
+occupied	O	_	occupy	VERB
+en	O	_	en	ADP
+the	O	_	the	DET
+occasion	O	_	occasion	NOUN
+by	O	_	by	ADP
+Sir	B-person	Q7529140	Sir	PROPN
+Thomas	I-person	Q7529140	Thomas	PROPN
+Gladstone	I-person	Q7529140	Gladstone	PROPN
+,	O	_	,	PUNCT
+Bart	O	_	Bart	PROPN
+.	O	_	.	PUNCT

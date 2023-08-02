@@ -1,0 +1,9 @@
+#document_id:TheMusicalWorld__1843-029.txt_484
+#document_date:1843
+#sent_text:SraupiGy leaves England on Saturday.
+SraupiGy	O	_	SraupiGy	PROPN
+leaves	O	_	leave	VERB
+England	B-country	Q21	England	PROPN
+on	O	_	on	ADP
+Saturday	O	_	Saturday	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,26 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1463
+#document_date:1825
+#sent_text:He afterwards received further instructions from Saratelli, the predecessor of Galuppi;, as Chapel Master of St. Mark at Venice.
+He	O	_	he	PRON
+afterwards	O	_	afterwards	ADV
+received	O	_	receive	VERB
+further	O	_	further	ADJ
+instructions	O	_	instruction	NOUN
+from	O	_	from	ADP
+Saratelli	B-person	Q1522112	Saratelli	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+predecessor	O	_	predecessor	NOUN
+of	O	_	of	ADP
+Galuppi	B-person	Q208338	Galuppi	PROPN
+;	O	_	;	PUNCT
+,	O	_	,	PUNCT
+as	O	_	as	ADP
+Chapel	O	_	Chapel	PROPN
+Master	O	_	Master	PROPN
+of	O	_	of	ADP
+St.	B-worship-place	Q172988	St.	PROPN
+Mark	I-worship-place	Q172988	Mark	PROPN
+at	O	_	at	ADP
+Venice	B-city	Q641	Venice	PROPN
+.	O	_	.	PUNCT

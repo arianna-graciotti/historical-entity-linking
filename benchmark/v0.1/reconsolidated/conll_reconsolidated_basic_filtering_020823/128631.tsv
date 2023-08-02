@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1832-012.txt_269
+#document_date:1832
+#sent_text:™*, 24, Edward Street, Langham Place.
+™	O	_	™	PUNCT
+*	O	_	*	PUNCT
+,	O	_	,	PUNCT
+24	O	_	24	NUM
+,	O	_	,	PUNCT
+Edward	B-road	Q48699043	Edward	PROPN
+Street	I-road	Q48699043	Street	PROPN
+,	O	_	,	PUNCT
+Langham	B-road	Q6486067	Langham	PROPN
+Place	I-road	Q6486067	Place	PROPN
+.	O	_	.	PUNCT

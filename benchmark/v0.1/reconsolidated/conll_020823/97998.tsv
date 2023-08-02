@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_740
+#document_date:NaN
+#sent_text:” , ene , Campanini’s Career. .
+”	O	_	"	PUNCT
+,	O	_	,	PUNCT
+ene	O	_	ene	X
+,	O	_	,	PUNCT
+Campanini	B-person	Q1168442	Campanini	PROPN
+’s	O	_	’s	PART
+Career	O	_	Career	PROPN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

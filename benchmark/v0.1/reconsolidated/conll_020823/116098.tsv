@@ -1,0 +1,22 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_537
+#document_date:1824
+#sent_text:This is the only one of Rossini’s early works that has retained its place on the stage.
+This	O	_	this	PRON
+is	O	_	be	AUX
+the	O	_	the	DET
+only	O	_	only	ADJ
+one	O	_	one	NUM
+of	O	_	of	ADP
+Rossini	B-person	Q9726	Rossini	PROPN
+’s	O	_	’s	PART
+early	O	_	early	ADJ
+works	O	_	work	NOUN
+that	O	_	that	PRON
+has	O	_	have	AUX
+retained	O	_	retain	VERB
+its	O	_	its	PRON
+place	O	_	place	NOUN
+on	O	_	on	ADP
+the	O	_	the	DET
+stage	O	_	stage	NOUN
+.	O	_	.	PUNCT

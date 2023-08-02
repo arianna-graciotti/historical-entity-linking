@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_581
+#document_date:1824
+#sent_text:Performed at the theatre dei Fiorentini, at Naples.
+Performed	O	_	perform	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+theatre	B-theatre	Q3982267	theatre	NOUN
+dei	I-theatre	Q3982267	dei	X
+Fiorentini	I-theatre	Q3982267	Fiorentini	PROPN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+Naples	B-city	Q2634	Naples	PROPN
+.	O	_	.	PUNCT

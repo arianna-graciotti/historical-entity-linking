@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-402.txt_323
+#document_date:1876
+#sent_text:Send for prices to the Profession and Trade.
+Send	O	_	send	VERB
+for	O	_	for	ADP
+prices	O	_	price	NOUN
+to	O	_	to	ADP
+the	O	_	the	DET
+Profession	O	_	Profession	PROPN
+and	O	_	and	CCONJ
+Trade	O	_	trade	NOUN
+.	O	_	.	PUNCT

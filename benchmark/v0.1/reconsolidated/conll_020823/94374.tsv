@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_650
+#document_date:1875
+#sent_text:Beethoven's Driving is far better than walking.
+Beethoven	B-person	Q255	Beethoven	PROPN
+'s	O	_	's	PART
+Driving	O	_	driving	NOUN
+is	O	_	be	AUX
+far	O	_	far	ADV
+better	O	_	well	ADJ
+than	O	_	than	ADP
+walking	O	_	walk	VERB
+.	O	_	.	PUNCT

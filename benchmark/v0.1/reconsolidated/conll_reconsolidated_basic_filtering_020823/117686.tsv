@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2669
+#document_date:1824
+#sent_text:We. must now turn to the King’s Theatre.
+We	O	_	we	PRON
+.	O	_	.	PUNCT
+must	O	_	must	AUX
+now	O	_	now	ADV
+turn	O	_	turn	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+King	B-theatre	Q1155331	King	PROPN
+’s	I-theatre	Q1155331	’s	PART
+Theatre	I-theatre	Q1155331	Theatre	PROPN
+.	O	_	.	PUNCT

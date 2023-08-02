@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1875-388.txt_2052
+#document_date:1875
+#sent_text:, at the Assembly Rooms, before a large audience.
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+the	O	_	the	DET
+Assembly	B-building	NIL	Assembly	PROPN
+Rooms	I-building	NIL	Rooms	PROPN
+,	O	_	,	PUNCT
+before	O	_	before	ADP
+a	O	_	a	DET
+large	O	_	large	ADJ
+audience	O	_	audience	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1876-397.txt_2298
+#document_date:NaN
+#sent_text:Mr. Rea, were excellently sung.
+Mr.	B-person	NIL	Mr.	PROPN
+Rea	I-person	NIL	Rea	PROPN
+,	O	_	,	PUNCT
+were	O	_	be	AUX
+excellently	O	_	excellently	ADV
+sung	O	_	sing	VERB
+.	O	_	.	PUNCT

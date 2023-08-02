@@ -1,0 +1,26 @@
+#document_id:TheMusicalWorld__1844-006.txt_980
+#document_date:1844
+#sent_text:Mr. Sams, St. James's Street; and at M. Jullien’s office, 3, Maddox Street, Bond Street.
+Mr.	B-person	NIL	Mr.	PROPN
+Sams	I-person	NIL	Sams	PROPN
+,	O	_	,	PUNCT
+St.	O	_	St.	PROPN
+James	O	_	James	PROPN
+'s	O	_	's	PART
+Street	O	_	Street	PROPN
+;	O	_	;	PUNCT
+and	O	_	and	CCONJ
+at	O	_	at	ADP
+M.	B-person	NIL	M.	PROPN
+Jullien	I-person	NIL	Jullien	PROPN
+’s	O	_	’s	PART
+office	O	_	office	NOUN
+,	O	_	,	PUNCT
+3	O	_	3	NUM
+,	O	_	,	PUNCT
+Maddox	O	_	Maddox	PROPN
+Street	O	_	Street	PROPN
+,	O	_	,	PUNCT
+Bond	O	_	Bond	PROPN
+Street	O	_	Street	PROPN
+.	O	_	.	PUNCT

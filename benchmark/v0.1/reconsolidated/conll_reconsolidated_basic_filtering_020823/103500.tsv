@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1875-388.txt_2993
+#document_date:1875
+#sent_text:VERDI'S LA TRAVIATA (With Italian and English words).
+VERDI	B-person	Q7317	VERDI	PROPN
+'S	O	_	'S	PROPN
+LA	B-opera	Q186162	LA	PROPN
+TRAVIATA	I-opera	Q186162	TRAVIATA	PROPN
+(	O	_	(	PUNCT
+With	O	_	with	ADP
+Italian	O	_	italian	ADJ
+and	O	_	and	CCONJ
+English	O	_	english	ADJ
+words	O	_	word	NOUN
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

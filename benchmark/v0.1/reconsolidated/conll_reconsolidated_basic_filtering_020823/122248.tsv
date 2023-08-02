@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_390
+#document_date:1826
+#sent_text:Grande Variazioni di Bravura on “ O Cara Memoria,” by Jerome Paer: .
+Grande	O	_	Grande	PROPN
+Variazioni	O	_	Variazioni	PROPN
+di	O	_	di	ADP
+Bravura	O	_	Bravura	PROPN
+on	O	_	on	ADP
+“	O	_	"	PUNCT
+O	B-music	NIL	O	PROPN
+Cara	I-music	NIL	Cara	PROPN
+Memoria	I-music	NIL	Memoria	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+by	O	_	by	ADP
+Jerome	B-person	NIL	Jerome	PROPN
+Paer	I-person	NIL	Paer	PROPN
+:	O	_	:	PUNCT
+.	O	_	.	PUNCT

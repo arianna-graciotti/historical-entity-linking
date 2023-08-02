@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1828-001.txt_1470
+#document_date:1828
+#sent_text:The Glee, the Elf-King, “‘is partly founded on an Italian air,” says the composer.
+The	O	_	the	DET
+Glee	O	_	Glee	PROPN
+,	O	_	,	PUNCT
+the	B-music	NIL	the	DET
+Elf	I-music	NIL	Elf	PROPN
+-	I-music	NIL	-	PUNCT
+King	I-music	NIL	King	PROPN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+‘	O	_	'	PUNCT
+is	O	_	be	AUX
+partly	O	_	partly	ADV
+founded	O	_	found	VERB
+on	O	_	on	ADP
+an	O	_	an	DET
+Italian	O	_	italian	ADJ
+air	O	_	air	NOUN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+says	O	_	say	VERB
+the	O	_	the	DET
+composer	O	_	composer	NOUN
+.	O	_	.	PUNCT

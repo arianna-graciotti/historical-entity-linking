@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1876-397.txt_701
+#document_date:1876
+#sent_text:i G. Wrigley, Esq., F.C.O., Parish Church, High Wycombe.
+i	O	_	i	X
+G.	B-person	NIL	G.	PROPN
+Wrigley	I-person	NIL	Wrigley	PROPN
+,	O	_	,	PUNCT
+Esq	O	_	Esq	PROPN
+.	O	_	.	PUNCT
+,	O	_	,	PUNCT
+F.C.O.	O	_	F.C.O.	PROPN
+,	O	_	,	PUNCT
+Parish	B-worship-place	Q17524678	Parish	PROPN
+Church	I-worship-place	Q17524678	Church	PROPN
+,	O	_	,	PUNCT
+High	B-city	Q64116	High	PROPN
+Wycombe	I-city	Q64116	Wycombe	PROPN
+.	O	_	.	PUNCT

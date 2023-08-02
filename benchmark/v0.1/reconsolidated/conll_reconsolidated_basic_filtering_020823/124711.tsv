@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3783
+#document_date:1826
+#sent_text:Upon the coffin was ‘the following inscription: : CAROLUS MARTA FREYHERR VON WEBER .
+Upon	O	_	upon	SCONJ
+the	O	_	the	DET
+coffin	O	_	coffin	NOUN
+was	O	_	be	AUX
+‘	O	_	'	PUNCT
+the	O	_	the	DET
+following	O	_	following	ADJ
+inscription	O	_	inscription	NOUN
+:	O	_	:	PUNCT
+:	O	_	:	PUNCT
+CAROLUS	B-person	Q154812	CAROLUS	PROPN
+MARTA	I-person	Q154812	MARTA	PROPN
+FREYHERR	I-person	Q154812	FREYHERR	PROPN
+VON	I-person	Q154812	VON	PROPN
+WEBER	I-person	Q154812	WEBER	PROPN
+.	I-person	Q154812	.	PUNCT

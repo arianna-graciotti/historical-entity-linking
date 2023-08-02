@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1873-366.txt_1504
+#document_date:1873
+#sent_text:Mr. W. G. Cusins) also performed two of Mendelssohn’s
+Mr.	B-person	Q4208355	Mr.	PROPN
+W.	I-person	Q4208355	W.	PROPN
+G.	I-person	Q4208355	G.	PROPN
+Cusins	I-person	Q4208355	Cusins	PROPN
+)	O	_	)	PUNCT
+also	O	_	also	ADV
+performed	O	_	perform	VERB
+two	O	_	two	NUM
+of	O	_	of	ADP
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+’s	O	_	’s	PART

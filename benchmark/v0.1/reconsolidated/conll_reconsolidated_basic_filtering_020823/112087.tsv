@@ -1,0 +1,27 @@
+#document_id:TheMusicalWorld__1844-006.txt_281
+#document_date:1844
+#sent_text:They are distinguished from writings of a similar order by Bellini, Balfe, and other Italian songmakers, by their unassailable correctness.
+They	O	_	they	PRON
+are	O	_	be	AUX
+distinguished	O	_	distinguish	VERB
+from	O	_	from	ADP
+writings	O	_	writing	NOUN
+of	O	_	of	ADP
+a	O	_	a	DET
+similar	O	_	similar	ADJ
+order	O	_	order	NOUN
+by	O	_	by	ADP
+Bellini	B-person	Q170209	Bellini	PROPN
+,	O	_	,	PUNCT
+Balfe	B-person	Q434171	Balfe	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+other	O	_	other	ADJ
+Italian	O	_	italian	ADJ
+songmakers	O	_	songmaker	NOUN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+their	O	_	their	PRON
+unassailable	O	_	unassailable	ADJ
+correctness	O	_	correctness	NOUN
+.	O	_	.	PUNCT

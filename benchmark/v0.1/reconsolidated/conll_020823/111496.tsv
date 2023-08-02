@@ -1,0 +1,9 @@
+#document_id:TheMusicalWorld__1843-036.txt_482
+#document_date:1843
+#sent_text:Yours respectfully, Awtt Purr.
+Yours	O	_	your	NOUN
+respectfully	O	_	respectfully	ADV
+,	O	_	,	PUNCT
+Awtt	O	_	Awtt	PROPN
+Purr	B-person	NIL	Purr	PROPN
+.	O	_	.	PUNCT

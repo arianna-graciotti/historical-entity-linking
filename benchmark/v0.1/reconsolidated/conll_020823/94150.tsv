@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_353
+#document_date:1875
+#sent_text:he composed the delicious quintet in Die Zauberftite.
+he	O	_	he	PRON
+composed	O	_	compose	VERB
+the	O	_	the	DET
+delicious	O	_	delicious	ADJ
+quintet	O	_	quintet	NOUN
+in	O	_	in	ADP
+Die	B-opera	Q5064	Die	PROPN
+Zauberftite	I-opera	Q5064	Zauberftite	PROPN
+.	O	_	.	PUNCT

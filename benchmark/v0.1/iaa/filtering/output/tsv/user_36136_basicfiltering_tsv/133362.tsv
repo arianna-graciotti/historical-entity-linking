@@ -1,0 +1,13 @@
+#document_id:TheHarmonicon__1828-001.txt_1393
+#document_date:NaN
+#sent_text:—-Then ‘‘Turkish music at a distance.
+—	O	_	—	PUNCT
+-Then	O	_	-then	ADV
+‘	O	_	'	PUNCT
+‘	O	_	'	PUNCT
+Turkish	O	_	turkish	ADJ
+music	O	_	music	NOUN
+at	O	_	at	ADP
+a	O	_	a	DET
+distance	O	_	distance	NOUN
+.	O	_	.	PUNCT

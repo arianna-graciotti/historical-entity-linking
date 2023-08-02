@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1108
+#document_date:1826
+#sent_text:The musicians are divided into two classes—the Charims and Bhats.
+The	O	_	the	DET
+musicians	O	_	musician	NOUN
+are	O	_	be	AUX
+divided	O	_	divide	VERB
+into	O	_	into	ADP
+two	O	_	two	NUM
+classes	O	_	class	NOUN
+—	O	_	—	PUNCT
+the	O	_	the	DET
+Charims	O	_	Charims	PROPN
+and	O	_	and	CCONJ
+Bhats	O	_	Bhats	PROPN
+.	O	_	.	PUNCT

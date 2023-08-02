@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2931
+#document_date:1828
+#sent_text:Nasee Fo peg cola | (Béiuss) Handel.
+Nasee	O	_	Nasee	PROPN
+Fo	O	_	fo	X
+peg	O	_	peg	X
+cola	O	_	cola	NOUN
+|	O	_	|	PUNCT
+(	O	_	(	PUNCT
+Béiuss	O	_	béiuss	X
+)	O	_	)	PUNCT
+Handel	B-person	Q7302	Handel	PROPN
+.	O	_	.	PUNCT

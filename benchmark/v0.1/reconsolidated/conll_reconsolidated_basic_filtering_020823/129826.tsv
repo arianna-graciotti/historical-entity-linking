@@ -1,0 +1,17 @@
+#document_id:TheHarmonicon__1832-012.txt_1778
+#document_date:1832
+#sent_text:Pompeij’s Letzer Zag (L’Ultimo Giorno di Pompei), by Pacini.
+Pompeij	B-opera	Q15476738	Pompeij	PROPN
+’s	I-opera	Q15476738	’s	PART
+Letzer	I-opera	Q15476738	Letzer	PROPN
+Zag	I-opera	Q15476738	Zag	PROPN
+(	O	_	(	PUNCT
+L’Ultimo	B-opera	Q15476738	L’Ultimo	PROPN
+Giorno	I-opera	Q15476738	Giorno	PROPN
+di	I-opera	Q15476738	di	X
+Pompei	I-opera	Q15476738	Pompei	PROPN
+)	O	_	)	PUNCT
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Pacini	B-person	Q357022	Pacini	PROPN
+.	O	_	.	PUNCT

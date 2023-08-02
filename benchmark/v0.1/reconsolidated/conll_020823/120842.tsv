@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3221
+#document_date:1828
+#sent_text:84 - Sos STATE OF MUSIC IN LONDON.
+84	O	_	84	NUM
+-	O	_	-	PUNCT
+Sos	O	_	sos	NOUN
+STATE	O	_	state	NOUN
+OF	O	_	of	ADP
+MUSIC	O	_	MUSIC	PROPN
+IN	O	_	in	ADP
+LONDON	B-city	Q84	LONDON	PROPN
+.	O	_	.	PUNCT

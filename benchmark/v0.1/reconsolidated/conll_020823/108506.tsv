@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1873-366.txt_2621
+#document_date:1873
+#sent_text:4 l'église des Péres Servites, 4 Brompton.
+4	O	_	4	NUM
+l'église	O	_	l'église	X
+des	O	_	des	X
+Péres	O	_	Péres	PROPN
+Servites	O	_	Servites	PROPN
+,	O	_	,	PUNCT
+4	O	_	4	NUM
+Brompton	B-city district	Q2926028	Brompton	PROPN
+.	O	_	.	PUNCT

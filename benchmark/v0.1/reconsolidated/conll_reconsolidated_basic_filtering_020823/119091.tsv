@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_556
+#document_date:1828
+#sent_text:Maraton and Yaratilda, a song, by T. Attwood ....
+Maraton	B-song	NIL	Maraton	PROPN
+and	I-song	NIL	and	CCONJ
+Yaratilda	I-song	NIL	Yaratilda	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+song	O	_	song	NOUN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+T.	B-person	Q2422110	T.	PROPN
+Attwood	I-person	Q2422110	Attwood	PROPN
+....	O	_	....	PUNCT

@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2371
+#document_date:1825
+#sent_text:Carlo Lartini and Pio Fabri excellent tenors—
+Carlo	B-person	NIL	Carlo	PROPN
+Lartini	I-person	NIL	Lartini	PROPN
+and	O	_	and	CCONJ
+Pio	B-person	Q3618073	Pio	PROPN
+Fabri	I-person	Q3618073	Fabri	PROPN
+excellent	O	_	excellent	ADJ
+tenors	O	_	tenor	NOUN
+—	O	_	—	PUNCT

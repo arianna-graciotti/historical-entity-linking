@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1873-366.txt_2134
+#document_date:1873
+#sent_text:, at the Music Hall.
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+the	B-location	NIL	the	DET
+Music	I-location	NIL	Music	PROPN
+Hall	I-location	NIL	Hall	PROPN
+.	O	_	.	PUNCT

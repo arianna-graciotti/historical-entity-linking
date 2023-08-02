@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3898
+#document_date:1828
+#sent_text:, the fugitives got to Havre, where Sir Sidney was put on board an English vessel.
+,	O	_	,	PUNCT
+the	O	_	the	DET
+fugitives	O	_	fugitive	NOUN
+got	O	_	get	VERB
+to	O	_	to	ADP
+Havre	B-city	Q42810	Havre	PROPN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+Sir	O	_	Sir	PROPN
+Sidney	O	_	Sidney	PROPN
+was	O	_	be	AUX
+put	O	_	put	VERB
+on	O	_	on	ADP
+board	O	_	board	NOUN
+an	O	_	an	DET
+English	O	_	english	ADJ
+vessel	O	_	vessel	NOUN
+.	O	_	.	PUNCT

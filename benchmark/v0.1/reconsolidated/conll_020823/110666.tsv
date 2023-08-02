@@ -1,0 +1,9 @@
+#document_id:TheMusicalWorld__1843-038.txt_252
+#document_date:1843
+#sent_text:Monpay, SEPTEMBER 1).
+Monpay	O	_	Monpay	PROPN
+,	O	_	,	PUNCT
+SEPTEMBER	O	_	SEPTEMBER	PROPN
+1	O	_	1	NUM
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

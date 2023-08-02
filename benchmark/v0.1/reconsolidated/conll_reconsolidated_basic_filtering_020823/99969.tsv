@@ -1,0 +1,20 @@
+#document_id:TheMusicalTimes__1876-402.txt_1996
+#document_date:1876
+#sent_text:letter of Richard Clarke to the Worshipful Company of Merchant Taylors, dedicating his work, entitled
+letter	O	_	letter	NOUN
+of	O	_	of	ADP
+Richard	O	_	Richard	PROPN
+Clarke	O	_	Clarke	PROPN
+to	O	_	to	ADP
+the	O	_	the	DET
+Worshipful	B-company	Q8037066	Worshipful	PROPN
+Company	I-company	Q8037066	Company	PROPN
+of	I-company	Q8037066	of	ADP
+Merchant	I-company	Q8037066	Merchant	PROPN
+Taylors	I-company	Q8037066	Taylors	PROPN
+,	O	_	,	PUNCT
+dedicating	O	_	dedicate	VERB
+his	O	_	his	PRON
+work	O	_	work	NOUN
+,	O	_	,	PUNCT
+entitled	O	_	entitle	VERB

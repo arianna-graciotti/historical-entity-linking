@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3310
+#document_date:1828
+#sent_text:E, Piano Forte, Mr. Moscheles .
+E	O	_	E	PROPN
+,	O	_	,	PUNCT
+Piano	O	_	Piano	PROPN
+Forte	O	_	Forte	PROPN
+,	O	_	,	PUNCT
+Mr.	B-person	Q159551	Mr.	PROPN
+Moscheles	I-person	Q159551	Moscheles	PROPN
+.	O	_	.	PUNCT

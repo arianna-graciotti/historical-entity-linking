@@ -1,0 +1,67 @@
+{
+    "id": "193933",
+    "text": "Nearly side stay finish.",
+    "page_id": "Bad sea major.",
+    "namedEntities": [
+        {
+            "variable": "25QE23",
+            "type": "Back stock service.",
+            "entityName": "Leave image direction.",
+            "wikis": [
+                {
+                    "wiki": "Arm talk country.",
+                    "link": "http://www.gibson-white.com/",
+                    "qid": "67vk94",
+                    "assessments": {
+                        "36136": {
+                            "user": "83116",
+                            "assessment": "wrong",
+                            "wikiUrl": "http://chambers.com/",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "15Xy02",
+                            "sentenceEnough": "Resource can almost.",
+                            "contextString": "Direction yeah what yet.",
+                            "contextBroader": "Mention available who.",
+                            "comments": "Consider money himself."
+                        },
+                        "23628": {
+                            "user": "58128",
+                            "assessment": "wrong",
+                            "wikiUrl": "http://robinson-austin.org/",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "27Zk47",
+                            "sentenceEnough": "One truth should front.",
+                            "contextString": "Up race almost ask.",
+                            "contextBroader": "Ok speech might.",
+                            "comments": "She research consumer."
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "94450",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "59252",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "95769",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "25483",
+            "missingNamedEntities": []
+        }
+    }
+}

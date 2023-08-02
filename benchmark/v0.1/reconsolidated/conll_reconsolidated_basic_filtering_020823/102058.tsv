@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1875-388.txt_1036
+#document_date:1875
+#sent_text:who had returned from Italy for the occasion, the proceedings terminated.
+who	O	_	who	PRON
+had	O	_	have	AUX
+returned	O	_	return	VERB
+from	O	_	from	ADP
+Italy	B-country	Q38	Italy	PROPN
+for	O	_	for	ADP
+the	O	_	the	DET
+occasion	O	_	occasion	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+proceedings	O	_	proceeding	NOUN
+terminated	O	_	terminate	VERB
+.	O	_	.	PUNCT

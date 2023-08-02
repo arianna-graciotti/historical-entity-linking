@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3712
+#document_date:1826
+#sent_text:Sir J. Stevenson H. Horn | Mr. Walmisley Hodsoll Webbe Kiesewetter.
+Sir	B-person	Q4442571	Sir	PROPN
+J.	I-person	Q4442571	J.	PROPN
+Stevenson	I-person	Q4442571	Stevenson	PROPN
+H.	B-person	NIL	H.	PROPN
+Horn	I-person	NIL	Horn	PROPN
+|	O	_	|	PUNCT
+Mr.	B-person	Q18917555	Mr.	PROPN
+Walmisley	I-person	Q18917555	Walmisley	PROPN
+Hodsoll	B-person	NIL	Hodsoll	PROPN
+Webbe	B-person	Q18917443	Webbe	PROPN
+Kiesewetter	B-person	Q327684	Kiesewetter	PROPN
+.	O	_	.	PUNCT

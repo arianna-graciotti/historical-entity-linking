@@ -1,0 +1,19 @@
+#document_id:TheMusicalTimes__1876-397.txt_2275
+#document_date:1876
+#sent_text:the solo parts being sung by Miss Orton, Miss Wale, and Mr. Horniblow.
+the	O	_	the	DET
+solo	O	_	solo	NOUN
+parts	O	_	part	NOUN
+being	O	_	be	AUX
+sung	O	_	sing	VERB
+by	O	_	by	ADP
+Miss	B-person	NIL	Miss	PROPN
+Orton	I-person	NIL	Orton	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Wale	I-person	NIL	Wale	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+Horniblow	I-person	NIL	Horniblow	PROPN
+.	O	_	.	PUNCT

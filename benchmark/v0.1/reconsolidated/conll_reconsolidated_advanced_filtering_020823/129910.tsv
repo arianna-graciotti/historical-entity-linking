@@ -1,0 +1,25 @@
+#document_id:TheHarmonicon__1832-012.txt_1890
+#document_date:1832
+#sent_text:In spring she goes to Milan, where she has concluded an engagement with the Scala and Cannobiano as primo musico.
+In	O	_	in	ADP
+spring	O	_	spring	NOUN
+she	O	_	she	PRON
+goes	O	_	go	VERB
+to	O	_	to	ADP
+Milan	B-city	Q490	Milan	PROPN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+she	O	_	she	PRON
+has	O	_	have	AUX
+concluded	O	_	conclude	VERB
+an	O	_	an	DET
+engagement	O	_	engagement	NOUN
+with	O	_	with	ADP
+the	O	_	the	DET
+Scala	B-theater	Q5471	Scala	PROPN
+and	O	_	and	CCONJ
+Cannobiano	B-theater	Q3982039	Cannobiano	PROPN
+as	O	_	as	ADP
+primo	O	_	primo	X
+musico	O	_	musico	X
+.	O	_	.	PUNCT

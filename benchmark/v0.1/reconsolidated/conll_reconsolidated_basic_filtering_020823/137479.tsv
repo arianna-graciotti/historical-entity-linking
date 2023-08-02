@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1824-016.txt_1667
+#document_date:1824
+#sent_text:Salieri, and from the theatre San Carlo at Naples.
+Salieri	B-person	Q51088	Salieri	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+from	O	_	from	ADP
+the	O	_	the	DET
+theatre	O	_	theatre	NOUN
+San	B-theatre	Q628491	San	PROPN
+Carlo	I-theatre	Q628491	Carlo	PROPN
+at	O	_	at	ADP
+Naples	B-city	Q2634	Naples	PROPN
+.	O	_	.	PUNCT

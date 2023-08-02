@@ -1,0 +1,19 @@
+#document_id:TheMusicalWorld__1843-029.txt_480
+#document_date:1843
+#sent_text:Signor Ganpini's concert took place on Monday, in the Hanover-square Rooms.
+Signor	B-person	NIL	Signor	PROPN
+Ganpini	I-person	NIL	Ganpini	PROPN
+'s	O	_	's	PART
+concert	O	_	concert	NOUN
+took	O	_	take	VERB
+place	O	_	place	NOUN
+on	O	_	on	ADP
+Monday	O	_	Monday	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+Hanover	B-building	Q10951144	Hanover	PROPN
+-	I-building	Q10951144	-	PUNCT
+square	I-building	Q10951144	square	ADJ
+Rooms	I-building	Q10951144	Rooms	PROPN
+.	O	_	.	PUNCT

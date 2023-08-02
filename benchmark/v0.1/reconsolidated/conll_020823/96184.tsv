@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_1471
+#document_date:1870
+#sent_text:singers, Mr. ‘Smith, and Herr Stepan.
+singers	O	_	singer	NOUN
+,	O	_	,	PUNCT
+Mr.	B-person	NIL	Mr.	PROPN
+‘	I-person	NIL	‘	PROPN
+Smith	I-person	NIL	Smith	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Herr	B-person	NIL	Herr	PROPN
+Stepan	I-person	NIL	Stepan	PROPN
+.	O	_	.	PUNCT

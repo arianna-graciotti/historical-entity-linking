@@ -1,0 +1,14 @@
+#document_id:TheMusicalWorld__1844-006.txt_157
+#document_date:1844
+#sent_text:This was the last great work of the immortal Handel.
+This	O	_	this	PRON
+was	O	_	be	AUX
+the	O	_	the	DET
+last	O	_	last	ADJ
+great	O	_	great	ADJ
+work	O	_	work	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+immortal	O	_	immortal	ADJ
+Handel	B-person	Q7302	Handel	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,33 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1424
+#document_date:1825
+#sent_text:* Amore in Musica,” 1763 ; “ Achille in Sciro,” 1764; “ L’Ingannatore ingannato,” 1764; “ J Olympiade,” 1765;
+*	O	_	*	PUNCT
+Amore	B-work-of-art	NIL	Amore	PROPN
+in	I-work-of-art	NIL	in	ADP
+Musica	I-work-of-art	NIL	Musica	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1763	O	_	1763	NUM
+;	O	_	;	PUNCT
+“	O	_	"	PUNCT
+Achille	B-work-of-art	NIL	Achille	PROPN
+in	I-work-of-art	NIL	in	ADP
+Sciro	I-work-of-art	NIL	Sciro	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1764	O	_	1764	NUM
+;	O	_	;	PUNCT
+“	O	_	"	PUNCT
+L’Ingannatore	B-work-of-art	NIL	L’Ingannatore	PROPN
+ingannato	I-work-of-art	NIL	ingannato	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1764	O	_	1764	NUM
+;	O	_	;	PUNCT
+“	O	_	"	PUNCT
+J	B-work-of-art	NIL	J	PROPN
+Olympiade	I-work-of-art	NIL	Olympiade	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1765	O	_	1765	NUM
+;	O	_	;	PUNCT

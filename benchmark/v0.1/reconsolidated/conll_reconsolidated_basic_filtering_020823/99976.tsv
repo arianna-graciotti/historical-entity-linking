@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-402.txt_2010
+#document_date:1876
+#sent_text:followed to Boulogne and Paris.
+followed	O	_	follow	VERB
+to	O	_	to	ADP
+Boulogne	B-city	Q81997	Boulogne	PROPN
+and	O	_	and	CCONJ
+Paris	B-city	Q90	Paris	PROPN
+.	O	_	.	PUNCT

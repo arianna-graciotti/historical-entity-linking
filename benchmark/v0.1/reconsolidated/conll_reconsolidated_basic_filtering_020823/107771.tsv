@@ -1,0 +1,20 @@
+#document_id:TheMusicalTimes__1873-366.txt_1565
+#document_date:1873
+#sent_text:The funeral, whith took place at Chislehurst, “was attended by some of the.
+The	O	_	the	DET
+funeral	O	_	funeral	NOUN
+,	O	_	,	PUNCT
+whith	O	_	whith	PRON
+took	O	_	take	VERB
+place	O	_	place	NOUN
+at	O	_	at	ADP
+Chislehurst	B-city-district	Q122917	Chislehurst	PROPN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+was	O	_	be	AUX
+attended	O	_	attend	VERB
+by	O	_	by	ADP
+some	O	_	some	PRON
+of	O	_	of	ADP
+the	O	_	the	PRON
+.	O	_	.	PUNCT

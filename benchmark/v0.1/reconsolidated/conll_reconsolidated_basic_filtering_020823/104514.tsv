@@ -1,0 +1,8 @@
+#document_id:TheMusicalTimes__1876-397.txt_847
+#document_date:1876
+#sent_text:Hey, Bristol Cathedral.
+Hey	O	_	hey	INTJ
+,	O	_	,	PUNCT
+Bristol	B-worship-place	Q917917	Bristol	PROPN
+Cathedral	I-worship-place	Q917917	Cathedral	PROPN
+.	O	_	.	PUNCT

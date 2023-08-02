@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1876-402.txt_1250
+#document_date:1876
+#sent_text:, in aid of the Choir Benevolent 4 Fund.
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+aid	O	_	aid	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Choir	B-organization	NIL	Choir	PROPN
+Benevolent	I-organization	NIL	Benevolent	PROPN
+4	I-organization	NIL	4	NUM
+Fund	I-organization	NIL	Fund	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1815
+#document_date:NaN
+#sent_text:Monsieur, and afterwards at that of the Feydeau.
+Monsieur	O	_	Monsieur	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+afterwards	O	_	afterwards	ADV
+at	O	_	at	ADP
+that	O	_	that	PRON
+of	O	_	of	ADP
+the	O	_	the	DET
+Feydeau	B-theater	Q825805	Feydeau	PROPN
+.	O	_	.	PUNCT

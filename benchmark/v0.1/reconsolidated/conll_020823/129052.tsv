@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1832-012.txt_804
+#document_date:1832
+#sent_text:How treated by Mr. Linley in his letter.
+How	O	_	how	SCONJ
+treated	O	_	treat	VERB
+by	O	_	by	ADP
+Mr.	B-person	Q5541748	Mr.	PROPN
+Linley	I-person	Q5541748	Linley	PROPN
+in	O	_	in	ADP
+his	O	_	his	PRON
+letter	O	_	letter	NOUN
+.	O	_	.	PUNCT

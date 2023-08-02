@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1286
+#document_date:1824
+#sent_text:Untersiema, in Cobourg, O5th January, 1695.
+Untersiema	B-city	Q572622	Untersiema	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+Cobourg	B-local-region	Q10440	Cobourg	PROPN
+,	O	_	,	PUNCT
+O5th	O	_	o5th	ADJ
+January	O	_	January	PROPN
+,	O	_	,	PUNCT
+1695	O	_	1695	NUM
+.	O	_	.	PUNCT

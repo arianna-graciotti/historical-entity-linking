@@ -1,0 +1,16 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_1398
+#document_date:1868
+#sent_text:A pleasing ballad, with fine melody, sung by Adelaide Phillips.
+A	O	_	a	DET
+pleasing	O	_	pleasing	ADJ
+ballad	O	_	ballad	NOUN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+fine	O	_	fine	ADJ
+melody	O	_	melody	NOUN
+,	O	_	,	PUNCT
+sung	O	_	sing	VERB
+by	O	_	by	ADP
+Adelaide	B-person	Q4681758	Adelaide	PROPN
+Phillips	I-person	Q4681758	Phillips	PROPN
+.	O	_	.	PUNCT

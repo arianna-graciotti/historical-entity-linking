@@ -1,0 +1,35 @@
+#document_id:TheMusicalTimes__1873-366.txt_169
+#document_date:1873
+#sent_text:We will'now give an account of the 3 process adopted by Messrs. James Epps and Co., manufacturers of , dietetic articles, at their works in the Euston-road,
+We	O	_	we	PRON
+will'now	O	_	will'now	AUX
+give	O	_	give	VERB
+an	O	_	an	DET
+account	O	_	account	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+3	O	_	3	NUM
+process	O	_	process	NOUN
+adopted	O	_	adopt	VERB
+by	O	_	by	ADP
+Messrs.	O	_	Messrs.	PROPN
+James	B-company	NIL	James	PROPN
+Epps	I-company	NIL	Epps	PROPN
+and	I-company	NIL	and	CCONJ
+Co.	I-company	NIL	Co.	PROPN
+,	O	_	,	PUNCT
+manufacturers	O	_	manufacturer	NOUN
+of	O	_	of	ADP
+,	O	_	,	PUNCT
+dietetic	O	_	dietetic	ADJ
+articles	O	_	article	NOUN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+their	O	_	their	PRON
+works	O	_	work	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+Euston	B-road	Q3308692	Euston	PROPN
+-	I-road	Q3308692	-	PUNCT
+road	I-road	Q3308692	road	PROPN
+,	O	_	,	PUNCT

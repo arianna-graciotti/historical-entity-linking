@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1873-366.txt_2800
+#document_date:1873
+#sent_text:A new Edition of the Musicat Timzs, No. 3, price r4d.
+A	O	_	a	DET
+new	O	_	new	ADJ
+Edition	O	_	edition	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Musicat	B-magazine	Q1757371	Musicat	PROPN
+Timzs	I-magazine	Q1757371	Timzs	PROPN
+,	O	_	,	PUNCT
+No	O	_	no	NOUN
+.	O	_	.	NOUN
+3	O	_	3	NUM
+,	O	_	,	PUNCT
+price	O	_	price	NOUN
+r4d	O	_	r4d	NOUN
+.	O	_	.	PUNCT

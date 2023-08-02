@@ -1,0 +1,19 @@
+#document_id:TheHarmonicon__1828-001.txt_1872
+#document_date:1828
+#sent_text:M. Spohr has produced at Cassel a new opera, named, Pietra @ Albano.
+M.	B-person	Q57226	M.	PROPN
+Spohr	I-person	Q57226	Spohr	PROPN
+has	O	_	have	AUX
+produced	O	_	produce	VERB
+at	O	_	at	ADP
+Cassel	B-city	Q2865	Cassel	PROPN
+a	O	_	a	DET
+new	O	_	new	ADJ
+opera	O	_	opera	NOUN
+,	O	_	,	PUNCT
+named	O	_	name	VERB
+,	O	_	,	PUNCT
+Pietra	B-opera	NIL	Pietra	PROPN
+@	I-opera	NIL	@	ADP
+Albano	I-opera	NIL	Albano	PROPN
+.	O	_	.	PUNCT

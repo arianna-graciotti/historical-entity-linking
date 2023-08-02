@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_870
+#document_date:1824
+#sent_text:London, May 11, 1824.
+London	B-city	Q84	London	PROPN
+,	O	_	,	PUNCT
+May	O	_	May	PROPN
+11	O	_	11	NUM
+,	O	_	,	PUNCT
+1824	O	_	1824	NUM
+.	O	_	.	PUNCT

@@ -1,0 +1,72 @@
+{
+    "id": "96522",
+    "text": "Taylor at first took th\u00e9 young aspirant for fame\u2019 under his pro-_ tecting wing, the scetie.",
+    "page_id": "DwightSJournalOfMusic__1868-012.txt_311",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "person",
+            "entityName": "Taylor",
+            "wikis": [
+                {
+                    "wiki": "A._J._P._Taylor",
+                    "link": "https://en.wikipedia.org/wiki/A._J._P._Taylor",
+                    "qid": "Q706931",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "materials do not give enough informations to find this person"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Edward_Taylor_(music_writer)",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q5345563",
+                            "sentenceEnough": "no",
+                            "contextString": "Sir, Edward: Taylorjafterwards Gresham Professor -of- Music",
+                            "contextBroader": "Forty years ago no morning paper had its musiSeal editor, anil musical. reporting in any proper sense.of the word was confined to the two papers On the Adlas was Mr.\u2019 Holmes, the avell-known professor of his \u201cer\u00e9ditable es ays:on music and musical, men in \u2018the Magazines and Quarterlies: of the-time. On \u201cthe: \u2018Spectator was Sir, Edward: Taylorjafterwards Gresham Professor -of- Music, as strong in expression as he was in earnest \u2018and sound opinion.",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "poss",
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:poss"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

@@ -1,0 +1,21 @@
+#document_id:TheMusicalTimes__1876-397.txt_2737
+#document_date:1876
+#sent_text:Care of Mr..L. F. Pearse, 19, Garlick-hill, Cannon-street.
+Care	O	_	care	NOUN
+of	O	_	of	ADP
+Mr	O	_	Mr	PROPN
+..	O	_	..	PUNCT
+L.	O	_	L.	PROPN
+F.	O	_	F.	PROPN
+Pearse	O	_	Pearse	PROPN
+,	O	_	,	PUNCT
+19	O	_	19	NUM
+,	O	_	,	PUNCT
+Garlick	B-road	Q65767754	Garlick	PROPN
+-	I-road	Q65767754	-	PUNCT
+hill	I-road	Q65767754	hill	PROPN
+,	O	_	,	PUNCT
+Cannon	B-road	Q2936432	Cannon	PROPN
+-	I-road	Q2936432	-	PUNCT
+street	I-road	Q2936432	street	PROPN
+.	O	_	.	PUNCT

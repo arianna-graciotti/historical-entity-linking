@@ -1,0 +1,67 @@
+{
+    "id": "118216",
+    "text": "In some other instances Mr. Moore very narrowly escapes, if.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3345",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "person",
+            "entityName": "Mr. Moore",
+            "wikis": [
+                {
+                    "wiki": "Archie_Moore",
+                    "link": "https://en.wikipedia.org/wiki/Archie_Moore",
+                    "qid": "Q470731",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Moore",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q315346",
+                            "sentenceEnough": "no",
+                            "contextString": " or the celebrated Thomas Moore sing",
+                            "contextBroader": "It is sufficient to see the Beggar\u2019s Opera, or to hear Miss \u2018Stephens, or the celebrated Thomas Moore sing, to determine that the Englishman possesses great sensibility and love for music.\r\n",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Moore",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q315346",
+                            "sentenceEnough": "no",
+                            "contextString": "Sacred Songs, by Thomas Moore,",
+                            "contextBroader": "Sacred Songs, by Thomas Moore, Esq. and Sir John Stevenson, Mus. Doc. London, Power. Second Number.\r\nFive years or thereabouts have , passed 4 aw vay since the first Nunber of this work fell under our. review\u2014during which period however the world owes so many and so great obligations to Mr. Moore, for his musical, poetical, and political productions, that no complaint can lie against him for the protracted date at which this second of the same family appears. On the contrary, the lapse of time would probably have mellowed the mind of the poet for the solemnity of his undertaking: ",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

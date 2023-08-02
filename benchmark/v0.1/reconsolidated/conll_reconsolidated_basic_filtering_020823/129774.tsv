@@ -1,0 +1,17 @@
+#document_id:TheHarmonicon__1832-012.txt_1714
+#document_date:1832
+#sent_text:What a clever fellow, too, the Emperor of the Moon and China
+What	O	_	what	PRON
+a	O	_	a	DET
+clever	O	_	clever	ADJ
+fellow	O	_	fellow	NOUN
+,	O	_	,	PUNCT
+too	O	_	too	ADV
+,	O	_	,	PUNCT
+the	O	_	the	DET
+Emperor	O	_	Emperor	PROPN
+of	O	_	of	ADP
+the	O	_	the	DET
+Moon	O	_	Moon	PROPN
+and	O	_	and	CCONJ
+China	B-nan	NIL	China	PROPN

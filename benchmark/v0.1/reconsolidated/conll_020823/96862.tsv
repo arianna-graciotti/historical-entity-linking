@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_712
+#document_date:1868
+#sent_text:Amongst those present were Signor Mario, Mme.
+Amongst	O	_	amongst	ADP
+those	O	_	those	PRON
+present	O	_	present	ADJ
+were	O	_	be	AUX
+Signor	B-person	NIL	Signor	PROPN
+Mario	I-person	NIL	Mario	PROPN
+,	O	_	,	PUNCT
+Mme	O	_	Mme	PROPN
+.	O	_	.	PUNCT

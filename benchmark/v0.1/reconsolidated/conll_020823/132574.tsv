@@ -1,0 +1,28 @@
+#document_id:TheHarmonicon__1828-001.txt_383
+#document_date:1828
+#sent_text:Its prevalence is now very considerably abated in France, while Its prevalence is raging here with great and increasing violence, a 10th.
+Its	O	_	its	PRON
+prevalence	O	_	prevalence	NOUN
+is	O	_	be	AUX
+now	O	_	now	ADV
+very	O	_	very	ADV
+considerably	O	_	considerably	ADV
+abated	O	_	abate	VERB
+in	O	_	in	ADP
+France	B-country	Q142	France	PROPN
+,	O	_	,	PUNCT
+while	O	_	while	SCONJ
+Its	O	_	its	PRON
+prevalence	O	_	prevalence	NOUN
+is	O	_	be	AUX
+raging	O	_	rage	VERB
+here	O	_	here	ADV
+with	O	_	with	ADP
+great	O	_	great	ADJ
+and	O	_	and	CCONJ
+increasing	O	_	increasing	ADJ
+violence	O	_	violence	NOUN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+10th	O	_	10th	ADJ
+.	O	_	.	PUNCT

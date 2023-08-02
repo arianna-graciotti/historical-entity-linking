@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_3660
+#document_date:1825
+#sent_text:He failed, likewise, on the first day of the Birmingham meeting, soon afterwards 3.
+He	O	_	he	PRON
+failed	O	_	fail	VERB
+,	O	_	,	PUNCT
+likewise	O	_	likewise	ADV
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+the	O	_	the	DET
+first	O	_	first	ADJ
+day	O	_	day	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Birmingham	B-city	Q2256	Birmingham	PROPN
+meeting	O	_	meeting	NOUN
+,	O	_	,	PUNCT
+soon	O	_	soon	ADV
+afterwards	O	_	afterwards	ADV
+3	O	_	3	NUM
+.	O	_	.	PUNCT

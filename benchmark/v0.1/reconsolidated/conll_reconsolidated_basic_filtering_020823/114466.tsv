@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2356
+#document_date:1825
+#sent_text:He was born in Naples, where he studied the rudiments of music under Alessandro Scarlatti and Nicolo Porpora.
+He	O	_	he	PRON
+was	O	_	be	AUX
+born	O	_	bear	VERB
+in	O	_	in	ADP
+Naples	B-city	Q2634	Naples	PROPN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+he	O	_	he	PRON
+studied	O	_	study	VERB
+the	O	_	the	DET
+rudiments	O	_	rudiment	NOUN
+of	O	_	of	ADP
+music	O	_	music	NOUN
+under	O	_	under	ADP
+Alessandro	B-person	Q183087	Alessandro	PROPN
+Scarlatti	I-person	Q183087	Scarlatti	PROPN
+and	O	_	and	CCONJ
+Nicolo	B-person	Q312788	Nicolo	PROPN
+Porpora	I-person	Q312788	Porpora	PROPN
+.	O	_	.	PUNCT

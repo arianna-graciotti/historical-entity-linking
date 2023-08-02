@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1549
+#document_date:1824
+#sent_text:eight singers to the Couneilof Trent; in: 1546..
+eight	O	_	eight	NUM
+singers	O	_	singer	NOUN
+to	O	_	to	ADP
+the	O	_	the	DET
+Couneilof	B-conference	Q172991	Couneilof	PROPN
+Trent	I-conference	Q172991	Trent	PROPN
+;	O	_	;	PUNCT
+in	O	_	in	ADP
+:	O	_	:	PUNCT
+1546	O	_	1546	NUM
+..	O	_	..	PUNCT

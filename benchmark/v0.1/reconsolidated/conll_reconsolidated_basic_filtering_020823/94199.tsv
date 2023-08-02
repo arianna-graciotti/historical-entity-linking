@@ -1,0 +1,24 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_414
+#document_date:1875
+#sent_text:re;plied the old man, overwhelmed with confusion ‘ey the presence of the Chapeltaster of his Majesty the Emperor,
+re;plied	O	_	re;plie	VERB
+the	O	_	the	DET
+old	O	_	old	ADJ
+man	O	_	man	NOUN
+,	O	_	,	PUNCT
+overwhelmed	O	_	overwhelm	VERB
+with	O	_	with	ADP
+confusion	O	_	confusion	NOUN
+‘	O	_	‘	X
+ey	O	_	ey	X
+the	O	_	the	DET
+presence	O	_	presence	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Chapeltaster	O	_	Chapeltaster	PROPN
+of	O	_	of	ADP
+his	B-person	Q76555	his	PRON
+Majesty	I-person	Q76555	Majesty	PROPN
+the	I-person	Q76555	the	DET
+Emperor	I-person	Q76555	Emperor	PROPN
+,	O	_	,	PUNCT

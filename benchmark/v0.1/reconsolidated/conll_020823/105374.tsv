@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-397.txt_2067
+#document_date:1876
+#sent_text:Composées par W. Vincent Wallace.
+Composées	O	_	composée	NOUN
+par	O	_	par	ADP
+W.	B-person	Q2245188	W.	PROPN
+Vincent	I-person	Q2245188	Vincent	PROPN
+Wallace	I-person	Q2245188	Wallace	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheHarmonicon__1833-005.txt_252
+#document_date:1833
+#sent_text:45, High Holborn, April 12th. 1883.
+45	O	_	45	NUM
+,	O	_	,	PUNCT
+High	B-road	Q1782648	High	PROPN
+Holborn	I-road	Q1782648	Holborn	PROPN
+,	O	_	,	PUNCT
+April	O	_	April	PROPN
+12th	O	_	12th	NOUN
+.	O	_	.	PUNCT
+1883	O	_	1883	NUM
+.	O	_	.	PUNCT

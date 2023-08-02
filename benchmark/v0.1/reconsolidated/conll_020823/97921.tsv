@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_630
+#document_date:1873
+#sent_text:At last, however, Malibran called out to
+At	O	_	at	ADP
+last	O	_	last	ADV
+,	O	_	,	PUNCT
+however	O	_	however	ADV
+,	O	_	,	PUNCT
+Malibran	B-person	Q232783	Malibran	PROPN
+called	O	_	call	VERB
+out	O	_	out	ADP
+to	O	_	to	PART

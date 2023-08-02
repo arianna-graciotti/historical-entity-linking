@@ -1,0 +1,45 @@
+#document_id:TheHarmonicon__1833-005.txt_1729
+#document_date:1833
+#sent_text:The principal new productions, besides Der Templer und die Jiidin, which particularly delighted the Jews, have been Die Fremde (La Straniera), of Bellini, Der Vampyr, of Marschner, and Zampa, of Herold.
+The	O	_	the	DET
+principal	O	_	principal	ADJ
+new	O	_	new	ADJ
+productions	O	_	production	NOUN
+,	O	_	,	PUNCT
+besides	O	_	besides	SCONJ
+Der	B-work-of-art	Q1197340	Der	PROPN
+Templer	I-work-of-art	Q1197340	Templer	PROPN
+und	I-work-of-art	Q1197340	und	CCONJ
+die	I-work-of-art	Q1197340	die	DET
+Jiidin	I-work-of-art	Q1197340	Jiidin	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+particularly	O	_	particularly	ADV
+delighted	O	_	delight	VERB
+the	O	_	the	DET
+Jews	B-religious-group	Q7325	Jews	PROPN
+,	O	_	,	PUNCT
+have	O	_	have	AUX
+been	O	_	be	AUX
+Die	B-work-of-art	Q785347	Die	PROPN
+Fremde	I-work-of-art	Q785347	Fremde	PROPN
+(	I-work-of-art	Q785347	(	PUNCT
+La	I-work-of-art	Q785347	La	PROPN
+Straniera	I-work-of-art	Q785347	Straniera	PROPN
+)	I-work-of-art	Q785347	)	PUNCT
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Bellini	B-person	Q170209	Bellini	PROPN
+,	O	_	,	PUNCT
+Der	B-work-of-art	Q253866	Der	PROPN
+Vampyr	I-work-of-art	Q253866	Vampyr	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Marschner	B-person	Q160063	Marschner	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Zampa	B-work-of-art	Q145935	Zampa	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Herold	B-person	Q362639	Herold	PROPN
+.	O	_	.	PUNCT

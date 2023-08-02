@@ -1,0 +1,67 @@
+{
+    "id": "117980",
+    "text": "The next is a solo for an alto, anda quartet from Naumann.",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3025",
+    "namedEntities": [
+        {
+            "variable": "z6",
+            "type": "person",
+            "entityName": "Naumann",
+            "wikis": [
+                {
+                    "wiki": "Ernst_Naumann",
+                    "link": "https://en.wikipedia.org/wiki/Ernst_Naumann",
+                    "qid": "Q5395101",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Naumann",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q213927",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Naumann",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q213927",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

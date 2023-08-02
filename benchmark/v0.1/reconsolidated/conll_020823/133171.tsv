@@ -1,0 +1,25 @@
+#document_id:TheHarmonicon__1828-001.txt_1138
+#document_date:1828
+#sent_text:Ramsay's poetry, therefore, declined in popularity, even in Scotland, as taste and delicacy advanced ; and.
+Ramsay	B-person	Q654775	Ramsay	PROPN
+'s	O	_	's	PART
+poetry	O	_	poetry	NOUN
+,	O	_	,	PUNCT
+therefore	O	_	therefore	ADV
+,	O	_	,	PUNCT
+declined	O	_	decline	VERB
+in	O	_	in	ADP
+popularity	O	_	popularity	NOUN
+,	O	_	,	PUNCT
+even	O	_	even	ADV
+in	O	_	in	ADP
+Scotland	B-country	Q22	Scotland	PROPN
+,	O	_	,	PUNCT
+as	O	_	as	SCONJ
+taste	O	_	taste	NOUN
+and	O	_	and	CCONJ
+delicacy	O	_	delicacy	NOUN
+advanced	O	_	advance	VERB
+;	O	_	;	PUNCT
+and	O	_	and	CCONJ
+.	O	_	.	PUNCT

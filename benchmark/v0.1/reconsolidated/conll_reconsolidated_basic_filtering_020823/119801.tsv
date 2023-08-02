@@ -1,0 +1,32 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1416
+#document_date:1828
+#sent_text:Some reproaches are addressed to him relative to his melodies, as well as different observations, which interest us no more than Some reproaches did Rossini himself.
+Some	O	_	some	DET
+reproaches	O	_	reproach	NOUN
+are	O	_	be	AUX
+addressed	O	_	address	VERB
+to	O	_	to	ADP
+him	O	_	he	PRON
+relative	O	_	relative	ADJ
+to	O	_	to	ADP
+his	O	_	his	PRON
+melodies	O	_	melody	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	ADV
+well	O	_	well	ADV
+as	O	_	as	ADP
+different	O	_	different	ADJ
+observations	O	_	observation	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+interest	O	_	interest	VERB
+us	O	_	we	PRON
+no	O	_	no	PRON
+more	O	_	more	ADV
+than	O	_	than	SCONJ
+Some	O	_	some	DET
+reproaches	O	_	reproach	NOUN
+did	O	_	do	VERB
+Rossini	B-person	Q9726	Rossini	PROPN
+himself	O	_	himself	PRON
+.	O	_	.	PUNCT

@@ -1,0 +1,29 @@
+#document_id:TheMusicalWorld__1843-036.txt_224
+#document_date:1843
+#sent_text:Mendelssohn will not allow of’ its being performed, though the overture and some of the concerted pieces need not shame him even now.
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+will	O	_	will	AUX
+not	O	_	not	PART
+allow	O	_	allow	VERB
+of	O	_	of	ADP
+’	O	_	'	PUNCT
+its	O	_	its	PRON
+being	O	_	be	AUX
+performed	O	_	perform	VERB
+,	O	_	,	PUNCT
+though	O	_	though	SCONJ
+the	O	_	the	DET
+overture	O	_	overture	NOUN
+and	O	_	and	CCONJ
+some	O	_	some	PRON
+of	O	_	of	ADP
+the	O	_	the	DET
+concerted	O	_	concerted	ADJ
+pieces	O	_	piece	NOUN
+need	O	_	need	AUX
+not	O	_	not	PART
+shame	O	_	shame	VERB
+him	O	_	he	PRON
+even	O	_	even	ADV
+now	O	_	now	ADV
+.	O	_	.	PUNCT

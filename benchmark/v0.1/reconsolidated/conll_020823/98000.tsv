@@ -1,0 +1,18 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_742
+#document_date:1873
+#sent_text:When Garibaldi raised the standard of revolt at Marsala, a number of volunteers.
+When	O	_	when	SCONJ
+Garibaldi	B-person	Q539	Garibaldi	PROPN
+raised	O	_	raise	VERB
+the	O	_	the	DET
+standard	O	_	standard	NOUN
+of	O	_	of	ADP
+revolt	O	_	revolt	NOUN
+at	O	_	at	ADP
+Marsala	B-city	Q481514	Marsala	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+number	O	_	number	NOUN
+of	O	_	of	ADP
+volunteers	O	_	volunteer	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,38 @@
+#document_id:TheMusicalTimes__1876-397.txt_2177
+#document_date:1876
+#sent_text:The soloists were Mrs. A. J. Sutton (in place of Madame Brooke, absent through illness), Miss Julia Jones, Miss Taylor, Mr. Bywater, and Mr. W. H. Phillips...
+The	O	_	the	DET
+soloists	O	_	soloist	NOUN
+were	O	_	be	AUX
+Mrs.	B-person	NIL	Mrs.	PROPN
+A.	I-person	NIL	A.	PROPN
+J.	I-person	NIL	J.	PROPN
+Sutton	I-person	NIL	Sutton	PROPN
+(	O	_	(	PUNCT
+in	O	_	in	ADP
+place	O	_	place	NOUN
+of	O	_	of	ADP
+Madame	B-person	NIL	Madame	PROPN
+Brooke	I-person	NIL	Brooke	PROPN
+,	O	_	,	PUNCT
+absent	O	_	absent	ADJ
+through	O	_	through	ADP
+illness	O	_	illness	NOUN
+)	O	_	)	PUNCT
+,	O	_	,	PUNCT
+Miss	O	_	Miss	PROPN
+Julia	O	_	Julia	PROPN
+Jones	O	_	Jones	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Taylor	I-person	NIL	Taylor	PROPN
+,	O	_	,	PUNCT
+Mr.	O	_	Mr.	PROPN
+Bywater	O	_	Bywater	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+W.	I-person	NIL	W.	PROPN
+H.	I-person	NIL	H.	PROPN
+Phillips	I-person	NIL	Phillips	PROPN
+...	O	_	...	PUNCT

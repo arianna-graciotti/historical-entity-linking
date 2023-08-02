@@ -1,0 +1,23 @@
+#document_id:TheHarmonicon__1824-016.txt_1268
+#document_date:1824
+#sent_text:himself, abridged and continued to his death, by Dr. Kitchiner ; from which we learn, that _
+himself	O	_	himself	PRON
+,	O	_	,	PUNCT
+abridged	O	_	abridge	VERB
+and	O	_	and	CCONJ
+continued	O	_	continue	VERB
+to	O	_	to	ADP
+his	O	_	his	PRON
+death	O	_	death	NOUN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Dr.	B-person	NIL	Dr.	PROPN
+Kitchiner	I-person	NIL	Kitchiner	PROPN
+;	O	_	;	PUNCT
+from	O	_	from	ADP
+which	O	_	which	PRON
+we	O	_	we	PRON
+learn	O	_	learn	VERB
+,	O	_	,	PUNCT
+that	O	_	that	SCONJ
+_	O	_	_	PUNCT

@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2299
+#document_date:1826
+#sent_text:All by Wessel and Stoddart.
+All	O	_	all	PRON
+by	O	_	by	ADP
+Wessel	O	_	Wessel	PROPN
+and	O	_	and	CCONJ
+Stoddart	B-person	NIL	Stoddart	PROPN
+.	O	_	.	PUNCT

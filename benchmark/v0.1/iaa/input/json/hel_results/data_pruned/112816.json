@@ -1,0 +1,71 @@
+{
+    "id": "112816",
+    "text": "ceccccsscenccceccccussaeceees School of Lombardy ..",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1825-025.txt_240",
+    "namedEntities": [
+        {
+            "variable": "z0",
+            "type": "school",
+            "entityName": "ceccccsscenccceccccussaeceees School of Lombardy",
+            "wikis": [
+                {
+                    "wiki": "Lombardy",
+                    "link": "https://en.wikipedia.org/wiki/Lombardy",
+                    "qid": "Q1210",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "materials do not give enough informations"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "not enough context to determine the entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "School of Lombardy",
+                    "ocrEntityMention": "ceccccsscenccceccccussaeceees School of Lombardy",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "School of Lombardy",
+                    "ocrEntityMention": "School of Lombardy",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

@@ -1,0 +1,9 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_726
+#document_date:1868
+#sent_text:F. F. Burke and Clarey.
+F.	B-person	NIL	F.	PROPN
+F.	I-person	NIL	F.	PROPN
+Burke	I-person	NIL	Burke	PROPN
+and	O	_	and	CCONJ
+Clarey	B-person	NIL	Clarey	PROPN
+.	O	_	.	PUNCT

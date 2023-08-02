@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2165
+#document_date:1824
+#sent_text:- (Tebalde e Isolina, )—Morlacchi.
+-	O	_	-	PUNCT
+(	O	_	(	PUNCT
+Tebalde	B-work-of-art	Q86672640	Tebalde	PROPN
+e	I-work-of-art	Q86672640	e	X
+Isolina	I-work-of-art	Q86672640	Isolina	PROPN
+,	O	_	,	PUNCT
+)	O	_	)	PUNCT
+—	O	_	—	PUNCT
+Morlacchi	B-person	Q571408	Morlacchi	PROPN
+.	O	_	.	PUNCT

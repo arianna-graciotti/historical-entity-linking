@@ -1,0 +1,22 @@
+#document_id:TheHarmonicon__1833-005.txt_1152
+#document_date:1833
+#sent_text:Under the Direction of his Royal Highness the Duke of Cumberland, Wednesday, March 27, 1833.
+Under	O	_	under	ADP
+the	O	_	the	DET
+Direction	O	_	direction	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+Royal	O	_	Royal	PROPN
+Highness	O	_	Highness	PROPN
+the	O	_	the	DET
+Duke	B-person	Q162302	Duke	PROPN
+of	I-person	Q162302	of	ADP
+Cumberland	I-person	Q162302	Cumberland	PROPN
+,	O	_	,	PUNCT
+Wednesday	O	_	Wednesday	PROPN
+,	O	_	,	PUNCT
+March	O	_	March	PROPN
+27	O	_	27	NUM
+,	O	_	,	PUNCT
+1833	O	_	1833	NUM
+.	O	_	.	PUNCT

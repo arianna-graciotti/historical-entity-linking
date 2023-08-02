@@ -1,0 +1,29 @@
+#document_id:TheMusicalTimes__1876-397.txt_1223
+#document_date:1876
+#sent_text:Suffice itto say that they are in Handel’s grandest manner, and that HANDEL’S never surpassed them, ‘even in his oratorios.
+Suffice	O	_	suffice	VERB
+itto	O	_	itto	PRON
+say	O	_	say	VERB
+that	O	_	that	SCONJ
+they	O	_	they	PRON
+are	O	_	be	AUX
+in	O	_	in	ADP
+Handel	B-person	Q7302	Handel	PROPN
+’s	O	_	’s	PART
+grandest	O	_	grand	ADJ
+manner	O	_	manner	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+that	O	_	that	SCONJ
+HANDEL	B-person	Q7302	HANDEL	PROPN
+’S	O	_	be	AUX
+never	O	_	never	ADV
+surpassed	O	_	surpass	VERB
+them	O	_	they	PRON
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+even	O	_	even	ADV
+in	O	_	in	ADP
+his	O	_	his	PRON
+oratorios	O	_	oratorio	NOUN
+.	O	_	.	PUNCT

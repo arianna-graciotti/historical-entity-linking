@@ -1,0 +1,29 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3478
+#document_date:1828
+#sent_text:Mr. De Beriot’s concerto had all his beautiful perfection—so smooth, so sweet, 80 brilliant, and in such exquisite taste.
+Mr.	B-person	Q385217	Mr.	PROPN
+De	I-person	Q385217	De	PROPN
+Beriot	I-person	Q385217	Beriot	PROPN
+’s	O	_	’s	PART
+concerto	O	_	concerto	NOUN
+had	O	_	have	VERB
+all	O	_	all	DET
+his	O	_	his	PRON
+beautiful	O	_	beautiful	ADJ
+perfection	O	_	perfection	NOUN
+—	O	_	—	PUNCT
+so	O	_	so	ADV
+smooth	O	_	smooth	ADJ
+,	O	_	,	PUNCT
+so	O	_	so	ADV
+sweet	O	_	sweet	ADJ
+,	O	_	,	PUNCT
+80	O	_	80	NUM
+brilliant	O	_	brilliant	ADJ
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+in	O	_	in	ADP
+such	O	_	such	ADJ
+exquisite	O	_	exquisite	ADJ
+taste	O	_	taste	NOUN
+.	O	_	.	PUNCT

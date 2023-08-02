@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1824-016.txt_407
+#document_date:1824
+#sent_text:Polonaise for Piano-Forte, two performers.
+Polonaise	O	_	Polonaise	PROPN
+for	O	_	for	ADP
+Piano	O	_	Piano	PROPN
+-	O	_	-	PUNCT
+Forte	O	_	Forte	PROPN
+,	O	_	,	PUNCT
+two	O	_	two	NUM
+performers	O	_	performer	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,67 @@
+{
+    "id": "98316",
+    "text": "published concerting the National Theatre",
+    "page_id": "DwightSJournalOfMusic__1873-016.txt_1150",
+    "namedEntities": [
+        {
+            "variable": "z2",
+            "type": "organization",
+            "entityName": "National Theatre",
+            "wikis": [
+                {
+                    "wiki": "Royal_National_Theatre",
+                    "link": "https://en.wikipedia.org/wiki/Royal_National_Theatre",
+                    "qid": "Q511108",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "correct",
+                            "qidAssessment": "correct"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "the automatically retrieved qid was incorrect. not enough context to determine the entity"
+                        }
+                    }
+                }
+            ],
+            "roles": [
+                {
+                    "role": "mod",
+                    "pageUrl": "https://www.isi.edu/~ulf/amr/lib/amr-dict.html#:mod"
+                }
+            ],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "wrong",
+                    "entityType": "theater"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

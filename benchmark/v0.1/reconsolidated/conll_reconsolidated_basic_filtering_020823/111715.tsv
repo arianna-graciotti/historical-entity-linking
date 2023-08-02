@@ -1,0 +1,25 @@
+#document_id:TheMusicalWorld__1843-036.txt_785
+#document_date:1843
+#sent_text:performed at Her Majestvy’s Theatre, dedicated, by special permission, to Her Royal Highness the Duchess of Cambridge.
+performed	O	_	perform	VERB
+at	O	_	at	ADP
+Her	O	_	her	PRON
+Majestvy	O	_	Majestvy	PROPN
+’s	O	_	’s	PART
+Theatre	O	_	Theatre	PROPN
+,	O	_	,	PUNCT
+dedicated	O	_	dedicate	VERB
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+special	O	_	special	ADJ
+permission	O	_	permission	NOUN
+,	O	_	,	PUNCT
+to	O	_	to	ADP
+Her	B-person	NIL	her	PRON
+Royal	I-person	NIL	Royal	PROPN
+Highness	I-person	NIL	Highness	PROPN
+the	I-person	NIL	the	DET
+Duchess	I-person	NIL	Duchess	PROPN
+of	I-person	NIL	of	ADP
+Cambridge	I-person	NIL	Cambridge	PROPN
+.	O	_	.	PUNCT

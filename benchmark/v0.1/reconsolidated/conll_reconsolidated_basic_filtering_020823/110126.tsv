@@ -1,0 +1,28 @@
+#document_id:TheMusicalWorld__1843-029.txt_477
+#document_date:1843
+#sent_text:Mr. Joseph Calkin made his debut in public very successfully, and sang a poor song by Mercadante with much energy and. taste.
+Mr.	B-person	NIL	Mr.	PROPN
+Joseph	I-person	NIL	Joseph	PROPN
+Calkin	I-person	NIL	Calkin	PROPN
+made	O	_	make	VERB
+his	O	_	his	PRON
+debut	O	_	debut	NOUN
+in	O	_	in	ADP
+public	O	_	public	NOUN
+very	O	_	very	ADV
+successfully	O	_	successfully	ADV
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+sang	O	_	sing	VERB
+a	O	_	a	DET
+poor	O	_	poor	ADJ
+song	O	_	song	NOUN
+by	O	_	by	ADP
+Mercadante	B-person	Q313980	Mercadante	PROPN
+with	O	_	with	ADP
+much	O	_	much	ADJ
+energy	O	_	energy	NOUN
+and	O	_	and	CCONJ
+.	O	_	.	PUNCT
+taste	O	_	taste	NOUN
+.	O	_	.	PUNCT

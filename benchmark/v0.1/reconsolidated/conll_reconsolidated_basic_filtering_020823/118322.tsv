@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3489
+#document_date:1824
+#sent_text:disconsolate,” a German air, is very soothing and sweet.
+disconsolate	O	_	disconsolate	ADJ
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+a	O	_	a	DET
+German	O	_	german	ADJ
+air	O	_	air	NOUN
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+very	O	_	very	ADV
+soothing	O	_	soothing	ADJ
+and	O	_	and	CCONJ
+sweet	O	_	sweet	ADJ
+.	O	_	.	PUNCT

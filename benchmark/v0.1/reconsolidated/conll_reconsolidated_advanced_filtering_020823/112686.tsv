@@ -1,0 +1,28 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_54
+#document_date:1825
+#sent_text:[i Crociato, 373 Mayseder’s Compositions, 360, 310 Mazurka, 236 Melographicon, 409 Mengozzi, 345 Mestrino, 40.
+[	O	_	[	X
+i	O	_	i	X
+Crociato	O	_	Crociato	PROPN
+,	O	_	,	PUNCT
+373	O	_	373	NUM
+Mayseder	O	_	Mayseder	PROPN
+’s	O	_	’s	PART
+Compositions	O	_	composition	NOUN
+,	O	_	,	PUNCT
+360	O	_	360	NUM
+,	O	_	,	PUNCT
+310	O	_	310	NUM
+Mazurka	O	_	Mazurka	PROPN
+,	O	_	,	PUNCT
+236	O	_	236	NUM
+Melographicon	B-publication	NIL	Melographicon	PROPN
+,	O	_	,	PUNCT
+409	O	_	409	NUM
+Mengozzi	O	_	Mengozzi	PROPN
+,	O	_	,	PUNCT
+345	O	_	345	NUM
+Mestrino	O	_	Mestrino	PROPN
+,	O	_	,	PUNCT
+40	O	_	40	NUM
+.	O	_	.	PUNCT

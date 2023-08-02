@@ -1,0 +1,33 @@
+#document_id:TheMusicalWorld__1843-029.txt_176
+#document_date:1843
+#sent_text:These two operas, and also two odes to Anacreon set to the Greek text, are the only fruits of our author's pen in the year 1799.
+These	O	_	these	DET
+two	O	_	two	NUM
+operas	O	_	opera	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+also	O	_	also	ADV
+two	O	_	two	NUM
+odes	O	_	ode	NOUN
+to	O	_	to	ADP
+Anacreon	O	_	Anacreon	PROPN
+set	O	_	set	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+Greek	O	_	greek	ADJ
+text	O	_	text	NOUN
+,	O	_	,	PUNCT
+are	O	_	be	AUX
+the	O	_	the	DET
+only	O	_	only	ADJ
+fruits	O	_	fruit	NOUN
+of	O	_	of	ADP
+our	O	_	our	PRON
+author	O	_	author	NOUN
+'s	O	_	's	PART
+pen	O	_	pen	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+year	O	_	year	NOUN
+1799	O	_	1799	NUM
+.	O	_	.	PUNCT

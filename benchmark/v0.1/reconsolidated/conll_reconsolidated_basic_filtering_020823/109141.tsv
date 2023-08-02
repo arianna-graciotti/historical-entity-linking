@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1873-366.txt_3694
+#document_date:1873
+#sent_text:A King there was in Thule n 2d 317
+A	B-music 	NIL	a	DET
+King	I-music 	NIL	King	PROPN
+there	I-music 	NIL	there	PRON
+was	I-music 	NIL	be	AUX
+in	I-music 	NIL	in	ADP
+Thule	I-music 	NIL	Thule	PROPN
+n	O	_	n	NOUN
+2d	O	_	2d	NUM
+317	O	_	317	NUM

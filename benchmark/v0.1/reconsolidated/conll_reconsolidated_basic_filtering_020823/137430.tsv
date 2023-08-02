@@ -1,0 +1,15 @@
+#document_id:TheHarmonicon__1824-016.txt_1609
+#document_date:1824
+#sent_text:It was a Lordling’s daughter,” Sung by Horn.
+It	B-song	NIL	it	PRON
+was	I-song	NIL	be	AUX
+a	I-song	NIL	a	DET
+Lordling	I-song	NIL	Lordling	PROPN
+’s	I-song	NIL	’s	PART
+daughter	I-song	NIL	daughter	NOUN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+Sung	O	_	sing	VERB
+by	O	_	by	ADP
+Horn	O	_	Horn	PROPN
+.	O	_	.	PUNCT

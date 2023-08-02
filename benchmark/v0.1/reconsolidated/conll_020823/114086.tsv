@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1886
+#document_date:1825
+#sent_text:Antoine Law rent -Baudron was born at Amiens, i in 117 43.
+Antoine	B-person	NIL	Antoine	PROPN
+Law	I-person	NIL	Law	PROPN
+rent	O	_	rent	PROPN
+-Baudron	O	_	-Baudron	PROPN
+was	O	_	be	AUX
+born	O	_	bear	VERB
+at	O	_	at	ADP
+Amiens	B-city	Q41604	Amiens	PROPN
+,	O	_	,	PUNCT
+i	O	_	I	PRON
+in	O	_	in	ADP
+117	O	_	117	NUM
+43	O	_	43	NUM
+.	O	_	.	PUNCT

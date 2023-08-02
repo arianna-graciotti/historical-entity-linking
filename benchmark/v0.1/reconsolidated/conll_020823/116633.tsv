@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1219
+#document_date:1824
+#sent_text:with immense applause, they constantly resided at Turin until their deaths, which occurred at very advanced age.
+with	O	_	with	ADP
+immense	O	_	immense	ADJ
+applause	O	_	applause	NOUN
+,	O	_	,	PUNCT
+they	O	_	they	PRON
+constantly	O	_	constantly	ADV
+resided	O	_	reside	VERB
+at	O	_	at	ADP
+Turin	B-city	Q495	Turin	PROPN
+until	O	_	until	ADP
+their	O	_	their	PRON
+deaths	O	_	death	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+occurred	O	_	occur	VERB
+at	O	_	at	ADP
+very	O	_	very	ADV
+advanced	O	_	advanced	ADJ
+age	O	_	age	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_600
+#document_date:1824
+#sent_text:Mose in Egitto,” 1818, ‘Naples.
+Mose	B-music	Q583156	mose	VERB
+in	I-music	Q583156	in	ADP
+Egitto	I-music	Q583156	Egitto	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+1818	O	_	1818	NUM
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+Naples	B-city	Q2634	Naples	PROPN
+.	O	_	.	PUNCT

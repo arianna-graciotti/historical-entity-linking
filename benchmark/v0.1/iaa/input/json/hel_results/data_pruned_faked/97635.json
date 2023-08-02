@@ -1,0 +1,60 @@
+{
+    "id": "75571",
+    "text": "Western deal woman.",
+    "page_id": "Coach able drug into.",
+    "namedEntities": [
+        {
+            "variable": "51NL88",
+            "type": "Whole determine sport.",
+            "entityName": "Could civil feel.",
+            "wikis": [
+                {
+                    "wiki": "Vote station move end.",
+                    "link": "https://mendez.com/",
+                    "qid": "99Rf10",
+                    "assessments": {
+                        "23628": {
+                            "user": "39336",
+                            "assessment": "correct",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "16jn43",
+                            "sentenceEnough": "Federal then nation.",
+                            "contextString": "Late tax born.",
+                            "contextBroader": "Outside local order.",
+                            "comments": "Help someone may fight."
+                        },
+                        "36136": {
+                            "user": "72142",
+                            "assessment": "correct",
+                            "qidAssessment": "correct"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "23628": {
+                    "user": "30451",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "36136": {
+                    "user": "45212",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "23628": {
+            "user": "72306",
+            "missingNamedEntities": []
+        },
+        "36136": {
+            "user": "44881",
+            "missingNamedEntities": []
+        }
+    }
+}

@@ -1,0 +1,16 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_1073
+#document_date:1873
+#sent_text:Schumann came from the gymnasium to Leipzig in 1828, to study Jurisprudence
+Schumann	B-person	Q7351	Schumann	PROPN
+came	O	_	come	VERB
+from	O	_	from	ADP
+the	O	_	the	DET
+gymnasium	O	_	gymnasium	NOUN
+to	O	_	to	ADP
+Leipzig	B-city	Q2079	Leipzig	PROPN
+in	O	_	in	ADP
+1828	O	_	1828	NUM
+,	O	_	,	PUNCT
+to	O	_	to	PART
+study	O	_	study	VERB
+Jurisprudence	O	_	jurisprudence	NOUN

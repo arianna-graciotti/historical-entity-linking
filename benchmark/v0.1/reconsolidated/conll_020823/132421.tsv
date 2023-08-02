@@ -1,0 +1,25 @@
+#document_id:TheHarmonicon__1828-001.txt_195
+#document_date:1828
+#sent_text:- Dittersdorf’s music to the Doctor and Apothecary, a drama translated and prepared for the stage by Mr. Cobb.
+-	O	_	-	PUNCT
+Dittersdorf	B-person	Q78522	Dittersdorf	PROPN
+’s	O	_	’s	PART
+music	O	_	music	NOUN
+to	O	_	to	ADP
+the	O	_	the	DET
+Doctor	O	_	Doctor	PROPN
+and	O	_	and	CCONJ
+Apothecary	O	_	Apothecary	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+drama	O	_	drama	NOUN
+translated	O	_	translate	VERB
+and	O	_	and	CCONJ
+prepared	O	_	prepare	VERB
+for	O	_	for	ADP
+the	O	_	the	DET
+stage	O	_	stage	NOUN
+by	O	_	by	ADP
+Mr.	B-person	Q6131504	Mr.	PROPN
+Cobb	I-person	Q6131504	Cobb	PROPN
+.	O	_	.	PUNCT

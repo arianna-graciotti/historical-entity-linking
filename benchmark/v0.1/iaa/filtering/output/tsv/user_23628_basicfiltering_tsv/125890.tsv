@@ -1,0 +1,29 @@
+#document_id:TheHarmonicon__1833-005.txt_1585
+#document_date:NaN
+#sent_text:I find the following sensible critical remarks among my papers; they were copied from a weekly work (the Court Magazine, I think)
+I	O	_	I	PRON
+find	O	_	find	VERB
+the	O	_	the	DET
+following	O	_	following	ADJ
+sensible	O	_	sensible	ADJ
+critical	O	_	critical	ADJ
+remarks	O	_	remark	NOUN
+among	O	_	among	ADP
+my	O	_	my	PRON
+papers	O	_	paper	NOUN
+;	O	_	;	PUNCT
+they	O	_	they	PRON
+were	O	_	be	AUX
+copied	O	_	copy	VERB
+from	O	_	from	ADP
+a	O	_	a	DET
+weekly	O	_	weekly	ADJ
+work	O	_	work	NOUN
+(	O	_	(	PUNCT
+the	O	_	the	DET
+Court	B-magazine	Q3206551	Court	PROPN
+Magazine	I-magazine	Q3206551	Magazine	PROPN
+,	O	_	,	PUNCT
+I	O	_	I	PRON
+think	O	_	think	VERB
+)	O	_	)	PUNCT

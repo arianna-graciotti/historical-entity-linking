@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1925
+#document_date:1825
+#sent_text:Jarnowick ultimately returned to France.
+Jarnowick	B-person	Q1526160	Jarnowick	PROPN
+ultimately	O	_	ultimately	ADV
+returned	O	_	return	VERB
+to	O	_	to	ADP
+France	B-country	Q142	France	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-402.txt_3433
+#document_date:1876
+#sent_text:Edited and Adapted by Natalia Macferren. .
+Edited	O	_	edit	VERB
+and	O	_	and	CCONJ
+Adapted	O	_	adapt	VERB
+by	O	_	by	ADP
+Natalia	B-person	NIL	Natalia	PROPN
+Macferren	I-person	NIL	Macferren	PROPN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

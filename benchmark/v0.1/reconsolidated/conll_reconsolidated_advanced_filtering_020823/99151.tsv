@@ -1,0 +1,19 @@
+#document_id:TheMusicalTimes__1876-402.txt_868
+#document_date:1876
+#sent_text:on application to H. Hagemeyer, Bandmaster, 12th Regiment, Cork Barracks, Ireland.
+on	O	_	on	ADP
+application	O	_	application	NOUN
+to	O	_	to	ADP
+H.	B-person	NIL	H.	PROPN
+Hagemeyer	I-person	NIL	Hagemeyer	PROPN
+,	O	_	,	PUNCT
+Bandmaster	O	_	Bandmaster	PROPN
+,	O	_	,	PUNCT
+12th	B-military	NIL	12th	ADJ
+Regiment	I-military	NIL	Regiment	PROPN
+,	O	_	,	PUNCT
+Cork	B-facility	Q5147345	Cork	PROPN
+Barracks	I-facility	Q5147345	Barracks	PROPN
+,	O	_	,	PUNCT
+Ireland	B-country	Q22890	Ireland	PROPN
+.	O	_	.	PUNCT

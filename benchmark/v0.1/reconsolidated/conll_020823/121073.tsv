@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3578
+#document_date:1828
+#sent_text:92 ' STATE OF MUSEC IN LONDON.
+92	O	_	92	NUM
+'	O	_	'	PUNCT
+STATE	O	_	STATE	PROPN
+OF	O	_	of	ADP
+MUSEC	O	_	MUSEC	PROPN
+IN	O	_	in	ADP
+LONDON	B-city	Q84	LONDON	PROPN
+.	O	_	.	PUNCT

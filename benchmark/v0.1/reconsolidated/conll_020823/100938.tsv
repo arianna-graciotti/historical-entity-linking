@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-402.txt_3476
+#document_date:1876
+#sent_text:EN VOCAL DUETS, composed by Franz ABT.
+EN	O	_	EN	PROPN
+VOCAL	O	_	VOCAL	PROPN
+DUETS	O	_	DUETS	PROPN
+,	O	_	,	PUNCT
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+Franz	B-person	Q174178	Franz	PROPN
+ABT	I-person	Q174178	ABT	PROPN
+.	O	_	.	PUNCT

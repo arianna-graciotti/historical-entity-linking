@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1927
+#document_date:1825
+#sent_text:Cupis, the rival of Leclair, was considered as a very superior chamber violinist.
+Cupis	B-person	NIL	Cupis	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+rival	O	_	rival	NOUN
+of	O	_	of	ADP
+Leclair	B-person	Q348875	Leclair	PROPN
+,	O	_	,	PUNCT
+was	O	_	be	AUX
+considered	O	_	consider	VERB
+as	O	_	as	ADP
+a	O	_	a	DET
+very	O	_	very	ADV
+superior	O	_	superior	ADJ
+chamber	O	_	chamber	NOUN
+violinist	O	_	violinist	NOUN
+.	O	_	.	PUNCT

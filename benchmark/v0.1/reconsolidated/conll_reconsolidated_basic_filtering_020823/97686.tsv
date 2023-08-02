@@ -1,0 +1,15 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_337
+#document_date:1873
+#sent_text:Some think they detect already in Weber's “Preciosa” and
+Some	O	_	some	PRON
+think	O	_	think	VERB
+they	O	_	they	PRON
+detect	O	_	detect	VERB
+already	O	_	already	ADV
+in	O	_	in	ADP
+Weber	B-person	Q154812	Weber	PROPN
+'s	O	_	's	PART
+“	O	_	"	PUNCT
+Preciosa	B-music	NIL	Preciosa	PROPN
+”	O	_	"	PUNCT
+and	O	_	and	CCONJ

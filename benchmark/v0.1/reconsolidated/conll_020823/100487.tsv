@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1876-402.txt_2744
+#document_date:1876
+#sent_text:Co. “a THE MUSICAL TIMES.—Auvcust 1, 1876.
+Co.	O	_	Co.	PROPN
+“	O	_	"	PUNCT
+a	O	_	a	X
+THE	O	_	the	DET
+MUSICAL	O	_	MUSICAL	PROPN
+TIMES.—Auvcust	O	_	TIMES.—Auvcust	PROPN
+1	O	_	1	NUM
+,	O	_	,	PUNCT
+1876	O	_	1876	NUM
+.	O	_	.	PUNCT

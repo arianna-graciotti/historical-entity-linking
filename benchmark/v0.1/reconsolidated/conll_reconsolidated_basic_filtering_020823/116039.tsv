@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_461
+#document_date:1824
+#sent_text:For an account of Vinci see Musical Review, vol.
+For	O	_	for	ADP
+an	O	_	an	DET
+account	O	_	account	NOUN
+of	O	_	of	ADP
+Vinci	B-person	NIL	Vinci	PROPN
+see	O	_	see	VERB
+Musical	O	_	Musical	PROPN
+Review	O	_	Review	PROPN
+,	O	_	,	PUNCT
+vol	O	_	vol	NOUN
+.	O	_	.	PUNCT

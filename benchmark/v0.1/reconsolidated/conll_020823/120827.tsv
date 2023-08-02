@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3186
+#document_date:1828
+#sent_text:Scena, Mr. Sapio, Ah! perfida!
+Scena	O	_	scena	X
+,	O	_	,	PUNCT
+Mr.	B-person	Q116727772	Mr.	PROPN
+Sapio	I-person	Q116727772	Sapio	PROPN
+,	O	_	,	PUNCT
+Ah	O	_	ah	INTJ
+!	O	_	!	PUNCT
+perfida	O	_	perfida	X
+!	O	_	!	PUNCT

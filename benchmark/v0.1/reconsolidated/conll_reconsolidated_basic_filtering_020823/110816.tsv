@@ -1,0 +1,19 @@
+#document_id:TheMusicalWorld__1843-038.txt_478
+#document_date:1843
+#sent_text:Mr. Wyke’s song, and the overtures to Zauberfiote and Massaniello, deserve praise.
+Mr.	B-person	NIL	Mr.	PROPN
+Wyke	I-person	NIL	Wyke	PROPN
+’s	O	_	’s	PART
+song	O	_	song	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+overtures	O	_	overture	NOUN
+to	O	_	to	ADP
+Zauberfiote	B-opera	Q5064	Zauberfiote	PROPN
+and	O	_	and	CCONJ
+Massaniello	B-opera	Q470773	Massaniello	PROPN
+,	O	_	,	PUNCT
+deserve	O	_	deserve	VERB
+praise	O	_	praise	NOUN
+.	O	_	.	PUNCT

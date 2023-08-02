@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3072
+#document_date:1824
+#sent_text:All composed by T. F. Walmisley.
+All	O	_	all	PRON
+composed	O	_	compose	VERB
+by	O	_	by	ADP
+T.	B-person	Q18917555	T.	PROPN
+F.	I-person	Q18917555	F.	PROPN
+Walmisley	I-person	Q18917555	Walmisley	PROPN
+.	O	_	.	PUNCT

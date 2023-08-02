@@ -1,0 +1,31 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2089
+#document_date:1825
+#sent_text:He imitated the sacred music of the best Italian composers, and adapting his own to the French language, fitted the French language for the stage.
+He	O	_	he	PRON
+imitated	O	_	imitate	VERB
+the	O	_	the	DET
+sacred	O	_	sacred	ADJ
+music	O	_	music	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+best	O	_	good	ADJ
+Italian	O	_	italian	ADJ
+composers	O	_	composer	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+adapting	O	_	adapt	VERB
+his	O	_	his	PRON
+own	O	_	own	ADJ
+to	O	_	to	ADP
+the	O	_	the	DET
+French	O	_	french	ADJ
+language	O	_	language	NOUN
+,	O	_	,	PUNCT
+fitted	O	_	fit	VERB
+the	O	_	the	DET
+French	O	_	french	ADJ
+language	O	_	language	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+stage	O	_	stage	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1382
+#document_date:1825
+#sent_text:‘In 1723, Antonio Pacelli composed the operas of “¢
+‘	O	_	'	PUNCT
+In	O	_	in	ADP
+1723	O	_	1723	NUM
+,	O	_	,	PUNCT
+Antonio	B-person	NIL	Antonio	PROPN
+Pacelli	I-person	NIL	Pacelli	PROPN
+composed	O	_	compose	VERB
+the	O	_	the	DET
+operas	O	_	opera	NOUN
+of	O	_	of	ADP
+“	O	_	"	PUNCT
+¢	O	_	¢	NOUN

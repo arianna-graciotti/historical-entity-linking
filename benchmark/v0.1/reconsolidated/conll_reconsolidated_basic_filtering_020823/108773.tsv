@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1873-366.txt_3045
+#document_date:1873
+#sent_text:My heart's in the Highlands.
+My	B-work-of-art	Q18752801	my	PRON
+heart	I-work-of-art	Q18752801	heart	NOUN
+'s	I-work-of-art	Q18752801	be	AUX
+in	I-work-of-art	Q18752801	in	ADP
+the	I-work-of-art	Q18752801	the	DET
+Highlands	I-work-of-art	Q18752801	Highlands	PROPN
+.	O	_	.	PUNCT

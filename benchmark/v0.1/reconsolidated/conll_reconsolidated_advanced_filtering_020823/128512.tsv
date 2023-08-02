@@ -1,0 +1,35 @@
+#document_id:TheHarmonicon__1832-012.txt_126
+#document_date:1832
+#sent_text:Lord Bacon, Addison, Dr. Brown, Dugald Stewart, and many others,. are often betrayed into unconscious absurdities respecting musical effects by their ignorance of the science.
+Lord	B-person	Q37388	Lord	PROPN
+Bacon	I-person	Q37388	Bacon	PROPN
+,	O	_	,	PUNCT
+Addison	B-person	Q206384	Addison	PROPN
+,	O	_	,	PUNCT
+Dr.	B-person	NIL	Dr.	PROPN
+Brown	I-person	NIL	Brown	PROPN
+,	O	_	,	PUNCT
+Dugald	B-person	Q218254	Dugald	PROPN
+Stewart	I-person	Q218254	Stewart	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+many	O	_	many	ADJ
+others	O	_	other	NOUN
+,	O	_	,	PUNCT
+.	O	_	.	PUNCT
+are	O	_	be	AUX
+often	O	_	often	ADV
+betrayed	O	_	betray	VERB
+into	O	_	into	ADP
+unconscious	O	_	unconscious	ADJ
+absurdities	O	_	absurdity	NOUN
+respecting	O	_	respect	VERB
+musical	O	_	musical	ADJ
+effects	O	_	effect	NOUN
+by	O	_	by	ADP
+their	O	_	their	PRON
+ignorance	O	_	ignorance	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+science	O	_	science	NOUN
+.	O	_	.	PUNCT

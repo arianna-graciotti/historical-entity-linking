@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1875-388.txt_1644
+#document_date:1875
+#sent_text:The solo vocalists were Miss Edith Wynne, Mesdames Blanche.
+The	O	_	the	DET
+solo	O	_	solo	NOUN
+vocalists	O	_	vocalist	NOUN
+were	O	_	be	AUX
+Miss	B-person	Q7422270	Miss	PROPN
+Edith	I-person	Q7422270	Edith	PROPN
+Wynne	I-person	Q7422270	Wynne	PROPN
+,	O	_	,	PUNCT
+Mesdames	B-person	Q4924837	Mesdames	PROPN
+Blanche	I-person	Q4924837	Blanche	PROPN
+.	O	_	.	PUNCT

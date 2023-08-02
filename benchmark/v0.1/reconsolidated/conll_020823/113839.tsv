@@ -1,0 +1,14 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1587
+#document_date:1825
+#sent_text:He afterwards visited England, and Sir John Hawkins mentions.
+He	O	_	he	PRON
+afterwards	O	_	afterwards	ADV
+visited	O	_	visit	VERB
+England	B-country	Q21	England	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Sir	O	_	Sir	PROPN
+John	B-person	Q661076	John	PROPN
+Hawkins	I-person	Q661076	Hawkins	PROPN
+mentions	O	_	mention	VERB
+.	O	_	.	PUNCT

@@ -1,0 +1,25 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1145
+#document_date:1828
+#sent_text:Fioravanti: ‘takes a particular interest in the young Soprani, who are . again beginning to re-unite.
+Fioravanti	B-person	Q537653	Fioravanti	PROPN
+:	O	_	:	PUNCT
+‘	O	_	‘	VERB
+takes	O	_	take	VERB
+a	O	_	a	DET
+particular	O	_	particular	ADJ
+interest	O	_	interest	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+young	O	_	young	ADJ
+Soprani	O	_	Soprani	PROPN
+,	O	_	,	PUNCT
+who	O	_	who	PRON
+are	O	_	be	AUX
+.	O	_	.	PUNCT
+again	O	_	again	ADV
+beginning	O	_	begin	VERB
+to	O	_	to	PART
+re	O	_	re	VERB
+-	O	_	-	VERB
+unite	O	_	unite	VERB
+.	O	_	.	PUNCT

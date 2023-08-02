@@ -1,0 +1,25 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2103
+#document_date:NaN
+#sent_text:It is a curious fact, that no pianist has ever commanded the attention Mr. M. has attracted from inixed audiences.
+It	O	_	it	PRON
+is	O	_	be	AUX
+a	O	_	a	DET
+curious	O	_	curious	ADJ
+fact	O	_	fact	NOUN
+,	O	_	,	PUNCT
+that	O	_	that	SCONJ
+no	O	_	no	DET
+pianist	O	_	pianist	NOUN
+has	O	_	have	AUX
+ever	O	_	ever	ADV
+commanded	O	_	command	VERB
+the	O	_	the	DET
+attention	O	_	attention	NOUN
+Mr.	B-person	Q159551	Mr.	PROPN
+M.	I-person	Q159551	M.	PROPN
+has	O	_	have	AUX
+attracted	O	_	attract	VERB
+from	O	_	from	ADP
+inixed	O	_	inixed	ADJ
+audiences	O	_	audience	NOUN
+.	O	_	.	PUNCT

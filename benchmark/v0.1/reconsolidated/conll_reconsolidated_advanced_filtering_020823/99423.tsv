@@ -1,0 +1,26 @@
+#document_id:TheMusicalTimes__1876-402.txt_1201
+#document_date:1876
+#sent_text:G. Benson, Ettore Fiori, Manuel Garcia, P. Goldberg, A. Randegger, T. A. Wallworth, and the Principal.
+G.	O	_	G.	PROPN
+Benson	O	_	Benson	PROPN
+,	O	_	,	PUNCT
+Ettore	O	_	Ettore	PROPN
+Fiori	O	_	Fiori	PROPN
+,	O	_	,	PUNCT
+Manuel	O	_	Manuel	PROPN
+Garcia	O	_	Garcia	PROPN
+,	O	_	,	PUNCT
+P.	O	_	P.	PROPN
+Goldberg	O	_	Goldberg	PROPN
+,	O	_	,	PUNCT
+A.	B-person	Q4712167	A.	PROPN
+Randegger	I-person	Q4712167	Randegger	PROPN
+,	O	_	,	PUNCT
+T.	B-person	NIL	T.	PROPN
+A.	I-person	NIL	A.	PROPN
+Wallworth	I-person	NIL	Wallworth	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+Principal	O	_	Principal	PROPN
+.	O	_	.	PUNCT

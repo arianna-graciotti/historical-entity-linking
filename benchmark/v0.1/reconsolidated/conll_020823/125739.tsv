@@ -1,0 +1,12 @@
+#document_id:TheHarmonicon__1833-005.txt_1368
+#document_date:1833
+#sent_text:Song,‘ Gelido in ogni vena’ .
+Song	O	_	song	NOUN
+,	O	_	,	PUNCT
+‘	O	_	'	PUNCT
+Gelido	O	_	Gelido	PROPN
+in	O	_	in	ADP
+ogni	O	_	ogni	PROPN
+vena	O	_	vena	PROPN
+’	O	_	'	PUNCT
+.	O	_	.	PUNCT

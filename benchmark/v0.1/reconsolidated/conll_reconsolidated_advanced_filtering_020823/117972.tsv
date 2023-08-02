@@ -1,0 +1,23 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3016
+#document_date:1824
+#sent_text:Book 8 opens witha composition in four parts, by Mr. Novello, of which the combined elegance and learning
+Book	O	_	book	NOUN
+8	O	_	8	NUM
+opens	O	_	open	VERB
+witha	O	_	witha	ADP
+composition	O	_	composition	NOUN
+in	O	_	in	ADP
+four	O	_	four	NUM
+parts	O	_	part	NOUN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+Mr.	B-person	Q2526705	Mr.	PROPN
+Novello	I-person	Q2526705	Novello	PROPN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+which	O	_	which	PRON
+the	O	_	the	PRON
+combined	O	_	combine	VERB
+elegance	O	_	elegance	NOUN
+and	O	_	and	CCONJ
+learning	O	_	learning	NOUN

@@ -1,0 +1,21 @@
+#document_id:TheMusicalWorld__1843-038.txt_29
+#document_date:1843
+#sent_text:Braham gives an impressive example to all young aspirants after fame in his conduct in the orchestra.
+Braham	B-person	Q1699393	Braham	PROPN
+gives	O	_	give	VERB
+an	O	_	an	DET
+impressive	O	_	impressive	ADJ
+example	O	_	example	NOUN
+to	O	_	to	ADP
+all	O	_	all	DET
+young	O	_	young	ADJ
+aspirants	O	_	aspirant	NOUN
+after	O	_	after	ADP
+fame	O	_	fame	NOUN
+in	O	_	in	ADP
+his	O	_	his	PRON
+conduct	O	_	conduct	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+orchestra	O	_	orchestra	NOUN
+.	O	_	.	PUNCT

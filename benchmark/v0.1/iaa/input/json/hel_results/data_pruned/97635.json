@@ -1,0 +1,60 @@
+{
+    "id": "97635",
+    "text": "From the Journal of Speculative Philosophy, Oct. 1873.",
+    "page_id": "DwightSJournalOfMusic__1873-016.txt_278",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "journal",
+            "entityName": "Journal of Speculative Philosophy",
+            "wikis": [
+                {
+                    "wiki": "Journal_of_Speculative_Philosophy",
+                    "link": "https://en.wikipedia.org/wiki/Journal_of_Speculative_Philosophy",
+                    "qid": "Q6295957",
+                    "assessments": {
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "correct",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q6295957",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "correct",
+                            "qidAssessment": "correct"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        },
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        }
+    }
+}

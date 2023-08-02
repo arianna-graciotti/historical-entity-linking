@@ -1,0 +1,11 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_1190
+#document_date:1870
+#sent_text:and to the Handel and Uaydn Saciety.
+and	O	_	and	CCONJ
+to	O	_	to	ADP
+the	O	_	the	DET
+Handel	B-person	Q7302	Handel	PROPN
+and	I-organization	Q2558637	and	CCONJ
+Uaydn	I-organization	Q2558637	Uaydn	PROPN
+Saciety	I-organization	Q2558637	Saciety	PROPN
+.	O	_	.	PUNCT

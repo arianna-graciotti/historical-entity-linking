@@ -1,0 +1,13 @@
+#document_id:TheHarmonicon__1824-016.txt_289
+#document_date:1824
+#sent_text:A Sonata, Piano-Forte and Vivlin. .
+A	O	_	a	DET
+Sonata	O	_	sonata	NOUN
+,	O	_	,	PUNCT
+Piano	O	_	Piano	PROPN
+-	O	_	-	X
+Forte	O	_	Forte	PROPN
+and	O	_	and	CCONJ
+Vivlin	O	_	Vivlin	PROPN
+.	O	_	.	PUNCT
+.	O	_	.	PUNCT

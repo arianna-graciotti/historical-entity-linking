@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1876-402.txt_995
+#document_date:1876
+#sent_text:, De - us Sa - ba-oth,
+,	O	_	,	PUNCT
+De	O	_	de	X
+-	O	_	-	PUNCT
+us	O	_	us	X
+Sa	O	_	Sa	PROPN
+-	O	_	-	PUNCT
+ba	O	_	ba	PROPN
+-	O	_	-	X
+oth	O	_	oth	PROPN
+,	O	_	,	PUNCT

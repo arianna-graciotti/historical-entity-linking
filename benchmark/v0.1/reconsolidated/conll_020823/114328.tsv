@@ -1,0 +1,22 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2181
+#document_date:1825
+#sent_text:the “Io conosco ‘a quegli occhietti,” in the Vol. 5, page 50.
+the	O	_	the	DET
+“	O	_	"	PUNCT
+Io	O	_	Io	PROPN
+conosco	O	_	conosco	PROPN
+‘	O	_	‘	X
+a	O	_	a	X
+quegli	O	_	quegli	X
+occhietti	O	_	occhietti	X
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+Vol	O	_	vol	NOUN
+.	O	_	.	NOUN
+5	O	_	5	NUM
+,	O	_	,	PUNCT
+page	O	_	page	NOUN
+50	O	_	50	NUM
+.	O	_	.	PUNCT

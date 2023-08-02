@@ -1,0 +1,26 @@
+#document_id:TheMusicalWorld__1843-029.txt_399
+#document_date:1843
+#sent_text:It was adopted also, in the public worship of the primitive Christian churches, as is clearly proved by that passege.
+It	O	_	it	PRON
+was	O	_	be	AUX
+adopted	O	_	adopt	VERB
+also	O	_	also	ADV
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+public	O	_	public	ADJ
+worship	O	_	worship	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+primitive	O	_	primitive	ADJ
+Christian	O	_	christian	ADJ
+churches	O	_	church	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	SCONJ
+is	O	_	be	AUX
+clearly	O	_	clearly	ADV
+proved	O	_	prove	VERB
+by	O	_	by	ADP
+that	O	_	that	DET
+passege	O	_	passege	NOUN
+.	O	_	.	PUNCT

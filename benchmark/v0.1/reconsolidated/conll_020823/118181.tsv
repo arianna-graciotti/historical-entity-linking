@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3295
+#document_date:1824
+#sent_text:The author’s design appears generally to be to paraphrase passages of Scripture.
+The	O	_	the	DET
+author	O	_	author	NOUN
+’s	O	_	’s	PART
+design	O	_	design	NOUN
+appears	O	_	appear	VERB
+generally	O	_	generally	ADV
+to	O	_	to	PART
+be	O	_	be	AUX
+to	O	_	to	PART
+paraphrase	O	_	paraphrase	VERB
+passages	O	_	passage	NOUN
+of	O	_	of	ADP
+Scripture	O	_	Scripture	PROPN
+.	O	_	.	PUNCT

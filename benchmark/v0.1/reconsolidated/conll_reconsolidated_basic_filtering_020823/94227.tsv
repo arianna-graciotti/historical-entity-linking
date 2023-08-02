@@ -1,0 +1,14 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_450
+#document_date:1875
+#sent_text:My native town is a commonplace city cf central Germany.
+My	O	_	my	PRON
+native	O	_	native	ADJ
+town	O	_	town	NOUN
+is	O	_	be	AUX
+a	O	_	a	DET
+commonplace	O	_	commonplace	ADJ
+city	O	_	city	NOUN
+cf	O	_	cf	ADP
+central	B-country-region	Q524856	central	ADJ
+Germany	I-country-region	Q524856	Germany	PROPN
+.	O	_	.	PUNCT

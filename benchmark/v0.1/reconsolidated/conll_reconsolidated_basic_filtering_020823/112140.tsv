@@ -1,0 +1,7 @@
+#document_id:TheMusicalWorld__1844-006.txt_350
+#document_date:1844
+#sent_text:Manchester January 13th.
+Manchester	B-city	Q18125	Manchester	PROPN
+January	O	_	January	PROPN
+13th	O	_	13th	NOUN
+.	O	_	.	PUNCT

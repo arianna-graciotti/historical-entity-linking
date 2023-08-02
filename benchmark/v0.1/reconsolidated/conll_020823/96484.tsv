@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_259
+#document_date:1868
+#sent_text:a {From the Orchestra, Aug. 1.)
+a	O	_	a	PRON
+{	O	_	{	PUNCT
+From	O	_	from	ADP
+the	O	_	the	DET
+Orchestra	O	_	orchestra	NOUN
+,	O	_	,	PUNCT
+Aug.	O	_	Aug.	PROPN
+1	O	_	1	NUM
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

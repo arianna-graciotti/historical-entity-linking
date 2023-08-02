@@ -1,0 +1,21 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_746
+#document_date:1868
+#sent_text:name so Jong as Adelina Patti remains on the stage, which will be for two years more
+name	O	_	name	NOUN
+so	O	_	so	ADV
+Jong	O	_	Jong	PROPN
+as	O	_	as	SCONJ
+Adelina	B-person	Q234166	Adelina	PROPN
+Patti	I-person	Q234166	Patti	PROPN
+remains	O	_	remain	VERB
+on	O	_	on	ADP
+the	O	_	the	DET
+stage	O	_	stage	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+will	O	_	will	AUX
+be	O	_	be	AUX
+for	O	_	for	ADP
+two	O	_	two	NUM
+years	O	_	year	NOUN
+more	O	_	more	ADJ

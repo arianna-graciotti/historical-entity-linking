@@ -1,0 +1,38 @@
+#document_id:TheMusicalTimes__1875-388.txt_1025
+#document_date:1875
+#sent_text:the late Mr. John Mitchell would have been pleased to have come to witness so gratifying a demonstration in my favour, and to have crowned his many great kindnesses by that last act.
+the	O	_	the	DET
+late	O	_	late	ADJ
+Mr.	B-person	NIL	Mr.	PROPN
+John	I-person	NIL	John	PROPN
+Mitchell	I-person	NIL	Mitchell	PROPN
+would	O	_	would	AUX
+have	O	_	have	AUX
+been	O	_	be	AUX
+pleased	O	_	pleased	ADJ
+to	O	_	to	PART
+have	O	_	have	AUX
+come	O	_	come	VERB
+to	O	_	to	PART
+witness	O	_	witness	VERB
+so	O	_	so	ADV
+gratifying	O	_	gratifying	ADJ
+a	O	_	a	DET
+demonstration	O	_	demonstration	NOUN
+in	O	_	in	ADP
+my	O	_	my	PRON
+favour	O	_	favour	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+to	O	_	to	PART
+have	O	_	have	AUX
+crowned	O	_	crown	VERB
+his	O	_	his	PRON
+many	O	_	many	ADJ
+great	O	_	great	ADJ
+kindnesses	O	_	kindness	NOUN
+by	O	_	by	ADP
+that	O	_	that	DET
+last	O	_	last	ADJ
+act	O	_	act	NOUN
+.	O	_	.	PUNCT

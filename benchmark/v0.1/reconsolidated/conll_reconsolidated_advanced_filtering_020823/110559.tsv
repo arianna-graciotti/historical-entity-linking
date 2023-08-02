@@ -1,0 +1,15 @@
+#document_id:TheMusicalWorld__1843-038.txt_134
+#document_date:1843
+#sent_text:Rameau was in despair, and thought to renounce the theatre.
+Rameau	B-person	Q1145	Rameau	PROPN
+was	O	_	be	AUX
+in	O	_	in	ADP
+despair	O	_	despair	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+thought	O	_	think	VERB
+to	O	_	to	PART
+renounce	O	_	renounce	VERB
+the	O	_	the	DET
+theatre	O	_	theatre	NOUN
+.	O	_	.	PUNCT

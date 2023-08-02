@@ -1,0 +1,36 @@
+#document_id:TheMusicalTimes__1876-397.txt_1394
+#document_date:1876
+#sent_text:Miss Minnie Curtis was highly successful in the songs and other music allotted to her, and Miss Adeline Payel and Miss Kate Wild rendered great assistance, and were deservedly applauded.
+Miss	B-person	NIL	Miss	PROPN
+Minnie	I-person	NIL	Minnie	PROPN
+Curtis	I-person	NIL	Curtis	PROPN
+was	O	_	be	AUX
+highly	O	_	highly	ADV
+successful	O	_	successful	ADJ
+in	O	_	in	ADP
+the	O	_	the	DET
+songs	O	_	song	NOUN
+and	O	_	and	CCONJ
+other	O	_	other	ADJ
+music	O	_	music	NOUN
+allotted	O	_	allot	VERB
+to	O	_	to	ADP
+her	O	_	she	PRON
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Miss	O	_	Miss	PROPN
+Adeline	O	_	Adeline	PROPN
+Payel	O	_	Payel	PROPN
+and	O	_	and	CCONJ
+Miss	B-person	NIL	Miss	PROPN
+Kate	I-person	NIL	Kate	PROPN
+Wild	I-person	NIL	Wild	PROPN
+rendered	O	_	render	VERB
+great	O	_	great	ADJ
+assistance	O	_	assistance	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+were	O	_	be	AUX
+deservedly	O	_	deservedly	ADV
+applauded	O	_	applaud	VERB
+.	O	_	.	PUNCT

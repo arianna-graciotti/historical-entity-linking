@@ -1,0 +1,13 @@
+#document_id:TheMusicalWorld__1843-038.txt_112
+#document_date:1843
+#sent_text:—the public of Auvergne became odious to him.
+—	O	_	—	PUNCT
+the	O	_	the	DET
+public	O	_	public	NOUN
+of	O	_	of	ADP
+Auvergne	B-local-region	Q1152	Auvergne	PROPN
+became	O	_	become	VERB
+odious	O	_	odious	ADJ
+to	O	_	to	ADP
+him	O	_	he	PRON
+.	O	_	.	PUNCT

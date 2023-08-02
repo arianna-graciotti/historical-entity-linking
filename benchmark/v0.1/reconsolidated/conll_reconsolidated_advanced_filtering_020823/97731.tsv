@@ -1,0 +1,33 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_390
+#document_date:1873
+#sent_text:Franz Liszt played this piece once with such mighty power and passion, such eloquence and truth, as I never heard before, probably never shall hear again.
+Franz	B-person	Q41309	Franz	PROPN
+Liszt	I-person	Q41309	Liszt	PROPN
+played	O	_	play	VERB
+this	O	_	this	DET
+piece	O	_	piece	NOUN
+once	O	_	once	ADV
+with	O	_	with	ADP
+such	O	_	such	ADJ
+mighty	O	_	mighty	ADJ
+power	O	_	power	NOUN
+and	O	_	and	CCONJ
+passion	O	_	passion	NOUN
+,	O	_	,	PUNCT
+such	O	_	such	ADJ
+eloquence	O	_	eloquence	NOUN
+and	O	_	and	CCONJ
+truth	O	_	truth	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	SCONJ
+I	O	_	I	PRON
+never	O	_	never	ADV
+heard	O	_	hear	VERB
+before	O	_	before	ADV
+,	O	_	,	PUNCT
+probably	O	_	probably	ADV
+never	O	_	never	ADV
+shall	O	_	shall	AUX
+hear	O	_	hear	VERB
+again	O	_	again	ADV
+.	O	_	.	PUNCT

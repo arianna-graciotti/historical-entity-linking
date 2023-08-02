@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1263
+#document_date:1824
+#sent_text:He came to England, where he excited much admiration, and obtained-a recompense due to his merits.
+He	O	_	he	PRON
+came	O	_	come	VERB
+to	O	_	to	ADP
+England	B-country	Q21	England	PROPN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+he	O	_	he	PRON
+excited	O	_	excite	VERB
+much	O	_	much	ADJ
+admiration	O	_	admiration	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+obtained	O	_	obtain	VERB
+-	O	_	-	PUNCT
+a	O	_	a	DET
+recompense	O	_	recompense	NOUN
+due	O	_	due	ADJ
+to	O	_	to	ADP
+his	O	_	his	PRON
+merits	O	_	merit	NOUN
+.	O	_	.	PUNCT

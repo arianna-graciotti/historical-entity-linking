@@ -1,0 +1,24 @@
+#document_id:TheMusicalWorld__1843-038.txt_574
+#document_date:NaN
+#sent_text:Nevertheless Mr. Phillips has contrived to tell a very different story in the music, which is dramatic and effective.
+Nevertheless	O	_	nevertheless	ADV
+Mr.	B-person	Q18671452	Mr.	PROPN
+Phillips	I-person	Q18671452	Phillips	PROPN
+has	O	_	have	AUX
+contrived	O	_	contrive	VERB
+to	O	_	to	PART
+tell	O	_	tell	VERB
+a	O	_	a	DET
+very	O	_	very	ADV
+different	O	_	different	ADJ
+story	O	_	story	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+music	O	_	music	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+is	O	_	be	AUX
+dramatic	O	_	dramatic	ADJ
+and	O	_	and	CCONJ
+effective	O	_	effective	ADJ
+.	O	_	.	PUNCT

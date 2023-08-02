@@ -1,0 +1,16 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_54
+#document_date:1828
+#sent_text:~ Holst, his Harpist’s - Sketch-book, 246;
+~	O	_	~	PUNCT
+Holst	B-person	NIL	Holst	PROPN
+,	O	_	,	PUNCT
+his	O	_	his	PRON
+Harpist	O	_	Harpist	PROPN
+’s	O	_	’s	PART
+-	O	_	-	PUNCT
+Sketch	O	_	Sketch	PROPN
+-	O	_	-	PUNCT
+book	O	_	book	PROPN
+,	O	_	,	PUNCT
+246	O	_	246	NUM
+;	O	_	;	PUNCT

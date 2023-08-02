@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1204
+#document_date:1824
+#sent_text:He was considered amongst the best tenor singers of his day, and was a good bassoonist.
+He	O	_	he	PRON
+was	O	_	be	AUX
+considered	O	_	consider	VERB
+amongst	O	_	amongst	ADP
+the	O	_	the	DET
+best	O	_	good	ADJ
+tenor	O	_	tenor	NOUN
+singers	O	_	singer	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+day	O	_	day	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+was	O	_	be	AUX
+a	O	_	a	DET
+good	O	_	good	ADJ
+bassoonist	O	_	bassoonist	NOUN
+.	O	_	.	PUNCT

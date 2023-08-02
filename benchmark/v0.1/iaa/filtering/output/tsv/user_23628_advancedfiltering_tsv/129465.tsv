@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1832-012.txt_1315
+#document_date:NaN
+#sent_text:We now open the volume, and the presentation-plate immediately attracts our notice—an elegant lithographed design by Hamerton.
+We	O	_	we	PRON
+now	O	_	now	ADV
+open	O	_	open	VERB
+the	O	_	the	DET
+volume	O	_	volume	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+presentation	O	_	presentation	NOUN
+-	O	_	-	PUNCT
+plate	O	_	plate	NOUN
+immediately	O	_	immediately	ADV
+attracts	O	_	attract	VERB
+our	O	_	our	PRON
+notice	O	_	notice	NOUN
+—	O	_	—	PUNCT
+an	O	_	an	DET
+elegant	O	_	elegant	ADJ
+lithographed	O	_	lithograph	VERB
+design	O	_	design	NOUN
+by	O	_	by	ADP
+Hamerton	B-person	Q52498671	Hamerton	PROPN
+.	O	_	.	PUNCT

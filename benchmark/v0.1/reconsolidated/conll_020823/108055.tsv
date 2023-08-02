@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1873-366.txt_2000
+#document_date:1873
+#sent_text:Henry Hugo Pierson bas left the world matter for true admiration.
+Henry	B-person	Q97011	Henry	PROPN
+Hugo	I-person	Q97011	Hugo	PROPN
+Pierson	I-person	Q97011	Pierson	PROPN
+bas	O	_	bas	PROPN
+left	O	_	leave	VERB
+the	O	_	the	DET
+world	O	_	world	NOUN
+matter	O	_	matter	NOUN
+for	O	_	for	ADP
+true	O	_	true	ADJ
+admiration	O	_	admiration	NOUN
+.	O	_	.	PUNCT

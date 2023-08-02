@@ -1,0 +1,24 @@
+#document_id:TheHarmonicon__1832-012.txt_34
+#document_date:1832
+#sent_text:The valuable scores of English church music, in several volumes, now in the British Museum, (No.
+The	O	_	the	DET
+valuable	O	_	valuable	ADJ
+scores	O	_	score	NOUN
+of	O	_	of	ADP
+English	O	_	english	ADJ
+church	O	_	church	NOUN
+music	O	_	music	NOUN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+several	O	_	several	ADJ
+volumes	O	_	volume	NOUN
+,	O	_	,	PUNCT
+now	O	_	now	ADV
+in	O	_	in	ADP
+the	O	_	the	DET
+British	B-museum	Q6373	British	PROPN
+Museum	I-museum	Q6373	Museum	PROPN
+,	O	_	,	PUNCT
+(	O	_	(	PUNCT
+No	O	_	no	INTJ
+.	O	_	.	PUNCT

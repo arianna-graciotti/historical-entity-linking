@@ -1,0 +1,18 @@
+#document_id:TheMusicalWorld__1843-038.txt_651
+#document_date:1843
+#sent_text:W. Laidlaw, W. Atkinson, T. Comer, H. Farmer, all right.
+W.	B-person	NIL	W.	PROPN
+Laidlaw	I-person	NIL	Laidlaw	PROPN
+,	O	_	,	PUNCT
+W.	B-person	NIL	W.	PROPN
+Atkinson	I-person	NIL	Atkinson	PROPN
+,	O	_	,	PUNCT
+T.	B-person	NIL	T.	PROPN
+Comer	I-person	NIL	Comer	PROPN
+,	O	_	,	PUNCT
+H.	B-person	NIL	H.	PROPN
+Farmer	I-person	NIL	Farmer	PROPN
+,	O	_	,	PUNCT
+all	O	_	all	ADV
+right	O	_	right	INTJ
+.	O	_	.	PUNCT

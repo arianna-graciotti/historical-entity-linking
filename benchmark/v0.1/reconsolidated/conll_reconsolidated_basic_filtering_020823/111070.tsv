@@ -1,0 +1,34 @@
+#document_id:TheMusicalWorld__1843-038.txt_834
+#document_date:1843
+#sent_text:Published at Charles Nichoison’s Flute Manufactory, (by Prowse), 13, Haoway-street, where is also Published the Choruses in the Messiah as Duets.
+Published	O	_	publish	VERB
+at	O	_	at	ADP
+Charles	B-company	NIL	Charles	PROPN
+Nichoison	I-company	NIL	Nichoison	PROPN
+’s	I-company	NIL	’s	PART
+Flute	I-company	NIL	Flute	PROPN
+Manufactory	I-company	NIL	Manufactory	PROPN
+,	O	_	,	PUNCT
+(	O	_	(	PUNCT
+by	O	_	by	ADP
+Prowse	O	_	Prowse	PROPN
+)	O	_	)	PUNCT
+,	O	_	,	PUNCT
+13	O	_	13	NUM
+,	O	_	,	PUNCT
+Haoway	B-road	NIL	Haoway	PROPN
+-	I-road	NIL	-	PUNCT
+street	I-road	NIL	street	NOUN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+is	O	_	be	AUX
+also	O	_	also	ADV
+Published	O	_	publish	VERB
+the	O	_	the	DET
+Choruses	B-book	NIL	Choruses	PROPN
+in	I-book	NIL	in	ADP
+the	I-book	NIL	the	DET
+Messiah	I-book	NIL	Messiah	PROPN
+as	I-book	NIL	as	ADP
+Duets	I-book	NIL	duet	NOUN
+.	O	_	.	PUNCT

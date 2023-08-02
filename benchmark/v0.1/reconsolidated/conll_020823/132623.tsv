@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1828-001.txt_447
+#document_date:1828
+#sent_text:I am marvellously curious to see the violin quartet written by Rossini for Ricordi, the music-dealer, of Milan.
+I	O	_	I	PRON
+am	O	_	be	AUX
+marvellously	O	_	marvellously	ADV
+curious	O	_	curious	ADJ
+to	O	_	to	PART
+see	O	_	see	VERB
+the	O	_	the	DET
+violin	O	_	violin	NOUN
+quartet	O	_	quartet	NOUN
+written	O	_	write	VERB
+by	O	_	by	ADP
+Rossini	B-person	Q9726	Rossini	PROPN
+for	O	_	for	ADP
+Ricordi	B-person	Q3107325	Ricordi	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+music	O	_	music	NOUN
+-	O	_	-	PUNCT
+dealer	O	_	dealer	NOUN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+Milan	B-city	Q490	Milan	PROPN
+.	O	_	.	PUNCT

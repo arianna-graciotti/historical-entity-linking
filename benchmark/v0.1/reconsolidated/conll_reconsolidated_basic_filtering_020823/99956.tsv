@@ -1,0 +1,36 @@
+#document_id:TheMusicalTimes__1876-402.txt_1979
+#document_date:1876
+#sent_text:That Dr. John Bull was admitted to the livery, though not sworn, for his love and kindness in bestowing the music which was performed in the King’s Chamber gratis.
+That	O	_	that	SCONJ
+Dr.	B-person	Q511463	Dr.	PROPN
+John	I-person	Q511463	John	PROPN
+Bull	I-person	Q511463	Bull	PROPN
+was	O	_	be	AUX
+admitted	O	_	admit	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+livery	O	_	livery	NOUN
+,	O	_	,	PUNCT
+though	O	_	though	SCONJ
+not	O	_	not	PART
+sworn	O	_	swear	VERB
+,	O	_	,	PUNCT
+for	O	_	for	ADP
+his	O	_	his	PRON
+love	O	_	love	NOUN
+and	O	_	and	CCONJ
+kindness	O	_	kindness	NOUN
+in	O	_	in	ADP
+bestowing	O	_	bestow	VERB
+the	O	_	the	DET
+music	O	_	music	NOUN
+which	O	_	which	PRON
+was	O	_	be	AUX
+performed	O	_	perform	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+King	O	_	King	PROPN
+’s	O	_	’s	PART
+Chamber	O	_	Chamber	PROPN
+gratis	O	_	gratis	ADV
+.	O	_	.	PUNCT

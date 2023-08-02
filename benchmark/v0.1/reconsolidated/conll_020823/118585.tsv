@@ -1,0 +1,17 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3868
+#document_date:1824
+#sent_text:Dr. Anslem Bayly, Sub-Dean of this Majesty’s Chapels Royal.
+Dr.	B-person	Q4770596	Dr.	PROPN
+Anslem	I-person	Q4770596	Anslem	PROPN
+Bayly	I-person	Q4770596	Bayly	PROPN
+,	O	_	,	PUNCT
+Sub	O	_	Sub	PROPN
+-	O	_	-	PROPN
+Dean	O	_	Dean	PROPN
+of	O	_	of	ADP
+this	O	_	this	DET
+Majesty	O	_	Majesty	PROPN
+’s	O	_	’s	PART
+Chapels	B-organization	Q1062692	Chapels	PROPN
+Royal	I-organization	Q1062692	Royal	PROPN
+.	O	_	.	PUNCT

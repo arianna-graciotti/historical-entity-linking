@@ -1,0 +1,20 @@
+#document_id:TheMusicalWorld__1843-029.txt_43
+#document_date:1843
+#sent_text:The concert began with Auber’s pretty and sparkling overture to Les Diamans de la Cou-.
+The	O	_	the	DET
+concert	O	_	concert	NOUN
+began	O	_	begin	VERB
+with	O	_	with	ADP
+Auber	B-person	Q157672	Auber	PROPN
+’s	O	_	’s	PART
+pretty	O	_	pretty	ADJ
+and	O	_	and	CCONJ
+sparkling	O	_	sparkling	ADJ
+overture	O	_	overture	NOUN
+to	O	_	to	ADP
+Les	B-opera	Q467897	Les	PROPN
+Diamans	I-opera	Q467897	Diamans	PROPN
+de	I-opera	Q467897	de	X
+la	I-opera	Q467897	la	PROPN
+Cou-	I-opera	Q467897	Cou-	PROPN
+.	O	_	.	PUNCT

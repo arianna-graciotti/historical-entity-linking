@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_337
+#document_date:1824
+#sent_text:missed attending the Antient Concert.
+missed	O	_	miss	VERB
+attending	O	_	attend	VERB
+the	B-music	Q7713942	the	DET
+Antient	I-music	Q7713942	Antient	PROPN
+Concert	I-music	Q7713942	Concert	PROPN
+.	O	_	.	PUNCT

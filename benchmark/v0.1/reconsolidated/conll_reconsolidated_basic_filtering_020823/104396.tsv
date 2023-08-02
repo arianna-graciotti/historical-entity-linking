@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1876-397.txt_696
+#document_date:1876
+#sent_text:Thomas Tallis Trimnell, Esq., Mus.
+Thomas	B-person	NIL	Thomas	PROPN
+Tallis	I-person	NIL	Tallis	PROPN
+Trimnell	I-person	NIL	Trimnell	PROPN
+,	O	_	,	PUNCT
+Esq	O	_	Esq	PROPN
+.	O	_	.	PUNCT
+,	O	_	,	PUNCT
+Mus	O	_	Mus	PROPN
+.	O	_	.	PUNCT

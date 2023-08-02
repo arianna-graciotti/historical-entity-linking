@@ -1,0 +1,36 @@
+#document_id:TheMusicalTimes__1876-397.txt_1431
+#document_date:1876
+#sent_text:Indeed, we question whether a finer performance has ever been given in this country, where, strangely enough, it seems to have taken a firmer root than in Germany.
+Indeed	O	_	indeed	ADV
+,	O	_	,	PUNCT
+we	O	_	we	PRON
+question	O	_	question	VERB
+whether	O	_	whether	SCONJ
+a	O	_	a	DET
+finer	O	_	fine	ADJ
+performance	O	_	performance	NOUN
+has	O	_	have	AUX
+ever	O	_	ever	ADV
+been	O	_	be	AUX
+given	O	_	give	VERB
+in	O	_	in	ADP
+this	O	_	this	DET
+country	O	_	country	NOUN
+,	O	_	,	PUNCT
+where	O	_	where	SCONJ
+,	O	_	,	PUNCT
+strangely	O	_	strangely	ADV
+enough	O	_	enough	ADV
+,	O	_	,	PUNCT
+it	O	_	it	PRON
+seems	O	_	seem	VERB
+to	O	_	to	PART
+have	O	_	have	AUX
+taken	O	_	take	VERB
+a	O	_	a	DET
+firmer	O	_	firm	ADJ
+root	O	_	root	NOUN
+than	O	_	than	ADP
+in	O	_	in	ADP
+Germany	B-country	Q183	Germany	PROPN
+.	O	_	.	PUNCT

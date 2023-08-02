@@ -1,0 +1,13 @@
+#document_id:TheMusicalTimes__1875-388.txt_579
+#document_date:1875
+#sent_text:The Words written by ALFrep E, T. Watson.
+The	O	_	the	DET
+Words	O	_	word	NOUN
+written	O	_	write	VERB
+by	O	_	by	ADP
+ALFrep	B-person	NIL	ALFrep	PROPN
+E	I-person	NIL	E	PROPN
+,	I-person	NIL	,	PUNCT
+T.	I-person	NIL	T.	PROPN
+Watson	I-person	NIL	Watson	PROPN
+.	O	_	.	PUNCT

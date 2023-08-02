@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1832-012.txt_1933
+#document_date:1832
+#sent_text:So much for a French manager of a London theatre !
+So	O	_	so	ADV
+much	O	_	much	ADJ
+for	O	_	for	ADP
+a	O	_	a	DET
+French	O	_	french	ADJ
+manager	O	_	manager	NOUN
+of	O	_	of	ADP
+a	O	_	a	DET
+London	B-city	Q84	London	PROPN
+theatre	O	_	theatre	NOUN
+!	O	_	!	PUNCT

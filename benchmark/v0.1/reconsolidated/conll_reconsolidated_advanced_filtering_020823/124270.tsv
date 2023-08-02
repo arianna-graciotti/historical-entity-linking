@@ -1,0 +1,24 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3154
+#document_date:1826
+#sent_text:The Fitzwilliam Music, being a collection of Sacred Pieces selected from Manuscripts of Italian Composers in the Fitzwilliam Museum.
+The	O	_	the	DET
+Fitzwilliam	B-book	Q1421448	Fitzwilliam	PROPN
+Music	I-book	Q1421448	Music	PROPN
+,	O	_	,	PUNCT
+being	O	_	be	AUX
+a	O	_	a	DET
+collection	O	_	collection	NOUN
+of	O	_	of	ADP
+Sacred	O	_	sacred	ADJ
+Pieces	O	_	piece	NOUN
+selected	O	_	select	VERB
+from	O	_	from	ADP
+Manuscripts	O	_	manuscript	NOUN
+of	O	_	of	ADP
+Italian	O	_	italian	ADJ
+Composers	O	_	composer	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+Fitzwilliam	B-museum	Q1421440	Fitzwilliam	PROPN
+Museum	I-museum	Q1421440	Museum	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-397.txt_1962
+#document_date:1876
+#sent_text:He composed an Opera for Venice, which was very unfortunate.
+He	O	_	he	PRON
+composed	O	_	compose	VERB
+an	O	_	an	DET
+Opera	O	_	Opera	PROPN
+for	O	_	for	ADP
+Venice	B-city	Q641	Venice	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+was	O	_	be	AUX
+very	O	_	very	ADV
+unfortunate	O	_	unfortunate	ADJ
+.	O	_	.	PUNCT

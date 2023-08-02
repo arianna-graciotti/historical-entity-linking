@@ -1,0 +1,25 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_255
+#document_date:1828
+#sent_text:Piano Forte ed Arpa da L. Cherubini, » Almen se non possio, Canzonetta; Poetry by Metastasio ; Music by
+Piano	O	_	Piano	PROPN
+Forte	O	_	Forte	PROPN
+ed	O	_	e	VERB
+Arpa	O	_	Arpa	PROPN
+da	O	_	da	PROPN
+L.	B-person	Q20721	L.	PROPN
+Cherubini	I-person	Q20721	Cherubini	PROPN
+,	O	_	,	PUNCT
+»	O	_	»	PUNCT
+Almen	B-music	NIL	almen	X
+se	I-music	NIL	se	X
+non	I-music	NIL	non	X
+possio	I-music	NIL	possio	X
+,	O	_	,	PUNCT
+Canzonetta	O	_	Canzonetta	PROPN
+;	O	_	;	PUNCT
+Poetry	O	_	poetry	NOUN
+by	O	_	by	ADP
+Metastasio	B-person	Q29473	Metastasio	PROPN
+;	O	_	;	PUNCT
+Music	O	_	music	NOUN
+by	O	_	by	ADP

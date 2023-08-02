@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1822
+#document_date:1824
+#sent_text:—his new opera was called “ Ii Trionfo della Pieta.
+—	O	_	—	PUNCT
+his	O	_	his	PRON
+new	O	_	new	ADJ
+opera	O	_	opera	NOUN
+was	O	_	be	AUX
+called	O	_	call	VERB
+“	O	_	"	PUNCT
+Ii	B-music	NIL	Ii	PROPN
+Trionfo	I-music	NIL	Trionfo	PROPN
+della	I-music	NIL	della	PROPN
+Pieta	I-music	NIL	Pieta	PROPN
+.	O	_	.	PUNCT

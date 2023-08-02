@@ -1,0 +1,11 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_1286
+#document_date:1868
+#sent_text:“4 the pupils of the Conservatory’
+“	O	_	"	PUNCT
+4	O	_	4	NUM
+the	O	_	the	DET
+pupils	O	_	pupil	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Conservatory	B-school	NIL	Conservatory	PROPN
+’	O	_	'	PUNCT

@@ -1,0 +1,9 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_754
+#document_date:1873
+#sent_text:His name was Italo Campanini.
+His	O	_	his	PRON
+name	O	_	name	NOUN
+was	O	_	be	AUX
+Italo	B-person	Q1168442	Italo	PROPN
+Campanini	I-person	Q1168442	Campanini	PROPN
+.	O	_	.	PUNCT

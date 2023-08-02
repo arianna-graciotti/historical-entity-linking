@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1875-388.txt_299
+#document_date:1875
+#sent_text:GENTLEMAN is desirous of giving LESSONS by post in HARMONY and COUNTERPOINT.
+GENTLEMAN	O	_	GENTLEMAN	PROPN
+is	O	_	be	AUX
+desirous	O	_	desirous	ADJ
+of	O	_	of	ADP
+giving	O	_	give	VERB
+LESSONS	O	_	lesson	NOUN
+by	O	_	by	ADP
+post	O	_	post	NOUN
+in	O	_	in	ADP
+HARMONY	O	_	HARMONY	PROPN
+and	O	_	and	CCONJ
+COUNTERPOINT	O	_	COUNTERPOINT	PROPN
+.	O	_	.	PUNCT

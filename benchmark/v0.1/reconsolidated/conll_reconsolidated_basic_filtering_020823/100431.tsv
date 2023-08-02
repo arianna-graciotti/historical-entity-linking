@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-402.txt_2649
+#document_date:1876
+#sent_text:Composed by W. Metcatrr, Lay Clerk of Carlisle Cathedral.
+Composed	O	_	compose	VERB
+by	O	_	by	ADP
+W.	O	_	W.	PROPN
+Metcatrr	O	_	Metcatrr	PROPN
+,	O	_	,	PUNCT
+Lay	O	_	Lay	PROPN
+Clerk	O	_	clerk	NOUN
+of	O	_	of	ADP
+Carlisle	B-worship-place	Q2533552	Carlisle	PROPN
+Cathedral	I-worship-place	Q2533552	Cathedral	PROPN
+.	O	_	.	PUNCT

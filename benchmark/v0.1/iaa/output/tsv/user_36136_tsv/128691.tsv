@@ -1,0 +1,9 @@
+#document_id:TheHarmonicon__1832-012.txt_350
+#document_date:NaN
+#sent_text:The testimony of Mr. Duff.
+The	O	_	the	DET
+testimony	O	_	testimony	NOUN
+of	O	_	of	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Duff	I-person	NIL	Duff	PROPN
+.	O	_	.	PUNCT

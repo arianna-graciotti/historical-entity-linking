@@ -1,0 +1,10 @@
+#document_id:TheMusicalWorld__1843-036.txt_750
+#document_date:NaN
+#sent_text:John Bishop, price onlv 15s.
+John	B-person	NIL	John	PROPN
+Bishop	I-person	NIL	Bishop	PROPN
+,	O	_	,	PUNCT
+price	O	_	price	NOUN
+onlv	O	_	onlv	ADP
+15s	O	_	15	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-397.txt_3095
+#document_date:1876
+#sent_text:Composed by W. Mercatre, Lay Clerk of Carlisle Cathedral.
+Composed	O	_	compose	VERB
+by	O	_	by	ADP
+W.	B-person	NIL	W.	PROPN
+Mercatre	I-person	NIL	Mercatre	PROPN
+,	O	_	,	PUNCT
+Lay	O	_	Lay	PROPN
+Clerk	O	_	Clerk	PROPN
+of	O	_	of	ADP
+Carlisle	B-worship-place	Q2533552	Carlisle	PROPN
+Cathedral	I-worship-place	Q2533552	Cathedral	PROPN
+.	O	_	.	PUNCT

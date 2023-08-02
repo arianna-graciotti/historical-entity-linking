@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-397.txt_3385
+#document_date:1876
+#sent_text:Dr. Fowle, Palm Hall, Winchester.
+Dr.	B-person	NIL	Dr.	PROPN
+Fowle	I-person	NIL	Fowle	PROPN
+,	O	_	,	PUNCT
+Palm	B-city-district	NIL	Palm	PROPN
+Hall	I-city-district	NIL	Hall	PROPN
+,	O	_	,	PUNCT
+Winchester	B-city	Q172157	Winchester	PROPN
+.	O	_	.	PUNCT

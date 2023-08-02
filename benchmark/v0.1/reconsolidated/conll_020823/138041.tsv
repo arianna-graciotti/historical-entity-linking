@@ -1,0 +1,23 @@
+#document_id:TheHarmonicon__1824-016.txt_2462
+#document_date:1824
+#sent_text:Mr, Clementi has contributed two grand symphonies, the performance of which Mr, Clementi conducted in person.
+Mr	O	_	Mr	PROPN
+,	O	_	,	PUNCT
+Clementi	O	_	Clementi	PROPN
+has	O	_	have	AUX
+contributed	O	_	contribute	VERB
+two	O	_	two	NUM
+grand	O	_	grand	ADJ
+symphonies	O	_	symphony	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+performance	O	_	performance	NOUN
+of	O	_	of	ADP
+which	O	_	which	PRON
+Mr	O	_	Mr	PROPN
+,	O	_	,	PUNCT
+Clementi	O	_	Clementi	PROPN
+conducted	O	_	conduct	VERB
+in	O	_	in	ADP
+person	O	_	person	NOUN
+.	O	_	.	PUNCT

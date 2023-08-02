@@ -1,0 +1,70 @@
+{
+    "id": "111061",
+    "text": "LES DIAMANS DE LA COURONNE,",
+    "page_id": "TheMusicalWorld__1843-038.txt_825",
+    "namedEntities": [
+        {
+            "variable": "z0",
+            "type": "city",
+            "entityName": "Le D\u00e2mas de La COURONne",
+            "wikis": [
+                {
+                    "wiki": "L\u00e9d\u00e2nam",
+                    "link": "https://en.wikipedia.org/wiki/L\u00e9d\u00e2nam",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Les_diamants_de_la_couronne",
+                            "wikiQid": "Q467897",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/Les_diamants_de_la_couronne",
+                            "wikiQid": "Q467897",
+                            "sentenceEnough": "no",
+                            "contextString": "LES DIAMANS DE LA COURONNE, The whole of the Music of this celebrated Opera of Auber.",
+                            "contextBroader": "LES DIAMANS DE LA COURONNE, The whole of the Music of this celebrated Opera of Auber. Arrangements of all kinds, for every Instrument, by the most eminent composers.\r\n",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "LES DIAMANS DE LA COURONNE",
+                    "ocrEntityMention": "",
+                    "assessment": "wrong",
+                    "entityType": "work-of-art"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Les diamants de la couronne",
+                    "ocrEntityMention": "LES DIAMANS DE LA COURONNE",
+                    "assessment": "wrong",
+                    "entityType": "work-of-art"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

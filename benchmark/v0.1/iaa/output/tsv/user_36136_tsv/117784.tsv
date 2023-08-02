@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2788
+#document_date:NaN
+#sent_text:The same leading pheno-— mena, it will be seen, are still in progress.
+The	O	_	the	DET
+same	O	_	same	ADJ
+leading	O	_	lead	VERB
+pheno-	O	_	pheno-	NOUN
+—	O	_	—	PUNCT
+mena	O	_	mena	PROPN
+,	O	_	,	PUNCT
+it	O	_	it	PRON
+will	O	_	will	AUX
+be	O	_	be	AUX
+seen	O	_	see	VERB
+,	O	_	,	PUNCT
+are	O	_	be	AUX
+still	O	_	still	ADV
+in	O	_	in	ADP
+progress	O	_	progress	NOUN
+.	O	_	.	PUNCT

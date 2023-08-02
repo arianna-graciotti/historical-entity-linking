@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2355
+#document_date:1825
+#sent_text:Ti Cavaliere Don Carlo Broschi, otherwise called Farinelli.
+Ti	O	_	Ti	PROPN
+Cavaliere	O	_	Cavaliere	PROPN
+Don	B-person	Q223744	Don	PROPN
+Carlo	I-person	Q223744	Carlo	PROPN
+Broschi	I-person	Q223744	Broschi	PROPN
+,	O	_	,	PUNCT
+otherwise	O	_	otherwise	ADV
+called	O	_	call	VERB
+Farinelli	B-person	Q223744	Farinelli	PROPN
+.	O	_	.	PUNCT

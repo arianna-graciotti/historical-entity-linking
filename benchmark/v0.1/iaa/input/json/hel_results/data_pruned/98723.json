@@ -1,0 +1,67 @@
+{
+    "id": "98723",
+    "text": "Very successful results have attended its application.\u201d\u2014Daily News.",
+    "page_id": "TheMusicalTimes__1876-402.txt_293",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "newspaper",
+            "entityName": "Daily News",
+            "wikis": [
+                {
+                    "wiki": "New_York_Daily_News",
+                    "link": "https://en.wikipedia.org/wiki/New_York_Daily_News",
+                    "qid": "Q627827",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/The_Daily_News_(UK)",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q2605160",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/The_Daily_News_(UK)",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q2605160",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

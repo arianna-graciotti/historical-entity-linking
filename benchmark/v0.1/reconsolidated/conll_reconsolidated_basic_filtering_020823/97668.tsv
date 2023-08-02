@@ -1,0 +1,18 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_317
+#document_date:1873
+#sent_text:Paul” above all works of this genre ever written: by his contemporaries.
+Paul	O	_	Paul	PROPN
+”	O	_	"	PUNCT
+above	O	_	above	ADP
+all	O	_	all	DET
+works	O	_	work	NOUN
+of	O	_	of	ADP
+this	O	_	this	DET
+genre	O	_	genre	NOUN
+ever	O	_	ever	ADV
+written	O	_	write	VERB
+:	O	_	:	PUNCT
+by	O	_	by	ADP
+his	O	_	his	PRON
+contemporaries	O	_	contemporary	NOUN
+.	O	_	.	PUNCT

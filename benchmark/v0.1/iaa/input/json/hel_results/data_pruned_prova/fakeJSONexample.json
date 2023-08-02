@@ -1,0 +1,137 @@
+{
+    "id": "426598",
+    "text": "Way charge day stay.",
+    "page_id": "Result join smile sort.",
+    "namedEntities": [
+        {
+            "variable": "59ma43",
+            "type": "Person",
+            "entityName": "Smile tonight senior.",
+            "wikis": [
+                {
+                    "wiki": "Approach us while her.",
+                    "link": "https://www.salinas.biz/",
+                    "assessments": {
+                        "79779": {
+                            "user": "79779",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://castaneda.org/",
+                            "wikiQid": "36Wg55",
+                            "sentenceEnough": "No",
+                            "contextString": "Major window free form.",
+                            "contextBroader": "Guy know start benefit.",
+                            "comments": "Protect on rock effect."
+                        },
+                        "27024": {
+                            "user": "27024",
+                            "assessment": "wrong",
+                            "wikiUrl": "http://www.myers-shaffer.org/",
+                            "wikiQid": "33xJ87",
+                            "sentenceEnough": "No",
+                            "contextString": "She start person help.",
+                            "contextBroader": "Some stop road peace.",
+                            "comments": "Right film memory on."
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "79779": {
+                    "user": "79779",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Draw affect head seek.",
+                    "ocrEntityMention": "Enjoy care spring great.",
+                    "assessment": "wrong",
+                    "entityType": "Person"
+                },
+                "27024": {
+                    "user": "27024",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Sing gas bag.",
+                    "ocrEntityMention": "Treat away focus.",
+                    "assessment": "wrong",
+                    "entityType": "Company"
+                }
+            }
+        },
+        {
+            "variable": "84IU51",
+            "type": "Organization",
+            "entityName": "Capital history quite.",
+            "wikis": [
+                {
+                    "wiki": "News guy class may.",
+                    "link": "https://www.scott.com/",
+                    "assessments": {
+                        "79779": {
+                            "user": "79779",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://aguilar-liu.com/",
+                            "wikiQid": "23wW29",
+                            "sentenceEnough": "No",
+                            "contextString": "Speak quite drive.",
+                            "contextBroader": "Fund doctor own charge.",
+                            "comments": "Who near style two."
+                        },
+                        "27024": {
+                            "user": "27024",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://ruiz-mcgee.org/",
+                            "wikiQid": "78HX51",
+                            "sentenceEnough": "No",
+                            "contextString": "Area enough standard.",
+                            "contextBroader": "Key manager big push.",
+                            "comments": "Behind sport black seat."
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "79779": {
+                    "user": "79779",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Point suddenly national.",
+                    "ocrEntityMention": "Risk often close study.",
+                    "assessment": "correct"
+                },
+                "27024": {
+                    "user": "27024",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+
+    "missingNamedEntities": {
+        "79779": {
+            "user": "79779",
+            "missingNamedEntities": [
+                {
+                    "name": "Yeah until series radio.",
+                    "wiki": "http://www.shields.com/",
+                    "entityType": "Building",
+                    "qid": "10VG62",
+                    "sentenceEnough": "Yes"
+                }
+            ]
+        },
+        "27024": {
+            "user": "27024",
+            "missingNamedEntities": [
+                {
+                    "name": "Indicate friend radio.",
+                    "nameOcr": "Stop less result letter.",
+                    "wiki": "https://www.rocha.com/",
+                    "entityType": "Company",
+                    "qid": "19ER98",
+                    "sentenceEnough": "Yes"
+                }
+            ]
+        }
+    }
+}

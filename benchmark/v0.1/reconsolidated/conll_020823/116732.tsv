@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1332
+#document_date:1824
+#sent_text:Ozi Francois was employed in several orchestras ; Ozi Francois: published many works for the instrument.
+Ozi	B-person	NIL	Ozi	PROPN
+Francois	I-person	NIL	Francois	PROPN
+was	O	_	be	AUX
+employed	O	_	employ	VERB
+in	O	_	in	ADP
+several	O	_	several	ADJ
+orchestras	O	_	orchestra	NOUN
+;	O	_	;	PUNCT
+Ozi	B-person	NIL	Ozi	PROPN
+Francois	I-person	NIL	Francois	PROPN
+:	O	_	:	PUNCT
+published	O	_	publish	VERB
+many	O	_	many	ADJ
+works	O	_	work	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+instrument	O	_	instrument	NOUN
+.	O	_	.	PUNCT

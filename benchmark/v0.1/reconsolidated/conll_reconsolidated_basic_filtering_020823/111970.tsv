@@ -1,0 +1,8 @@
+#document_id:TheMusicalWorld__1844-006.txt_146
+#document_date:1844
+#sent_text:Mary Queen of Scots.
+Mary	B-person	Q131412	Mary	PROPN
+Queen	I-person	Q131412	Queen	PROPN
+of	I-person	Q131412	of	ADP
+Scots	I-person	Q131412	Scots	PROPN
+.	O	_	.	PUNCT

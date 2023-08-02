@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3251
+#document_date:1824
+#sent_text:Chappell and Co. Impromptus, or Brilliant Variations on a favourite Cotillon, by.
+Chappell	B-company	Q5073368	Chappell	PROPN
+and	I-company	Q5073368	and	CCONJ
+Co.	I-company	Q5073368	Co.	PROPN
+Impromptus	B-music	NIL	Impromptus	PROPN
+,	I-music	NIL	,	PUNCT
+or	I-music	NIL	or	CCONJ
+Brilliant	I-music	NIL	Brilliant	PROPN
+Variations	I-music	NIL	variation	NOUN
+on	I-music	NIL	on	ADP
+a	I-music	NIL	a	DET
+favourite	I-music	NIL	favourite	ADJ
+Cotillon	I-music	NIL	Cotillon	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+.	O	_	.	PUNCT

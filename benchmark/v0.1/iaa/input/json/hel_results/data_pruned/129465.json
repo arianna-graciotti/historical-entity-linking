@@ -1,0 +1,69 @@
+{
+    "id": "129465",
+    "text": "We now open the volume, and the presentation-plate immediately attracts our notice\u2014an elegant lithographed design by Hamerton.",
+    "page_id": "TheHarmonicon__1832-012.txt_1315",
+    "namedEntities": [
+        {
+            "variable": "z9",
+            "type": "person",
+            "entityName": "Hamerton",
+            "wikis": [
+                {
+                    "wiki": "Philip_Gilbert_Hamerton",
+                    "link": "https://en.wikipedia.org/wiki/Philip_Gilbert_Hamerton",
+                    "qid": "Q2086752",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "",
+                            "sentenceEnough": "missing",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "materials do not give enough informations to find the entity"
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q52498671",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "",
+                    "ocrEntityMention": "",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

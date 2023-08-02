@@ -1,0 +1,21 @@
+#document_id:TheHarmonicon__1824-016.txt_2237
+#document_date:1824
+#sent_text:Under the direction of His Grace the Archbishop of York, Wednesday, March 24th; 1824.
+Under	O	_	under	ADP
+the	O	_	the	DET
+direction	O	_	direction	NOUN
+of	O	_	of	ADP
+His	O	_	his	PRON
+Grace	O	_	Grace	PROPN
+the	O	_	the	DET
+Archbishop	B-person	Q3048710	Archbishop	PROPN
+of	I-person	Q3048710	of	ADP
+York	B-city	Q42462	York	PROPN
+,	O	_	,	PUNCT
+Wednesday	O	_	Wednesday	PROPN
+,	O	_	,	PUNCT
+March	O	_	March	PROPN
+24th	O	_	24th	NOUN
+;	O	_	;	PUNCT
+1824	O	_	1824	NUM
+.	O	_	.	PUNCT

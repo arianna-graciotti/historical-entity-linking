@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2484
+#document_date:1825
+#sent_text:but, like the Aurora.
+but	O	_	but	CCONJ
+,	O	_	,	PUNCT
+like	O	_	like	ADP
+the	O	_	the	DET
+Aurora	B-music	Q146535	Aurora	PROPN
+.	O	_	.	PUNCT

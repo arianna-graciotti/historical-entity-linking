@@ -1,0 +1,13 @@
+#document_id:DwightSJournalOfMusic__1870-021.txt_1275
+#document_date:1870
+#sent_text:Overture to ‘The Men of Prometheus,”.
+Overture	O	_	overture	NOUN
+to	O	_	to	ADP
+‘	O	_	'	PUNCT
+The	B-work-of-art	Q1157012	the	DET
+Men	I-work-of-art	Q1157012	man	NOUN
+of	I-work-of-art	Q1157012	of	ADP
+Prometheus	I-work-of-art	Q1157012	Prometheus	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+.	O	_	.	PUNCT

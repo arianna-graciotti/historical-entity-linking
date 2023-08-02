@@ -1,0 +1,9 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1925
+#document_date:1825
+#sent_text:He ultimately returned to France.
+He	O	_	he	PRON
+ultimately	O	_	ultimately	ADV
+returned	O	_	return	VERB
+to	O	_	to	ADP
+France	B-country	Q142	France	PROPN
+.	O	_	.	PUNCT

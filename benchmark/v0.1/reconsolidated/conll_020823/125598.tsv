@@ -1,0 +1,14 @@
+#document_id:TheHarmonicon__1833-005.txt_1081
+#document_date:1833
+#sent_text:The Song of the May Rose, ditto, ditto.
+The	O	_	the	DET
+Song	B-song	NIL	Song	PROPN
+of	I-song	NIL	of	ADP
+the	I-song	NIL	the	DET
+May	I-song	NIL	May	PROPN
+Rose	I-song	NIL	Rose	PROPN
+,	O	_	,	PUNCT
+ditto	O	_	ditto	NOUN
+,	O	_	,	PUNCT
+ditto	O	_	ditto	NOUN
+.	O	_	.	PUNCT

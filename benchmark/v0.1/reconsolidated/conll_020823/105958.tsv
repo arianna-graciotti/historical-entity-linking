@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1876-397.txt_2759
+#document_date:1876
+#sent_text:Appleby, Stationer, Spalding.
+Appleby	B-city	Q4781302	Appleby	PROPN
+,	O	_	,	PUNCT
+Stationer	B-city	NIL	Stationer	PROPN
+,	O	_	,	PUNCT
+Spalding	B-city	Q1185203	Spalding	PROPN
+.	O	_	.	PUNCT

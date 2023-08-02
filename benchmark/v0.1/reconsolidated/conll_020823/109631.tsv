@@ -1,0 +1,9 @@
+#document_id:TheMusicalTimes__1873-366.txt_4508
+#document_date:1873
+#sent_text:From Bellin s La SONNAMBULA.
+From	O	_	from	ADP
+Bellin	B-person	Q170209	Bellin	PROPN
+s	O	_	s	PART
+La	B-music	Q753123	La	PROPN
+SONNAMBULA	I-music	Q753123	SONNAMBULA	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,70 @@
+{
+    "id": "105188",
+    "text": "* and then for further information upon the subject we are referred to Stainer\u2019s",
+    "page_id": "TheMusicalTimes__1876-397.txt_1850",
+    "namedEntities": [
+        {
+            "variable": "z3",
+            "type": "publication",
+            "entityName": "Stainer's",
+            "wikis": [
+                {
+                    "wiki": "Stainer's_Dictionary",
+                    "link": "https://en.wikipedia.org/wiki/Stainer's_Dictionary",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/John_Stainer",
+                            "wikiQid": "Q1388550",
+                            "sentenceEnough": "no",
+                            "contextString": "Stainer's Harmony.",
+                            "contextBroader": "[Dr. Stainer would certainly call the chord you have quoted the dominant minor thirteenth in the key of B flat, resolved on the tonic; and he would treat the C$ as a Dp. He would probably account for the major ninth (Gf not Gb) in it by the custom of modern composers, which he refers to on p. 92 of his book, of combining major and minor harmonies in the same chord. For ourselves, we must confess that we think Richter\u2019s system simpler. He would call ita \u2018\u201c\u2018chromatically altered chord,\u201d and would treat it as the ordinary dominant ninth in a complete form, but with the fifth of the root chromatically raised. The resolution of the chord is regular in both cases; and either explanation appears to us satisfactory.\u2014Tihe Reviewer of \u201c* Stainer's Harmony.\u201d ]\r\n",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/John_Stainer",
+                            "wikiQid": "Q1388550",
+                            "sentenceEnough": "no",
+                            "contextString": " Stainer\u2019s \u201c\u2018 Theory of Harmony.",
+                            "contextBroader": "Speaking of \u201c Cadences,\u201d too, it is laid down as a law that \u2018ta series of cadences can be constructed by making any one of the relative chords (or its inversions) precede the final tonic chord, a relative chord being 2 common chord which can be made up out of the notes of any given scale;* and then for further information upon the subject we are referred to Stainer\u2019s \u201c\u2018 Theory of Harmony.\u201d\u2019 ",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Stainer",
+                    "ocrEntityMention": "Stainer\u2019s",
+                    "assessment": "wrong",
+                    "entityType": "person"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "Stainer",
+                    "ocrEntityMention": "Stainer",
+                    "assessment": "wrong",
+                    "entityType": "person"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

@@ -1,0 +1,28 @@
+#document_id:TheMusicalTimes__1876-397.txt_2380
+#document_date:1876
+#sent_text:The band performed several overtures, selections, &c., in a manner which reflected great credit on Mr. Waddington, the conductor.
+The	O	_	the	DET
+band	O	_	band	NOUN
+performed	O	_	perform	VERB
+several	O	_	several	ADJ
+overtures	O	_	overture	NOUN
+,	O	_	,	PUNCT
+selections	O	_	selection	NOUN
+,	O	_	,	PUNCT
+&	O	_	&	X
+c.	O	_	c.	X
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+a	O	_	a	DET
+manner	O	_	manner	NOUN
+which	O	_	which	PRON
+reflected	O	_	reflect	VERB
+great	O	_	great	ADJ
+credit	O	_	credit	NOUN
+on	O	_	on	ADP
+Mr.	B-person	NIL	Mr.	PROPN
+Waddington	I-person	NIL	Waddington	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+conductor	O	_	conductor	NOUN
+.	O	_	.	PUNCT

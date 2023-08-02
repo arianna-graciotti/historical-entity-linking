@@ -1,0 +1,12 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_3
+#document_date:1875
+#sent_text:[From Lippincott’s Magazine for June.]
+[	O	_	[	PUNCT
+From	O	_	from	ADP
+Lippincott	B-magazine	Q3310758	Lippincott	PROPN
+’s	I-magazine	Q3310758	’s	PART
+Magazine	I-magazine	Q3310758	Magazine	PROPN
+for	O	_	for	ADP
+June	O	_	June	PROPN
+.	O	_	.	PUNCT
+]	O	_	]	PUNCT

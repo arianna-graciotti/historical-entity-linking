@@ -1,0 +1,23 @@
+#document_id:TheMusicalTimes__1876-402.txt_1320
+#document_date:1876
+#sent_text:The following passed in the Preliminary Arts Examination only—P, Kelly, C. Peters, H. Stanbrook.
+The	O	_	the	DET
+following	O	_	following	ADJ
+passed	O	_	pass	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+Preliminary	O	_	Preliminary	PROPN
+Arts	O	_	Arts	PROPN
+Examination	O	_	Examination	PROPN
+only	O	_	only	ADV
+—	O	_	—	PUNCT
+P	B-person	NIL	P	PROPN
+,	I-person	NIL	,	PUNCT
+Kelly	I-person	NIL	Kelly	PROPN
+,	O	_	,	PUNCT
+C.	B-person	NIL	C.	PROPN
+Peters	I-person	NIL	Peters	PROPN
+,	O	_	,	PUNCT
+H.	B-person	NIL	H.	PROPN
+Stanbrook	I-person	NIL	Stanbrook	PROPN
+.	O	_	.	PUNCT

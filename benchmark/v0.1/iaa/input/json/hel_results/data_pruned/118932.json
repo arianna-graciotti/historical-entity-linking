@@ -1,0 +1,67 @@
+{
+    "id": "118932",
+    "text": "The King\u2019s Theatre ........",
+    "page_id": "TheQuarterlyMusicalMagazineAndReview__1828-037.txt_333",
+    "namedEntities": [
+        {
+            "variable": "z0",
+            "type": "building",
+            "entityName": "The King 's Theatre",
+            "wikis": [
+                {
+                    "wiki": "The_King's_(B3000 / Brisbane)",
+                    "link": "https://en.wikipedia.org/wiki/The_King's_(B3000 / Brisbane)",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/His_Majesty%27s_Theatre,_London",
+                            "wikiQid": "Q1155331",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/His_Majesty%27s_Theatre,_London",
+                            "wikiQid": "Q1155331",
+                            "sentenceEnough": "yes",
+                            "contextString": "",
+                            "contextBroader": "",
+                            "comments": ""
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "wrong",
+                    "correctEntityMention": "The King\u2019s Theatre",
+                    "ocrEntityMention": "The King\u2019s Theatre",
+                    "assessment": "wrong",
+                    "entityType": "theater"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

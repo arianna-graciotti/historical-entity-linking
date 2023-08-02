@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-402.txt_13
+#document_date:1876
+#sent_text:Miss EnrIQUEZ, and Mr. Lewis THomas.
+Miss	B-person	NIL	Miss	PROPN
+EnrIQUEZ	I-person	NIL	EnrIQUEZ	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+Lewis	I-person	NIL	Lewis	PROPN
+THomas	I-person	NIL	THomas	PROPN
+.	I-person	NIL	.	PUNCT

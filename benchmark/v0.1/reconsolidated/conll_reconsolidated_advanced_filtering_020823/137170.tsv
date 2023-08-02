@@ -1,0 +1,24 @@
+#document_id:TheHarmonicon__1824-016.txt_1256
+#document_date:1824
+#sent_text:(Printed for G. and W. B. Whittaker, dve Maria Lune; and Clementi and Co., Cheapside.)
+(	O	_	(	PUNCT
+Printed	O	_	print	VERB
+for	O	_	for	ADP
+G.	O	_	G.	PROPN
+and	O	_	and	CCONJ
+W.	O	_	W.	PROPN
+B.	O	_	B.	PROPN
+Whittaker	O	_	Whittaker	PROPN
+,	O	_	,	PUNCT
+dve	O	_	dve	X
+Maria	B-person	NIL	Maria	PROPN
+Lune	I-person	NIL	Lune	PROPN
+;	O	_	;	PUNCT
+and	O	_	and	CCONJ
+Clementi	B-company	NIL	Clementi	PROPN
+and	I-company	NIL	and	CCONJ
+Co.	I-company	NIL	Co.	PROPN
+,	O	_	,	PUNCT
+Cheapside	O	_	Cheapside	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT

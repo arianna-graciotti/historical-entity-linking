@@ -1,0 +1,28 @@
+#document_id:TheHarmonicon__1828-001.txt_211
+#document_date:1828
+#sent_text:The beautiful opera of The Pirates, written by the author of The Haunted Tower, and set to music by the subject of.
+The	O	_	the	DET
+beautiful	O	_	beautiful	ADJ
+opera	O	_	opera	NOUN
+of	O	_	of	ADP
+The	B-opera	Q7757254	the	DET
+Pirates	I-opera	Q7757254	Pirates	PROPN
+,	O	_	,	PUNCT
+written	O	_	write	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+author	O	_	author	NOUN
+of	O	_	of	ADP
+The	B-opera	Q85807416	the	DET
+Haunted	I-opera	Q85807416	haunted	ADJ
+Tower	I-opera	Q85807416	Tower	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+set	O	_	set	VERB
+to	O	_	to	ADP
+music	O	_	music	NOUN
+by	O	_	by	ADP
+the	O	_	the	DET
+subject	O	_	subject	NOUN
+of	O	_	of	ADP
+.	O	_	.	PUNCT

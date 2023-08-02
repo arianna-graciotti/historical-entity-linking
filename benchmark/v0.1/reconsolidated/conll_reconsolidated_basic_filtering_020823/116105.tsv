@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_550
+#document_date:1824
+#sent_text:Id Figlio per Azzardo,” farza, 1813, Carnivale, at the same theatre.
+I	B-work of art	Q850314	I	PROPN
+d	I-work of art	Q850314	d	PROPN
+Figlio	I-work of art	Q850314	Figlio	PROPN
+per	I-work of art	Q850314	per	ADP
+Azzardo	I-work of art	Q850314	Azzardo	PROPN
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+farza	O	_	farza	X
+,	O	_	,	PUNCT
+1813	O	_	1813	NUM
+,	O	_	,	PUNCT
+Carnivale	O	_	Carnivale	PROPN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+the	O	_	the	DET
+same	O	_	same	ADJ
+theatre	O	_	theatre	NOUN
+.	O	_	.	PUNCT

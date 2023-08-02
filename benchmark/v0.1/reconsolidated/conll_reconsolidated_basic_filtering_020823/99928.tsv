@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1876-402.txt_1946
+#document_date:1876
+#sent_text:Wituiam A. Ponp: New York.
+Wituiam	O	_	Wituiam	PROPN
+A.	O	_	A.	PROPN
+Ponp	O	_	Ponp	PROPN
+:	O	_	:	PUNCT
+New	B-city	Q60	New	PROPN
+York	I-city	Q60	York	PROPN
+.	O	_	.	PUNCT

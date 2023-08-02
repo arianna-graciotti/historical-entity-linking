@@ -1,0 +1,8 @@
+#document_id:TheHarmonicon__1824-016.txt_123
+#document_date:1824
+#sent_text:Gerbini, and Mori.
+Gerbini	B-person	NIL	Gerbini	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mori	B-person	NIL	Mori	PROPN
+.	O	_	.	PUNCT

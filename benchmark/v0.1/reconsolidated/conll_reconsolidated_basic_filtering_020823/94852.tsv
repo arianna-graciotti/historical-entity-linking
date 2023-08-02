@@ -1,0 +1,43 @@
+#document_id:DwightSJournalOfMusic__1875-006.txt_1227
+#document_date:1875
+#sent_text:The Boylston Clab sang this time under their new Conductor, Mr Geos L. O3scoop, who had been with them only a few weeks, so that the results of his training could hardly yet be very marked.
+The	B-organization	NIL	the	DET
+Boylston	I-organization	NIL	Boylston	PROPN
+Clab	I-organization	NIL	Clab	PROPN
+sang	O	_	sing	VERB
+this	O	_	this	DET
+time	O	_	time	NOUN
+under	O	_	under	ADP
+their	O	_	their	PRON
+new	O	_	new	ADJ
+Conductor	O	_	Conductor	PROPN
+,	O	_	,	PUNCT
+Mr	B-person	NIL	Mr	PROPN
+Geos	I-person	NIL	Geos	PROPN
+L.	I-person	NIL	L.	PROPN
+O3scoop	I-person	NIL	O3scoop	PROPN
+,	O	_	,	PUNCT
+who	O	_	who	PRON
+had	O	_	have	AUX
+been	O	_	be	AUX
+with	O	_	with	ADP
+them	O	_	they	PRON
+only	O	_	only	ADV
+a	O	_	a	DET
+few	O	_	few	ADJ
+weeks	O	_	week	NOUN
+,	O	_	,	PUNCT
+so	O	_	so	SCONJ
+that	O	_	that	SCONJ
+the	O	_	the	DET
+results	O	_	result	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+training	O	_	training	NOUN
+could	O	_	could	AUX
+hardly	O	_	hardly	ADV
+yet	O	_	yet	ADV
+be	O	_	be	AUX
+very	O	_	very	ADV
+marked	O	_	marked	ADJ
+.	O	_	.	PUNCT

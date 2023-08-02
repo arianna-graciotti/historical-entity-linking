@@ -1,0 +1,21 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1661
+#document_date:1825
+#sent_text:you were a fool for giving credit thus to a dreaming Jansenist, and burning good music.
+you	O	_	you	PRON
+were	O	_	be	AUX
+a	O	_	a	DET
+fool	O	_	fool	NOUN
+for	O	_	for	ADP
+giving	O	_	give	VERB
+credit	O	_	credit	NOUN
+thus	O	_	thus	ADV
+to	O	_	to	ADP
+a	O	_	a	DET
+dreaming	O	_	dream	VERB
+Jansenist	O	_	Jansenist	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+burning	O	_	burn	VERB
+good	O	_	good	ADJ
+music	O	_	music	NOUN
+.	O	_	.	PUNCT

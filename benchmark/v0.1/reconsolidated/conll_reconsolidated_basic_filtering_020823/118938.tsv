@@ -1,0 +1,18 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_346
+#document_date:1828
+#sent_text:Le Colporteur, Opera Comique en trois Actes, Paroles de P. Vi VIL.
+Le	B-opera	NIL	Le	PROPN
+Colporteur	I-opera	NIL	Colporteur	PROPN
+,	I-opera	NIL	,	PUNCT
+Opera	I-opera	NIL	Opera	PROPN
+Comique	I-opera	NIL	Comique	PROPN
+en	I-opera	NIL	en	X
+trois	I-opera	NIL	trois	X
+Actes	I-opera	NIL	Actes	PROPN
+,	O	_	,	PUNCT
+Paroles	O	_	paroles	X
+de	O	_	de	X
+P.	O	_	P.	PROPN
+Vi	O	_	Vi	PROPN
+VIL	O	_	VIL	PROPN
+.	O	_	.	PUNCT

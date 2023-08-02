@@ -1,0 +1,29 @@
+#document_id:TheMusicalTimes__1873-366.txt_1027
+#document_date:1873
+#sent_text:We have a view of the town with its chima warehouses, Town Hall, and the railway carriag which he and I sat,”
+We	O	_	we	PRON
+have	O	_	have	VERB
+a	O	_	a	DET
+view	O	_	view	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+town	O	_	town	NOUN
+with	O	_	with	ADP
+its	O	_	its	PRON
+chima	O	_	chima	NOUN
+warehouses	O	_	warehouse	NOUN
+,	O	_	,	PUNCT
+Town	B-building	Q2191338	Town	PROPN
+Hall	I-building	Q2191338	Hall	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+railway	O	_	railway	NOUN
+carriag	O	_	carriag	NOUN
+which	O	_	which	PRON
+he	O	_	he	PRON
+and	O	_	and	CCONJ
+I	O	_	I	PRON
+sat	O	_	sit	VERB
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT

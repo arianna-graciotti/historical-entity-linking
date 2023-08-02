@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1832-012.txt_74
+#document_date:NaN
+#sent_text:Cook was esteemed the best musician of his time to sing to.
+Cook	B-person	Q2281698	Cook	PROPN
+was	O	_	be	AUX
+esteemed	O	_	esteem	VERB
+the	O	_	the	DET
+best	O	_	good	ADJ
+musician	O	_	musician	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+time	O	_	time	NOUN
+to	O	_	to	PART
+sing	O	_	sing	VERB
+to	O	_	to	ADP
+.	O	_	.	PUNCT

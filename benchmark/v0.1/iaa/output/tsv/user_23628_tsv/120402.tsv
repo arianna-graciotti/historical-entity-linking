@@ -1,0 +1,39 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2235
+#document_date:NaN
+#sent_text:The great drawback upon her singing was an occasional infirmity in the’ sustaining power, not unlike, though not to the same extent, as the trembling of voice observed in Mademoiselle Bonini.
+The	O	_	the	DET
+great	O	_	great	ADJ
+drawback	O	_	drawback	NOUN
+upon	O	_	upon	SCONJ
+her	O	_	her	PRON
+singing	O	_	singing	NOUN
+was	O	_	be	AUX
+an	O	_	an	DET
+occasional	O	_	occasional	ADJ
+infirmity	O	_	infirmity	NOUN
+in	O	_	in	ADP
+the	O	_	the	PRON
+’	O	_	’	PART
+sustaining	O	_	sustain	VERB
+power	O	_	power	NOUN
+,	O	_	,	PUNCT
+not	O	_	not	PART
+unlike	O	_	unlike	ADP
+,	O	_	,	PUNCT
+though	O	_	though	SCONJ
+not	O	_	not	PART
+to	O	_	to	ADP
+the	O	_	the	DET
+same	O	_	same	ADJ
+extent	O	_	extent	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	ADP
+the	O	_	the	DET
+trembling	O	_	trembling	NOUN
+of	O	_	of	ADP
+voice	O	_	voice	NOUN
+observed	O	_	observe	VERB
+in	O	_	in	ADP
+Mademoiselle	B-person	NIL	Mademoiselle	PROPN
+Bonini	I-person	NIL	Bonini	PROPN
+.	O	_	.	PUNCT

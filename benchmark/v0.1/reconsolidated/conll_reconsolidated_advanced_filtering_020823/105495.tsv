@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1876-397.txt_2209
+#document_date:1876
+#sent_text:Mr. J. Jones presided at the harmonium, and Mr. F. C. Watkins conducted.
+Mr.	B-person	NIL	Mr.	PROPN
+J.	I-person	NIL	J.	PROPN
+Jones	I-person	NIL	Jones	PROPN
+presided	O	_	preside	VERB
+at	O	_	at	ADP
+the	O	_	the	DET
+harmonium	O	_	harmonium	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+F.	I-person	NIL	F.	PROPN
+C.	I-person	NIL	C.	PROPN
+Watkins	I-person	NIL	Watkins	PROPN
+conducted	O	_	conduct	VERB
+.	O	_	.	PUNCT

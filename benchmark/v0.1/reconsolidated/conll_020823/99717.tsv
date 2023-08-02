@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1876-402.txt_1693
+#document_date:1876
+#sent_text:“ Lahmeyer” as the composer of the quartett referred to.
+“	O	_	"	PUNCT
+Lahmeyer	B-person	NIL	Lahmeyer	PROPN
+”	O	_	"	PUNCT
+as	O	_	as	SCONJ
+the	O	_	the	DET
+composer	O	_	composer	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+quartett	O	_	quartett	NOUN
+referred	O	_	refer	VERB
+to	O	_	to	ADP
+.	O	_	.	PUNCT

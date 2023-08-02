@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1717
+#document_date:1828
+#sent_text:Joseph Dedonatis—a good contrapuntist.
+Joseph	B-person	NIL	Joseph	PROPN
+Dedonatis	I-person	NIL	Dedonatis	PROPN
+—	O	_	—	PUNCT
+a	O	_	a	DET
+good	O	_	good	ADJ
+contrapuntist	O	_	contrapuntist	NOUN
+.	O	_	.	PUNCT

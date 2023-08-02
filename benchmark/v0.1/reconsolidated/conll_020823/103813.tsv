@@ -1,0 +1,12 @@
+#document_id:TheMusicalTimes__1875-388.txt_3530
+#document_date:1875
+#sent_text:From Donizetti s ‘La FIGLia DEL REGGIMENTO.
+From	O	_	from	ADP
+Donizetti	B-person	Q101698	Donizetti	PROPN
+s	O	_	s	PART
+‘	O	_	'	PUNCT
+La	O	_	La	PROPN
+FIGLia	O	_	FIGLia	PROPN
+DEL	O	_	DEL	PROPN
+REGGIMENTO	O	_	REGGIMENTO	PROPN
+.	O	_	.	PUNCT

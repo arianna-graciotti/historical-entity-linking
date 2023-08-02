@@ -1,0 +1,27 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_927
+#document_date:NaN
+#sent_text:Ile has cultivated music profoundly, and has enjoyed ‘the personal acquaintance of most of the composers and artists of that city.
+Ile	O	_	Ile	PROPN
+has	O	_	have	AUX
+cultivated	O	_	cultivate	VERB
+music	O	_	music	NOUN
+profoundly	O	_	profoundly	ADV
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+has	O	_	have	AUX
+enjoyed	O	_	enjoy	VERB
+‘	O	_	'	PUNCT
+the	O	_	the	DET
+personal	O	_	personal	ADJ
+acquaintance	O	_	acquaintance	NOUN
+of	O	_	of	ADP
+most	O	_	most	ADJ
+of	O	_	of	ADP
+the	O	_	the	DET
+composers	O	_	composer	NOUN
+and	O	_	and	CCONJ
+artists	O	_	artist	NOUN
+of	O	_	of	ADP
+that	O	_	that	DET
+city	O	_	city	NOUN
+.	O	_	.	PUNCT

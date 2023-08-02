@@ -1,0 +1,10 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_524
+#document_date:1824
+#sent_text:La Cambiale di Matrimonio,}’
+La	B-music	Q264154	La	PROPN
+Cambiale	I-music	Q264154	Cambiale	PROPN
+di	I-music	Q264154	di	ADP
+Matrimonio	I-music	Q264154	Matrimonio	PROPN
+,	O	_	,	PUNCT
+}	O	_	}	PUNCT
+’	O	_	'	PUNCT

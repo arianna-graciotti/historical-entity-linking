@@ -1,0 +1,17 @@
+#document_id:TheHarmonicon__1828-001.txt_186
+#document_date:1828
+#sent_text:In March 1787, Storace, with his sister, returned to England.
+In	O	_	in	ADP
+March	O	_	March	PROPN
+1787	O	_	1787	NUM
+,	O	_	,	PUNCT
+Storace	B-person	Q2369747	Storace	PROPN
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+his	O	_	his	PRON
+sister	O	_	sister	NOUN
+,	O	_	,	PUNCT
+returned	O	_	return	VERB
+to	O	_	to	ADP
+England	B-country	Q21	England	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,35 @@
+#document_id:TheHarmonicon__1824-016.txt_127
+#document_date:1824
+#sent_text:Philidor afterwards obtained permission to give this Concert Spirituel in the palace of the Tuileries, in the private theatre of which it continued to take place annually for many years.
+Philidor	B-person	Q362339	Philidor	PROPN
+afterwards	O	_	afterwards	ADV
+obtained	O	_	obtain	VERB
+permission	O	_	permission	NOUN
+to	O	_	to	PART
+give	O	_	give	VERB
+this	O	_	this	DET
+Concert	B-concert	Q1123913	Concert	PROPN
+Spirituel	I-concert	Q1123913	Spirituel	PROPN
+in	O	_	in	ADP
+the	O	_	the	DET
+palace	B-building	Q234364	palace	NOUN
+of	I-building	Q234364	of	ADP
+the	I-building	Q234364	the	DET
+Tuileries	I-building	Q234364	Tuileries	PROPN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+private	O	_	private	ADJ
+theatre	O	_	theatre	NOUN
+of	O	_	of	ADP
+which	O	_	which	PRON
+it	O	_	it	PRON
+continued	O	_	continue	VERB
+to	O	_	to	PART
+take	O	_	take	VERB
+place	O	_	place	NOUN
+annually	O	_	annually	ADV
+for	O	_	for	ADP
+many	O	_	many	ADJ
+years	O	_	year	NOUN
+.	O	_	.	PUNCT

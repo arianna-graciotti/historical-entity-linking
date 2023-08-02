@@ -1,0 +1,30 @@
+#document_id:TheMusicalTimes__1873-366.txt_2149
+#document_date:1873
+#sent_text:Cantate Domino and Deus Misereatur have been sung at each gathering in such a manner as to prove that the best music is that which most.
+Cantate	B-music	Q1326476	Cantate	PROPN
+Domino	I-music	Q1326476	Domino	PROPN
+and	O	_	and	CCONJ
+Deus	B-music	Q1689664	Deus	PROPN
+Misereatur	I-music	Q1689664	Misereatur	PROPN
+have	O	_	have	AUX
+been	O	_	be	AUX
+sung	O	_	sing	VERB
+at	O	_	at	ADP
+each	O	_	each	DET
+gathering	O	_	gathering	NOUN
+in	O	_	in	ADP
+such	O	_	such	DET
+a	O	_	a	DET
+manner	O	_	manner	NOUN
+as	O	_	as	SCONJ
+to	O	_	to	PART
+prove	O	_	prove	VERB
+that	O	_	that	SCONJ
+the	O	_	the	DET
+best	O	_	good	ADJ
+music	O	_	music	NOUN
+is	O	_	be	AUX
+that	O	_	that	PRON
+which	O	_	which	PRON
+most	O	_	most	ADV
+.	O	_	.	PUNCT

@@ -1,0 +1,11 @@
+#document_id:TheMusicalTimes__1876-397.txt_661
+#document_date:1876
+#sent_text:G, F. Geaussent, Esq.,
+G	O	_	G	PROPN
+,	O	_	,	PUNCT
+F.	B-person	NIL	F.	PROPN
+Geaussent	I-person	NIL	Geaussent	PROPN
+,	O	_	,	PUNCT
+Esq	O	_	Esq	PROPN
+.	O	_	.	PUNCT
+,	O	_	,	PUNCT

@@ -1,0 +1,13 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_99
+#document_date:1828
+#sent_text:Pressinger, 198 Private Concerts in Vienna, 187;
+Pressinger	B-person	NIL	Pressinger	PROPN
+,	O	_	,	PUNCT
+198	O	_	198	NUM
+Private	O	_	private	ADJ
+Concerts	O	_	Concerts	PROPN
+in	O	_	in	ADP
+Vienna	B-city	Q1741	Vienna	PROPN
+,	O	_	,	PUNCT
+187	O	_	187	NUM
+;	O	_	;	PUNCT

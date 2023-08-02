@@ -1,0 +1,18 @@
+#document_id:TheMusicalTimes__1876-397.txt_2175
+#document_date:1876
+#sent_text:The programme consisted of selections from the Messiah and Mendelssohn’s Hymn of Praise.
+The	O	_	the	DET
+programme	O	_	programme	NOUN
+consisted	O	_	consist	VERB
+of	O	_	of	ADP
+selections	O	_	selection	NOUN
+from	O	_	from	ADP
+the	O	_	the	DET
+Messiah	B-music	Q207732	Messiah	PROPN
+and	O	_	and	CCONJ
+Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
+’s	O	_	’s	PART
+Hymn	B-music	Q210536	Hymn	PROPN
+of	I-music	Q210536	of	ADP
+Praise	I-music	Q210536	praise	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,20 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1476
+#document_date:1826
+#sent_text:and.regular employment in the sanctuary of the Lord, which is proved by the following quotation :
+and.regular	O	_	and.regular	ADJ
+employment	O	_	employment	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+sanctuary	O	_	sanctuary	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Lord	O	_	Lord	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+is	O	_	be	AUX
+proved	O	_	prove	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+following	O	_	follow	VERB
+quotation	O	_	quotation	NOUN
+:	O	_	:	PUNCT

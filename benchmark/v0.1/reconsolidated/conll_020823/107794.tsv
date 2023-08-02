@@ -1,0 +1,44 @@
+#document_id:TheMusicalTimes__1873-366.txt_1592
+#document_date:1873
+#sent_text:as.a token of their respect: and esteem, and of their appreciation of the singular abulity and zeal with which, during the past thirty-one years, he has discharged the duties of organist at Christ Church.
+as.a	O	_	as.a	DET
+token	O	_	token	NOUN
+of	O	_	of	ADP
+their	O	_	their	PRON
+respect	O	_	respect	NOUN
+:	O	_	:	PUNCT
+and	O	_	and	CCONJ
+esteem	O	_	esteem	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+of	O	_	of	ADP
+their	O	_	their	PRON
+appreciation	O	_	appreciation	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+singular	O	_	singular	ADJ
+abulity	O	_	abulity	NOUN
+and	O	_	and	CCONJ
+zeal	O	_	zeal	NOUN
+with	O	_	with	ADP
+which	O	_	which	PRON
+,	O	_	,	PUNCT
+during	O	_	during	ADP
+the	O	_	the	DET
+past	O	_	past	ADJ
+thirty	O	_	thirty	NUM
+-	O	_	-	PUNCT
+one	O	_	one	NUM
+years	O	_	year	NOUN
+,	O	_	,	PUNCT
+he	O	_	he	PRON
+has	O	_	have	AUX
+discharged	O	_	discharge	VERB
+the	O	_	the	DET
+duties	O	_	duty	NOUN
+of	O	_	of	ADP
+organist	O	_	organist	NOUN
+at	O	_	at	ADP
+Christ	B-worship-place	Q1026917	Christ	PROPN
+Church	I-worship-place	Q1026917	Church	PROPN
+.	O	_	.	PUNCT

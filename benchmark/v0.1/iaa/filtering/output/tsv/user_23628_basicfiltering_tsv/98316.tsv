@@ -1,0 +1,8 @@
+#document_id:DwightSJournalOfMusic__1873-016.txt_1150
+#document_date:NaN
+#sent_text:published concerting the National Theatre
+published	O	_	publish	VERB
+concerting	O	_	concert	VERB
+the	O	_	the	DET
+National	B-theater	NIL	National	PROPN
+Theatre	I-theater	NIL	Theatre	PROPN

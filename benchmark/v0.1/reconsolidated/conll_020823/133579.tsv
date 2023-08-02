@@ -1,0 +1,9 @@
+#document_id:TheHarmonicon__1828-001.txt_1661
+#document_date:1828
+#sent_text:the fine duet from Agnese.
+the	O	_	the	DET
+fine	O	_	fine	ADJ
+duet	O	_	duet	NOUN
+from	O	_	from	ADP
+Agnese	B-opera	Q16162766	Agnese	PROPN
+.	O	_	.	PUNCT

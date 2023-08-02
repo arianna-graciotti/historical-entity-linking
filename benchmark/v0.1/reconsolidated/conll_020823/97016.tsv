@@ -1,0 +1,22 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_899
+#document_date:1868
+#sent_text:-‘Chureh that “we would desire to introduce music of a less lagnbrious character than we have alluded.
+-‘Chureh	O	_	-‘chureh	X
+that	O	_	that	SCONJ
+“	O	_	"	PUNCT
+we	O	_	we	PRON
+would	O	_	would	AUX
+desire	O	_	desire	VERB
+to	O	_	to	PART
+introduce	O	_	introduce	VERB
+music	O	_	music	NOUN
+of	O	_	of	ADP
+a	O	_	a	DET
+less	O	_	less	ADV
+lagnbrious	O	_	lagnbrious	ADJ
+character	O	_	character	NOUN
+than	O	_	than	SCONJ
+we	O	_	we	PRON
+have	O	_	have	AUX
+alluded	O	_	allude	VERB
+.	O	_	.	PUNCT

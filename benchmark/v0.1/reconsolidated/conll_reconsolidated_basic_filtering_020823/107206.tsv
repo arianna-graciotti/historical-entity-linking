@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1873-366.txt_868
+#document_date:1873
+#sent_text:Apply to Rev. H. C. Watson, St. James's.
+Apply	O	_	apply	VERB
+to	O	_	to	ADP
+Rev.	B-person	NIL	Rev.	PROPN
+H.	I-person	NIL	H.	PROPN
+C.	I-person	NIL	C.	PROPN
+Watson	I-person	NIL	Watson	PROPN
+,	O	_	,	PUNCT
+St.	O	_	St.	PROPN
+James	O	_	James	PROPN
+'s	O	_	's	PART
+.	O	_	.	PUNCT

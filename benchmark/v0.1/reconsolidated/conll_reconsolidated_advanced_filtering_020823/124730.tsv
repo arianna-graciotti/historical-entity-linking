@@ -1,0 +1,31 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_3807
+#document_date:1826
+#sent_text:They have been well-set by Mr. Braham, who has ‘most appropriately introduced some of the most beautiful traits of Weber’s own melodies.
+They	O	_	they	PRON
+have	O	_	have	AUX
+been	O	_	be	AUX
+well	O	_	well	ADV
+-	O	_	-	PUNCT
+set	O	_	set	VERB
+by	O	_	by	ADP
+Mr.	B-person	Q1699393	Mr.	PROPN
+Braham	I-person	Q1699393	Braham	PROPN
+,	O	_	,	PUNCT
+who	O	_	who	PRON
+has	O	_	have	AUX
+‘	O	_	'	PUNCT
+most	O	_	most	ADV
+appropriately	O	_	appropriately	ADV
+introduced	O	_	introduce	VERB
+some	O	_	some	PRON
+of	O	_	of	ADP
+the	O	_	the	DET
+most	O	_	most	ADV
+beautiful	O	_	beautiful	ADJ
+traits	O	_	trait	NOUN
+of	O	_	of	ADP
+Weber	B-person	Q154812	Weber	PROPN
+’s	O	_	’s	PART
+own	O	_	own	ADJ
+melodies	O	_	melody	NOUN
+.	O	_	.	PUNCT

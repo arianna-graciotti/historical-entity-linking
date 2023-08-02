@@ -1,0 +1,14 @@
+#document_id:TheMusicalTimes__1876-397.txt_1403
+#document_date:1876
+#sent_text:Mr. J. Turle Lee and Mr. J. Clayton Kift accompanied.
+Mr.	B-person	Q6144471	Mr.	PROPN
+J.	I-person	Q6144471	J.	PROPN
+Turle	I-person	Q6144471	Turle	PROPN
+Lee	I-person	Q6144471	Lee	PROPN
+and	O	_	and	CCONJ
+Mr.	B-person	NIL	Mr.	PROPN
+J.	I-person	NIL	J.	PROPN
+Clayton	I-person	NIL	Clayton	PROPN
+Kift	I-person	NIL	Kift	PROPN
+accompanied	O	_	accompany	VERB
+.	O	_	.	PUNCT

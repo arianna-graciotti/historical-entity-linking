@@ -1,0 +1,34 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3075
+#document_date:1828
+#sent_text:‘Mr. Braham never pave a stronger proof of his fine taste than in the acknowledged adaptation of his manner to the pure and polished musical feelings of these audiences.
+‘	B-person	Q1699393	'	PUNCT
+Mr.	I-person	Q1699393	Mr.	PROPN
+Braham	I-person	Q1699393	Braham	PROPN
+never	O	_	never	ADV
+pave	O	_	pave	VERB
+a	O	_	a	DET
+stronger	O	_	strong	ADJ
+proof	O	_	proof	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+fine	O	_	fine	ADJ
+taste	O	_	taste	NOUN
+than	O	_	than	ADP
+in	O	_	in	ADP
+the	O	_	the	DET
+acknowledged	O	_	acknowledge	VERB
+adaptation	O	_	adaptation	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+manner	O	_	manner	NOUN
+to	O	_	to	ADP
+the	O	_	the	DET
+pure	O	_	pure	ADJ
+and	O	_	and	CCONJ
+polished	O	_	polished	ADJ
+musical	O	_	musical	ADJ
+feelings	O	_	feeling	NOUN
+of	O	_	of	ADP
+these	O	_	these	DET
+audiences	O	_	audience	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1873-366.txt_4580
+#document_date:1873
+#sent_text:From Meyerbeer’s “ Les Hucusnors.
+From	O	_	from	ADP
+Meyerbeer	B-person	Q105237	Meyerbeer	PROPN
+’s	O	_	’s	PART
+“	O	_	"	PUNCT
+Les	O	_	Les	PROPN
+Hucusnors	O	_	Hucusnors	PROPN
+.	O	_	.	PUNCT

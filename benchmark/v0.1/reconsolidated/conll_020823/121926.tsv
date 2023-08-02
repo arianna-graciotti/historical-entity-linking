@@ -1,0 +1,19 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4692
+#document_date:1828
+#sent_text:Six Duets from Rossini’s Operas for Harp and Piano Forte, by N.C. Bochsa.
+Six	B-music	NIL	six	NUM
+Duets	I-music	NIL	duet	NOUN
+from	I-music	NIL	from	ADP
+Rossini	I-music	NIL	Rossini	PROPN
+’s	I-music	NIL	’s	PART
+Operas	I-music	NIL	Operas	PROPN
+for	I-music	NIL	for	ADP
+Harp	I-music	NIL	harp	NOUN
+and	I-music	NIL	and	CCONJ
+Piano	I-music	NIL	Piano	PROPN
+Forte	I-music	NIL	Forte	PROPN
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+N.C.	B-person	Q251397	N.C.	PROPN
+Bochsa	I-person	Q251397	Bochsa	PROPN
+.	O	_	.	PUNCT

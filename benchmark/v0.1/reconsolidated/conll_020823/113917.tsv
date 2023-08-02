@@ -1,0 +1,22 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1688
+#document_date:1825
+#sent_text:Jean Pierre Guignon was chosen ‘to teach his instrument to the Dauphin, the father.of Louis XIV.
+Jean	B-person	Q337573	Jean	PROPN
+Pierre	I-person	Q337573	Pierre	PROPN
+Guignon	I-person	Q337573	Guignon	PROPN
+was	O	_	be	AUX
+chosen	O	_	choose	VERB
+‘	O	_	'	PUNCT
+to	O	_	to	PART
+teach	O	_	teach	VERB
+his	O	_	his	PRON
+instrument	O	_	instrument	NOUN
+to	O	_	to	ADP
+the	O	_	the	DET
+Dauphin	O	_	Dauphin	PROPN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+father.of	O	_	father.of	ADP
+Louis	B-person	NIL	Louis	PROPN
+XIV	I-person	NIL	XIV	PROPN
+.	O	_	.	PUNCT

@@ -1,0 +1,23 @@
+#document_id:TheMusicalTimes__1876-397.txt_2157
+#document_date:1876
+#sent_text:, the Potteries Tonic Sol-Fa Choristers gave their annual performance of the Messiah in the Town Hall.
+,	O	_	,	PUNCT
+the	O	_	the	DET
+Potteries	O	_	Potteries	PROPN
+Tonic	O	_	Tonic	PROPN
+Sol	O	_	Sol	PROPN
+-	O	_	-	PUNCT
+Fa	O	_	Fa	PROPN
+Choristers	O	_	Choristers	PROPN
+gave	O	_	give	VERB
+their	O	_	their	PRON
+annual	O	_	annual	ADJ
+performance	O	_	performance	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Messiah	B-opera	Q207732	Messiah	PROPN
+in	O	_	in	ADP
+the	O	_	the	DET
+Town	O	_	Town	PROPN
+Hall	O	_	Hall	PROPN
+.	O	_	.	PUNCT

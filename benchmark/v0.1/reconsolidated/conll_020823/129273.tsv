@@ -1,0 +1,7 @@
+#document_id:TheHarmonicon__1832-012.txt_1070
+#document_date:1832
+#sent_text:Mr. Dowton examined.
+Mr.	B-person	Q19364628	Mr.	PROPN
+Dowton	I-person	Q19364628	Dowton	PROPN
+examined	O	_	examine	VERB
+.	O	_	.	PUNCT

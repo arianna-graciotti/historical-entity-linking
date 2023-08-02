@@ -1,0 +1,15 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_658
+#document_date:1824
+#sent_text:The Illustrious Traveller, or the Forges of Kenzel,(Melo-drame)
+The	O	_	the	DET
+Illustrious	O	_	illustrious	ADJ
+Traveller	O	_	Traveller	PROPN
+,	O	_	,	PUNCT
+or	O	_	or	CCONJ
+the	O	_	the	DET
+Forges	O	_	forge	NOUN
+of	O	_	of	ADP
+Kenzel,(Melo	O	_	Kenzel,(Melo	PROPN
+-	O	_	-	PUNCT
+drame	O	_	drame	PROPN
+)	O	_	)	PUNCT

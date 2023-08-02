@@ -1,0 +1,40 @@
+#document_id:TheMusicalTimes__1876-402.txt_1109
+#document_date:1876
+#sent_text:Out of the 626 works given in Kéchel’s Catalogue, about 540 will be included in this edition, the remainder being either lost, not quite com-plete, or of doubtful authenticity.
+Out	O	_	out	ADP
+of	O	_	of	ADP
+the	O	_	the	DET
+626	O	_	626	NUM
+works	O	_	work	NOUN
+given	O	_	give	VERB
+in	O	_	in	ADP
+Kéchel	B-person	Q78529	Kéchel	PROPN
+’s	O	_	’s	PART
+Catalogue	O	_	Catalogue	PROPN
+,	O	_	,	PUNCT
+about	O	_	about	ADP
+540	O	_	540	NUM
+will	O	_	will	AUX
+be	O	_	be	AUX
+included	O	_	include	VERB
+in	O	_	in	ADP
+this	O	_	this	DET
+edition	O	_	edition	NOUN
+,	O	_	,	PUNCT
+the	O	_	the	DET
+remainder	O	_	remainder	NOUN
+being	O	_	be	AUX
+either	O	_	either	CCONJ
+lost	O	_	lost	ADJ
+,	O	_	,	PUNCT
+not	O	_	not	PART
+quite	O	_	quite	ADV
+com	O	_	com	ADJ
+-	O	_	-	PUNCT
+plete	O	_	plete	ADJ
+,	O	_	,	PUNCT
+or	O	_	or	CCONJ
+of	O	_	of	ADP
+doubtful	O	_	doubtful	ADJ
+authenticity	O	_	authenticity	NOUN
+.	O	_	.	PUNCT

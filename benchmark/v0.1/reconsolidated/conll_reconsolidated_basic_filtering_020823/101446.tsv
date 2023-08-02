@@ -1,0 +1,15 @@
+#document_id:TheMusicalTimes__1875-388.txt_278
+#document_date:1875
+#sent_text:Miss Annie Sinclair, Miss Matilda Scott, Miss Jessie Royd.
+Miss	B-person	NIL	Miss	PROPN
+Annie	I-person	NIL	Annie	PROPN
+Sinclair	I-person	NIL	Sinclair	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Matilda	I-person	NIL	Matilda	PROPN
+Scott	I-person	NIL	Scott	PROPN
+,	O	_	,	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Jessie	I-person	NIL	Jessie	PROPN
+Royd	I-person	NIL	Royd	PROPN
+.	O	_	.	PUNCT

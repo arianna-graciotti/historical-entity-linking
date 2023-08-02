@@ -1,0 +1,20 @@
+#document_id:TheHarmonicon__1832-012.txt_323
+#document_date:1832
+#sent_text:Mr. Linley proposed stating on his. song, that my quartett had been composed first.
+Mr.	B-person	Q5541748	Mr.	PROPN
+Linley	I-person	Q5541748	Linley	PROPN
+proposed	O	_	propose	VERB
+stating	O	_	state	VERB
+on	O	_	on	ADP
+his	O	_	his	PRON
+.	O	_	.	PUNCT
+song	O	_	song	NOUN
+,	O	_	,	PUNCT
+that	O	_	that	SCONJ
+my	O	_	my	PRON
+quartett	O	_	quartett	NOUN
+had	O	_	have	AUX
+been	O	_	be	AUX
+composed	O	_	compose	VERB
+first	O	_	first	ADV
+.	O	_	.	PUNCT

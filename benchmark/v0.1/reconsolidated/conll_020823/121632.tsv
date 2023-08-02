@@ -1,0 +1,33 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_4314
+#document_date:1828
+#sent_text:We mean no disréspect to our ‘own Royal Academy of Music by not mentioning it on this occasion; but it is a very recent establishment, and .
+We	O	_	we	PRON
+mean	O	_	mean	VERB
+no	O	_	no	DET
+disréspect	O	_	disréspect	NOUN
+to	O	_	to	ADP
+our	O	_	our	PRON
+‘	O	_	'	PUNCT
+own	O	_	own	ADJ
+Royal	B-school	Q1144673	Royal	PROPN
+Academy	I-school	Q1144673	Academy	PROPN
+of	I-school	Q1144673	of	ADP
+Music	I-school	Q1144673	Music	PROPN
+by	O	_	by	ADP
+not	O	_	not	PART
+mentioning	O	_	mention	VERB
+it	O	_	it	PRON
+on	O	_	on	ADP
+this	O	_	this	DET
+occasion	O	_	occasion	NOUN
+;	O	_	;	PUNCT
+but	O	_	but	CCONJ
+it	O	_	it	PRON
+is	O	_	be	AUX
+a	O	_	a	DET
+very	O	_	very	ADV
+recent	O	_	recent	ADJ
+establishment	O	_	establishment	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+.	O	_	.	PUNCT

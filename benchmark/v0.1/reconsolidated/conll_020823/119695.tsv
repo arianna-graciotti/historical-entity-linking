@@ -1,0 +1,30 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1295
+#document_date:1828
+#sent_text:This Maestro composed the music for a mass performed on St. Joseph’s Day, 1821, in the Rotunda (Santa Maria ad Martyras).
+This	O	_	this	DET
+Maestro	O	_	maestro	NOUN
+composed	O	_	compose	VERB
+the	O	_	the	DET
+music	O	_	music	NOUN
+for	O	_	for	ADP
+a	O	_	a	DET
+mass	O	_	mass	NOUN
+performed	O	_	perform	VERB
+on	O	_	on	ADP
+St.	B-festival	Q1038328	St.	PROPN
+Joseph	I-festival	Q1038328	Joseph	PROPN
+’s	I-festival	Q1038328	’s	PART
+Day	I-festival	Q1038328	Day	PROPN
+,	O	_	,	PUNCT
+1821	O	_	1821	NUM
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+the	O	_	the	DET
+Rotunda	B-worship-place	Q99309	Rotunda	PROPN
+(	O	_	(	PUNCT
+Santa	B-worship-place	Q99309	Santa	PROPN
+Maria	I-worship-place	Q99309	Maria	PROPN
+ad	I-worship-place	Q99309	ad	X
+Martyras	I-worship-place	Q99309	Martyras	PROPN
+)	O	_	)	PUNCT
+.	O	_	.	PUNCT

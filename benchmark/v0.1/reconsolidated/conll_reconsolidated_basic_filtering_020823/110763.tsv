@@ -1,0 +1,29 @@
+#document_id:TheMusicalWorld__1843-038.txt_419
+#document_date:1843
+#sent_text:Mrs. Shaw sang the next piece, No. 17, with more grace and power of vocalization than she had displayed during her visit.
+Mrs.	B-person	Q3291051	Mrs.	PROPN
+Shaw	I-person	Q3291051	Shaw	PROPN
+sang	O	_	sing	VERB
+the	O	_	the	DET
+next	O	_	next	ADJ
+piece	O	_	piece	NOUN
+,	O	_	,	PUNCT
+No	B-music	NIL	no	NOUN
+.	I-music	NIL	.	NOUN
+17	I-music	NIL	17	NUM
+,	O	_	,	PUNCT
+with	O	_	with	ADP
+more	O	_	more	ADJ
+grace	O	_	grace	NOUN
+and	O	_	and	CCONJ
+power	O	_	power	NOUN
+of	O	_	of	ADP
+vocalization	O	_	vocalization	NOUN
+than	O	_	than	SCONJ
+she	O	_	she	PRON
+had	O	_	have	AUX
+displayed	O	_	display	VERB
+during	O	_	during	ADP
+her	O	_	her	PRON
+visit	O	_	visit	NOUN
+.	O	_	.	PUNCT

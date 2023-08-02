@@ -1,0 +1,16 @@
+#document_id:TheHarmonicon__1828-001.txt_1444
+#document_date:1828
+#sent_text:(Wessel and Stodart, 6, Frith Street.) 3.
+(	O	_	(	PUNCT
+Wessel	B-company	NIL	Wessel	PROPN
+and	I-company	NIL	and	CCONJ
+Stodart	I-company	NIL	Stodart	PROPN
+,	O	_	,	PUNCT
+6	O	_	6	NUM
+,	O	_	,	PUNCT
+Frith	B-road	Q4565954	Frith	PROPN
+Street	I-road	Q4565954	Street	PROPN
+.	O	_	.	PUNCT
+)	O	_	)	PUNCT
+3	O	_	3	X
+.	O	_	.	PUNCT

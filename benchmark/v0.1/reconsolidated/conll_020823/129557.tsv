@@ -1,0 +1,26 @@
+#document_id:TheHarmonicon__1832-012.txt_1427
+#document_date:1832
+#sent_text:The fantasia consists of an introductory prelude, an allegro in c, an andante in ¥, and a concluding allegro.
+The	O	_	the	DET
+fantasia	O	_	fantasia	NOUN
+consists	O	_	consist	VERB
+of	O	_	of	ADP
+an	O	_	an	DET
+introductory	O	_	introductory	ADJ
+prelude	O	_	prelude	NOUN
+,	O	_	,	PUNCT
+an	O	_	an	DET
+allegro	O	_	allegro	NOUN
+in	O	_	in	ADP
+c	O	_	c	PROPN
+,	O	_	,	PUNCT
+an	O	_	an	DET
+andante	O	_	andante	X
+in	O	_	in	ADP
+¥	O	_	¥	SYM
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+a	O	_	a	DET
+concluding	O	_	conclude	VERB
+allegro	O	_	allegro	NOUN
+.	O	_	.	PUNCT

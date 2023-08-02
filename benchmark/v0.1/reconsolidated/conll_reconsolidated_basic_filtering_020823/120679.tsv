@@ -1,0 +1,11 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2836
+#document_date:1828
+#sent_text:The second part of Acis and Galatea.
+The	O	_	the	DET
+second	O	_	second	ADJ
+part	O	_	part	NOUN
+of	O	_	of	ADP
+Acis	B-work-of-art	Q341482	Acis	PROPN
+and	I-work-of-art	Q341482	and	CCONJ
+Galatea	I-work-of-art	Q341482	Galatea	PROPN
+.	O	_	.	PUNCT

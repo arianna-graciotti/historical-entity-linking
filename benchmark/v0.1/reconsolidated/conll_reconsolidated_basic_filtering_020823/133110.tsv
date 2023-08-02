@@ -1,0 +1,17 @@
+#document_id:TheHarmonicon__1828-001.txt_1069
+#document_date:1828
+#sent_text:adapted to the Airs, including upwards of ONE Hunprep Sones dy Burns.
+adapted	O	_	adapt	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+Airs	O	_	Airs	PROPN
+,	O	_	,	PUNCT
+including	O	_	include	VERB
+upwards	O	_	upwards	ADV
+of	O	_	of	ADP
+ONE	O	_	one	NUM
+Hunprep	O	_	Hunprep	PROPN
+Sones	O	_	Sones	PROPN
+dy	O	_	dy	X
+Burns	B-person	Q81960	burn	NOUN
+.	O	_	.	PUNCT

@@ -1,0 +1,21 @@
+#document_id:TheMusicalWorld__1844-006.txt_1056
+#document_date:1844
+#sent_text:each, stamped for post, and circulating free in all the Colonies of the British Empire.
+each	O	_	each	PRON
+,	O	_	,	PUNCT
+stamped	O	_	stamp	VERB
+for	O	_	for	ADP
+post	O	_	post	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+circulating	O	_	circulate	VERB
+free	O	_	free	ADJ
+in	O	_	in	ADP
+all	O	_	all	DET
+the	O	_	the	DET
+Colonies	O	_	colony	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+British	B-empire	Q8680	British	PROPN
+Empire	I-empire	Q8680	Empire	PROPN
+.	O	_	.	PUNCT

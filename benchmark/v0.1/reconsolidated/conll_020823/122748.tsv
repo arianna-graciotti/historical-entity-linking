@@ -1,0 +1,32 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_1106
+#document_date:1826
+#sent_text:Ob To judge by the following passage, some of these musicians possess an influence over the people little inferior to the ancient bards of Greece and Rome.
+Ob	O	_	ob	X
+To	O	_	to	PART
+judge	O	_	judge	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+following	O	_	follow	VERB
+passage	O	_	passage	NOUN
+,	O	_	,	PUNCT
+some	O	_	some	PRON
+of	O	_	of	ADP
+these	O	_	these	DET
+musicians	O	_	musician	NOUN
+possess	O	_	possess	VERB
+an	O	_	an	DET
+influence	O	_	influence	NOUN
+over	O	_	over	ADP
+the	O	_	the	DET
+people	O	_	people	NOUN
+little	O	_	little	ADV
+inferior	O	_	inferior	ADJ
+to	O	_	to	ADP
+the	O	_	the	DET
+ancient	O	_	ancient	ADJ
+bards	O	_	bard	NOUN
+of	O	_	of	ADP
+Greece	B-country	Q41	Greece	PROPN
+and	O	_	and	CCONJ
+Rome	B-city	Q220	Rome	PROPN
+.	O	_	.	PUNCT

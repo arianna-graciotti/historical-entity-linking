@@ -1,0 +1,25 @@
+#document_id:TheMusicalWorld__1843-038.txt_182
+#document_date:1843
+#sent_text:The only complete score extant, is that of Castor and Pollux, which belongs to the library of the Conservatoire.
+The	O	_	the	DET
+only	O	_	only	ADJ
+complete	O	_	complete	ADJ
+score	O	_	score	NOUN
+extant	O	_	extant	ADJ
+,	O	_	,	PUNCT
+is	O	_	be	AUX
+that	O	_	that	PRON
+of	O	_	of	ADP
+Castor	O	_	Castor	PROPN
+and	O	_	and	CCONJ
+Pollux	O	_	Pollux	PROPN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+belongs	O	_	belong	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+library	O	_	library	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Conservatoire	O	_	Conservatoire	PROPN
+.	O	_	.	PUNCT

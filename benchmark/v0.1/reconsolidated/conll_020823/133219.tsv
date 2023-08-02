@@ -1,0 +1,17 @@
+#document_id:TheHarmonicon__1828-001.txt_1194
+#document_date:1828
+#sent_text:His ‘“ Maid of Isla” is a sweet and beautiful song.
+His	O	_	his	PRON
+‘	O	_	'	PUNCT
+“	O	_	"	PUNCT
+Maid	B-song	NIL	Maid	PROPN
+of	I-song	NIL	of	ADP
+Isla	I-song	NIL	Isla	PROPN
+”	O	_	"	PUNCT
+is	O	_	be	AUX
+a	O	_	a	DET
+sweet	O	_	sweet	ADJ
+and	O	_	and	CCONJ
+beautiful	O	_	beautiful	ADJ
+song	O	_	song	NOUN
+.	O	_	.	PUNCT

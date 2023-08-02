@@ -1,0 +1,31 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1309
+#document_date:1824
+#sent_text:He arrived in London in 1725 ; he had studied at Helmstadt, and engaged himself on his landing to perform in the orchestra of the opera.
+He	O	_	he	PRON
+arrived	O	_	arrive	VERB
+in	O	_	in	ADP
+London	B-city	Q84	London	PROPN
+in	O	_	in	ADP
+1725	O	_	1725	NUM
+;	O	_	;	PUNCT
+he	O	_	he	PRON
+had	O	_	have	AUX
+studied	O	_	study	VERB
+at	O	_	at	ADP
+Helmstadt	B-city	Q504431	Helmstadt	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+engaged	O	_	engage	VERB
+himself	O	_	himself	PRON
+on	O	_	on	ADP
+his	O	_	his	PRON
+landing	O	_	landing	NOUN
+to	O	_	to	PART
+perform	O	_	perform	VERB
+in	O	_	in	ADP
+the	O	_	the	DET
+orchestra	O	_	orchestra	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+opera	O	_	opera	NOUN
+.	O	_	.	PUNCT

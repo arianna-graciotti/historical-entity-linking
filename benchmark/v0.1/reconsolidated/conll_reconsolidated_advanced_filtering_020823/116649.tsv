@@ -1,0 +1,22 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_1236
+#document_date:1824
+#sent_text:He superintended the music of the Count de Clermont until his death, which took place in 1768.
+He	O	_	he	PRON
+superintended	O	_	superintend	VERB
+the	O	_	the	DET
+music	O	_	music	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Count	B-person	NIL	Count	PROPN
+de	I-person	NIL	de	X
+Clermont	I-person	NIL	Clermont	PROPN
+until	O	_	until	ADP
+his	O	_	his	PRON
+death	O	_	death	NOUN
+,	O	_	,	PUNCT
+which	O	_	which	PRON
+took	O	_	take	VERB
+place	O	_	place	NOUN
+in	O	_	in	ADP
+1768	O	_	1768	NUM
+.	O	_	.	PUNCT

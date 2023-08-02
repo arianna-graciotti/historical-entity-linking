@@ -1,0 +1,25 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2291
+#document_date:1824
+#sent_text:Mr. Sapio demonstrated the beautiful quality of his voice and the effective sensibility of his nature in his duet and song.
+Mr.	B-person	Q99033016	Mr.	PROPN
+Sapio	I-person	Q99033016	Sapio	PROPN
+demonstrated	O	_	demonstrate	VERB
+the	O	_	the	DET
+beautiful	O	_	beautiful	ADJ
+quality	O	_	quality	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+voice	O	_	voice	NOUN
+and	O	_	and	CCONJ
+the	O	_	the	DET
+effective	O	_	effective	ADJ
+sensibility	O	_	sensibility	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+nature	O	_	nature	NOUN
+in	O	_	in	ADP
+his	O	_	his	PRON
+duet	O	_	duet	NOUN
+and	O	_	and	CCONJ
+song	O	_	song	NOUN
+.	O	_	.	PUNCT

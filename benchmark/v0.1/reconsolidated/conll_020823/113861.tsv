@@ -1,0 +1,30 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1613
+#document_date:1825
+#sent_text:He composed a great deal for the Court, and was particularly happy in his invention of ballets, in which the King himself sometimes danced.
+He	O	_	he	PRON
+composed	O	_	compose	VERB
+a	O	_	a	DET
+great	O	_	great	ADJ
+deal	O	_	deal	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+Court	B-government-organization	NIL	Court	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+was	O	_	be	AUX
+particularly	O	_	particularly	ADV
+happy	O	_	happy	ADJ
+in	O	_	in	ADP
+his	O	_	his	PRON
+invention	O	_	invention	NOUN
+of	O	_	of	ADP
+ballets	O	_	ballet	NOUN
+,	O	_	,	PUNCT
+in	O	_	in	ADP
+which	O	_	which	PRON
+the	O	_	the	DET
+King	O	_	King	PROPN
+himself	O	_	himself	PRON
+sometimes	O	_	sometimes	ADV
+danced	O	_	dance	VERB
+.	O	_	.	PUNCT

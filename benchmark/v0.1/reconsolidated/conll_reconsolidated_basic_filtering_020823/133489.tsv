@@ -1,0 +1,19 @@
+#document_id:TheHarmonicon__1828-001.txt_1556
+#document_date:1828
+#sent_text:The chairman was supported by Messrs. Clementi, J. B. Cramer, Braham and Moscheles.
+The	O	_	the	DET
+chairman	O	_	chairman	NOUN
+was	O	_	be	AUX
+supported	O	_	support	VERB
+by	O	_	by	ADP
+Messrs.	B-person	Q193673	Messrs.	PROPN
+Clementi	I-person	Q193673	Clementi	PROPN
+,	O	_	,	PUNCT
+J.	B-person	Q455212	J.	PROPN
+B.	I-person	Q455212	B.	PROPN
+Cramer	I-person	Q455212	Cramer	PROPN
+,	O	_	,	PUNCT
+Braham	B-person	NIL	Braham	PROPN
+and	O	_	and	CCONJ
+Moscheles	B-person	Q159551	Moscheles	PROPN
+.	O	_	.	PUNCT

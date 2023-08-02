@@ -1,0 +1,9 @@
+#document_id:TheHarmonicon__1824-016.txt_2511
+#document_date:1824
+#sent_text:: , Covent-GARDEN.
+:	O	_	:	PUNCT
+,	O	_	,	PUNCT
+Covent	B-city-district	Q55019	Covent	PROPN
+-	I-city-district	Q55019	-	PUNCT
+GARDEN	I-city-district	Q55019	GARDEN	PROPN
+.	O	_	.	PUNCT

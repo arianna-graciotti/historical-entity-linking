@@ -1,0 +1,26 @@
+#document_id:DwightSJournalOfMusic__1868-012.txt_381
+#document_date:1868
+#sent_text:Cherubini never heard , any of the works Cherubini composed for Paris sung to his own pliant, beautiful and harmonious language.
+Cherubini	B-person	Q20721	Cherubini	PROPN
+never	O	_	never	ADV
+heard	O	_	hear	VERB
+,	O	_	,	PUNCT
+any	O	_	any	PRON
+of	O	_	of	ADP
+the	O	_	the	DET
+works	O	_	work	NOUN
+Cherubini	B-person	Q20721	Cherubini	PROPN
+composed	O	_	compose	VERB
+for	O	_	for	ADP
+Paris	B-city	Q90	Paris	PROPN
+sung	O	_	sing	VERB
+to	O	_	to	ADP
+his	O	_	his	PRON
+own	O	_	own	ADJ
+pliant	O	_	pliant	ADJ
+,	O	_	,	PUNCT
+beautiful	O	_	beautiful	ADJ
+and	O	_	and	CCONJ
+harmonious	O	_	harmonious	ADJ
+language	O	_	language	NOUN
+.	O	_	.	PUNCT

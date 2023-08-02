@@ -1,0 +1,16 @@
+#document_id:TheMusicalTimes__1876-397.txt_3493
+#document_date:1876
+#sent_text:London: Duncan Davison Co., 244, Regent-street, W.
+London	B-city	Q84	London	PROPN
+:	O	_	:	PUNCT
+Duncan	B-company	Q8007669	Duncan	PROPN
+Davison	I-company	Q8007669	Davison	PROPN
+Co.	I-company	Q8007669	Co.	PROPN
+,	O	_	,	PUNCT
+244	O	_	244	NUM
+,	O	_	,	PUNCT
+Regent	B-road	Q1123106	Regent	PROPN
+-	I-road	Q1123106	-	PUNCT
+street	I-road	Q1123106	street	NOUN
+,	O	_	,	PUNCT
+W.	O	_	W.	PROPN

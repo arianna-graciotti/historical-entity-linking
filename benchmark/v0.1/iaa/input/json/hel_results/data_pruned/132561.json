@@ -1,0 +1,67 @@
+{
+    "id": "132561",
+    "text": "He has been off and on half a dozen times lately, according to the Chronicle.",
+    "page_id": "TheHarmonicon__1828-001.txt_365",
+    "namedEntities": [
+        {
+            "variable": "z1",
+            "type": "newspaper",
+            "entityName": "Chronicle",
+            "wikis": [
+                {
+                    "wiki": "San_Francisco_Chronicle",
+                    "link": "https://en.wikipedia.org/wiki/San_Francisco_Chronicle",
+                    "qid": "Q139103",
+                    "assessments": {
+                        "36136": {
+                            "user": "36136",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/The_Morning_Chronicle",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q2381797",
+                            "sentenceEnough": "no",
+                            "contextString": "Morning Chronicle",
+                            "contextBroader": "\u201cMr. Price, the enterprising lessee of Drury-Lane theatre, is reported to be negociating for a lease of the Italidn Opera House.\u201d\u2014Morning Chronicle.\r\n",
+                            "comments": ""
+                        },
+                        "23628": {
+                            "user": "23628",
+                            "assessment": "wrong",
+                            "wikiUrl": "https://en.wikipedia.org/wiki/The_Morning_Chronicle",
+                            "qidAssessment": "wrong",
+                            "wikiQid": "Q2381797",
+                            "sentenceEnough": "no",
+                            "contextString": "\u2018*\u2018We are requested to\u2019state, that Mr. Price has not an idea. of taking the Italian -theatre.\u201d\u2014Morning Chronicle. ",
+                            "contextBroader": "4th, \u2018*\u2018We are requested to\u2019state, that Mr. Price has not an idea. of taking the Italian -theatre.\u201d\u2014Morning Chronicle. What a very ridiculous figure the worthy old Chronicle now makes with its theatrical chit-chat, as it calls the puffs which about twice a week appear in its columns. If the editor, a man of the highest ability, think such matters beneath his notice, why is not some printer\u2019s devil on the establishment ordered to undertake ihe task of examining and correcting these paragraphs before they appear. But it would be more easy to reject them at once. Doubtless the surveyor of stamps looks sharply after them, for almost all of them are liable to the duty on advertisements. ss 6th. M. Laurent, who really has a hankering, it is said, after the King\u2019s Theatre, is now on again. He has been off and on half a dozen times lately, according to the Chronicle.",
+                            "comments": "the automatically retrieved qid was incorrect"
+                        }
+                    }
+                }
+            ],
+            "roles": [],
+            "attributes": [],
+            "assessments": {
+                "36136": {
+                    "user": "36136",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                },
+                "23628": {
+                    "user": "23628",
+                    "entityMention": "correct",
+                    "assessment": "correct"
+                }
+            }
+        }
+    ],
+    "missingNamedEntities": {
+        "36136": {
+            "user": "36136",
+            "missingNamedEntities": []
+        },
+        "23628": {
+            "user": "23628",
+            "missingNamedEntities": []
+        }
+    }
+}

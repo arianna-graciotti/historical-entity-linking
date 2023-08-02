@@ -1,0 +1,10 @@
+#document_id:TheMusicalTimes__1875-388.txt_2120
+#document_date:1875
+#sent_text:The Oratorio was Haydn’s Creation.
+The	O	_	the	DET
+Oratorio	O	_	Oratorio	PROPN
+was	O	_	be	AUX
+Haydn	B-person	Q7349	Haydn	PROPN
+’s	O	_	’s	PART
+Creation	O	_	creation	NOUN
+.	O	_	.	PUNCT

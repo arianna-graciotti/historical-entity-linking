@@ -1,0 +1,7 @@
+#document_id:TheMusicalTimes__1873-366.txt_450
+#document_date:1873
+#sent_text:CATHEDRAL CHANT BOOK.
+CATHEDRAL	B-book	NIL	CATHEDRAL	PROPN
+CHANT	I-book	NIL	CHANT	PROPN
+BOOK	I-book	NIL	BOOK	PROPN
+.	O	_	.	PUNCT

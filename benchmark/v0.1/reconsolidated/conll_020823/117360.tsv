@@ -1,0 +1,12 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2155
+#document_date:1824
+#sent_text:Mr. Lindley.—Pepusch. — Duet—Miss Goodall and
+Mr.	O	_	Mr.	PROPN
+Lindley.—Pepusch	O	_	Lindley.—Pepusch	PROPN
+.	O	_	.	PUNCT
+—	O	_	—	PUNCT
+Duet	O	_	Duet	PROPN
+—	O	_	—	PUNCT
+Miss	B-person	NIL	Miss	PROPN
+Goodall	I-person	NIL	Goodall	PROPN
+and	O	_	and	CCONJ

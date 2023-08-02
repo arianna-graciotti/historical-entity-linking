@@ -1,0 +1,29 @@
+#document_id:TheHarmonicon__1828-001.txt_1782
+#document_date:1828
+#sent_text:We have had a French opera, at the head of which was M. ‘Nourrit, first tenor of the Academie Royale de Musique.
+We	O	_	we	PRON
+have	O	_	have	AUX
+had	O	_	have	VERB
+a	O	_	a	DET
+French	O	_	french	ADJ
+opera	O	_	opera	NOUN
+,	O	_	,	PUNCT
+at	O	_	at	ADP
+the	O	_	the	DET
+head	O	_	head	NOUN
+of	O	_	of	ADP
+which	O	_	which	PRON
+was	O	_	be	AUX
+M.	B-person	Q634623	M.	PROPN
+‘	I-person	Q634623	‘	PROPN
+Nourrit	I-person	Q634623	Nourrit	PROPN
+,	O	_	,	PUNCT
+first	O	_	first	ADJ
+tenor	O	_	tenor	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+Academie	B-organization	Q283339	Academie	PROPN
+Royale	I-organization	Q283339	Royale	PROPN
+de	I-organization	Q283339	de	X
+Musique	I-organization	Q283339	Musique	PROPN
+.	O	_	.	PUNCT

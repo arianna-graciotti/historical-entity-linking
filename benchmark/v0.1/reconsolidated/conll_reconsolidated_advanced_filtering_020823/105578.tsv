@@ -1,0 +1,30 @@
+#document_id:TheMusicalTimes__1876-397.txt_2302
+#document_date:1876
+#sent_text:The service consisted of hymns and anthems from the Messiah, rendered by a large special choir, supplemented by a band and the large organ.
+The	O	_	the	DET
+service	O	_	service	NOUN
+consisted	O	_	consist	VERB
+of	O	_	of	ADP
+hymns	O	_	hymn	NOUN
+and	O	_	and	CCONJ
+anthems	O	_	anthem	NOUN
+from	O	_	from	ADP
+the	O	_	the	DET
+Messiah	B-music	Q207732	Messiah	PROPN
+,	O	_	,	PUNCT
+rendered	O	_	render	VERB
+by	O	_	by	ADP
+a	O	_	a	DET
+large	O	_	large	ADJ
+special	O	_	special	ADJ
+choir	O	_	choir	NOUN
+,	O	_	,	PUNCT
+supplemented	O	_	supplement	VERB
+by	O	_	by	ADP
+a	O	_	a	DET
+band	O	_	band	NOUN
+and	O	_	and	CCONJ
+the	O	_	the	DET
+large	O	_	large	ADJ
+organ	O	_	organ	NOUN
+.	O	_	.	PUNCT
