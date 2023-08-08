@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2760
-#document_date:1824
-#sent_text:249 PUBLIC MUSIC IN LONDON.
-249	O	_	249	NUM
-PUBLIC	O	_	public	ADJ
-MUSIC	O	_	music	NOUN
-IN	O	_	in	ADP
-LONDON	B-city	Q84	LONDON	PROPN
-.	O	_	.	PUNCT

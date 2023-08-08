@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1876-397.txt_1010
-#document_date:1876
-#sent_text:“ Life of Handel’
-“	O	_	"	PUNCT
-Life	B-publication	NIL	Life	PROPN
-of	I-publication	NIL	of	ADP
-Handel	I-publication	NIL	Handel	PROPN
-’	O	_	'	PUNCT

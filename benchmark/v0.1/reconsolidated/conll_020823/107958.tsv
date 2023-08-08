@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_1883
-#document_date:1873
-#sent_text:Music by Charles Salaman.
-Music	O	_	music	NOUN
-by	O	_	by	ADP
-Charles	B-person	Q2959519	Charles	PROPN
-Salaman	I-person	Q2959519	Salaman	PROPN
-.	O	_	.	PUNCT

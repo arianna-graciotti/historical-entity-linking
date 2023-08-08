@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2670
-#document_date:1826
-#sent_text:—Reiza, Miss Paton.
-—	O	_	—	PUNCT
-Reiza	O	_	Reiza	PROPN
-,	O	_	,	PUNCT
-Miss	B-person	Q16888398	Miss	PROPN
-Paton	I-person	Q16888398	Paton	PROPN
-.	O	_	.	PUNCT

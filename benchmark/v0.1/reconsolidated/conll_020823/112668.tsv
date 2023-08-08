@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_31
-#document_date:1825
-#sent_text:Griffin’s Divertimento, 1.
-Griffin	B-person	Q55685337	Griffin	PROPN
-’s	O	_	’s	PART
-Divertimento	B-music	NIL	Divertimento	PROPN
-,	I-music	NIL	,	PUNCT
-1	I-music	NIL	1	NUM
-.	O	_	.	PUNCT

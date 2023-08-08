@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1875-388.txt_1635
-#document_date:1875
-#sent_text:The programme commenced with Mendelssohn’s
-The	O	_	the	DET
-programme	O	_	programme	NOUN
-commenced	O	_	commence	VERB
-with	O	_	with	ADP
-Mendelssohn	B-person	Q46096	Mendelssohn	PROPN
-’s	O	_	’s	PART

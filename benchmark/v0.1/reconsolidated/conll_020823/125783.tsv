@@ -1,8 +1,0 @@
-#document_id:TheHarmonicon__1833-005.txt_1434
-#document_date:1833
-#sent_text:Mr. Nicholson's Fantasia was
-Mr.	B-person	NIL	Mr.	PROPN
-Nicholson	I-person	NIL	Nicholson	PROPN
-'s	O	_	's	PART
-Fantasia	B-music	NIL	Fantasia	PROPN
-was	O	_	be	AUX

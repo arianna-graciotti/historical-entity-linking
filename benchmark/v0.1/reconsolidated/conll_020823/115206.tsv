@@ -1,8 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_3372
-#document_date:1825
-#sent_text:the music by Bochsa.
-the	O	_	the	DET
-music	O	_	music	NOUN
-by	O	_	by	ADP
-Bochsa	B-person	Q251397	Bochsa	PROPN
-.	O	_	.	PUNCT

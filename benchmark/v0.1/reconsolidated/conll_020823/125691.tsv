@@ -1,9 +1,0 @@
-#document_id:TheHarmonicon__1833-005.txt_1245
-#document_date:1833
-#sent_text:(Judas Maccabeus.) .
-(	O	_	(	PUNCT
-Judas	B-work-of-art	Q993971	Judas	PROPN
-Maccabeus	I-work-of-art	Q993971	Maccabeus	PROPN
-.	O	_	.	PUNCT
-)	O	_	)	PUNCT
-.	O	_	.	PUNCT

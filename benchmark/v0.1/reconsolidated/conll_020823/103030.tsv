@@ -1,7 +1,0 @@
-#document_id:TheMusicalTimes__1875-388.txt_2299
-#document_date:1875
-#sent_text:Words by Longfellow.
-Words	O	_	word	NOUN
-by	O	_	by	ADP
-Longfellow	B-person	NIL	Longfellow	PROPN
-.	O	_	.	PUNCT

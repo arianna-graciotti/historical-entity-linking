@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_1284
-#document_date:1873
-#sent_text:Auber’s music left untouched.
-Auber	B-person	Q157672	Auber	PROPN
-’s	O	_	’s	PART
-music	O	_	music	NOUN
-left	O	_	leave	VERB
-untouched	O	_	untouched	ADJ
-.	O	_	.	PUNCT

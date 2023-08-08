@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_4340
-#document_date:1873
-#sent_text:—.., SAMUEL WESLEY.
-—	O	_	—	PUNCT
-..	O	_	..	PUNCT
-,	O	_	,	PUNCT
-SAMUEL	B-person	Q1969627	SAMUEL	PROPN
-WESLEY	I-person	Q1969627	WESLEY	PROPN
-.	O	_	.	PUNCT

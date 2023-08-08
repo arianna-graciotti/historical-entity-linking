@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_228
-#document_date:1826
-#sent_text:the Music composed by F.W.Crouch.
-the	O	_	the	DET
-Music	O	_	music	NOUN
-composed	O	_	compose	VERB
-by	O	_	by	ADP
-F.W.Crouch	B-person	Q5497599	F.W.Crouch	PROPN
-.	O	_	.	PUNCT

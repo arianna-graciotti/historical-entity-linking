@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1876-402.txt_1777
-#document_date:1876
-#sent_text:, Trois Sonates pour Orgue
-,	O	_	,	PUNCT
-Trois	B-music	NIL	Trois	PROPN
-Sonates	I-music	NIL	Sonates	PROPN
-pour	I-music	NIL	pour	X
-Orgue	I-music	NIL	Orgue	PROPN

@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_1819
-#document_date:1873
-#sent_text:Music by W. Henry Thomas.
-Music	O	_	music	NOUN
-by	O	_	by	ADP
-W.	B-person	NIL	W.	PROPN
-Henry	I-person	NIL	Henry	PROPN
-Thomas	I-person	NIL	Thomas	PROPN
-.	O	_	.	PUNCT

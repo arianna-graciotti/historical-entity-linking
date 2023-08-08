@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1876-397.txt_812
-#document_date:1876
-#sent_text:S: MATTHIAS CHURCH,
-S	O	_	S	PROPN
-:	O	_	:	PUNCT
-MATTHIAS	B-worship-place	NIL	MATTHIAS	PROPN
-CHURCH	I-worship-place	NIL	CHURCH	PROPN
-,	O	_	,	PUNCT

@@ -1,7 +1,0 @@
-#document_id:TheHarmonicon__1832-012.txt_1056
-#document_date:1832
-#sent_text:Mr. Kean examined.
-Mr.	B-person	NIL	Mr.	PROPN
-Kean	I-person	NIL	Kean	PROPN
-examined	O	_	examine	VERB
-.	O	_	.	PUNCT

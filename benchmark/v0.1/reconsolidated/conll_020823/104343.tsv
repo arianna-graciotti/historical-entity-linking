@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1876-397.txt_640
-#document_date:1876
-#sent_text:Thomas Butler, Esq.
-Thomas	B-person	NIL	Thomas	PROPN
-Butler	I-person	NIL	Butler	PROPN
-,	O	_	,	PUNCT
-Esq	O	_	Esq	PROPN
-.	O	_	.	PUNCT

@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2912
-#document_date:1828
-#sent_text:- (Judas Maccabeus.)
--	O	_	-	PUNCT
-(	O	_	(	PUNCT
-Judas	B-work-of-art	Q993971	Judas	PROPN
-Maccabeus	I-work-of-art	Q993971	Maccabeus	PROPN
-.	O	_	.	PUNCT
-)	O	_	)	PUNCT

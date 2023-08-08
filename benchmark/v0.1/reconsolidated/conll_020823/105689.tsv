@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1876-397.txt_2422
-#document_date:1876
-#sent_text:Mr. W.C. Stockley conducted.
-Mr.	O	_	Mr.	PROPN
-W.C.	B-person	Q18923007	W.C.	PROPN
-Stockley	I-person	Q18923007	Stockley	PROPN
-conducted	O	_	conduct	VERB
-.	O	_	.	PUNCT

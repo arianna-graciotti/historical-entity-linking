@@ -1,7 +1,0 @@
-#document_id:TheHarmonicon__1824-016.txt_2049
-#document_date:1824
-#sent_text:Carter and Harrison.
-Carter	B-person	Q18528949	Carter	PROPN
-and	O	_	and	CCONJ
-Harrison	B-person	NIL	Harrison	PROPN
-.	O	_	.	PUNCT
