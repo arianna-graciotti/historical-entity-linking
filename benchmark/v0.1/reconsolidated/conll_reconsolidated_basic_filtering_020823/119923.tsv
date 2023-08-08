@@ -1,8 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1567
-#document_date:1828
-#sent_text:The leader is Festa.
-The	O	_	the	DET
-leader	O	_	leader	NOUN
-is	O	_	be	AUX
-Festa	B-person	NIL	Festa	PROPN
-.	O	_	.	PUNCT

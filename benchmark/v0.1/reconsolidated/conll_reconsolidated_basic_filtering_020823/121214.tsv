@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3756
-#document_date:1828
-#sent_text:Taylor was as Cisregardful of forms
-Taylor	B-person	NIL	Taylor	PROPN
-was	O	_	be	AUX
-as	O	_	as	ADV
-Cisregardful	O	_	cisregardful	ADJ
-of	O	_	of	ADP
-forms	O	_	form	NOUN

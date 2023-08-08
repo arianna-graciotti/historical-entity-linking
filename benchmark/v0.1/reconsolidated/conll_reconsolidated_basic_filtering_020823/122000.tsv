@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_45
-#document_date:1826
-#sent_text:King’s Theatre, 386.
-King	B-building	Q1155331	King	PROPN
-’s	I-building	Q1155331	’s	PART
-Theatre	I-building	Q1155331	Theatre	PROPN
-,	O	_	,	PUNCT
-386	O	_	386	NUM
-.	O	_	.	PUNCT

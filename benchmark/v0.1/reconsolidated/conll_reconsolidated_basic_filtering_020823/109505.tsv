@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_4319
-#document_date:1873
-#sent_text:| 340 Haughty Babylon...
-|	O	_	|	PUNCT
-340	O	_	340	NUM
-Haughty	O	_	haughty	ADJ
-Babylon	B-city	Q5684	Babylon	PROPN
-...	O	_	...	PUNCT

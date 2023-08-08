@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1875-388.txt_3053
-#document_date:1875
-#sent_text:82 Gondolier's Serenade ...
-82	O	_	82	NUM
-Gondolier	B-person	NIL	Gondolier	PROPN
-'s	O	_	's	PART
-Serenade	O	_	Serenade	PROPN
-...	O	_	...	PUNCT

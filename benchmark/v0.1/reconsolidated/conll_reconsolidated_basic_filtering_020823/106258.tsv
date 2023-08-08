@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1876-397.txt_3204
-#document_date:1876
-#sent_text:Composed by ALBERT LOWE.
-Composed	O	_	compose	VERB
-by	O	_	by	ADP
-ALBERT	B-person	NIL	ALBERT	PROPN
-LOWE	I-person	NIL	LOWE	PROPN
-.	I-person	NIL	.	PUNCT

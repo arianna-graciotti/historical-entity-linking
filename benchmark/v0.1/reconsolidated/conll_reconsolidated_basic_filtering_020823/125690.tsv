@@ -1,9 +1,0 @@
-#document_id:TheHarmonicon__1833-005.txt_1243
-#document_date:1833
-#sent_text:Song, ‘ Pious orgies.
-Song	O	_	song	NOUN
-,	O	_	,	PUNCT
-‘	O	_	'	PUNCT
-Pious	B-music	NIL	pious	ADJ
-orgies	I-music	NIL	orgy	NOUN
-.	O	_	.	PUNCT

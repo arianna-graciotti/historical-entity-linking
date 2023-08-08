@@ -1,9 +1,0 @@
-#document_id:TheHarmonicon__1833-005.txt_987
-#document_date:1833
-#sent_text:(Lonsdele and Mills.)
-(	O	_	(	PUNCT
-Lonsdele	B-company	not in Wikidata	Lonsdele	PROPN
-and	I-company	not in Wikidata	and	CCONJ
-Mills	I-company	not in Wikidata	Mills	PROPN
-.	O	_	.	PUNCT
-)	O	_	)	PUNCT

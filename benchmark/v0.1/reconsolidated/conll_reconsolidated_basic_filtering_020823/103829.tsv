@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1875-388.txt_3560
-#document_date:1875
-#sent_text:From Gounod’s “ Faust.
-From	O	_	from	ADP
-Gounod	B-person	Q180278	Gounod	PROPN
-’s	O	_	’s	PART
-“	O	_	"	PUNCT
-Faust	B-work-of-art	Q745951	Faust	PROPN
-.	O	_	.	PUNCT

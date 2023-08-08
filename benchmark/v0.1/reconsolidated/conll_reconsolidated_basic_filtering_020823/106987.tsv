@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_550
-#document_date:1873
-#sent_text:‘ Praised be the Lord.
-‘	O	_	'	PUNCT
-Praised	O	_	praise	VERB
-be	O	_	be	AUX
-the	O	_	the	DET
-Lord	O	_	Lord	PROPN
-.	O	_	.	PUNCT

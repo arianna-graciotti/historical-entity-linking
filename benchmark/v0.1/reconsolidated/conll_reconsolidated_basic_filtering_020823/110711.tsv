@@ -1,8 +1,0 @@
-#document_id:TheMusicalWorld__1843-038.txt_349
-#document_date:1843
-#sent_text:Benedict and De Beriot.
-Benedict	O	_	Benedict	PROPN
-and	O	_	and	CCONJ
-De	B-person	Q385217	De	PROPN
-Beriot	I-person	Q385217	Beriot	PROPN
-.	O	_	.	PUNCT

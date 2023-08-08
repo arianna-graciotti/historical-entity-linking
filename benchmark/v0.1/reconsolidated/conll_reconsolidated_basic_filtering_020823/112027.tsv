@@ -1,9 +1,0 @@
-#document_id:TheMusicalWorld__1844-006.txt_208
-#document_date:1844
-#sent_text:Spohr’s “Fall of Babylon
-Spohr	B-person	Q57226	Spohr	PROPN
-’s	O	_	’s	PART
-“	O	_	"	PUNCT
-Fall	B-music	NIL	Fall	PROPN
-of	I-music	NIL	of	ADP
-Babylon	I-music	NIL	Babylon	PROPN

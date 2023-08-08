@@ -1,9 +1,0 @@
-#document_id:TheHarmonicon__1833-005.txt_1906
-#document_date:1833
-#sent_text:Enezisa Opera Hovst, ADELPHI.
-Enezisa	O	_	Enezisa	PROPN
-Opera	O	_	Opera	PROPN
-Hovst	O	_	Hovst	PROPN
-,	O	_	,	PUNCT
-ADELPHI	B-company	NIL	ADELPHI	PROPN
-.	O	_	.	PUNCT

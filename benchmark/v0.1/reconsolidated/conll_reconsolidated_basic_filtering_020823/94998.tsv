@@ -1,9 +1,0 @@
-#document_id:DwightSJournalOfMusic__1875-006.txt_1453
-#document_date:1875
-#sent_text:A very charming Scotch ballad.
-A	O	_	a	DET
-very	O	_	very	ADV
-charming	O	_	charming	ADJ
-Scotch	O	_	Scotch	PROPN
-ballad	O	_	ballad	NOUN
-.	O	_	.	PUNCT

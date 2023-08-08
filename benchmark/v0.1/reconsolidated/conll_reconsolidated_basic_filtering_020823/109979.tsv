@@ -1,8 +1,0 @@
-#document_id:TheMusicalWorld__1843-029.txt_300
-#document_date:1843
-#sent_text:J. GEAR’S CONCERT.
-J.	B-person	NIL	J.	PROPN
-GEAR	I-person	NIL	GEAR	PROPN
-’S	O	_	’S	PROPN
-CONCERT	O	_	concert	NOUN
-.	O	_	.	PUNCT

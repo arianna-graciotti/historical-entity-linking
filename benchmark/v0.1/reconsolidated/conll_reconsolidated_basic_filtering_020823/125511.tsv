@@ -1,8 +1,0 @@
-#document_id:TheHarmonicon__1833-005.txt_937
-#document_date:1833
-#sent_text:—it is Mr. Godbe
-—	O	_	—	PUNCT
-it	O	_	it	PRON
-is	O	_	be	AUX
-Mr.	B-person	NIL	Mr.	PROPN
-Godbe	I-person	NIL	Godbe	PROPN

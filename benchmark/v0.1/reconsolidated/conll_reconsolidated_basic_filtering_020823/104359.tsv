@@ -1,8 +1,0 @@
-#document_id:TheMusicalTimes__1876-397.txt_657
-#document_date:1876
-#sent_text:Congregational Church, Derby.
-Congregational	B-worship-place	Q5160705	Congregational	PROPN
-Church	I-worship-place	Q5160705	Church	PROPN
-,	O	_	,	PUNCT
-Derby	B-city	Q43475	Derby	PROPN
-.	O	_	.	PUNCT

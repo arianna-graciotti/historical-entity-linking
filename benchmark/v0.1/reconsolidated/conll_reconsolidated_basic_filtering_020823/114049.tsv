@@ -1,9 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_1844
-#document_date:1825
-#sent_text:leader at the Opera Comique.
-leader	O	_	leader	NOUN
-at	O	_	at	ADP
-the	O	_	the	DET
-Opera	B-company	Q872222	Opera	PROPN
-Comique	I-company	Q872222	Comique	PROPN
-.	O	_	.	PUNCT

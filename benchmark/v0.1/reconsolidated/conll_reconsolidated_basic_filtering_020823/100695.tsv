@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1876-402.txt_3091
-#document_date:1876
-#sent_text:A JOYFUL SONG J. Bagnay.
-A	O	_	a	DET
-JOYFUL	O	_	joyful	ADJ
-SONG	O	_	SONG	PROPN
-J.	B-person	NIL	J.	PROPN
-Bagnay	I-person	NIL	Bagnay	PROPN
-.	O	_	.	PUNCT

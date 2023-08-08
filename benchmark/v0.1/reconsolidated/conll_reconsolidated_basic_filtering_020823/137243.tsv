@@ -1,9 +1,0 @@
-#document_id:TheHarmonicon__1824-016.txt_1367
-#document_date:1824
-#sent_text:He was buried in St. Martin
-He	O	_	he	PRON
-was	O	_	be	AUX
-buried	O	_	bury	VERB
-in	O	_	in	ADP
-St.	B-cemetery	NIL	St.	PROPN
-Martin	I-cemetery	NIL	Martin	PROPN

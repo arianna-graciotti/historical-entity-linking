@@ -1,9 +1,0 @@
-#document_id:DwightSJournalOfMusic__1873-016.txt_775
-#document_date:1873
-#sent_text:professor of music in Italy.
-professor	O	_	professor	NOUN
-of	O	_	of	ADP
-music	O	_	music	NOUN
-in	O	_	in	ADP
-Italy	B-country	Q38	Italy	PROPN
-.	O	_	.	PUNCT

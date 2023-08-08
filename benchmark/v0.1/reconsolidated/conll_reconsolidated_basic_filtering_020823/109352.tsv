@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_4045
-#document_date:1873
-#sent_text:Samson 1 Lord of Eternity...
-Samson	B-music	Q1263593	Samson	PROPN
-1	O	_	1	NUM
-Lord	O	_	Lord	PROPN
-of	O	_	of	ADP
-Eternity	O	_	Eternity	PROPN
-...	O	_	...	PUNCT

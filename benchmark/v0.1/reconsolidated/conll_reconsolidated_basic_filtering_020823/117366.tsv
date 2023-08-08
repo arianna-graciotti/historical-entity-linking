@@ -1,8 +1,0 @@
-#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_2166
-#document_date:1824
-#sent_text:PRIVATE CONCERTS IN LONDON.
-PRIVATE	O	_	private	ADJ
-CONCERTS	O	_	concert	NOUN
-IN	O	_	in	ADP
-LONDON	B-city	Q84	LONDON	PROPN
-.	O	_	.	PUNCT

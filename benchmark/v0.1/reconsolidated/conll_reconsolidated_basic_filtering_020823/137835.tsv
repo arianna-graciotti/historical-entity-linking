@@ -1,9 +1,0 @@
-#document_id:TheHarmonicon__1824-016.txt_2158
-#document_date:1824
-#sent_text:; (Joshua) Handel.
-;	O	_	;	PUNCT
-(	O	_	(	PUNCT
-Joshua	O	_	Joshua	PROPN
-)	O	_	)	PUNCT
-Handel	B-person	Q7302	Handel	PROPN
-.	O	_	.	PUNCT

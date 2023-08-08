@@ -1,9 +1,0 @@
-#document_id:TheMusicalTimes__1873-366.txt_4577
-#document_date:1873
-#sent_text:From Donizetti's La Favorita.
-From	O	_	from	ADP
-Donizetti	B-person	Q101698	Donizetti	PROPN
-'s	O	_	's	PART
-La	B-music	Q467394	La	PROPN
-Favorita	I-music	Q467394	Favorita	PROPN
-.	O	_	.	PUNCT

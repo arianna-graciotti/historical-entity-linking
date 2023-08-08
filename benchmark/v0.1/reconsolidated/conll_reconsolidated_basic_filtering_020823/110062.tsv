@@ -1,8 +1,0 @@
-#document_id:TheMusicalWorld__1843-029.txt_404
-#document_date:1843
-#sent_text:Jerome informs us that.
-Jerome	B-person	NIL	Jerome	PROPN
-informs	O	_	inform	VERB
-us	O	_	we	PRON
-that	O	_	that	PRON
-.	O	_	.	PUNCT

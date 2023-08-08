@@ -1,9 +1,0 @@
-#document_id:TheMusicalWorld__1844-006.txt_928
-#document_date:1844
-#sent_text:Labyrinth Walzer, by Lanner.
-Labyrinth	B-music	NIL	Labyrinth	PROPN
-Walzer	I-music	NIL	Walzer	PROPN
-,	O	_	,	PUNCT
-by	O	_	by	ADP
-Lanner	B-person	Q44927	Lanner	PROPN
-.	O	_	.	PUNCT
