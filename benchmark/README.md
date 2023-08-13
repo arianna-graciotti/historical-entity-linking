@@ -1,6 +1,6 @@
 ## MHERCL v0.1 - Benchmark
 
-### Sampling
+## Sampling
 
 MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polifonia Textual Corpus](https://github.com/polifonia-project/Polifonia-Corpus)'s historical documents. This first release of the benchmark addressed a sample of the English [_Periodicals_](https://doi.org/10.5281/zenodo.6671912) module of the corpus, whose documents' publication dates range from 1823 to 1900. We have selected the sentences for the manual annotation based on four criteria: 
 1. Language (English)
@@ -8,24 +8,26 @@ MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polif
 3. Being part of the [Filtered AMR Graphs Bank](https://zenodo.org/record/7025779#.ZDls8OxBy3I) (filtered output of the [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework)
 4. Containing at least one _Named Entity_ recognised by the [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework
 
-### Annotation Guidelines
+## Annotation Guidelines
 
 The sentences included in the sample described in the previous section underwent manual annotations thanks to the work of two internships (Foreign Languages and Literature undergraduate students) that have received _ad hoc_ training on the NERC and EL annotation task. The annotation work of the internships involved inspecting the sentences and identifying the named entities, eventually linking them to their corresponding WikiData ID (QID). Named entities were recognised and linked following a custom harmonisation of the AMR named entity annotations guidelines [[2]](https://amr.isi.edu/doc/amr-dict.html#named%20entity) and the _impresso_ guidelines, which are tailored for historical documents. In general, we assume a named entity is a real-world thing indicating a unique individual through a proper noun. The types were assigned according to the AMR annotation guidance instructions [[3]](https://www.isi.edu/~ulf/amr/lib/popup/ne-type-selection.html) and selected from the AMR named entity types list [[4]](https://www.isi.edu/~ulf/amr/lib/ne-types.html).
 
-### Statistics
+## Statistics
 
 As summarised in the tables above, the annotators scrutinised 2181 sentences, extrapolated from 20 documents (historical periodicals), in which they annotated 2757 named entities belonging to 65 different types. The mentioned types demonstrate MHERCL music domain characterisation. 
 
 1851 out of the 2757 named entities could be linked to a QID (67%), while 906 (33%) could not. Therefore, the percentage of "not linked" entities (entities that could not be linked to a QID) in MHERCL v0.1 is 30%. 502 named entities mentions contain errors due to OCR. Therefore, the percentage of noisy entities is 18%. Quantifying the noisy entities is important to facilitate downstream qualitative error analysis of NERC and EL systems and for comparison with other historical datasets.
 
-### Release
+## Release
 
 MHERCL v0.1 is released in tab-separated values (TSV) files (UTF-8 encoded). Its format has been designed to comply with HIPE-2022 data (which is based on IOB and CoNLL-U), facilitating future integration.
 
-# MHERCL v0.1 - Benchmark
 ## Filtering
+
 ### Basic filtering
+
 #### Background
+
 MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polifonia Textual Corpus](https://github.com/polifonia-project/Polifonia-Corpus)'s historical documents. This first release of the benchmark addressed a sample of the English [_Periodicals_](https://doi.org/10.5281/zenodo.6671912) module of the corpus, whose documents' publication dates range from 1823 to 1900. We have selected the sentences for the manual annotation based on four criteria: 
 1. Language (English)
 2. Source (the [_Periodicals_](https://doi.org/10.5281/zenodo.6671912) module of the [Polifonia Textual Corpus](https://github.com/polifonia-project/Polifonia-Corpus))
@@ -33,6 +35,7 @@ MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polif
 4. Containing at least one _Named Entity_ recognised by the [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor)
 
 #### Coreference resolution
+
 The [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) pipeline applies coreference resolution to the input sentences. We identified MHERCL v01.'s sentences that were impacted by coreference resolution. We evaluated the coreference resolution output manually. The table below reports the results:
 
 | #sentences impacted | Correct substitutions | Wrong substitutions |
@@ -42,6 +45,7 @@ The [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifon
 Given the quality of the coreference resolution output, we decided to discard those annotations related to a named entity resulting from the substitution of a pronoun by the application of the coreference resolution.
 
 #### Is the sentence enough to infer the QID?
+
 We asked the annotators to do a second round of checks to make sure that the input sentence alone was enough to infer the QID. For those sentences which did not provide enough context to infer the QID, the annotators provided some more sentences from the original document. These are the statistics (# of unique sentences):
 
 | Is the sentence enough to infer the QID? ||
@@ -71,8 +75,6 @@ We would like to remove low-quality sentences from our benchmark. We computed 3 
   |    75%    |        0.909091       |
   |    max    |        1.000000       |
 
-
-   
 6. We computed perplexity per sentence by using `pyplexity` library and `bigrams-bnc` (the stats are reported in the table below):
 
   | Statistic | Perplexity         |
@@ -86,7 +88,6 @@ We would like to remove low-quality sentences from our benchmark. We computed 3 
   | 75%       | 2466.794106        |
   | Max       | 998751.789474      |
    
-
 We want to leverage the 4 measurements described above to define a threshold to filter out low-quality sentences.
 
 #### Filter n.1 - Sentences with no named entities annotated
