@@ -1,9 +1,0 @@
-#document_id:TheMusicalWorld__1843-038.txt_825
-#document_date:NaN
-#sent_text:LES DIAMANS DE LA COURONNE,
-LES	B-work-of-art	Q467897	LES	PROPN
-DIAMANS	I-work-of-art	Q467897	DIAMANS	PROPN
-DE	I-work-of-art	Q467897	de	X
-LA	I-work-of-art	Q467897	LA	PROPN
-COURONNE	I-work-of-art	Q467897	COURONNE	PROPN
-,	O	_	,	PUNCT
