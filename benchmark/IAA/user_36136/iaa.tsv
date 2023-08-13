@@ -1,0 +1,463 @@
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_957
+#document_date:NaN
+#sent_text:Inthe island of Ceylon, 1 Music appears to have been greatly cultivated, if we may judge by the number and form of their instruments.
+Inthe	O	_	inthe	DET
+island	O	_	island	NOUN
+of	O	_	of	ADP
+Ceylon	B-island	Q854	Ceylon	PROPN
+,	O	_	,	PUNCT
+1	O	_	1	NUM
+Music	O	_	music	NOUN
+appears	O	_	appear	VERB
+to	O	_	to	PART
+have	O	_	have	AUX
+been	O	_	be	AUX
+greatly	O	_	greatly	ADV
+cultivated	O	_	cultivate	VERB
+,	O	_	,	PUNCT
+if	O	_	if	SCONJ
+we	O	_	we	PRON
+may	O	_	may	AUX
+judge	O	_	judge	VERB
+by	O	_	by	ADP
+the	O	_	the	DET
+number	O	_	number	NOUN
+and	O	_	and	CCONJ
+form	O	_	form	NOUN
+of	O	_	of	ADP
+their	O	_	their	PRON
+instruments	O	_	instrument	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_1570
+#document_date:NaN
+#sent_text:Sommer, organist to the Court of Vienna; this is the greatest compliment which can be paid to his talents.
+Sommer	B-person	NIL	Sommer	PROPN
+,	O	_	,	PUNCT
+organist	O	_	organist	NOUN
+to	O	_	to	ADP
+the	O	_	the	DET
+Court	B-building	Q209937	Court	PROPN
+of	I-building	Q209937	of	ADP
+Vienna	I-building	Q209937	Vienna	PROPN
+;	O	_	;	PUNCT
+this	O	_	this	PRON
+is	O	_	be	AUX
+the	O	_	the	DET
+greatest	O	_	great	ADJ
+compliment	O	_	compliment	NOUN
+which	O	_	which	PRON
+can	O	_	can	AUX
+be	O	_	be	AUX
+paid	O	_	pay	VERB
+to	O	_	to	ADP
+his	O	_	his	PRON
+talents	O	_	talent	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheMusicalTimes__1876-402.txt_1145
+#document_date:NaN
+#sent_text:Institution was given at St. James’s Hall, on the 5th ult., before a large audience.
+Institution	O	_	institution	NOUN
+was	O	_	be	AUX
+given	O	_	give	VERB
+at	O	_	at	ADP
+St.	B-building	Q4416300	St.	PROPN
+James	I-building	Q4416300	James	PROPN
+’s	I-building	Q4416300	’s	PART
+Hall	I-building	Q4416300	Hall	PROPN
+,	O	_	,	PUNCT
+on	O	_	on	ADP
+the	O	_	the	DET
+5th	O	_	5th	ADJ
+ult	O	_	ult	NOUN
+.	O	_	.	PUNCT
+,	O	_	,	PUNCT
+before	O	_	before	ADP
+a	O	_	a	DET
+large	O	_	large	ADJ
+audience	O	_	audience	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheHarmonicon__1833-005.txt_1585
+#document_date:NaN
+#sent_text:I find the following sensible critical remarks among my papers; they were copied from a weekly work (the Court Magazine, I think)
+I	O	_	I	PRON
+find	O	_	find	VERB
+the	O	_	the	DET
+following	O	_	following	ADJ
+sensible	O	_	sensible	ADJ
+critical	O	_	critical	ADJ
+remarks	O	_	remark	NOUN
+among	O	_	among	ADP
+my	O	_	my	PRON
+papers	O	_	paper	NOUN
+;	O	_	;	PUNCT
+they	O	_	they	PRON
+were	O	_	be	AUX
+copied	O	_	copy	VERB
+from	O	_	from	ADP
+a	O	_	a	DET
+weekly	O	_	weekly	ADJ
+work	O	_	work	NOUN
+(	O	_	(	PUNCT
+the	O	_	the	DET
+Court	B-magazine	NIL	Court	PROPN
+Magazine	I-magazine	NIL	Magazine	PROPN
+,	O	_	,	PUNCT
+I	O	_	I	PRON
+think	O	_	think	VERB
+)	O	_	)	PUNCT
+
+#document_id:TheHarmonicon__1832-012.txt_1655
+#document_date:NaN
+#sent_text:Now let us look at an account of the. closing of the King’s Theatre, last season.
+Now	O	_	now	ADV
+let	O	_	let	VERB
+us	O	_	we	PRON
+look	O	_	look	VERB
+at	O	_	at	ADP
+an	O	_	an	DET
+account	O	_	account	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+.	O	_	.	PUNCT
+closing	O	_	closing	NOUN
+of	O	_	of	ADP
+the	O	_	the	DET
+King	B-building	Q1155331	King	PROPN
+’s	I-building	Q1155331	’s	PART
+Theatre	I-building	Q1155331	Theatre	PROPN
+,	O	_	,	PUNCT
+last	O	_	last	ADJ
+season	O	_	season	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1825-025.txt_2640
+#document_date:NaN
+#sent_text:Both these pieces improve on repetition, “ Say, have you loved,” isa duet for soprano: and tenor.
+Both	O	_	both	DET
+these	O	_	these	DET
+pieces	O	_	piece	NOUN
+improve	O	_	improve	VERB
+on	O	_	on	ADP
+repetition	O	_	repetition	NOUN
+,	O	_	,	PUNCT
+“	O	_	"	PUNCT
+Say B-music	NIL	say	VERB
+,	I-music	NIL	,	PUNCT
+have    I-music	NIL	have	AUX
+you I-music	NIL	you	PRON
+loved   I-music	NIL	love	VERB
+,	O	_	,	PUNCT
+”	O	_	"	PUNCT
+isa	O	_	isa	DET
+duet	O	_	duet	NOUN
+for	O	_	for	ADP
+soprano	O	_	soprano	NOUN
+:	O	_	:	PUNCT
+and	O	_	and	CCONJ
+tenor	O	_	tenor	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheHarmonicon__1828-001.txt_1079
+#document_date:NaN
+#sent_text:We had been long ‘accustomed, indeed, to hear a few of the most pleasing of _them sung in The Beggar’s Opera, a circumstance owing to
+We	O	_	we	PRON
+had	O	_	have	AUX
+been	O	_	be	AUX
+long	O	_	long	ADV
+‘	O	_	'	PUNCT
+accustomed	O	_	accustomed	ADJ
+,	O	_	,	PUNCT
+indeed	O	_	indeed	ADV
+,	O	_	,	PUNCT
+to	O	_	to	PART
+hear	O	_	hear	VERB
+a	O	_	a	DET
+few	O	_	few	ADJ
+of	O	_	of	ADP
+the	O	_	the	DET
+most	O	_	most	ADV
+pleasing	O	_	pleasing	ADJ
+of	O	_	of	ADP
+_	O	_	_	PUNCT
+them	O	_	they	PRON
+sung	O	_	sing	VERB
+in	O	_	in	ADP
+The	B-opera	Q1472110	the	DET
+Beggar	I-opera	Q1472110	Beggar	PROPN
+’s	I-opera	Q1472110	’s	PART
+Opera	I-opera	Q1472110	Opera	PROPN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+circumstance	O	_	circumstance	NOUN
+owing	O	_	owe	VERB
+to	O	_	to	ADP
+
+#document_id:TheHarmonicon__1832-012.txt_1315
+#document_date:NaN
+#sent_text:We now open the volume, and the presentation-plate immediately attracts our notice—an elegant lithographed design by Hamerton.
+We	O	_	we	PRON
+now	O	_	now	ADV
+open	O	_	open	VERB
+the	O	_	the	DET
+volume	O	_	volume	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+the	O	_	the	DET
+presentation	O	_	presentation	NOUN
+-	O	_	-	PUNCT
+plate	O	_	plate	NOUN
+immediately	O	_	immediately	ADV
+attracts	O	_	attract	VERB
+our	O	_	our	PRON
+notice	O	_	notice	NOUN
+—	O	_	—	PUNCT
+an	O	_	an	DET
+elegant	O	_	elegant	ADJ
+lithographed	O	_	lithograph	VERB
+design	O	_	design	NOUN
+by	O	_	by	ADP
+Hamerton	B-person	NIL	Hamerton	PROPN
+.	O	_	.	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1824-022.txt_3025
+#document_date:NaN
+#sent_text:The next is a solo for an alto, anda quartet from Naumann.
+The	O	_	the	DET
+next	O	_	next	ADJ
+is	O	_	be	AUX
+a	O	_	a	DET
+solo	O	_	solo	NOUN
+for	O	_	for	ADP
+an	O	_	an	DET
+alto	O	_	alto	NOUN
+,	O	_	,	PUNCT
+anda	O	_	anda	DET
+quartet	O	_	quartet	NOUN
+from	O	_	from	ADP
+Naumann	B-person	Q213927	Naumann	PROPN
+.	O	_	.	PUNCT
+
+#document_id:TheMusicalTimes__1873-366.txt_1425
+#document_date:NaN
+#sent_text:Westmorland Scholarship (Ten Pounds towards the cost of a Year's Instruction):
+Westmorland	B-building	NIL	Westmorland	PROPN
+Scholarship	O	_	Scholarship	PROPN
+(	O	_	(	PUNCT
+Ten	O	_	ten	NUM
+Pounds	O	_	pound	NOUN
+towards	O	_	towards	ADP
+the	O	_	the	DET
+cost	O	_	cost	NOUN
+of	O	_	of	ADP
+a	O	_	a	DET
+Year	O	_	year	NOUN
+'s	O	_	's	PART
+Instruction	O	_	instruction	NOUN
+):	O	_	):	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_3573
+#document_date:NaN
+#sent_text:Mr. Moscheles was exposed to censure for the too crowded state of his room, and with a little too much severity.
+Mr.	B-person	Q159551	Mr.	PROPN
+Moscheles	I-person	Q159551	Moscheles	PROPN
+was	O	_	be	AUX
+exposed	O	_	expose	VERB
+to	O	_	to	ADP
+censure	O	_	censure	NOUN
+for	O	_	for	ADP
+the	O	_	the	DET
+too	O	_	too	ADV
+crowded	O	_	crowded	ADJ
+state	O	_	state	NOUN
+of	O	_	of	ADP
+his	O	_	his	PRON
+room	O	_	room	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+with	O	_	with	ADP
+a	O	_	a	DET
+little	O	_	little	ADJ
+too	O	_	too	ADV
+much	O	_	much	ADJ
+severity	O	_	severity	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1826-029.txt_2543
+#document_date:NaN
+#sent_text:His arms consisted of a musquet, a sabre, a T urkish knife, and one small pistol, of extremely inferior quality.
+His	O	_	his	PRON
+arms	O	_	arm	NOUN
+consisted	O	_	consist	VERB
+of	O	_	of	ADP
+a	O	_	a	DET
+musquet	O	_	musquet	NOUN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+sabre	O	_	sabre	NOUN
+,	O	_	,	PUNCT
+a	O	_	a	DET
+T	O	_	T	PROPN
+urkish	O	_	urkish	ADJ
+knife	O	_	knife	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+one	O	_	one	NUM
+small	O	_	small	ADJ
+pistol	O	_	pistol	NOUN
+,	O	_	,	PUNCT
+of	O	_	of	ADP
+extremely	O	_	extremely	ADV
+inferior	O	_	inferior	ADJ
+quality	O	_	quality	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2235
+#document_date:NaN
+#sent_text:The great drawback upon her singing was an occasional infirmity in the’ sustaining power, not unlike, though not to the same extent, as the trembling of voice observed in Mademoiselle Bonini.
+The	O	_	the	DET
+great	O	_	great	ADJ
+drawback	O	_	drawback	NOUN
+upon	O	_	upon	SCONJ
+her	O	_	her	PRON
+singing	O	_	singing	NOUN
+was	O	_	be	AUX
+an	O	_	an	DET
+occasional	O	_	occasional	ADJ
+infirmity	O	_	infirmity	NOUN
+in	O	_	in	ADP
+the	O	_	the	PRON
+’	O	_	’	PART
+sustaining	O	_	sustain	VERB
+power	O	_	power	NOUN
+,	O	_	,	PUNCT
+not	O	_	not	PART
+unlike	O	_	unlike	ADP
+,	O	_	,	PUNCT
+though	O	_	though	SCONJ
+not	O	_	not	PART
+to	O	_	to	ADP
+the	O	_	the	DET
+same	O	_	same	ADJ
+extent	O	_	extent	NOUN
+,	O	_	,	PUNCT
+as	O	_	as	ADP
+the	O	_	the	DET
+trembling	O	_	trembling	NOUN
+of	O	_	of	ADP
+voice	O	_	voice	NOUN
+observed	O	_	observe	VERB
+in	O	_	in	ADP
+Mademoiselle	B-person	NIL	Mademoiselle	PROPN
+Bonini	I-person	NIL	Bonini	PROPN
+.	O	_	.	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_927
+#document_date:NaN
+#sent_text:Ile has cultivated music profoundly, and has enjoyed ‘the personal acquaintance of most of the composers and artists of that city.
+Ile	O	_	Ile	PROPN
+has	O	_	have	AUX
+cultivated	O	_	cultivate	VERB
+music	O	_	music	NOUN
+profoundly	O	_	profoundly	ADV
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+has	O	_	have	AUX
+enjoyed	O	_	enjoy	VERB
+‘	O	_	'	PUNCT
+the	O	_	the	DET
+personal	O	_	personal	ADJ
+acquaintance	O	_	acquaintance	NOUN
+of	O	_	of	ADP
+most	O	_	most	ADJ
+of	O	_	of	ADP
+the	O	_	the	DET
+composers	O	_	composer	NOUN
+and	O	_	and	CCONJ
+artists	O	_	artist	NOUN
+of	O	_	of	ADP
+that	O	_	that	DET
+city	O	_	city	NOUN
+.	O	_	.	PUNCT
+
+#document_id:TheMusicalWorld__1844-006.txt_135
+#document_date:NaN
+#sent_text:, Wilson’s lecture was distinguished, as usual, by its good sense, and his vocal illustrations were exquisite
+,	O	_	,	PUNCT
+Wilson	B-person	Q6264502	Wilson	PROPN
+’s	O	_	’s	PART
+lecture	O	_	lecture	NOUN
+was	O	_	be	AUX
+distinguished	O	_	distinguish	VERB
+,	O	_	,	PUNCT
+as	O	_	as	ADP
+usual	O	_	usual	ADJ
+,	O	_	,	PUNCT
+by	O	_	by	ADP
+its	O	_	its	PRON
+good	O	_	good	ADJ
+sense	O	_	sense	NOUN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+his	O	_	his	PRON
+vocal	O	_	vocal	ADJ
+illustrations	O	_	illustration	NOUN
+were	O	_	be	AUX
+exquisite	O	_	exquisite	ADJ
+
+#document_id:TheMusicalWorld__1843-036.txt_756
+#document_date:NaN
+#sent_text:Translated by John Bishop, and dedicated to the Author's friend, Professor Taylor.
+Translated	O	_	translate	VERB
+by	O	_	by	ADP
+John	B-person	NIL	John	PROPN
+Bishop	I-person	NIL	Bishop	PROPN
+,	O	_	,	PUNCT
+and	O	_	and	CCONJ
+dedicated	O	_	dedicate	VERB
+to	O	_	to	ADP
+the	O	_	the	DET
+Author	O	_	Author	PROPN
+'s	O	_	's	PART
+friend	O	_	friend	NOUN
+,	O	_	,	PUNCT
+Professor	B-person	NIL	Professor	PROPN
+Taylor	I-person	NIL	Taylor	PROPN
+.	O	_	.	PUNCT
+
+#document_id:TheMusicalTimes__1875-388.txt_2800
+#document_date:NaN
+#sent_text:Part I. contains four Songs, arranged by Mrs. Mounsey BartnoLomew.
+Part	O	_	part	NOUN
+I.	O	_	i.	NOUN
+contains	O	_	contain	VERB
+four	O	_	four	NUM
+Songs	O	_	song	NOUN
+,	O	_	,	PUNCT
+arranged	O	_	arrange	VERB
+by	O	_	by	ADP
+Mrs.	B-person	NIL	Mrs.	PROPN
+Mounsey	I-person	NIL	Mounsey	PROPN
+BartnoLomew	I-person	NIL	BartnoLomew	PROPN
+.	O	_	.	PUNCT
+
+#document_id:TheQuarterlyMusicalMagazineAndReview__1828-037.txt_2281
+#document_date:NaN
+#sent_text:Mr. Bishop has had a large experience in the management of these performances.
+Mr.	B-person	Q1200639	Mr.	PROPN
+Bishop	I-person	Q1200639	Bishop	PROPN
+has	O	_	have	AUX
+had	O	_	have	VERB
+a	O	_	a	DET
+large	O	_	large	ADJ
+experience	O	_	experience	NOUN
+in	O	_	in	ADP
+the	O	_	the	DET
+management	O	_	management	NOUN
+of	O	_	of	ADP
+these	O	_	these	DET
+performances	O	_	performance	NOUN
+.	O	_	.	PUNCT
+
