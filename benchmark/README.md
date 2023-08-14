@@ -127,7 +127,7 @@ MHERCL v0.1 (_filtered_) contains 1.007 unique named entity mentions, 10 of whic
 
 ### SotA Neural Entity Linkers 
 
-We passed to BLINK MHERCL v0.1 (_filtered_) sentences, and manually annotated (gold) mentions. Results are summarised in the following table:
+We passed MHERCL v0.1 (_filtered_) sentences, and its manually annotated (gold) mentions, to SotA entity linkers. Results are summarised in the following table:
 
 | Model  | Precision | Recall | F1 Measure |
 |--------|-----------|--------|------------|
