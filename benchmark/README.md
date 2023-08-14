@@ -97,15 +97,15 @@ As a third step, we should take care of those sentences in our dataset in which 
 
 | Dataset | Lang. | #docs | #sents | #tokens |
 |---------|-------|-------|--------|---------|
-| MHERCL v0.1 (_filtered_) | EN  |   |  |  |
+| MHERCL v0.1 (_filtered_) | EN  |  20 | 718 | 31.028 |
 
 
 #### MHERCL v0.1 - Mentions Stats (_filtered_)
 
 | _filtered_      | #mentions | types     | noisy        | linked (yes) | linked (no) |
 |-------|-----------|-----------|---------------|--------------|-------------|
-| all   | | | | |             |
-| unique| | | | |             |
+| all   |1.247 |_not applicable_ |161 |820 |427             |
+| unique| 1.007| 49| 158| 427|_not applicable_|
 
 As summarised in the tables above, the annotators scrutinised 2181 sentences, extrapolated from 20 documents (historical periodicals), in which they annotated 2757 named entities belonging to 65 different types. The mentioned types demonstrate MHERCL music domain characterisation. 
 
