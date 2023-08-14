@@ -60,38 +60,36 @@ We would like to remove low-quality sentences from our benchmark. We computed 3 
 
   | Statistic | % non annotated tokens ratio |
   |:---------:|:---------------------:|
-  |   count   |               |
-  |   mean    |               |
-  |    std    |               |
-  |    min    |               |
-  |    25%    |               |
-  |    50%    |               |
-  |    75%    |               |
-  |    max    |               |
+  | mean  | 0.569256 |
+  | std   | 0.357251 |
+  | min   |-1.333333 |
+  | 25%   | 0.333333 |
+  | 50%   | 0.666667 |
+  | 75%   | 0.863636 |
+  | max   | 1.000000 |
 
 6. We computed perplexity per sentence by using `pyplexity` library and `bigrams-bnc` (the stats are reported in the table below):
 
   | Statistic | Perplexity         |
   |-----------|--------------------|
-  | Count     |         |
-  | Mean      |        |
-  | Std       |       |
-  | Min       |           |
-  | 25%       |          |
-  | 50%       |          |
-  | 75%       |         |
-  | Max       |       |
+  | mean  | 19,783.327042          |
+  | std   | 101,641.029893         |
+  | min   | 18.431019              |
+  | 25%   | 246.208830             |
+  | 50%   | 607.175027             |
+  | 75%   | 2,466.794106           |
+  | max   | 998,751.789474         |
    
 We want to leverage the 4 measurements described above to define a threshold to filter out low-quality sentences.
 
 #### Filter n.1 - Sentences with no named entities annotated
-At the first instance, we should take care of those sentences in our dataset in which the annotators did not find any named entities. We want to remove the noisiest ones. The idea is to remove all the sentences of the kind that have =< 15 tokens. With regard to the remaining ones, we want to set a threshold based on perplexity's quartile values. We want to set a threshold at the 50% mark (608.44). We keep all the sentences having perplexity =< 608.44.
+In the first instance, we should take care of those sentences in our dataset in which the annotators did not find any named entities. We want to remove the noisiest ones. The idea is to remove all the sentences of the kind that have =< 15 tokens. With regard to the remaining ones, we want to set a threshold based on perplexity's quartile values. We want to set a threshold at the 50% mark. We keep all the sentences having perplexity within the 50% mark.
 
 #### Filter n.2 - Sentences with named entities annotated and no QID
-As a second step, we should take care of those sentences in our dataset in which the annotators found named entities, but could not link them to any QID. We want to remove the noisiest ones (the ones in which there is less context). The idea is to remove all the sentences of the kind that have =< 10 tokens. With regard to the remaining ones, we want to set a threshold based on _non-annotated tokens ratio_'s quartile values, calculated on the subset of entries of our benchmark that have a named entity recognised but no QID. We want to set a threshold at the 25% mark (0.453409). We keep all the sentences having _non-annotated tokens ratio_ value => 0.453409.
+As a second step, we should take care of those sentences in our dataset in which the annotators found named entities but could not link them to any QID. We want to remove the noisiest ones (the ones in which there is less context). The idea is to remove all the sentences of the kind that have =< 10 tokens. With regard to the remaining ones, we want to set a threshold based on _non-annotated tokens ratio_'s quartile values, calculated on the subset of entries of our benchmark having a named entity recognised but no QID. We want to set a threshold at the 25% mark. We keep all the sentences having _non-annotated tokens ratio_ value within the 25% mark.
 
 #### Filter n.3 - Sentences with named entities annotated and QID
-As a third step, we should take care of those sentences in our dataset in which the annotators found named entities and linked them to a QID. We want to remove the noisiest sentences (the ones in which there is less context). The idea is to remove all the sentences of the kind that have =< 10 tokens. With regard to the remaining ones, we want to set a threshold based on _non-annotated tokens ratio_'s quartile values, calculated on the subset of entries of our benchmark that have a named entity recognised and linked to a QID. We want to set a threshold at the 25% mark of that subset (0.55556). We keep all the sentences having _non-annotated tokens ratio_ value => 0.55556.
+As a third step, we should take care of those sentences in our dataset in which the annotators found named entities and linked them to a QID. We want to remove the noisiest sentences (the ones in which there is less context). The idea is to remove all the sentences of the kind that have =< 10 tokens. With regard to the remaining ones, we want to set a threshold based on _non-annotated tokens ratio_'s quartile values, calculated on the subset of entries of our benchmark having a named entity recognised and linked to a QID. We want to set a threshold at the 25% mark of that subset. We keep all the sentences having _non-annotated tokens ratio_ value within the 25% mark.
 
 ### Statistics (_filtered_)
 
@@ -99,7 +97,7 @@ As a third step, we should take care of those sentences in our dataset in which 
 
 | Dataset | Lang. | #docs | #sents | #tokens |
 |---------|-------|-------|--------|---------|
-| MHERCL v0.1 (_unfiltered_) | EN    | 20    |  |  |
+| MHERCL v0.1 (_filtered_) | EN  |   |  |  |
 
 
 #### MHERCL v0.1 - Mentions Stats (_filtered_)
