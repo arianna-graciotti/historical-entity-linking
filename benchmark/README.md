@@ -117,23 +117,19 @@ The sentences included in the sample described in the previous section underwent
 
 ## Release
 
-MHERCL v0.1 is released in tab-separated values (TSV) files (UTF-8 encoded). Its format has been designed to comply with HIPE-2022 data (which is based on IOB and CoNLL-U), facilitating future integration.
+MHERCL v0.1 (_filtered_) is released in tab-separated values (TSV) files (UTF-8 encoded). Its format has been designed to comply with HIPE-2022 data (which is based on IOB and CoNLL-U), facilitating future integration.
 
 ## Experiments
 
-### Scope 
-
-The experiments have been carried out on a subset of MHERCLv0.1 (sub-MHERCLv0.1). Sub-MHERCLv0.1 is composed of 1545 named entity mentions, selected according to their compliance with the following requirements: 
-1. it could be linked to a QID
-2. its QID could be assigned relying only on the named entity mention's sentence of provenance
-3. its sentence of provenance was not impacted by coreference resolution
-
-These 1545 tuples (sentence, named entity mention, QID) are unique. 
-
 ### Popularity bias 
 
-Sub-MHERCLv0.1 contains 1032 unique named entity mentions, 13 of which are linked to 2 QIDs, 1019 to 1.
+MHERCL v0.1 (_filtered_) contains 1.007 unique named entity mentions, 10 of which are linked to 2 QIDs, 907 to 1.
 
-### BLINK 
+### SotA Neural Entity Linkers 
 
-We passed to BLINK sub-MHERCLv0.1 sentences and already identified (gold) mentions. BLINK's output QIDs and gold QIDs match in 1135 cases (73%), and differ in 410 cases (27%).
+We passed to BLINK MHERCL v0.1 (_filtered_) sentences, and manually annotated (gold) mentions. Results are summarised in the following table:
+
+| Model  | Precision | Recall | F1 Measure |
+|--------|-----------|--------|------------|
+|[BLINK](https://github.com/facebookresearch/BLINK)|0.5068273092369477|0.7695121951219512|0.611138014527845|
+
