@@ -1,4 +1,4 @@
-## MHERCL v0.1 - Benchmark
+# MHERCL v0.1 - Benchmark
 
 ## Sampling
 
@@ -7,6 +7,22 @@ MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polif
 2. Source (the [_Periodicals_](https://doi.org/10.5281/zenodo.6671912) module of the [Polifonia Textual Corpus](https://github.com/polifonia-project/Polifonia-Corpus))
 3. Being part of the [Filtered AMR Graphs Bank](https://zenodo.org/record/7025779#.ZDls8OxBy3I) (filtered output of the [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework)
 4. Containing at least one _Named Entity_ recognised by the [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework
+
+## Preliminary Study
+
+### Table reporting statistics about the off-the-shelf quality of [PKE](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework on EL of _person named entities_ in a [PTC](https://github.com/polifonia-project/Polifonia-Corpus) sample.
+
+As the PKE framework automatically recognises named entities in its text-to-AMR parsing step, we ran a preliminary experiment to evaluate the off-the-shelf performance of the PKE text-to-AMR parser and its embedded entity linker, BLINK. The results are reported in the Table below.
+
+|       | pNE mentions |       | pNE QID  |           | pNE DoB    |              |           |
+|-------|--------------|-------|----------|-----------|------------|--------------|-----------|
+| #sents| #recognised  | #linked| #found   | #not found| #plausible | #implausible | #not found|
+| 2205 | 2262         | 2108 | 2006    | 102   | 1199       | 203         | 604     |
+
+We focused on a sample of $2205$ sentences taken from the _Periodicals_ module of the PTC and on named entities of type person. In the selected sample, the PKE text-to-AMR parser (SPRING) identified $2262$ instances of person Named Entities (pNE), $2108$ of which were linked to a Wikipedia page by BLINK. We then tried to retrieve the correspondent WikiData ID (QID) of the Wikipedia pages linked by BLINK to access the date of birth (DoB) of the correspondent pNEs. We could retrieve the QID of $2006$ out of the $2108$ Wikipedia pages linked by BLINK. In the $102$ cases in which we could not retrieve a QID, the reason for the missed retrieval was that the entity linking was incorrect (the Wikipedia link pointed to a nonexistent Wikipedia page). Out of the $2006$ retrieved QID, we could retrieve $1402$ dates of birth: by comparing the retrieved DoB to the publication date of the periodicals in which the related mention of the pNE occurred, we could verify that $1199$ out of $1402$ QIDs belonged to plausible named entities (namely, whose date of birth preceded that of the periodical issue) while $203$ QIDs belonged to implausible named entities (namely, whose date of birth followed that of the periodical issue).  In the $604$ cases in which we failed to retrieve a date of birth, the reason for the missed retrieval was that the entity linking was not correct (the Wikipedia page was not that of a person named entity, but that of a family name, a disambiguation page, etc.). 
+
+Checking the automatically retrieved pNE entities against WikiData’s knowledge base allowed us to assess that $909$ out of the $2108$ instances of pNE entities' Wikipedia pages linked by BLINK ($43\%$) were wrong (Wikipedia pages for which we could not retrieve a related QID, or whose related QID was that of a person named entity whose date of birth (DoB) followed the date of issue of the periodical), 
+demonstrating a vast space of improvement of the NERC and EL off-the-shelf models employed in the Polifonia Knowledge Extractor framework.
 
 ### Statistics (unfiltered)
 
