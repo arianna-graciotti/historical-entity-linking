@@ -14,15 +14,15 @@ MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polif
 
 | Dataset | Lang. | #docs | #sents | #tokens |
 |---------|-------|-------|--------|---------|
-| MHERCL v0.1 (_unfiltered_) | EN    |$21$|$2.181$  | $51.457$ |
+| MHERCL v0.1 (_unfiltered_) | EN    |21|2.181  | 51.457 |
 
 
 #### MHERCL v0.1 - Mentions Stats (_unfiltered_)
 
 | _unfiltered_      | #mentions | types          | noisy        | linked (yes) | linked (no) |
 |-------------------|-----------|----------------|--------------|--------------|-------------|
-| all               |$2.874$      |_not applicable_|$530$           |$1906$          |$968$          |
-| unique            |$2.130$      |$68$              |$496$           |$1028$          |_not applicable_|
+| all               |2.874      |_not applicable_|530           |1906          |968          |
+| unique            |2.130      |68              |496           |1028          |_not applicable_|
 
 ## Filtering
 
@@ -34,7 +34,7 @@ The [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifon
 
 | #sentences impacted | Correct substitutions | Wrong substitutions |
 | --- | --- | --- |
-| $162$ | $102$ | $60$  |
+| 162 | 102 | 60  |
 
 Given the quality of the coreference resolution output, we decided to discard those annotations related to a named entity resulting from the substitution of a pronoun by the application of the coreference resolution.
 
@@ -44,8 +44,8 @@ We asked the annotators to do a second round of checks to make sure that the inp
 
 | Is the sentence enough to infer the QID? ||
 | --- | ---  | 
-| yes | $1709$ |
-| no  |  $203$ |
+| yes | 1709 |
+| no  |  203 |
 
 We filter out those sentences from the filtered MHERCL v0.1 release. They will be released separately as they can serve for further experiments.
 
@@ -60,25 +60,25 @@ We would like to remove low-quality sentences from our benchmark. We computed 3 
 
   | Statistic | % non annotated tokens ratio |
   |:---------:|:---------------------:|
-  | mean  | $0,569256$ |
-  | std   | $0,357251$ |
-  | min   | $-1,333333$ |
-  | 25%   | $0,333333$ |
-  | 50%   | $0,666667$ |
-  | 75%   | $0,863636$ |
-  | max   | $1,000000$ |
+  | mean  | 0,569256 |
+  | std   | 0,357251 |
+  | min   | -1,333333 |
+  | 25%   | 0,333333 |
+  | 50%   | 0,666667 |
+  | 75%   | 0,863636 |
+  | max   | 1,000000 |
 
 6. We computed perplexity per sentence by using `pyplexity` library and `bigrams-bnc` (the stats are reported in the table below):
 
   | Statistic | Perplexity         |
   |-----------|--------------------|
-  | mean  | $19,783.327042$          |
-  | std   | $101,641.029893$         |
-  | min   | $18,431019$              |
-  | 25%   | $246,208830$             |
-  | 50%   | $607,175027$             |
-  | 75%   | $2.466,794106$           |
-  | max   | $998.751,789474$         |
+  | mean  | 19,783.327042          |
+  | std   | 101,641.029893         |
+  | min   | 18,431019              |
+  | 25%   | 246,208830             |
+  | 50%   | 607,175027             |
+  | 75%   | 2.466,794106           |
+  | max   | 998.751,789474         |
    
 We want to leverage the 4 measurements described above to define a threshold to filter out low-quality sentences.
 
@@ -97,15 +97,15 @@ As a third step, we should take care of those sentences in our dataset in which 
 
 | Dataset | Lang. | #docs | #sents | #tokens |
 |---------|-------|-------|--------|---------|
-| MHERCL v0.1 (_filtered_) | EN  |  $20$ | $718$ | $31.028$ |
+| MHERCL v0.1 (_filtered_) | EN  |  20 | 718 | 31.028 |
 
 
 #### MHERCL v0.1 - Mentions Stats (_filtered_)
 
 | _filtered_      | #mentions | types     | noisy        | linked (yes) | linked (no) |
 |-------|-----------|-----------|---------------|--------------|-------------|
-| all   |$1.247$ |_not applicable_ |$161$ |$820$ |$427$             |
-| unique| $1.007$| $49$| $158$| $427$|_not applicable_|
+| all   |1.247 |_not applicable_ |161 |820 |427             |
+| unique| 1.007| 49| 158| 427|_not applicable_|
 
 As summarised in the tables above, the annotators scrutinised 2181 sentences, extrapolated from 20 documents (historical periodicals), in which they annotated 2757 named entities belonging to 65 different types. The mentioned types demonstrate MHERCL music domain characterisation. 
 
@@ -117,7 +117,7 @@ The sentences included in the sample described in the previous section underwent
 
 ## Inter Annotator Agreement (Entity Linking Only)
 
-We made two annotators independently annotate 18 sentences. We calculated Krippendorff's alpha for nominal metric on the resulting annotations using [Fast Krippendorf](https://github.com/pln-fing-udelar/fast-krippendorff). We obtained the following result: $0.6928783382789316$.
+We made two annotators independently annotate 18 sentences. We calculated Krippendorff's alpha for nominal metric on the resulting annotations using [Fast Krippendorf](https://github.com/pln-fing-udelar/fast-krippendorff). We obtained the following result: 0.6928783382789316.
 
 ## Release
 
@@ -127,7 +127,7 @@ MHERCL v0.1 (_filtered_) is released in tab-separated values (TSV) files (UTF-8 
 
 ### Popularity bias 
 
-MHERCL v0.1 (_filtered_) contains $1.007$ unique named entity mentions, $10$ of which are linked to $2$ QIDs, $907$ to $1$.
+MHERCL v0.1 (_filtered_) contains 1.007 unique named entity mentions, 10 of which are linked to 2 QIDs, 907 to 1.
 
 ### SotA Neural Entity Linkers 
 
