@@ -10,9 +10,9 @@ MHERCL v0.1 is made of manually annotated sentences extrapolated from the [Polif
 
 ## Preliminary Study
 
-### Table reporting statistics about the off-the-shelf quality of [PKE](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework on EL of _person named entities_ in a [PTC](https://github.com/polifonia-project/Polifonia-Corpus) sample.
-
 As the PKE framework automatically recognises named entities in its text-to-AMR parsing step, we ran a preliminary experiment to evaluate the off-the-shelf performance of the PKE text-to-AMR parser and its embedded entity linker, BLINK. We focused on a sample of $2205$ sentences taken from the _Periodicals_ module of the PTC and on named entities of type person. The results are reported in the Table below.
+
+#### Table reporting statistics about the off-the-shelf quality of [PKE](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework on EL of _person named entities_ in a [PTC](https://github.com/polifonia-project/Polifonia-Corpus) sample.
 
 | #sents      | pNE mentions (#recognised) |   pNE mentions (#linked)    | pNE QID (#found)  |        pNE QID (#not found)   | pNE DoB  (#plausible)  | pNE DoB  (#implausible)|pNE DoB  (#not found)|
 |-------|--------------|-------|----------|-----------|------------|--------------|-----------|
@@ -31,8 +31,8 @@ As the PKE framework automatically recognises named entities in its text-to-AMR 
 
 | _unfiltered_      | #mentions | types          | noisy        | linked (yes) | linked (no) |
 |-------------------|-----------|----------------|--------------|--------------|-------------|
-| all               |2.874      |_not applicable_|530           |1906          |968          |
-| unique            |2.130      |68              |496           |1028          |_not applicable_|
+| all               |2.874      |_not applicable_|530           |1.906          |968          |
+| unique            |2.130      |68              |496           |1.028          |1.102|
 
 ## Filtering
 
@@ -115,7 +115,7 @@ As a third step, we should take care of those sentences in our dataset in which 
 | _filtered_      | #mentions | types     | noisy        | linked (yes) | linked (no) |
 |-------|-----------|-----------|---------------|--------------|-------------|
 | all   |1.247 |_not applicable_ |161 |820 |427             |
-| unique| 1.007| 49| 158| 427|_not applicable_|
+| unique| 1.007| 49| 158| 427|580|
 
 As summarised in the tables above, the annotators scrutinised 2181 sentences, extrapolated from 20 documents (historical periodicals), in which they annotated 2757 named entities belonging to 65 different types. The mentioned types demonstrate MHERCL music domain characterisation. 
 
