@@ -34,6 +34,10 @@ As the PKE framework automatically recognises named entities in its text-to-AMR 
 | all               |2.874      |_not applicable_|530           |1.906          |968          |
 | unique            |2.130      |68              |496           |1.028          |1.102|
 
+As summarised in the tables above, the annotators scrutinised 2181 sentences, extrapolated from 21 documents (historical periodicals), in which they annotated 2130 unique named entities belonging to 68 different types. The mentioned types demonstrate MHERCL music domain characterisation. 
+
+1028 out of the 2130 unique named entities could be linked to a QID, while 1102 could not. Therefore, the percentage of "not linked" entities (entities that could not be linked to a QID) in MHERCL v0.1 is 30%. 502 named entities mentions contain errors due to OCR. Therefore, the percentage of noisy entities is 18%. Quantifying the noisy entities is important to facilitate downstream qualitative error analysis of NERC and EL systems and for comparison with other historical datasets.
+
 ## Filtering
 
 ### Basic filtering
@@ -44,13 +48,13 @@ The [Polifonia Knowledge Extractor](https://github.com/polifonia-project/Polifon
 
 | #sentences impacted | Correct substitutions | Wrong substitutions |
 | --- | --- | --- |
-| 162 | 102 | 60  |
+| 162 | 102 (63%) | 60 (37%) |
 
 Given the quality of the coreference resolution output, we decided to discard those annotations related to a named entity resulting from the substitution of a pronoun by the application of the coreference resolution.
 
-#### Is the sentence enough to infer the QID?
+#### Is the sentence context exhaustive enough to infer the QID?
 
-We asked the annotators to do a second round of checks to make sure that the input sentence alone was enough to infer the QID. For those sentences which did not provide enough context to infer the QID, the annotators provided some more sentences from the original document. These are the statistics (# of unique sentences):
+We asked the annotators to do a second round of checks to make sure that the input sentence alone was exhaustive enough to infer the QID. For those sentences which did not provide enough context to infer the QID, the annotators provided some more sentences from the original document. These are the statistics (# of unique sentences):
 
 | Is the sentence enough to infer the QID? ||
 | --- | ---  | 
@@ -61,14 +65,14 @@ We filter out those sentences from the filtered MHERCL v0.1 release. They will b
 
 ### Advanced filtering
 
-We would like to remove low-quality sentences from our benchmark. We computed 3 measures:
+We would like to remove low-quality sentences from our benchmark. We computed four different metrics:
 
 1. We measured the length of the sentence (token numbers) by using SpaCy's `en_core_web_trf`;
 2. We measured the annotated named entity length (token numbers) by using SpaCy's `en_core_web_trf`;
 3. We calculated the % of the tokens represented by the named entity over the total number of tokens in the sentence;
 4. We calculated the % of non-annotated tokens over the total tokens of the sentence (the stats are reported in the table below):
 
-  | Statistic | % non annotated tokens ratio |
+  | Statistic | non annotated tokens ratio (%) |
   |:---------:|:---------------------:|
   | mean  | 0,569256 |
   | std   | 0,357251 |
@@ -82,15 +86,15 @@ We would like to remove low-quality sentences from our benchmark. We computed 3 
 
   | Statistic | Perplexity         |
   |-----------|--------------------|
-  | mean  | 19,783.327042          |
-  | std   | 101,641.029893         |
+  | mean  | 19.783,327042          |
+  | std   | 101.641,029893         |
   | min   | 18,431019              |
   | 25%   | 246,208830             |
   | 50%   | 607,175027             |
   | 75%   | 2.466,794106           |
   | max   | 998.751,789474         |
    
-We want to leverage the 4 measurements described above to define a threshold to filter out low-quality sentences.
+We want to leverage the four measurements described above to define a threshold to filter out low-quality sentences.
 
 #### Filter n.1 - Sentences with no named entities annotated
 In the first instance, we should take care of those sentences in our dataset in which the annotators did not find any named entities. We want to remove the noisiest ones. The idea is to remove all the sentences of the kind that have =< 15 tokens. With regard to the remaining ones, we want to set a threshold based on perplexity's quartile values. We want to set a threshold at the 50% mark. We keep all the sentences having perplexity within the 50% mark.
