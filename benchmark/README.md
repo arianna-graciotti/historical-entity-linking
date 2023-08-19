@@ -145,9 +145,11 @@ MHERCL v0.1 (_filtered_) contains 1.007 unique named entity mentions, 10 of whic
 
 ### SotA Neural Entity Linkers 
 
-We passed MHERCL v0.1 (_filtered_) sentences, and its manually annotated (gold) mentions, to SotA entity linkers. Results are summarised in the following table:
+We passed MHERCL v0.1 (_filtered_) and HIPE-2022-v2.1-hipe2020-test-en.tsv sentences, and their manually annotated (gold) mentions, to SotA entity linkers. Results are summarised in the following table:
 
-| Model  | Precision | Recall | F1 Measure |
-|--------|-----------|--------|------------|
-|[BLINK](https://github.com/facebookresearch/BLINK)|0.5068273092369477|0.7695121951219512|0.611138014527845|
+| Dataset  | | Model  | Precision | Recall | F1 Measure |
+|--------||--------|-----------|--------|------------|
+|MHERCL v0.1 (_filtered_)||[BLINK](https://github.com/facebookresearch/BLINK)|0.5068273092369477|0.7695121951219512|0.611138014527845|
+|HIPE-2022-v2.1-hipe2020-test-en.tsv||[BLINK](https://github.com/facebookresearch/BLINK)|0.5068273092369477|0.7695121951219512|0.611138014527845|
+
 
