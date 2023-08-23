@@ -976,8 +976,8 @@ this	O	_	this	DET
 Work	O	_	work	NOUN
 ,	O	_	,	PUNCT
 by	O	_	by	ADP
-T.	O	_	T.	PROPN
-Howell	O	_	Howell	PROPN
+T.	B-person	NIL	T.	PROPN
+Howell	I-person	NIL	Howell	PROPN
 ..	O	_	..	PUNCT
 507	O	_	507	NUM
 XVI	O	_	xvi	NUM
@@ -5360,8 +5360,8 @@ The	O	_	the	DET
 vocalists	O	_	vocalist	NOUN
 were	O	_	be	AUX
 the	O	_	the	DET
-Misses	B-person	Q4322567	Misses	PROPN
-C.	I-person	Q4322567	C.	PROPN
+Misses	O	_	Misses	PROPN
+C.	B-person	Q4322567	C.	PROPN
 Novello	I-person	Q4322567	Novello	PROPN
 ,	O	_	,	PUNCT
 Rainforth	B-person	Q17355767	Rainforth	PROPN
@@ -5371,8 +5371,8 @@ Mrs.	O	_	Mrs.	PROPN
 Alfred	O	_	Alfred	PROPN
 Shaw	O	_	Shaw	PROPN
 ;	O	_	;	PUNCT
-Messrs.	B-person	NIL	Messrs.	PROPN
-Braham	I-person	NIL	Braham	PROPN
+Messrs.	0	_	Messrs.	PROPN
+Braham	B-person	NIL	Braham	PROPN
 ,	O	_	,	PUNCT
 Phillips	B-person	NIL	Phillips	PROPN
 ,	O	_	,	PUNCT
