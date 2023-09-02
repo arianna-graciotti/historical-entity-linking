@@ -116,7 +116,7 @@ the	O	_	the	DET
 harpsichord	O	_	harpsichord	NOUN
 at	O	_	at	ADP
 the	O	_	the	DET
-Opera	B-organization	NIL	Opera	PROPN
+Opera	0	_	Opera	PROPN
 ,	O	_	,	PUNCT
 instead	O	_	instead	ADV
 ofthe	O	_	ofthe	ADP
