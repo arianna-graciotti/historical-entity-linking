@@ -1,3 +1,4 @@
-## MHERCL
+# Historical Entity Linking
+# Musical Heritage Historical Named Entities Recognition, Classification and Linking
 
 Named Entity Recognition and Classification (NERC) and Entity Linking (EL) neural models are generally trained on contemporary text found on the web. NERC and EL on historical documents have gained less attention from the Natural Language Processing and Understanding communities, and State-of-the-Art models are more likely to perform less satisfactorily in quality. We aim to foster advancements in NERC and EL on historical documents by releasing MHERCL v0.1, the Musical Heritage Historical named Entities Recognition, Classification and Linking benchmark of manually annotated sentences extrapolated from historical periodicals in English, humanly annotated with NERC and EL information. Such a resource is intended to support the testing of neural models for NERC and EL and the implementation of neuro-symbolic architectures specialised in historical documents.
