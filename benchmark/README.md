@@ -77,7 +77,7 @@ Generally, the annotation work was performed under the criteria that a named ent
 Named entities were recognised, classified and linked following the [AMR named entity annotations guidelines](https://amr.isi.edu/doc/amr-dict.html\#named\%20entity).
 The types were assigned according to the [AMR annotation guidance instructions](https://www.isi.edu/~ulf/amr/lib/popup/ne-type-selection.html) and extrapolated from the [AMR named entity types list](https://www.isi.edu/~ulf/amr/lib/ne-types.html). 
 
-A full list of the types used for NEs classification is in the table below.
+A full list of the types used for Named Entities classification is in the table above.
 
 ## Inter-annotator Agreement
 
