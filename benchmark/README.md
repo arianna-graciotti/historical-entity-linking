@@ -1,8 +1,8 @@
 # MHERCL v0.1 - Benchmark
 
-## Preliminary Study
+## Exploratory Study
 
-As the PKE framework automatically recognises named entities in its text-to-AMR parsing step, we ran a preliminary experiment to evaluate the off-the-shelf performance of the PKE text-to-AMR parser and its embedded entity linker, BLINK. We focused on a sample of 2205 sentences taken from the _Periodicals_ module of the PTC and on named entities of type person (pNE). The results are reported in the Table below.
+As the PKE framework automatically recognises named entities in its text-to-AMR parsing step, we ran a preliminary experiment to evaluate the off-the-shelf performance of the PKE text-to-AMR parser and its embedded entity linker, BLINK. We focused on a sample of 2205 sentences taken from the _Periodicals_ module of the PTC and on named entities of type person (pNE). The results are reported in the Table below and shared in a [TSV file](benchmark/preliminary_study/ptc_sample_pne_preliminary_study.tsv) in this repository.
 
 #### Table reporting statistics about the off-the-shelf quality of [PKE](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) framework on EL of _person named entities_ in a [PTC](https://github.com/polifonia-project/Polifonia-Corpus) sample.
 
@@ -12,7 +12,7 @@ As the PKE framework automatically recognises named entities in its text-to-AMR 
 
 ## Sampling
 
-The annotated sentences of MHERCL v0.1 were extrapolated from the [Polifonia Textual Corpus (PTC)](https://github.com/polifonia-project/Polifonia-Corpus). They originate from a sample of the English [_Periodicals_](https://doi.org/10.5281/zenodo.6671912) module of the corpus, whose documents' publication dates range from 1823 to 1900. They were processed through the [Polifonia Knowledge Extractor (PKE)](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) and are part of the [Filtered AMR Graphs Bank (https://zenodo.org/record/7025779\#.ZDls8OxBy3I).
+The annotated sentences of MHERCL v0.1 were extrapolated from the [Polifonia Textual Corpus (PTC)](https://github.com/polifonia-project/Polifonia-Corpus). They originate from a sample of the English [_Periodicals_](https://doi.org/10.5281/zenodo.6671912) module of the corpus, whose documents' publication dates range from 1823 to 1900. They were processed through the [Polifonia Knowledge Extractor (PKE)](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) and are part of the [Filtered AMR Graphs Bank] (https://zenodo.org/record/7025779\#.ZDls8OxBy3I).
 
 ## Annotation Guidelines
 
