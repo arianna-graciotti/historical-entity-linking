@@ -12,7 +12,7 @@ The cause of this heightened bias can be traced back to historical entities bein
 
 For example, it is possible to appreciate this phenomenon in the AMR graph produced by the [Polifonia Knowledge Extractor (PKE)](https://github.com/polifonia-project/Polifonia-Knowledge-Extractor) from the sentence _"Fabio Constantini flourished about the year 1630, and ultimately became maestro at the chapel of Loretto."_, extrapolated from _The Quarterly Musical Magazine And Review_, n. 22 (1824), part of the _Periodicals_ module of the [PTC](https://github.com/polifonia-project/Polifonia-Corpus)., reported in the figure below:
 
-![Fabio Constantini AMR Graph](/main/images/amr_graph_SPRING_FabioConstantini.png "Fabio Constantini AMR Graph")
+<img src="images/amr_graph_SPRING_FabioConstantini.png" alt="Fabio Constantini AMR Graph" title="Fabio Constantini AMR Graph" style="width: 40%;">
 
 In the AMR graph, the NEs recognition and classification (NERC) performed by [SPRING](https://github.com/SapienzaNLP/spring) correctly recognises the superficial named entity's mention _Fabio Constantini_, which is erroneously linked by [BLINK](https://github.com/facebookresearch/BLINK) to the Wikipedia page of [Claudio Constantini](https://en.wikipedia.org/wiki/Claudio_Constantini), a Peruvian composer born in 1983. The correct link should be to the Wikidata entity [Fabio Constantini](https://www.wikidata.org/wiki/Q3737659), with QID `Q3737659`, an Italian composer born in 1575.
 
