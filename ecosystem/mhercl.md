@@ -10,6 +10,8 @@ work-package:
 licence:
 - CC-BY_v4
 related-components:
+- derived-from: 
+  - my-component-algorithm
 - extends:
   - Polifonia-Knowledge-Extractor
 bibliography:
