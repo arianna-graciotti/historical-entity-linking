@@ -1,20 +1,3 @@
----
-component-id: historical-entity-linking
-name: Historical Entity Linking
-description: new benchmark and model for historical entity linking
-type: Repository
-release-date: 01/10/2023
-release-number: v0.1
-work-package: 
-- WP4
-licence: CC-BY_v4
-links:
-- https://github.com/polifonia-project/historical-entity-linking
-credits:
-- https://github.com/roccotrip
-- https://github.com/arianna-graciotti
----
-
 # Historical Named Entities Recognition, Classification and Linking
 
 Named Entity Recognition and Classification (NERC) and Entity Linking (EL) are foundational tasks in knowledge extraction. NERC consists of extracting mentions of named entities (such as people, locations, organisations, etc.) in text and assigning them to a pre-defined set of entity types, such as `person`, `location` or `organisation`. EL consists of correlating named entities' mentions to the actual entity they refer to, choosing possible candidates from a reference Knowledge Base (KB), such as Wikipedia, DBPedia, Wikidata.
