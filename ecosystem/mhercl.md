@@ -12,6 +12,8 @@ licence:
 related-components:
 - derived-from:
   - Polifonia-Corpus
+- extends:
+  - Polifonia-Knowledge-Extractor
 bibliography:
 - deliverable-document: "Software for knowledge extraction from text – context – 2nd version"
 contributors:
