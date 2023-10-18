@@ -10,7 +10,8 @@ work-package:
 licence:
 - CC-BY_v4
 related-components:
-- extends: Polifonia-Knowledge-Extractor
+- extends:
+  - Polifonia-Knowledge-Extractor
 bibliography:
 - deliverable-document: "Software for knowledge extraction from text – context – 2nd version"
 contributors:
